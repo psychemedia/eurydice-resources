@@ -93,6 +93,19 @@ Bones, this sinew, and will not waken.
 http://dawlishchronicles.blogspot.com/2014/07/training-tragedies-losses-of-hms.html
 
 
+![](../images/HMS-Eurydice-attempted-salvage-antique-print-1878-500x325.jpg)
+H.M.S. Eurydice salvage operation off the coast of the Isle of Wight in 1878. Original page from ‘The Illustrated London News’ of Royal Navy divers engaged in the raising of the vessel. Dated Apri 6th. 1878. Excellent condition. Paper size 15.75 x 10 inches.
+https://www.mapsandantiqueprints.com/shop/antique-prints/h-m-s-eurydice-salvaged/
+
+![](../images/UK_CCM_1_P.1986.1470X.webp)
+Wreck of HMS Eurydice
+1878
+R. Cadogan-Rothery
+Carisbrooke Castle Museum
+
+![]()../images/HMP_PORMG_1974_517-001.jpg)
+Photo credit: Portsmouth Museums and Visitor Services
+https://artuk.org/discover/artworks/wreck-of-hms-eurydice-towed-into-portsmouth-harbour-1-september-1878-24881
 
 ![](../images/BL_0000057_18780330_024_0019.jpg)
 Eurydice - images The Graphics https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/024/0019?browse=true
