@@ -91,6 +91,19 @@ Mr. James Chappel, Master of the Lord Vivian; Mr. Louttit, Master of the steamsh
 
 
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000369/18780831/101/0008
+Reading Mercury
+Saturday 31 August 1878
+
+p8
+
+The Eurydice Court Martial.
+
+—The court-martial, which, by the rules of the Service, it was necessary to hold on the two survivors of H.M.S. Eurydice, was opened Tuesday before Admiral Fanshawe, on board the Duke of Wellington, flag ship. Both the survivors, Benjamin Cuddiford and Sidney Fletcher, stated that they were of opinion that everything had been done to secure the safety of the vessel. The masters of various craft which were off the Isle of Wight at the time of the occurrence were examined aud said that the squall came on very suddenly, and that although they saw it in time to shorten sail, they believed those on board the Eurydice, from the position of the vessel, had not good an opportunity of knowing it was coming. The inquiry was then adjourned until Wednesday, when several witnesses were examined to the peculiarities of the fatal snow gale of the 24th of March. The inquiry was again adjourned.
+
+---
+
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002745/18780831/046/0005
 North Briton
 Saturday 31 August 1878

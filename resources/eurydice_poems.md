@@ -335,6 +335,64 @@ tag: poem
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/020/0006
+Isle of Wight Observer
+Saturday 13 April 1878
+p6
+
+
+[In an article - can we find the original?]
+
+The following lines (signed "F. G.") on the loss  of the Eurydice, appears in the *Baily's Magazine* for this month :
+
+The following lines (signed "F. G.") on the loss  of the Eurydice, appears in the *Baily's Magazine* for this month :
+
+'Twas on a bright and breezy day  
+A noble ship came sailing home,  
+Dashing from either bow the spray,
+And ploughs up the milk white foam.
+
+For the last time the gallant band,  
+Close to "Old England on the lee,"  
+Had said their prayers for those on land  
+Who asked God's aid for those at sea.
+
+The sun is sinking towards the west,  
+Tinging with gold the belying sail;
+The sailors take their Sabbath rest,  
+And laugh and tell the oft-told tale.
+
+The sister's joy, the mother's bliss,  
+The dream of meeting of old friends,  
+Of tight grasped hand, of lover's kiss,  
+For all their hard-ships make amends.
+
+No cheery-hearted coastguard fails  
+To point the ship to those who stand  
+Around– whose prayers are in the sails  
+Which waft her towards the friendly strand.
+
+No wonder that the captain thought  
+With honest hope and pride of soul,
+To bring the good ship, "smart and taut,"  
+Like a swifr racehorse to the goal.
+
+Mid life and hope the thick black clouds  
+Snow-filled that put the ship from view;
+The fierce tornado strikes her shrouds,  
+She's gone ! with all her home-bound crew.
+
+The blood-red sun comes brightly back  
+And lightens up the evening sky,  
+And  paints what *was* the vessel's track,  
+As if in empty mockery
+
+Alas ! for skill of human mind!  
+He from whom good and evil come,
+Who rides upon the stormy wind,  
+Took the three hundred wanderers Home.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002281/18780404/035/0003
 Soulby's Ulverston Advertiser and General Intelligencer
