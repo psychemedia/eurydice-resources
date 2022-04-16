@@ -89,6 +89,8 @@ Since the memorable day in September, 187O, when H.M.S. Captain foundered off Ca
 
 "A man near me said that a vessel was close by when the squall came on, and therefore we should be sure to be picked up. I was more than hour the water, being a first-rate swimmer, and very many of my comrades cried out for help. I tried to assist two or three, but at last there were four clinging me, and I was obliged to kick them off. We were well taken care of by the master the schooner and crew. Our ship left Bermuda three week's ago passed the Lizard yesterday, and expected to anchor at about five o'clock."
 
+tag: poem
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000290/18780325/008/0002?browse=true
 
@@ -402,6 +404,8 @@ Only an hour from home .
 
 March 25- *Noel Paton, in the Scotsman*
 
+tag: poem
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780328/107/0005
@@ -521,6 +525,8 @@ W. Stanley Smiih.
 
 Ryde, March 25th, 1878.
 
+tag: poem
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/024/0008
@@ -590,6 +596,7 @@ Where lies tne Eurydice ahd her brave crew.
 
 Thomas Maton. Sandown, March 26th, 1878.
 
+tag: poem
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006#
@@ -759,6 +766,70 @@ The jury then retired, and, after an absence of half-an-hour, returned with the 
 "The jury unanimously find that the three deceased were accidentally drowned, owing to the capsizing of Her Majesty's ship Eurydice by a sudden squall, at Dunnose, on Suuday, the 24th inst., and the jury consider that from the evidence adduced no lame whatever can attach to the captain, officers, and men of the ship."
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006
+
+Evening Mail
+Friday 29 March 1878
+
+p6
+
+THE LOSS OF THE EURYDICE.
+
+A meeting of naval officers and influential inhabitants of Portsmouth was held on Wednesday at the College in the Dockyard for the purpose of organizing a Eurydice Relief Committee. The sad occasion drew together a number of gentlemen who were formerly associated for the relief of the sufferers by the Thunderer explosion and whose offer of services for a similar purpose were heartily welcomed. Among the gentlemen present were Admiral Fanshawe, Rear-Admiral Foley, Admiral Raby, Captains Wilson, Herbert, Singer, Arthur, Kelly, Peile, and Henderson, the Mayor and ex-Mayor of Portsmouth,the Vicar of Portsmouth, Colonel Burnaby,Colonel Richards, Inspector-General Domville, Canon Doyle, Commanders Otley, Wilson, and Swinson, and Mr. Griffin, J.P. The chair was taken by Admiral Fanshawe, Commander-in-Chief.
+
+The Chairman said he did not think it necessary to make many remarks in introducing the business of the meeeting, as absolutely all that was known with respect to the calamity which had befallen the *Eurydice* had been published in the pablic prints. They had met to give practical effect to the sympathy they felt for the famiies and relatives of the sufferers in their great distress.
+
+Captain WILSON said that on Monday evening himself and a few other officers met together and formed a provisional committee. The names of these gentlemen were telegraphed up to Lord Charles Beresford, the commander of the Thunder, and were published in the *Mail*. By means of this provisional committee they were enabled to give the matter a start. The names of the committee were the Commander-in-Chief, Admral Foley, Captain Herbert, Captain Jones, Mr. Wise, Mr. Richards and himself. Invitations were then issued to all the ships and clubs, and one was sent to the Generals commanding, and notices were given in all the newspapers. The objects of the meeting were to take into connsideration the best mode of raising a relief fund, and, moreover to relieve the provisional committee of any further responsibility. The cashier and seeretary who had manage the affairs of the Thunderer's fund so ably came forward and aided the cdturuittee in this preliminary work, and Mr. Richarda was now acting as hon. treaseurer and Mr. Wise as hon. secretary. As the latter would have to work morning and night to carry on the business, they could not expect him to perform his duties quite gratuitously. After describing the progress of the business, Captain Wilson said the provisional committee had received subscriptions which had been placeg in the hands of the treasurer to the amount of—speaking roughly—about £270, which included a donation from the Commander-in-Chief of £25. They had been promised altogether about £390 more, which included £50 from the First Lord of Admiralty, £25 from Sir Massey Lopes, and £25 from Hon. Mr. Egerton. In addition to this they had already received about £11O from subscriptions on board the Thunderer, and from other ships £200 had been received, the *Exellent* giving the sum of £155. Thus there had been raised the large sum of £850 which, considering that hardly 72 hours had elapsed since the unfortunate catastophe had occurred, must be regarded as very handsome and satisfactory, and very much larger than had been raised when the meeting assembled there some ten days after the accident on board the Thunderer occurred. The services of Mr. Wise and of Mr. Richards had been secured, and the committee had the advantage of their great knowledge in the management of these matters. In the case of the Thunderer they were not able to strike the iron while it was hot, and in consequence a great deal of money that might have been obtained was lost. But now the gentlemen mentioned had taken this thing in hand, they knew how to pull all the wires; and, no doubt, if the meeting gave them authority they would within 48 hours have circulars and appeals all over England, and all the machinery at work for obtaining a satisfactory result. As far was at present known, there were but three officers and 28 men of the Eurydice who had wives and families, and there were 69 men who were the support of relatives, mothers or sisters. But, of course, that could not represent all the married petty officers and men. It was quite probable that a large number of thrm did not "allot" to their wives, and hence the committee had not yet received information as to all the cases. There were a captain of the Royal Engineers and six sappers and miners, and as these were all time expired, they were probably married. There was also a sergeant of Marines and 12 men from Bermuda, a large number of whom married. That was all he could tell the meeting.
+
+The first resolution, which was moved by the CHAIRMAN and seconded by Captain Arthur was as follows:—
+
+"The appalling accident to Her Majesty's ship Eurydice, whereby numerous families are rendered comparatively destitute through loss of the bread-winner, calls for the sympathy of all who hold that England should ever maintain her supremacy on the ocean, and this meeting pledges itself to use every endeavour to alleviate, as far as possible, the grievous loss sustained by the widows, orphans and relatives of those who, within sight of their homes, perished in the execution of their duty to their country."
+
+Admiral Foley moved and Mr. James Griffin seconded:—
+
+"That a certain number of gentlemen be elected to form a standing committee with power to add to their number, and to select a sub or managing committee."
+
+This having been carried, a pwerful committee was formed consisting of the Admirals, Caaptain Wilson, the Mayor, and the principal gentelment present, together with Lord Charles Beresford, Mr. Sebastian Gassiot and others who were not abale to attend.
+
+On the motion of Captain Kelly, seconded by Staff Commander Braddon, Mr. Richards, of the Dockyard, and Mr. Wise, both of whom belonged to the Thunderer Relief Fund Committee, were appointed treasurer and secretary, and the National and Provincial Bank, Portsea, was selected as the banker of the fund.
+
+Mr. Pink, the ex-Mayor of Portsmouth, moved that a deputation wait upn the Lord Mayor of London and the City Companies to ask their assistance and co-operation. The resolution was seconded by the Vicar of Portsmouth, who, as a civilian, was anxious to state that the loss of the Eurydice was felt as much by the general public as by the Navy itself.
+
+Inspector-General Domville moved, and Mr, Penfold, R.N., seconded, that the clergy and ministers of all denominations and the various clubs be appealed to for subscriptions; it was also agreed, on the motion of Commander Otely, seconded by Lieutenant Ackland, that circular letters be sent to all Her Majesty's ships, marine divisions, regiment dockyards, and naval hospitals.
+
+A vote of thanks having been accorded to Admiral Fanshawe for presiding, on the motion of the Mayorof Portsmouth and Liietenant-Colonel Galt, the proceedings terminated. In addition to the sums mentioned by Captain Wilson, over £30 was subscribed in the room, and in proof of the interest which is taken in the charitable movement by the seamen of the port, it may be stated that the sum contributed by the crew of the Thunderer amounts to an average of 4s. per man. A meeting of the general committee is appointed to meet at this dockyard this afternoon.
+
+Although the Coroner's jury has agreed in finding a verdict exonerating the captain, officers, and crew of the Eurydice from any culpability as regards the loss of the ship, it has been noticed that they expressly do so from the evidence that was adduced before them, and as this consisted necessarily of the statements of the able seaman Cuddiford, and the ordinary seamen Fletcher, a mere lad, who was below at the time the ship was struck, it is thought that further investigation into the circumstances of the wreck is called for. A Naval Court of Inquiry will be held on board the Duke of Wellington, at Portsmouth, under the presidency of Admiral Fanshawe and Admiral Hall. The Secretary of the Admiralty has already visited the port for the purpose of making the necessary arrangements. The great difficulty is to account for Captain Hare crowding his vessel with canvas at a time when the falling of the barometer showed that bad weather was at hand, and after other ships had shortened sail. There has been no rumours of panic, but it is thought that the efforts of the officers at the supreme moment of being struck may have been partly arrested by the fact that the ship was manned by ordinary seamen who were comparatively inexperienced. It is also regarded as unusual that a ship with all ger canvas spread and cutting through the water at about nine knots should have had her lee ports open. Had the ports been closed, or had they been closed as soon as the squall was noticed, it is thought that the ship would have righted herself after being struck, even had there been no time to lower the balliards and shorten sail. The body of Lieutenant Tabor, the IFrst Lietenant, was conveyed to the relatives of the deceased at Cheam by the last train on Tuesday night, and yesterday the body of Captain Ferrier was removed to Edinburgh for interment, the men-of-war in harbour lowering their ensigns sa it was brought on shore. It is known that no bodies are on the weather deck, and it is not believed that many of the bodies of the port watch will be recovered as they would most probably be carried out to sea with the ebb tide, assisted by the wind. It is, however, thought that the starboard watch will all be found between decks. One hundred and twenty coffins have been ordered to be forwarded to Haslar Hospital in readiness for the reception of the bodies. 
+
+The riggers and divers went out again on Wednesday, to the wreck, but the weather was too boisterous to enable them to get near. The weather having moderated, they went out again in the afternoon, and succeeded in getting of the fore royal and letting go her fore tack and sheet. They very nearly succeeded in clearing the foresail, but as the tide was coming up strong, they were obliged to desist for the night. Only the fore, main and mizen yards remain and when these, the slack rops, and the anchor gear have been cleared, the ship will be ready for slinging. Until the yards are removed itis dangerous for the divers to go between decks, and it is doubtful whether the bodies will be reached until the ship is afloat.
+
+Nothing further has occurred with reference to the Eurydice. The tugs went out of Portsmouth harbour yesterday meorning to continue operations on the wreck, but when they reached Southsea pier they encountered so heavy a sea that it was deemed useless to proceed further, and they returned to harbour. The Pearl, corvette and the Rinaldo, sloop, which latter was formerly prepared to lift the Oberon off the shoal at the mouth of Portsmouth harbour, are being fitted to assist in lifting the Eurydice and floating her in Sandown bay. A number of purchases will be required, and a couple of weeks will probably elapse before operations will be commenced. A light ship has been moored near the wreck.
+
+Orders have been given by the Admiralty for the widows of the petty officers and seamen to be paid a sum of money equaly to one year's pay of their deceased husbands. This is the customary dole.
+
+The Lord Mayor has intimated to the naval authorities at Portsmouth his willingness to receive subscriptions at the Mission House in aid of the fund now being raised for the relief of the widows, orphans, and dependent relatives of the men lost.
+
+Lieutenant-General Price Edward of Saxe-Weimar, the Duke of Tesk, and Admiral Sir Spencer Robinson, K.C.B. have joined the Eurydice Fund Ciommittee, of which Lord Henry Lennox is hon. secretary.
+
+"Visitor" writes to us from Mitcham:
+
+"On Sunday last I was walking with my son from Epsom Downs to Dorking via Headley Common, one of the most exposed pieces of table land in Surrey. About a quarter past 4 we observed an enormous black cloud like a monster balloon. It seemed to burst in a moment and for two minutes at least here was a regular tornado, which very nearly knocked us down. THe sno which followed lasted about three quarters of an hour, and on reaching a roadside inn we found that what appeared to be snow on our clothes was hard-frozen ice."
+
+TO THE EDITOR
+
+Sir, in the accounts which have appeared of the loss of the Eurydice and in the articles of which this sad catastrophe has furnished the text, I have seen no remark made on the conincidence that a somewhat similar fate, under somewhat similar circumstances,— for it was almost within sight of her destination — befell her ill-fated consort ship 15 years ago. COnsort ship I say, for the ship alluded to is the Orpheus. The loss of the Orpheus, as it happened on the other side of the world, has perhaps been forgotten here. Her Majesty's ship Orpheus, carrying the pendant of the Commodore of the Australia station, was entering the Manukau harbout, near Auckland, on her voyage to New Zealand. It was a fine Saturday afternoon in February or March, 1863. Mistaking the channel she struck on the bar; Commodore, officers and men took the the rigging, but were swept awy by the surf, the paymaster, two mid-dhipmen, and some 40 men being the only ones saved out of a large ship's company. I am speaking from memory only, but I saw the survivors brought on shore, and this, I think, was the number. The conincidence that two ships so connected by their names should be lost when their wished for havens were all but reached seems worthy of remark.  
+I am your obedient servant,  
+H. Stratton Bates.  
+The Cranhams, Cirencester, March 25.  
+
+
+
+TH: letter noteable eg for Eurydice myth, but also is:
+
+> "The appalling accident to Her Majesty's ship Eurydice, whereby numerous families are rendered comparatively destitute through loss of the bread-winner, calls for the sympathy of all who hold that England should ever maintain her supremacy on the ocean, and this meeting pledges itself to use every endeavour to alleviate, as far as possible, the grievous loss sustained by the widows, orphans and relatives of those who, within sight of their homes, perished in the execution of their duty to their country."
+
+---
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002751/18780329/071/0006
 Montrose Standard
@@ -826,6 +897,8 @@ Went down, in sight of home
 Only an hour from home !
 
 March 25. Noel Paton.
+
+tag: poem
 
 ---
 
@@ -997,6 +1070,8 @@ The dirge of the Eurydice?
 
 — *Whitehall Review.*
 
+tag: poem
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002281/18780404/035/0003
 Soulby's Ulverston Advertiser and General Intelligencer
@@ -1049,6 +1124,8 @@ Let sympathy end not in words, but deeds!
 Remember 'tis for us their hearts are torn!
 
 – *Liverpool Mercury. *
+
+tag: poem
 
 ---
 
@@ -1163,6 +1240,7 @@ The lost Eurydica.
 
 J. G. M.
 
+tag: poem
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/002/0008
@@ -1346,6 +1424,7 @@ Where gallant ship shall pass by nevermore.
 
 M. J. K. — *Graphic*, April 6.
 
+tag: poem
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780420/031/0006
@@ -1441,6 +1520,7 @@ Who fought and died at sea.
 
 G.L.
 
+tag: poem
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780425/057/0005
@@ -1611,6 +1691,8 @@ Rejoice in him who has saved the lost ;
 Weep for the sin, the sorrow. and strife,  
 And rejoice in the hope of eternal life.
 
+tag: poem
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780511/033/0006
@@ -1627,13 +1709,30 @@ On Wednesday a body was found floating close to the wreck. It was placed in a bo
 
 A correspondent writing to a contemporary says : How are we to pronounce the name of the ill-fated vessel which went down in the snow-storm of the 24th ult. ? Classical readers will have no difficulty in deciding on what ought to be the pronunciation, but nine persons out of ten persist in dividing the word into only three syllables, laying the accent on the ultimate, thus— Eu-ry-d*i*ce. The "correct thing," however, is to call the wrecked vessel Eu-ryd-i-ce making it sound as four syllables and accenting the ante-penultimate, or second syllable. In heathen mythology Eurydice was the wife of the poet Orpheus. As she fled before Aristaeus, who wished to do her violence, she was bitten by a serpent in the grass and died of the wound. Orpheus was so disconsolate that he ventured to go to Hades, where, by the melody of his lyre, he obtained from Pluto the restoration of his wife to life provided he did not look behind him before he came upon earth. He violated the condition; his eagerness to see his wife rendered him forgetful, he looked behind and Eurydice was for ever taken from him. Will the attempt to recover the unfortunate vessel be any more successful?
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780514/016/0003
+
+Portsmouth Evening News
+Tuesday 14 May 1878
+
+p3
+
+CORRESPONDENCE. THE WRECK THE EURYDICE.
+
+To the Editor of the Evening News.
+
+Sir, —Some three weeks or more ago, it was freely published in various papers throughout the country, that the public were becoming greatly dissatisfied with the fact that the Eurydice, with probably over 150 bodies on board, had not been raised. On Sunday, March 24th, the Eurydice foundered with her living freight off Dunnose, and freely state is a national disgrace that, close proximity to our greatest naval port, the ship should be in far worse state now than when she foundered. Prior to my entering the dockyard service, had some knowledge wrecks, which is thoroughly implanted on my memory. In the present case, there has been employed a Master Attendant, an Assistant Master Attendant, the Chief and Assistant Constructors of Portsmouth Dockyard, and the Master Attendant and Chief Constructor of Chatham Dockyard but with all their superior knowledge (because superior knowledge it must be) the Eurydice still lays where she fonndered. What practical man in wrecking, would have thought of employing such vessels as the Pearl, Rinaldo, two dockyard lighters, and now, the Swan and Wave, both old gunboats. I certainly should not have done so. I should have designed certain camels and placed them in such positions that I am certain, barring all casualties, the Eurydice would long ere this have been safe in Portsmouth Harbour. Nearly a fortnight ago I was talking to Capt. Coppin on other matters, when asked my opinion of the Eurydice, which I gave him. The plan of this country is, unfortunately, to take the advice of the man receiving the largest salary.  
+I am, Sir, yours obediently,  
+Southsea, May 11. A Practical Shipwright. 
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780516/078/0005
 Isle of Wight Times
 Thursday 16 May 1878
 p5
 
-THE EtTEYDICE. Five bodies (or rather portions) have been recovered during the week. One was a seaman named Taylor, and another Lieut. George Falconer, R.M.
+THE EURYDICE. Five bodies (or rather portions) have been recovered during the week. One was a seaman named Taylor, and another Lieut. George Falconer, R.M.
 
 The proper pronunciation of the name of the ill-fated ship is Eu-*ryd*-i-ce, making it sound as four syllables, accenting the second.
 
@@ -1656,13 +1755,13 @@ p6
 
 THE EURYDICE DISASTER.
 
-Late on Friday night a storm set in, and the Rinaldo and the lumps, which were moored near the wreck of the Eurydice, had to slip their cables and make for port, in tow of the Griuder. The iron toggles wnich the divers succeeded in dropping into the ports will have to be removed, and their places supplied by wooden toggles of greater bearing area, as the former have been found to bend and come cut under the strain of thirteen tons. The Rinaldo was taken back to her moorings on the following day, and the mauly was out at the wreck on Sunday, when two additional toggles were put into position. Shortly after mid-day two coastguardsmen who were on duty at St. Lawrence observed a body floating about three miles out to sea. They at once launched a boat, and succeeded in bringing the body in tow to Ventnor, where it was found to be that of a marine, evidently from the wreck of the Eurydice. Tne features were beyond identification, but it was found that the body is George Falconer. The body was landed that of on the Isle of Wight, and the Coroner, considering an inquest unnecessary, gave an order for the burial which took place on Tuesday afternoon. The body was interred in Ventnor Cemetery with military honours and a large number of the townspeople attended. The Government tugs and divers resumed operations on Monday, but the boisterous weather prevented much progress being made. On Tuesday morning, however, they again proceeded out of harbour to the wreck. As many as a dozen or 16 toggles will be used if they can be successfully introduced into the ports , the hawsers still remain rouud the Eurydice, with buoys to pick them up. The Pearl was finished for service on Monday, and can be brought into requisition on whatever day it is thought advisable. A telegraphic statement of the exact rise and fall of the tide is daily sent from the wreck to the dockyard authorities, so that they may know when the tide is likely to serve, and they are putting their plans into execution with as much dispatch as is practicable, considering the difficulties which have to be encountered, aud the unfavourable turn of the weather. These difficulties are increasing every day, the wreck having within the last week or ten days sunk further in the mud by several feet.
+Late on Friday night a storm set in, and the Rinaldo and the Rinaldo and the lumps, which were moored near the wreck of the Eurydice, had to slip their cables and make for port, in tow of the Griuder. The iron toggles wnich the divers succeeded in dropping into the ports will have to be removed, and their places supplied by wooden toggles of greater bearing area, as the former have been found to bend and come cut under the strain of thirteen tons. The Rinaldo was taken back to her moorings on the following day, and the mauly was out at the wreck on Sunday, when two additional toggles were put into position. Shortly after mid-day two coastguardsmen who were on duty at St. Lawrence observed a body floating about three miles out to sea. They at once launched a boat, and succeeded in bringing the body in tow to Ventnor, where it was found to be that of a marine, evidently from the wreck of the Eurydice. Tne features were beyond identification, but it was found that the body is George Falconer. The body was landed that of on the Isle of Wight, and the Coroner, considering an inquest unnecessary, gave an order for the burial which took place on Tuesday afternoon. The body was interred in Ventnor Cemetery with military honours and a large number of the townspeople attended. The Government tugs and divers resumed operations on Monday, but the boisterous weather prevented much progress being made. On Tuesday morning, however, they again proceeded out of harbour to the wreck. As many as a dozen or 16 toggles will be used if they can be successfully introduced into the ports , the hawsers still remain rouud the Eurydice, with buoys to pick them up. The Pearl was finished for service on Monday, and can be brought into requisition on whatever day it is thought advisable. A telegraphic statement of the exact rise and fall of the tide is daily sent from the wreck to the dockyard authorities, so that they may know when the tide is likely to serve, and they are putting their plans into execution with as much dispatch as is practicable, considering the difficulties which have to be encountered, aud the unfavourable turn of the weather. These difficulties are increasing every day, the wreck having within the last week or ten days sunk further in the mud by several feet.
 
 On Tuesday morning, about 11 o'clock, John Gawn, a fisherman of Portsmouth, while near the Warner light, picked up the body of a seaman belonging to the Eurydice. Just before that time George Comer, a fisherman, of Gosport, had picked up another body near the same spot. Both bodies were towed into harbour and were taken to the Gosport Coastguard station, to which place a handcart and coffins were conveyed from Haslar Hospital, and the bodies were placed in them and taken to the dead-house at that place. One of the bodies was that of a young man whose name is supposed to be William Hendy. Both bodies are in a very advanced stage of decomposition.
 
 The Duke aud Duchess of Edinburgh have forwarded to the Lord Mayor a donation of £ 100 towards the support of the widows, orphans, and dependant relatives of the men who lost their lives in the Eurydice.
 
-Mr. E. J. Physick, sculptor, has been commissioned to execute the monument m memory of Lieut. Frank Tabor, R.N., who was picked up in an exhausted condition, and expired shortly after the sinking of H M.S. Eurydice. The memorial will be erected over the grave in Cheam churchyard, Surrey, and the design prepared by Mr Physick is singularly appropriate as a memento of the sad circumstances which caused its erection.
+Mr. E. J. Physick, sculptor, has been commissioned to execute the monument in memory of Lieut. Frank Tabor, R.N., who was picked up in an exhausted condition, and expired shortly after the sinking of H M.S. Eurydice. The memorial will be erected over the grave in Cheam churchyard, Surrey, and the design prepared by Mr Physick is singularly appropriate as a memento of the sad circumstances which caused its erection.
 
 ---
 
@@ -1677,6 +1776,74 @@ THE EURYDICE.
 The inclement weather of the last few days has kept the operations of the wreck in complete obeyance. It is now hoped that the tides will sufficiently answer *within a fortnight* to enable the attempt to be made to lift the Eurydice ! A waterman has succeeded in up Captain Hare's writing desk, and handed it over to the Coastguard at Bembridge, by whom it was forwarded to the Commander-in-Chief. The gales have disturbed the banks of sand and freed many bodies – several of which have been recovered.
 
 On Saturday two more bodies which were decomposed beyond recognition, picked up near the wreck, were, brought into Portsmouth harbour by the steam tug Grinder and conveyed to Haslar Hospital One is evidently a seaman, thother is believed to be a marine. The Rinaldo reports that the body of an officer passed her as she lay anchored near the wreck on Friday night, but the sea was too rough for a boat to be lowered. The body subsequently washed ashore off Sea View, and has been identified as that of Lieutenant Barry. The south cone was hoisted at the semaphore on Saturday evening, and the gale which sprang up during the night prevented the tugs from proceeding out of harbour during Sunday. The squally weather and the heavy gale from the W.S.W. will, it is expected, tend to ease the position of the the wreck, and lead to large numbers of bodies floating through the ports.
+
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780515/013/0003
+
+Hampshire Telegraph
+Wednesday 15 May 1878
+
+p3
+
+
+FOUNDERING OF H.M.S. EURYDICE. - The prevalence of high swinds and strong tides have pre- e vented anything like successful operations being carried out by the authorities engaged in the attempt to raise | the Erytdice. The efforts of the party arc by no means er le relaxed, and advantage is taken of every opportunity ah which presents itnelfi Four bodies, however, have been m recovered since Saturday. The first was that of a marine it named George Falconer, which was observed by the Coast- guardsmen at St. Lawrence, early on Sunady afternoon. The body was brought ashore by a boat which the Coast- guard put off in, and on the Isle of Wight Coroner bein communimcated' vith,. he did'not consider au inquest n necessary. Yesterday morning three othgr bodies were it picked up near the Noman Fort and the Werner lightship, d by Geofg e'Connor, flshennan, ef Gosport, John Gawn, a, boatman, of Portsmouth, and Joleph Briggs. Two of the e bodies Were taken to the GOport shre, and landed at the n Cosstgnard jetty, where they were received by Mr. ?? George, the Chief Officer of the station.. The y officials at Haslar Hospital were ?? with and Inspeetor-GeneralW.T ?? Do nillc, c.n., tl.D, had ,odins e sent down to fth jetty, and the bodies were conveyed in them to the dead-house at the Hospital. In order that i- there should be no delay in the identification of the it corpses, Mr. Superintendent Cheyney communicated by n telegraph with the County Coroner (Edgar Goblc, Esq.), h who decided to hold the inquest on the bodies at once. to ?? Jury were, in consequence, hastily summoned, if andmct at Haslar Hospital last evening. The two bodies If were identified by Charles Carter, foreman of labourers se at the Hospital, who stripped.them, and found the nmmees of the men upon the clothing. The bodies were those of Is Edward Lockett and William E. Sandy, ordinary scalien, x second class. An excellent arrangement has been made t- for the identification of the bodies. The Inspector- ie General has had a complete list made of the whole of the a- crew and passengers of the Eurdice-321 in number. h The names marked on the clothing of the bodies recovered are compared with this list, and providing there is no r other way of recognizing the corpses,..identilication can n be established by this means. Both bodice were d much decomposed, the flesh being entirely removed s from the faces, and the hands were also missing. Sandy had on a. serge, a flannel, a check shirt, Ls trowacrs, &e.; and Lockett had. on two flannels and d a check shirt and trowsers. The lower jaw of Sandy was a entirely gone. In his troweaers pocket were found one d penny piece, three halfpence, and two buttons. Formal r- evidence of identification was taken, 'and the inquest was vadjournedtothe date originally fixedthe 23rd inst. The men Sino recovered the bodies were bound over to appear then, and also,thetwo ?? irtin Cuddeford and Sidney Id Fletcher, the latter being sick, a patientin Haslar Hospital A- The funeral of the two men will take place this (Wednes- day) afterneon. The third body, which was landed on the ie Portsmouth side of the harbour, was conveyed in a shell to the dead-house adjoining Porteca police-station As it ts had been landed within the jurisdiction of the Borough d Coroner, it was thought that an inquest would be held by d that gentleman, but it appears that this duplication of d depositions is not likely to occur, as the Coroner expressed aa desire that if the Chief-Constable were satisfied that the t body had come from the Eetrvdice, it might be conveyed to a Hasiarashe considered it inexpedient that inquiries should 0 be opened in various parts of the county on the ?? mat- t tr. The body, although not identified up to last night, t has no doubt come from the ill-fated ship. It has on a pair dof laced boots, brown Botks, blue cloth troweers wliteshirt, eland drawers, and short blue serge jacket. This latter Aarticle leads to the supposition that the body is either than 'f of an officer's servant or steward. At all events he evidently belonged to the non-combatant elass. Thebones i5 of the head were perfcetly bare, and both bands had been .t eaten off. The flesh had also come off a considerable por- y tion of the right arm, the bones of which were bared for d several inches. The corpse will be removed to Haslar, h where it will be stripped, and identification will no doubt :d be established by the marking of the clothing. Nothing is was found in the pockets of t'he deceased. A ,FUNERAL OF THE MARINE. 5Our Veatnor correspondent telegraphs last night that k the funeral of George Falconer, the marine whose body 3 was picked up off Ventnor on Sunday, took place yesterday ib afternoon. The hearse containing the body was follored Le from the Esplanade to Ventnor Cemetery by Captain Y, Roche, I.N., Inspecting-Commander of St. Catherine's .o Division,; Mr. Clarke, Chief Officer of Ventnor Station; t. and about twenty Coastguardmen of the Division; fifty- id five men of the 5th Isle of Wight Rifle Volunteers (-hich 1- was a very good muster, considering the short notice given v d, and the funeral taking place during the working hours),' a- under the command of Captain G. N. Burt and Lieu- bh tenant Henry Owen. The certege was headel by the a Battalion band laying the Dead March in Said. 5- Many leading inhabitants of the town also followed in the Be procession and the greatest sympathy and resp ot was at by the numerous bystanders as the mournful coreaqe wound its way up the circuitous roads leading to ad heights ahove Veutnor, on which the Cemetery is t at. The burialservice was impressily read by 31 he Rev. W. W. Wallan The firing party of the Volun- l- teecs fred three volleys over th grave at the conclusion li- of the service. Mr. B. J. Physiok, sculptor, has been commissioned to o- execute the monument in memory of Lieutenant Frank at Tabor, R.N., who, it will be remembered, was picked up ly in an exhausted condition, and expired shortly after. ly The memorial will be erected over the grave in Cheam Id churchyard, Surrey, and the design pre pared by 'Mr. AB. Physick is appropriate as a memento of the sad circum- 2d stances which cause its erection
+
+tag: funeral memorial
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780522/006/0002
+
+Hampshire Telegraph
+ Wednesday 22 May 1878
+
+p2
+
+FOUNDERING OF .M.S ERYDIC. B wy' benv .nv rof VfnnTw unn F. I ECVERY "OF iORE] BODIES., ,f The eoitinuiedJ 'prevalonce of ?? wieithei, as IVe miitdgral gainst the' efoaoftpe nae in. for ze. f ''" ?? " / the ret h,~p hrre e onwfcsof any interest tofro Inb eode ncnetinwt h oprations. We uan- ion Aaderstind. that several bodies haei been'w a~shcd asborO, at P 'y Bosbam, near Ohichetter, and hn inqtast .has been oipened. Br, re ?? saturdala~yan inquest waisheld at Hasler 'on two other H.] ?? oiswihhdbeen plibkdd'ip. - Just' before the Jury at- h, -viewved the two bodies. another -one- was-brought in,-vis., Hot IIthat of Lieutenant Stanley A. B3. Burney, who was picked tar, 'gtp suind lafided at'the Isle of Wight. An inquest, how-. the 1stevr, was unto considered neodesiary bji the Coroner within the ?? whose jurisdiction the body was lande~d, and it was, there- wit of fore, conveyed to Heeler. 'It was identified by Staiff fins at- Captain Alfred Ballistoon, of the Royal yacht 'llber'ta. vey ea, The recognition was established by means of the deceased's a"1 a. watch, upon which his name was engraved.. To iodentifj, me: the bodies by their features is now simply fmnpossible, as TI aie nothing but the bare skulls remained. One of the other of bodies proved to be that of John Curd, ordinary seaman,J ~e. second class. There woer no marks upon the clothing of trio &I the other corpse by which it could bea identified but the HIU )a missing link was supplied by Benjamin OuddeforA, one of on' to the survivors, who identified the body as that of John ant 1i- Mitchell, captain of the forceastle of the starboard watch. an6 to The identification w~as made by Means 'of tattoo marks to]I upon the armns of the, decaased.L-During the in nest enl to id Saturday, whilist one of the hospital men, whoyeve to per adstrip the bodies. wan giving cvidcncc as to the name feund ma~ og on the clothing, a juror, Mr. Joniathan Vincent, said he ma': in thought the men engagedl in such work were entitled to sad 11- some extrat remuneration, for their task was indeed most Jar unpleasant. The Coroner said the 'matter had not We ad esae Wisntc, and he should be most happy to tho ciedreany observation of the Jury's in that direction to hel ie the proper ?? Sunday afternoon the body of ts of John Mitchell was buried with full naval honours, the one ~ie corpse being drawn to the cemetery on a gun carriage boi drawn by seamen, behind which the widow and two of her Wi 11l children followed. ano. er THE LATE CAPTAIN FERRs~rt, R.E.-The following am11 at General Order was iesued by Major-General Sir Robert knc ait M. Laffan, Governor of Bermuda, on April 17:-" It Is ar0 is wihfeig fgetrge ?? -Excellency the six ir Mao-eea omnigi- hiefhs to announce to Wi id thsgrio htofca nelgnehas been received eta: conirin te adnes f ?? Louis the Ie FrirRoaEnierwowsslaly serving in on' letia omn, hsofcrwa rwe f the coast of the a- the Isle of Wight, on the afternoon of Sunday, March 24, abe a 178 oin t te eunorn~ofH..S Jur dice His ec]c es3 EclecfelthtiCatiFerethService has his )11.lsaveypoiigofcrwhs professional merits whi ;o weeehne ynaiblt fdsoition and geniality On ae*fmne hc rnee0i oua with his men and soy 30 afvuiewthibrteofies"MA' FUNERAL OF LIEUT. BURONEY.aft a- Yesterday afternoon the remains of Lieut. Stane ask )a Alfred Brooke Burney, the only officer whose bod a rep mn been recovered from the wreck, were interred in the prtydue ii- little cemetery at Heslar with every demonstratino fro] d, respeact and esteem for the deceased offilcer's memory. The him ie weather was exceedingly squally, and a heavy shower fell whi so during the progress of the cortege to the burial ground. MOi in The late Lient. B~urney was one of the most promising Wei ac officers of the Service, and his geniality of disposition, pri., ?? added to his kindliness of manner to all those with whomt whi dl he was associated, made him a meat popular officer. exat Under these circumstances therefore, it was but tell or natural that a large number of both officers and in I d ?? oth evc hud attend his -I it fueacbeue.Tedcaewowsol 3y arsa in pauepasdi hetreoe anthsgiehs tha Itcmiso sletnn.H at ?? rho of Chre uny h ueitnetof Greenwich Has- On a- ?? commission, he to ?? incitio on which ha'l 'dprve te eas f detiyig hehoy hn it was Hei lu eo vrd Tedcadwaedctdtth scholastic shil o establishment of the R1ev. Edward Buomey, and Was well bee. re known in the neighbourhood. A younger brother is now shoi studying at the same academy, a second is at the Royal peai g Naval College, Portsmouth, and a third is at Sandhunrst. tale eO The late Lieuti Burney was specially chosenferhis attain- goal if menits as one of the officers of the ill-fated Eurydice. drie I-Seen after half -past two the funeral cortbge leftL Hashar arm r. Hospital, the way being led by a firing party of 100 said 1) ats, 5sergeants, 5 corporals, and 2 buglers of the wee p~ iy ?? from the Duke of Wet/in ne, Asgia, inst ea and Excellent, under the command of Ca ptain H ugh W. Ant f BabrbfHMS sa etcm h and of the St. Wil ,s VicnpaigteDidMrhi eo, and behind the Mo( h buthcopewscneeonagucarriage drawn by 16 the a- We-jaket. A nio ,Tak cvere th coffin, and the pall Ihad r. eaer ?? eogeA. MacFarlane, gen d of H. M. S. Hercules; Commander Edward G. Hulton, of Pal: ol HI. M. S. Narecossas, and a Lieutenant from' the Doe ofto h ae Wellingten, Afoaerclo, Acia, and Excellent. ImmediteyCho II bein th opetefl iggntlemen walkda pris ir ?? of the de- urn g cesd ess ?? B3urney dna' 'a brtes;SafCpanAfe.Bliston, Royal yacht trot I- Alet;Cl ogoe at oeogh, and Mr. R. Wel- Mae d kisnaetflowdaot10bu jackets, under the arti d command of Lientenant-Edgar R. MhisterarbngCot a brought up by about Jifty officers, inldn ineattrot ?? Sub-Lieutenants. Midshipman, ofcrofteRylNa' d Marine Light Infantry and .Royal ?? h Jan nt party being made up ofersneiefomltdbpi ~-A a harbour. The PortAmrlwhwaabetfo te heI I town, was represene b FlgLieutenant Hugh G. Bat .s Gough. Inspector-Geea .T OMville, C.B., M.D., was Iosi~ y clue present, and Captain the Hon. Walter C. Carpenter, Fal: 'Es of the flag-sihip Duke of Wellington. Amongst those who met 's followed to show their respect to the deceased officer's whe memory, were a number of ~his old shipmates; among these' 7/1. a, -were Commander Harry T. Grenfell, who was formerly he ?? to Admiral Coebrane, in the Pacific; narr LI the Rev. George M. Button, B.A.. of H.M.S. Con ?? 'who was formerly in the Repulse, with the beeo ,deceased, and also Lieutenants Edwar J.adesn eigh a 11411. Crocodile, Spencer D. Hesket n oetC Maj I Sparkes Sub-Lieutenants Lionel G. TnieladIga.missi -There were also present Colour-Sergean ?? direi 1RylI Marine Light Infantry, of HM.S Crcdl, h lti formerly served on board the same shipsthdeae, caut and a numbe of petty officeris and seamen wh a lothe -served with him. On the procession arriving at the Came- tery the firing party formed up on either side of the road, and allowed the corpee to pass into the grounds, where it wast met by the Rev. Frederick W. Nikekll, M.A., Chal Ilain to Haslar Hospital, who preceded the boY W -to the mortuary chapel, repeating the intro quir duetory sentences of the Burial Service. Af ter the religions ceremony in the chapel, the pro- 003010 bcession inc-foarmed, and proceeded to the grave,'which is one that Iof the centre ones in the plot of ground marked out for the privi reception of the bodies recovered from the wreck. Here the lurial Service was proceeded with, and concluded, and at the close the coestomary three volleys were fired over TI Ithe grave, and the funeral party re-formed and returned to Ofl Si their respective ships. The 'coffin was of polished oak, anne with Maditeival mountings, and was supplied by Mr. Ti I Miller, undertaker, of High-street, who had charge df the Boaw ifuneral arrangements. A number of metropolitan police, state ;under the command of Mr. Inspector Coppin,were present TI ito-keep the ground. ro 
+
+tag: funeral bodies
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780525/042/0007
+
+Hampshire Advertiser
+Saturday 25 May 1878
+
+p7
+
+THE EURYDICE.
+
+The funeral of the late Lieutenant S. A. B. Burney was held at Haslar Cemetery on Tuesday afternoon in a spot which has been selected for the officers whose bodies may be recovered from the wreck of the Eurydice. The corpses of the crew are being buried in a plot of ground adjoining the square in which the sufferers from the Thunderer explosion are laid, and the spots which have been chosen for the graves of the officers lie on each side of the middle line, and contiguous to the site on which it is proposed to raise a memorial of the disaster. Lieut. Burney was buried with naval honours, the funeral cortege being composed of a couple of officers in full dress and of the aame rank as the deceased, and twenty bluejackets from each man-of-war in the harbour, headed by a firing party of 100 rank and file from the Boyal Marines, under the command of Captain Bsmber, and the band of Her Majesty'a ahip St. Vincent, which played Dead Marchea to the Cemetery. The father of the deceased, Captain Burney (Superintendent of the Greenwich Hospital Schools), and hia three sons were the chief mourners, and were followed by the Rev. E. Burney, Captain Balliston, of the Alberta, and a number of personal frienda in and out of uniform. The coffin having been covered with a Union Jack and placed on a gun carriage, was drawn to the Cemetery by seamen of the fleet, the pall being supported by Commander Hulton, Staff-Commander Macfarlane, and four senior lieutenants. The funeral service was read by the Rev. F. W. Nickoll, the chaplain of the hospital, and the usual three volleys were fired over the grave. Lieutenant Burney, who waa only 23 at the time of his death, joined the Eurydice on her being commissioned for the special service on which she waa employed, having just previoualy gained his lieutenant's commission as a reward for passing a highly satisfactory examination at the Royal Naval College at Greenwich. He was considered one of the most promising young officers in the service, and his loss is deeply deplored by his friends and relatives. His body was picked up on Saturday morning by a pilot boat about a couple of miles out to sea to the eastward of the wreck, and was landed at Sea View, Isle of Wight, and thence conveyed to Haslar Hospital. The body was identified by means of a gold watch, which bore an inscription showing that it had been presented to the deceased by his father on obtaining his lieutenant's commission. The tugs and divers went out to the wreck of the Eurydice on Wednesday morning, but in consequence of a heavy swell prevailing at the back of the Wight they returned again into harbour. Hicks, the shipwright diver, made a descent, and found that the result of the late gales had been to bring the upper sill of the lee ports on a level with the mud bottom. The channels are now within 1ft. of the sea floor, and as the ship retains the same angle of heel, it is evident that she has sunk 2 1/2ft. further into the ground, that the lee ports are now wholly under the sand, and that she is fast making a hole for herself. During the high tide of Tuesday a diver's boat was stove in, and one ofthe mooring lighters received a great deal of injury and was nearly swamped. On Wednesday morning the body of Albert C. Doogood. an ordinary seaman of the first class, was landed at Sea View, Isle of Wight, by a pilot boat, and afterwards taken to Haslar.
+
+*To the Editor of the Hampshire Advertiser.*
+
+Sir,— Will you kindly oblige by correcting an error in your paper of to-day respecting the picking up of the body of Lieut. S. A. B. Burney of H.M S Eurydice, by the Coastguard at Sea View. The facts are that the body was picked up at sea by the Emma, pilot cutter, of this place, brought here, and given in charge of the chief boatman, who telegraphed to the Admiralty at Portsmouth. A Government seam tug was at once sent, wbich took the body to Portsmouth. I am, sir, your obedient servant,  
+Henry Knapp, pilot,  
+Emma, pilot cutter.  
+Clyde Villa, Sea View, Isle of Wight  
+May 22nd, 1873.
+
+tag: bodies funeral
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0004565/18780527/032/0002
+Magnet (London)
+
+Monday 27 May 1878
+
+p2
+THE "EURYDICE" FATALITY.
+
+*Republishes the Hampshire Advertiser article of Saturday 25 May 1878, but ends short and slightly differently:*
+
+During the recent gales the Eurydice has sunk two feet and a half further into the mud, and the misgivings as to the possibility of her being raised are now materially strengthened.
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780530/078/0005
@@ -1863,7 +2030,9 @@ Isle of Wight Times
 Thursday 04 July 1878
 p5
 
-THE EURYDICE FAILURE TO LIFT THE SHIP. In accordance wilt the programme settled by Admiral Superintendent the lion. F. A. C. Foley, in connection with the attempt to raise the Eurydice, which it was hoped might be made on Ho=morning. The riggers and divers to the wreck as early as three o'clock on liaturday morning, sad the Pearl corvette, and the gunboats Swan and Wave, liming been towed out to join the Rinaldo, every advantage wee taken of the lull to place the lifting vela% into position and attach them by the purchases across the wreck. The Pearl was placed at the stern to receive the ends of the jewel hawsers, the gunboat toggled on either elle of the mainmast, the Rinaldo being reserved for the tow jewels to be made fast to. The corvette and small craft were suocesfully lashed down, but on Sunday morning the wind shifted to the south-west, and the heavy lop, which sprang up, caused the Pearl to pitch to such an extent as to tames her ninednelt hawser to part, and she hod Genteelly to be eased to prevent her getting wholly loose, nothwithetanding that the violent thunderstorm which ensued had the effect of materially beating down the swell. The gunboats were allowed to remain in position in spite of the long roll which continued during the afternoon, though from the manner in which they struck against the it might be considered necessary to ease them off. At noon on Sunday the wind, which had been singularly variable, veered round to the north-west, and should it have the effect of moderating the MIL it was the intention of Captain Most to plaoe the Rinaldo in petition forward and secure her to the purchases. At three o'clock in the afternoon 90 men from the Asia, under the command of Staff-Commander Parker, sad other contingents from the ships in the harbour assembled in the dockyard, where tugs were ready to take them to the wreck for the purpose of heaving round the capstans by which the lifting shipe were to be pinned down at awl) , sleek on Tueeday morning ; but on Rear-Admiral Foley, who had been out personally superintending the operations, coming on there, the orders were countermanded and they were dismissed. The result was the loss of another day, the first actual lift which was appointed to be made on Monday morning at ten, being postponed until the some time on Tuesday. There was a slight breeze blowing from the south-east en Monday, but it was not powerful enough to have any effect on the sea, and the glees was ruing. The four lifting made were moored exactly in the p•etitions where they were wanted to receive the purchase., and Mr. W. B. Robinson (Chief-Constructor), and a *tall of officer, were at the wreck superintending the imniersiens of the ships by letting In the water. During M.w.day afternoon the toggle pendsots were successfully attached to the gunboats Swan and Wave, and the bow end of the steel hawser made fast to the Rinaldo ready to hove down. The Lord Warden which was to take up the the towing ropes at high water oss Tuesday arrived under sail from Portland, and was anchored in Sundown Bay, and there Were besides no fewer than six steam tugs to render whateverassistance may be required. Rear-Admiral Foley was present at the operation, the whole day. and remained out all night having about Pei employed under him in the final pinning down of the lifting vcorl.. They commenced work three o'clock on Tuesday morning, and cone_;,,, e d the mike( *sing dewathe Wan and boots and this Pearl and Rinaldo, corvettes, by six o'clock, water ballast having bean let into each of the ships so an tosabeserge then three feet. no lowest tide wan at a Ranter to six and the steel wire hawsers and chain cables were hove taut by six o'clock. Half aa haw later the week of pumping ou the four craft was commeaced by to" with the addition of two of Nerrywenther's steam tire engin,. on the Pearl and Rinaldo. At this time the wind wan blowing moderately from the N. E., and the sea was comparatively calm. The roaming occuried two hearth but while it win procsolim; the wind shifted to E N.E. awl a heavy 'well at in. Shortly after S o'clock the force of the wool had NI wash increased us to interfere con. eidentbly with ths oiwrations, and at the time the after chain of the White Swan, attached to a toggle. snapped, and it was totted neoveary to slip the other chain in order to maw the gunboat. While this was Wing done the sea became so very choppy that, at twenty minutes to Mau o'clock, it was toned Deaconry to use the hawsers. Shortly afterwards, the swell caltiiiinug to increase, orders were given for all the hawsers and toggles to be slipped, and Admintl Foley directed the return of the craft into harbour. During the operations the White Swan got her quarter witch damaged by colliding with ono of the toga, and a workman sew tamed some inluries. The operations were directed by Capt. Polluaghorue, Batt and Dar trader the supervision of Admiral Foley. On morning the CosraandawinCltief (Admiral Fanshawit, CBI with Flag - ln the o n W C. Carpenter, arrived Ig at the wreck in the Fire also brought out a imitating the Admiralty) end the of the unfortunate change in the weather soother attempt cannot be made for a forta w iZ and it is doubtful whether the interval Whin to make the eequisite pteparations. The Perweesesed riebt• thinks that it is ems tneeetrbable aband that oned. the attempt to rake the b Tues body wan picked up at the wreck on day
+THE EURYDICE FAILURE TO LIFT THE SHIP.
+
+In accordance wilt the programme settled by Admiral Superintendent the lion. F. A. C. Foley, in connection with the attempt to raise the Eurydice, which it was hoped might be made on Ho=morning. The riggers and divers to the wreck as early as three o'clock on liaturday morning, sad the Pearl corvette, and the gunboats Swan and Wave, liming been towed out to join the Rinaldo, every advantage wee taken of the lull to place the lifting vela% into position and attach them by the purchases across the wreck. The Pearl was placed at the stern to receive the ends of the jewel hawsers, the gunboat toggled on either elle of the mainmast, the Rinaldo being reserved for the tow jewels to be made fast to. The corvette and small craft were suocesfully lashed down, but on Sunday morning the wind shifted to the south-west, and the heavy lop, which sprang up, caused the Pearl to pitch to such an extent as to tames her ninednelt hawser to part, and she hod Genteelly to be eased to prevent her getting wholly loose, nothwithetanding that the violent thunderstorm which ensued had the effect of materially beating down the swell. The gunboats were allowed to remain in position in spite of the long roll which continued during the afternoon, though from the manner in which they struck against the it might be considered necessary to ease them off. At noon on Sunday the wind, which had been singularly variable, veered round to the north-west, and should it have the effect of moderating the MIL it was the intention of Captain Most to plaoe the Rinaldo in petition forward and secure her to the purchases. At three o'clock in the afternoon 90 men from the Asia, under the command of Staff-Commander Parker, sad other contingents from the ships in the harbour assembled in the dockyard, where tugs were ready to take them to the wreck for the purpose of heaving round the capstans by which the lifting shipe were to be pinned down at awl) , sleek on Tueeday morning ; but on Rear-Admiral Foley, who had been out personally superintending the operations, coming on there, the orders were countermanded and they were dismissed. The result was the loss of another day, the first actual lift which was appointed to be made on Monday morning at ten, being postponed until the some time on Tuesday. There was a slight breeze blowing from the south-east en Monday, but it was not powerful enough to have any effect on the sea, and the glees was ruing. The four lifting made were moored exactly in the p•etitions where they were wanted to receive the purchase., and Mr. W. B. Robinson (Chief-Constructor), and a *tall of officer, were at the wreck superintending the imniersiens of the ships by letting In the water. During M.w.day afternoon the toggle pendsots were successfully attached to the gunboats Swan and Wave, and the bow end of the steel hawser made fast to the Rinaldo ready to hove down. The Lord Warden which was to take up the the towing ropes at high water oss Tuesday arrived under sail from Portland, and was anchored in Sundown Bay, and there Were besides no fewer than six steam tugs to render whateverassistance may be required. Rear-Admiral Foley was present at the operation, the whole day. and remained out all night having about Pei employed under him in the final pinning down of the lifting vcorl.. They commenced work three o'clock on Tuesday morning, and cone_;,,, e d the mike( *sing dewathe Wan and boots and this Pearl and Rinaldo, corvettes, by six o'clock, water ballast having bean let into each of the ships so an tosabeserge then three feet. no lowest tide wan at a Ranter to six and the steel wire hawsers and chain cables were hove taut by six o'clock. Half aa haw later the week of pumping ou the four craft was commeaced by to" with the addition of two of Nerrywenther's steam tire engin,. on the Pearl and Rinaldo. At this time the wind wan blowing moderately from the N. E., and the sea was comparatively calm. The roaming occuried two hearth but while it win procsolim; the wind shifted to E N.E. awl a heavy 'well at in. Shortly after S o'clock the force of the wool had NI wash increased us to interfere con. eidentbly with ths oiwrations, and at the time the after chain of the White Swan, attached to a toggle. snapped, and it was totted neoveary to slip the other chain in order to maw the gunboat. While this was Wing done the sea became so very choppy that, at twenty minutes to Mau o'clock, it was toned Deaconry to use the hawsers. Shortly afterwards, the swell caltiiiinug to increase, orders were given for all the hawsers and toggles to be slipped, and Admintl Foley directed the return of the craft into harbour. During the operations the White Swan got her quarter witch damaged by colliding with ono of the toga, and a workman sew tamed some inluries. The operations were directed by Capt. Polluaghorue, Batt and Dar trader the supervision of Admiral Foley. On morning the CosraandawinCltief (Admiral Fanshawit, CBI with Flag - ln the o n W C. Carpenter, arrived Ig at the wreck in the Fire also brought out a imitating the Admiralty) end the of the unfortunate change in the weather soother attempt cannot be made for a forta w iZ and it is doubtful whether the interval Whin to make the eequisite pteparations. The Perweesesed riebt• thinks that it is ems tneeetrbable aband that oned. the attempt to rake the b Tues body wan picked up at the wreck on day
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780706/037/0008
@@ -2007,8 +2176,9 @@ Grief leaves Old Time to count the tearful cost,
 For e'en like Orpheus, Memnory looking back  
 Is deemed to blend thee with the lov'd and lost.
 
-- Thomas SMITH 
+- Thomas SMITH
 
+tag: poem
 
 ---
 
@@ -2296,6 +2466,19 @@ The last of the Eurydice was seen yesterday, when the old timbers of the ship we
 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18790426/022/0011
+
+The Graphic
+
+Saturday 26 April 1879
+p11
+
+A Memorial to those Sailors of the "Eurydice"
+
+A Memorial to those Sailors of the "Eurydice" buried at Sandown, Isle of Wight, has been erected by the inhabitants,-- a pedestal, bearing a record of the loss of the vessel, and the names of four out of the seven seamen who lie beneath, the three others not having been recognised.
+
+---
+
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790712/014/0008
@@ -2309,6 +2492,17 @@ A handsome tablet has been placed in the chapel of the dockyard at Portsmouth by
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000181/18781018/009/0002
+Sheffield Independent
+Friday 18 October 1878
+p2
+
+THE EURYDICE.
+
+The last of the Eurydice was seen yesterday, when the old timbers of the ship were sold at Portsmouth Dookvard by public auction. An order from the Admiralty prohibited the remnants of the ship being sold as relics of the Eurydice, so the lots were simply sold as old timber. The prices were about the ordinary prices, as the interest in the wreck has by this time altogether subsided.
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18781019/011/0005
 Isle of Wight Observer
 Saturday 19 October 1878
@@ -2319,6 +2513,19 @@ The Diving at the Wreck of the Eurydice.
 With reference to the amount paid to the divers in connection with the raising of the Eurydice, Messrs. Siebe and Gorman, submarine engineers to the Royal Navy, write that they had four men engaged at the wreck, and not three, as stated, and that it was only their foreman diver who received £1 5s. per tide. During the four months that operations were carried on the men were working day and night, and the pay they received was in the aggregate the same as that of the dockyard divers.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18800226/015/0003
+Portsmouth Evening News
+Thursday 26 February 1880
+
+p3
+
+THE NAVY ESTIMATES.
+
+LATEST TELEGRAMS London, Thursday. The navy estimates for the coming financial year were issued this morning, and show a decrease compared with last year of £93,959. The principal item in saving is in the vote for machinery end ships built by contract, in there is a decrease of £73,000. For the conveyance of troops £38,000 less than last year will be required. For wages, victuals, and pensions a slightly increased vote is required. Under the head of purchase for torpedoes the amount required is nil. Last year's estimates included a sum of £10,000 on this account. Under the scientific branch is a new item of £9,811 for the training of naval cadets. There is a decrease of over £11,000 in the dockyards and naval yards. A sum of £500 is set apart under the heading of miscellaneous services for the Eurydice memorial.
+
+---
+
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18800529/016/0006
 Isle of Wight Observer
 Saturday 29 May 1880
@@ -2344,3 +2551,267 @@ In the history of lost vessels probably the Lords Commissioners of the Admiralty
 
 
 ---
+
+Hampshire Advertiser
+Saturday 29 May 1880
+
+p8
+
+SHANKLIN. May 29
+
+ Ihe Eurydice Memorial.— The memorial to the offioers and men lost in the Eurydice is now in course of erection in our cemetery, in which seven bodies recovered from the unfortunate ship are buried. The monument is a very handsome structure, and will stand about 8ft high. It is carved entirely in Portland stone by Mr Moynihan, of Shepherd's Bush, London. The design which was partly suggested by our townsman Mr. Tyler is made np of cannon, anchors, and sea emblems, bat as it is not quite completed we must defer a description The value ofthe monument is said to be between £4OO and £5OO. The monument will be unveiled some time in June by Lady Atherley.
+
+
+---
+
+Hampshire Telegraph
+
+Wednesday 02 June 1880
+
+p4
+
+(SHANKLIN.) THE EURYDICE MEMORIAL.
+
+-A memorial to the officers and men lost in the Eurydice is now in course of  erection in our cemetery, in which seven bodies recovered from the ill-fated ship are buried. The monument, a very handsome structure, will stand about eight feet high, and will be carved entirely in Portland ctone, by Mr. Moynihan, of Sbepherd's Bush, London. The design consists of naval emblems-cannons, anchors, &c., and the S qy value of the monument, it is said, will be between 400l. el and 500l. Further subscriptions are still needed, and will be thankfully received by Mr. Tizard, of Daish's Hotel, on behalf of the Committee. The monument will be unveiled in June by Lady Atherley.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002182/18800612/071/0007
+
+Southern Times and Dorset County Herald
+Saturday 12 June 1880
+
+p7
+
+(HANTS.) THE EURYDICE MEMORIAL
+
+A memorial to the officers and men lost in the Eurydice is now in course of erection in the Shanklin Cemetery, in which seven bodies recovered from the ill fated ship aro buried. The monument, a very handsome structure, will stand about eight feet high, and will be carved entirely in Portland stone by Mr. Moyniham, of Shepherd's Bush, London. The design consists of naval emblems—cannon, anchors, &c., and the value of the monument, it is said, will be between £4OO and £5OO. The monument will be unveiled during the present month by Lady Atherley.
+
+[A few paragraphs earlier we also have:]
+
+THE ATALANTA DISASTER.—
+
+The Plover, gun boat, Commander Steward, as to whose safety there were serious misgivings until intimation of her arrival at Vigo was received, reached Spithead on Wednesday morning with five ordinary seaman who belonged to the Atalanta, but who, happily for themselves, did not take passage in her when she left Bermuda. These and an ordinary seaman named Varling are all who remain of the crew, and they will, it is understood, be examined by the Court appointed to investigate the circumstances connected with the disappearance of the vessel. The men give the Atalanta a very bad character.
+
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18800624/068/0004
+
+Edinburgh Evening News
+Thursday 24 June 1880
+
+p4
+
+THE EURYDICE MEMORIAL
+
+Lady Isabel Atherley yesterday unveiled a monument in Shanklin Cemetery erected to the memory of the captain and crew of the Eurydice. The monument, which is erected by public subscription, is of Portland stone, surmounted by a naval trophy of crossed auchor, broken cable, and cannon pointing to the spot where the Eurydice foundered.
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003437/18800626/101/0006
+
+Aberystwyth Observer
+Saturday 26 June 1880
+
+p6
+
+HER MAJESTY'S SHIP " EURYDICE."
+
+n the pretty cemetery of Shanklin, Isle of Wight, on Wednesday afternoon, Lady Isabel Atherley veiled a fine monument, which has been erected there by public subscription, to the officers and men who perished by the foundering of the *Eurydice* off Shanklin, in March, 1878. Seven of the bodies were buried in this cemetery, among them, as many suppose, the body of Captain Hare, the commander. The monument has been erected from a design furnished by Mr. F. J. Moynihan, of Uxbridge-road. Many persons were present to witness the ceremony, after which Lieutenant Langley, on behalf the Naval Service, thanked the people of Shanklin for erecting so worthy a memorial to the gallant men who had perished amid such lamentable circumstances.
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001777/18800702/091/0008
+
+Southend Standard and Essex Weekly Advertiser
+Friday 02 July 1880
+
+p8
+
+UNVEILING OF THE "EURYDICE" MEMORIAL AT SHANICLIN.
+
+The pretty cemetery given to the pariah of Shanklin by Colonel Atherley was on Wednesday the 23rd ult., the scene of an interesting and deeply-impressive ceremony—the unveiling of a monument erected there to the memory of the Crew of the "Eurydice," which, with its precious freitage of some 300 young sailors, was suddenly whelmed beneath the waves in the awful gale of that fatal Sunday afternoon a little more than two years ago. The bodies of seven of the crew, washed up from the wreck are buried in Shanklin cemetery; the place, moreover, is within sight of the spot where the ship went down ; and it was fitting, therefore, that here should be raised an appropriate and enduring memorial to the brave officers and crew of the hapless vessel. Bright weather favoured the unveiling ceremony, which took place in the presence of a large gathering of persons, amongst whom were naval and coastguard officers and a number of bluejackets, representing, we were told, all Her Majesty's ships now in Portsmouth Harbour. Soon after half, past three a procession was formed at the cemetery lodge, a number of coastguardmen walking at the head, and following them were the surpliced choir and clergy of St. Saviour's-on-the Cliff, Col. and the Lady Isabel Atherley and friends, and the members of the Shanklin Burial Board. The procession first went to the Gate Chapel, one of the clergy saying the sentences from the Burial Office, and in the Chapel, the anthem "man that is born of a woman" was sung. The procession then moved towards the graves, the choir chanting the 29th and part of the 17th Psalms, at the close of which—the company present having formed into a circle round the graves—the beautiful and appropriate hymn, "Fierce raged the tempest o'er the deep, from " Hymns Ancient and Modern," was sung with marked feeling. Following this was an address very impressive and appropriate by the Rev. C. I. Borland, vicar of St. Saviour's, who said he believed that there was in seamen a strong instinctive feeling that whereever their bodies might be cast they had a yearning desire that those bodies should be committed to the dust, if possible with pious words, and with loving friends standing round. It was for this reason, he had been told, that it was very often the custom with them to mark their bodies, so that they might be identified when they were found. It was to them a melancholy satisfaction that they could rear this stone over the bodies of the brave. We did not know their names, but we knew that they belonged to a service which we highly honoured. It might seem strange to some that ministers of religion should speak with admiration of those whose duty it was to carry arms in the service of their country ; but he had no hesitation in feeling and expressing that admiration. No Christian man could read his Bible without feeling that war may sometimes be a very necessary evil, and it was often the case that war called forth some of the bravest and noblest qualities that were to be found in man. For himself he had no fear that Englishmen would ever be found wanting in the truest type of bravery, or that they would ever do discredit to the flag that had waved so long. He had the comforting conviction that our sailors and our soldiers were becoming brave with a higher bravery than the mere courage that would face the enemy. He believed more and more that there were in the army and the navy men who were imbued with simple piety, and who were not afraid to acknowledge Him, their Saviour, who, though the gentlest and the most loving, was ever the bravest of the brave, the noblest of the noble. Many were there who made it their pride to serve Him and to do His will. It had been told him that some had supposed that amongst the bodies buried here was that of the captain of the ill-fated Eurydice. If so, then here had they an illustration of what a sailor might be—brave and noble in the highest sense of those words, for he was brave and noble in the service of his Saviour. And they also knew that there were some precious relics left of that crew. There were not many, but they knew that in a little Sussex cottage there was a letter read with tearful eyes, and that letter indicated that amongst the young on board the vessel there was just that tone which all must have wished should be the case when they heard of that terrible catastrophe. "We have come here this afternoon," concluded the rev. speaker, " to unveil this memorial, and to show that we honour the profession to which these men belonged, and that we have a lively sympathy with our sailors in the perils and dangers which they are called upon to endure. We have come also to show that we feel a deep interest in all that concerns them, and that our inmost hearts are touched when our brave ones are suddenly called away. They are dear to us, though no stone may tell their names, their worth, their glory ; but a record of their lives in hearts that love them well. These men, as much as those who fall in battle, fell in the path of duty and is the service of their country, and they belong to that noble band of heroes whose names and deeds grace our British story."
+
+A prayer of dedication of the monument was then read by the Rev. F- Hummell, curate of St. Saviour's, as follows :
+
+O Lord. at whose word the stormy wind ariseth, behold with Thy favour our memorial of these sailors, who sank with their ship almost in sight of home ; and mercifully grant that all who in pity shall read its record, may be led to ponder the uncertainty of this mortal life, and be stirred up to secure that life everlasting, which Thou has given us in our Saviour, Jesus Christ. Amen.
+
+Other appropriate prayers followed, and the Lady Isabel Atherley then unveiled the memorial by removing the Union Jack which had hitherto shrouded it from view.
+
+The monument is of Portland stone, eight feet high, and the rockwork base is six feet by four feet. The base is surmounted by a naval trophy, consisting of crossed anchors and a cannon, with a snapped cable, a broken chain-link, and other fitting emblems, a Union Jack supplying the drapery. The cannon points to the spot where the Eurydice went down. On the front face of the monument is the inscription :
+
+" To the memory of the officers and men of  
+H.M.S. EURYDICE,  
+which foundered off Shanklin,  
+March 24, 1878,  
+Seven of whom are buried here."
+
+—and on the opposite side there is carved lettering as follows: 
+
+" Erected by public subscription and unveiled by  
+Lady Isabel Atherley,  
+June 23rd, 1880."
+
+—Immediately above this is a representation of the ribbon of a seaman's cap, with " H.M.S. Eurydice " upon it. The monument was designed by Mr. F. J. Moynihan, of London, assisted by Mr. A. Tyler, hon. sec. of the London committee, and the former gentleman executed the sculpture, which is strikingly effective and appropriate.
+
+Col. Atherley, sfter the ceremony of unveiling was performed, addressed a few remarks to the company. He might say for Lady Isabel that she had experienced a feeling of satisfaction in being priviledged to take part in the tribute which had been paid that day to those brave men to whose memory that beautiful monument had been reared, and this satisfaction both as regarded his lady and himself was strengthened by the thought that there was about that place something which told of the kind and friendly feeling which existed between them and the inhabitants of Shanklin and its neighbourhood. He was sure he might say for Lady Isabel that she was always glad to be permitted to join those amongst whom she lived in doing any good and kindly work. The Colonel then referred in touching words to the calamity which occurred two years since in front of the windows of those who lived at Shanklin, and he added that the sorrow and the sympathy which were then called forth still lived—sorrow for those so suddenly and prematurely cut off, and sympathy for the bereaved relatives who had to mourn the loss of near and dear ones. Amongst the harrowing scenes which took place at the time was the casting up of the seven bodies which had found a resting-place in that Cemetery. Save in one instance, those bodies were unknown—unrecognised. After the interment a committee was formed for the purpose of erecting a suitable memorial ; but as the names of the bodies recovered were, with one exception, unknown, it was thought that the monument should be erected not to any particular persons, but to the memory of all the officers and crew, and to commemorate what was indeed a national calamity. To carry out this work a committee was formed in Shanklin, consisting of Messrs. Amon, F. Rayner, H. Sanders, R. T. Blew. Paybody, Tizard, Cantlow, and Humby, with himself as chairman, and under the able secretaryship of Mr. A. Tyler, a committee was formed in London, the members of which were Messrs. Robert Hewett (chairman), H. B. Clarke, W. Foster and J. Aldridge (of Leigh, Essex) C. J. James, and F. Meek. Mr. Tyler was instrumental in obtaining from the talented sculptor, Mr. Monyihan, a model of the memorial which had been just uncovered, and he thought they would all agree with him that in design and execution the work had been admirably carried out, and that the monument was in keeping with the event which it was intended to commemorate- After remarking that the Burial Board had in this instance waived their claim to the usual fees, the gallant colonel concluded by stating that, in the name of Lady Isabel, he declared the memorial unveiled. Might that monument stand there for many years, keeping fresh the memory of the brave crew of the Eurydice, and telling all who had to face the perils of the great waters that there were warm hearts on shore who deeply sympathised with them in the dangers which they were at times called upon to encounter. He was glad to see so many sailors present on that occasion. Amongst them were two naval officers, Lieut. Langley, of H.M.S. Excellent, and Lieut. Whiddon, of H.M.S. Crocodile, and he would ask one of then to say a few words.
+
+Lieutenant Langley, R.N., stepped forward and said: Colonel and Lady Isabel Atherlev, on the part of the service to which I have the honour to belong I desire to thank you and all the subscribers for the beautiful monument which has been erected above the bodies of our poor comrades who died in the service of their country. Your kind act of this day will never be forgotten by the British Navy.
+
+On the proposition of Mr. Nicholson, J.P., D.L. of Ventnor, an expression of thanks was conveyed' to the Lady Isabel Atherley for the part which she had so kindly and gracefully performed ; and Col. Atherley, after acknowledging the compliment, said they were greatly indebted to the clergy and choir of St. Saviour's for the impressive service which they had rendered, and which had invested the ceremony with an interest and solemnity that would not soon be forgotten.— After a few words in reply by the Rev. C. I. Burland, who spoke in high terms of his choir, the hymn " Eternal Father, strong to save," was sung, and the proceedings closed with the Benediction, pronounced by the Vicar of St. Saviour's.
+
+
+TH: noteable
+
+> Following this was an address very impressive and appropriate by the Rev. C. I. Borland, vicar of St. Saviour's, who said he believed that there was in seamen a strong instinctive feeling that whereever their bodies might be cast they had a yearning desire that those bodies should be committed to the dust, if possible with pious words, and with loving friends standing round. It was for this reason, he had been told, that it was very often the custom with them to mark their bodies, so that they might be identified when they were found. It was to them a melancholy satisfaction that they could rear this stone over the bodies of the brave. We did not know their names, but we knew that they belonged to a service which we highly honoured.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/020/0006
+
+The Graphic
+Saturday 10 July 1880
+p6
+
+THE EURYDICE MONUMENT AT SHANKLIN
+
+This monument, which has been erected by public subscriptions, to the memory of the officers and men of H.M.S. Eurydice stands in the cemetery at Shanklin, where lie the seven bodies which were recovered from the wreck, including, as is believed, that of Captain Hare, the commander of the ill-fated vessel. It was unveiled on the 23rd ult., in the presence of a large number of spectators, by Lady Isabel Atherley a special religious service being performed and a brief address given by the Rev. C. I. Burland, Vicar of Shanklin. Addresses were also delivered by Colonel Atherley and by Lieutenant Langley, wno, on benalf of the naval service, thanked the people of Shanklin for erecting so worthy a memorial to the gallant men who perished amid such lamentable circum stances. The monument, which was designed by Mr. A. Tyler, Hon. Secretary of the Subscription Committee, and Mr. F. J. Moynihan, the sculptor, of Uxbridge Road, London, is constructed of the finest Portland stone. The small anchor which forms a part of the trophy is a relic from the ship, and was presented by Admiral Foley and the broken chain was given by Captain Goldsmith.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003083/18810414/087/0008
+
+Poole Telegram
+Thursday 14 April 1881
+
+p8
+
+EURYDICE MEMORIAL AND PORTLAND STONE
+
+A memorial to those who lost their lives in the training brig Eurydice is being placed in the grounds of Hasler Hospital, Gosport. It is composed of granite and Portland stone, the base meable (which has been prepared by the convicts at Chatham Prison), and the next tier is of worked Portland stone, bearing the names of the deceased. The capstone is also of "Portland," carved to imitate rockwork and irosweed, and it is to be surmounted by the actual cable and anchor of the ill-fated brig. It is to be a very handsome structure, 17 feet across at the base. Two pieces of the carved rockwork were in the Portland railway station yard this week.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000269/18810914/041/0003
+Dundee Courier
+Wednesday 14 September 1881
+p3
+
+EURYDICE MEMORIAL.
+
+A monument to the memory of 316 officers and men lost in the Training Brig Eurydice in March, 1878, has been placed in Haslar Naval Cemetery. The monument was designed by Colonel Pasley, Royal Engineers.
+
+--
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000206/18810916/029/0006
+
+Manchester Courier and Lancashire General Advertiser
+Friday 16 September 1881
+
+p6
+
+Eurydice Memorial.
+
+—A monument, the preparation and erection of which has occupied 12 months, has been placed in Haslar Naval Cemetery, to the memory of the officers and men who were lost in the training brig Eurydice, in March, 1878. The base, which is of polished granite, and records the names of the 316 officers and men who went down, was prepared by the convicts at Chatham, while the superstructure was prepared by the convicts at Portland, with stone from the neighbouring quarries, and resembles a huge rock, which is surmounted by the real anchor of the Eurydice, embedded in the rock. The memorial is rectangular inshape, 23ft. long, 17ft. broad, and 10ft. height, exclusive of the anchor. It was designed by Colonel Pasley, Royal Engineers, Director of Works', and has been erected ny the Works Department of the Navy.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011
+
+The Graphic - Saturday 19 November 1881
+
+
+p11
+
+THE EURYDICE MEMORIAL AT HASLAR
+
+It will be remembered that the bodies of the unfortunate officers and seamen which were recovered from the wreck of the *Eurydice* were laid to rest in Haslar Cemetery, near Gosport, each grave being marked with a simple headstone. A more imposing memorial, as represented in our engraving, has now been erected on the spot. It was designed by Colonel Parley, R.E., C.B., and erected by Mr. Carruthers, the Assistant Civil Engineer for Gosport, and Messrs. Bramble, the contractors for the work. The base, of bright granite, bears upon its sloping ledge the 316 names of those who went down with the ill-fated vessel on Sunday, March 24th, 1878, and above this is a moulding of Portland stone, each side of which contains an appropriate quotation from Scripture. This again is surmounted by a huge rocky superstructure, on the summit of which is the real anchor, shackle, and part of the ship's cable which was recovered from the scene of the disaster. The measurement at the base is 23 feet by 17 feet, and the height is 10 feet. Our engraving is from a photograph by G. West and Son, Gosport, copies of which have been purchased by Her Majesty the Queen.
+
+
+[includes illustration - BL_9000057_18811119_027_0011_pdf_haslar_graphic_19-11-1881.png ]
+
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003142/19270409/028/0002
+Hampshire Advertiser
+
+Saturday 09 April 1927
+p2
+
+LOSS OF THE EURYDICE.
+
+Mrs C. Mitchelmore. 33 Briton's-road, writes: I have a few remembrances in my mind which no doubt will be very interesting to others as well as myself. The one that comes first is the foundering of H.M.S. Eurydice off the Isle of Wight. I cannot state the exact date. It was about this time of the year in the eighties. 
+
+*Image: Two of the survicors of the Eurydice whose prtraits were preserved by the writer of this note.*
+
+It was on a Sunday afternoon, and, as usual, I was in Sunday School at Watts Hall, being in the second Bible class. We were told off to our Bible Classrooms: ours was in the tower facing :he parks. During Scripture lesson the darkness that came over seemed noticeable, it being a lovely bright afternoon. All at once the wind was very boisterous, blowing people in all directions. Then came a blizzard thick and fast. with no chance for anyone to take shelter.
+
+On Monday morning the newspapers spoke of the foundering of a man-of-war, H.M.S. Eurydice, off the Isle of Wight, in a blizzard, at the same time we had it in Southampton. Only two men were saved. One died a few years after: the other. I believe, died in recent years.
+
+Londoners as well as others were deeply distressed at this terrible calamity. Excursions were run from London at 2s. 6d. return on Sundays. I had to meet friends on the Royal Pier from London. Boats were there to take us on our way to the spot where the Eurydice was sunk. We took our seats in a rowing-boat like many others to cruise round. It was not far from land. Two vessels were there, one on each side of the wreck. All at once something must have given way as orders were given for all boats to clear out. I was glad in one sense, for our small craft was letting in water.
+
+On landing I found a peice of the wreck, which I have now as a relic. A gentleman living in one of the houses facing the wreck was watching the Eurydice passing along when the blizzard came on. When it had passed over no boat was to be seen.
+
+(The date of the wreck of the Eurydice was March 24th, 1878. Ed., "Hampshire Advertiser.")
+
+
+
+
+
+[Includes photo of the two survivors BL_0003142_19270409_028_0002_pdf__1_page_.png ]
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19350906/526/0024
+
+Hampshire Telegraph 
+
+Friday 06 September 1935
+
+p24
+
+HAVANT OF PAST DAYS
+
+A Eurydice Memory
+
+A vivid picture arises in my mind of a Sunday in March. 1878. It was one of those brilliant cloudless days, reminding one that winter is over. and giving a foretaste of summer days ahead. I was chorister of 12 then and was attending afternoon service at St. Faith's. Suddenly it grew dark, clouds blotted out the sun, the wind howled in fury round the building, and snow, sleet and hailstones dashed against the windows. Almost as suddenly at is began, the wind dropped, the clouds disappeared, and the sun shone out again. Probably the storm would have been forgotten, but for the catastrophe caused the same blizzard off the Isle of Wight. The Eurydice, a training vessel for young, sailors was caught on its way home Portsmouth after a long voyage. and capsized, every soul on board, except two, being drowned.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19320422/283/0014
+
+Hampshire Telegraph
+Friday 22 April 1932
+
+p14
+
+
+LOST IN SIGHT OF HOME
+
+1878 There are few more mournful pages in the history of the British Navy than that which records the loss, on Sunday, March 24, 1878, of the last Eurydice, and, with her, of hundreds of brave fellows who had devoted themselves to their country's service. The Eurydice was a 26 gun ship, built at Portsmouth, after designs by Rear-Admiral Elliott, and launched with much ceremony and rejoicing on May 16. 1843. The following lines on the launch were published by the Hampshire Telegraph:
+
+"In days long gone a pretty craft,  
+All taut and ship-shape fore and aft,  
+Skimmed lightly o'er the Thracian Sea,  
+'Twas Orpheus' Eurydice.
+
+But now a prettier craft behold,  
+Her bunting to the wind unfold ;  
+Let Orpheus' maid forgotten be,  
+Lo Elliott's lair Eurydice.
+
+Hail to thee! Modern beauty, hail !  
+Success and honour with thee sail,  
+Till as of old, both land and sea  
+Ring with thy name, Eurydice."
+
+Alas ! the day did come when land and sea rang with her name, and there was anguish and deep sorrow in the sound. On February 17, 1877, the vessel was commissioned at Portsmouth by Captain Marcus A. S. Hare, as a training ship for ordinary seamen, and when ready she proceeded on a cruise to the West Indies. On March 6 of the following year-1878—she left Bermuda for home, and had made a fine passage. when nearing Ventnor, with all sail set, about four o'clock on the 24th of that a storm of snow and wind came on with sudden and terrific force. Captain Hare who was on deck superintending as officer of the watch, gave orders to shorten sail. The lower studding sail had been taken in, and the watch were about to take in the upper sails when the vessel lurched heavily, and Captain Hare ordered the men to come from aloft. The vessel continued to heel over to the starboard side, and the water came over the lee bulwarks. The ship righted herself a few feet, but the apparent recovery of her balance was but momentary, for she almost immediately went down bodily, bow first. Whilst the few survivors of the wreck were struggling in the water they were sighted by the Emma, schooner, of Padstow, from Newcastle-on-Tyne to Poole. A boat was lowered, and five men were picked up, three of whom, however, afterwards expired, including Mr. Tabor, the First Lieutenant. Thus there were but two survivors- Sydney Fletcher and Benjamin Cuddiford— out of a crew of over 330. The unhappy ship was, after some months of labour, lifted from that muddy grave and brought to Portsmouth, where she was broken up.
+
+From Sir Conan Doyle's powerfu; poem on this catastrophe we quote the stanzas :
+
+Up with the royals that top the of her  
+Press her and dress her, al through the foam ; 
+The island's to port and the m of her, Hoy /or the Warner and Hayti, A grey swirl of snow with the back of it, Heeling her, reeling her, bcatir A gleam of her bends in the wrack of it, A flutter of white in the edde It broke in one moment of blindness ; The next, like a foul bat, it way. But our ship and our boys I G in your kindness, Give help to the mothers who ni Give help to the women who water, Who stand on the Hard with th..• the Wight ; AR I whisper it gently, you sister or Our boys are all gathered at to-night. In the rigging house at PortsmoL yard the figure-head of the ship Is served, a woman whose featurr: harrowing grief—for it represents tl Eurydice calling in vain for Orphci from the neck of the figure-head is a and battered telescope, which was that position when the divers first c to the wreck. _ A relief fund of £23,000 was ta' the dependents of the men who were The Queen reviewed the Reserve at Spithead on August 13. It c ns' , twenty-sit vessels, including s' looking ironclads as the Lord Valiant, Warrior. and Hercules weather was most unfavourable, a" incident worthy of special note is rem Admiral Edward G. Fanshawe appointed Commander-in -Chief. The Eurydice Memorial • I 5 L - 0. A • . . _ _ 
