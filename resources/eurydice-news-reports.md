@@ -2812,6 +2812,26 @@ Alas ! the day did come when land and sea rang with her name, and there was angu
 
 From Sir Conan Doyle's powerfu; poem on this catastrophe we quote the stanzas :
 
-Up with the royals that top the of her  
-Press her and dress her, al through the foam ; 
-The island's to port and the m of her, Hoy /or the Warner and Hayti, A grey swirl of snow with the back of it, Heeling her, reeling her, bcatir A gleam of her bends in the wrack of it, A flutter of white in the edde It broke in one moment of blindness ; The next, like a foul bat, it way. But our ship and our boys I G in your kindness, Give help to the mothers who ni Give help to the women who water, Who stand on the Hard with th..• the Wight ; AR I whisper it gently, you sister or Our boys are all gathered at to-night. In the rigging house at PortsmoL yard the figure-head of the ship Is served, a woman whose featurr: harrowing grief—for it represents tl Eurydice calling in vain for Orphci from the neck of the figure-head is a and battered telescope, which was that position when the divers first c to the wreck. _ A relief fund of £23,000 was ta' the dependents of the men who were The Queen reviewed the Reserve at Spithead on August 13. It c ns' , twenty-sit vessels, including s' looking ironclads as the Lord Valiant, Warrior. and Hercules weather was most unfavourable, a" incident worthy of special note is rem Admiral Edward G. Fanshawe appointed Commander-in -Chief. The Eurydice Memorial • I 5 L - 0. A • . . _ _ 
+Up with the royals that top the white spread of her!  
+Press her and dress her, and drive through the foam;  
+The Island's to port, and the mainland ahead of her,  
+Hey for the Warner and Hayling and Home!
+
+A grey swirl of snow with the squall at the back of it,  
+Heeling her, reeling her, beating her down!  
+A gleam of her bends in the thick of the wrack of it,  
+A flutter of white in the eddies of brown.
+
+It broke in one moment of blizzard and blindness;  
+The next, like a foul bat, it flapped on its way.  
+But our ship and our boys! Gracious Lord, in your kindness,  
+Give help to the mothers who need it to-day!
+
+Give help to the women who wait by the water,  
+Who stand on the Hard with their eyes past the Wight.  
+Ah! whisper it gently, you sister or daughter,  
+"Our boys are all gathered at home for to-night."
+
+In the rigging house at Portsmouth Dockyard the figure-head of the ship is still preserved, a woman whose features harrowing grief—for it represents the fallen Eurydice calling in vain for Orpheus. From the neck of the figure-head is a tarnished and battered telescope, which was found in that position when the divers first descended to the wreck.
+
+A relief fund of £23,000 was raised for the dependents of the men who were lost.
