@@ -2,6 +2,21 @@
 
 
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/010/0005
+
+Isle of Wight Observer
+
+Saturday 08 June 1878
+p5
+
+The body of Lieu. Randolph, who has relatives living in this town, has been recovered from the wreck of the Eurydice, and was buried at Haslar, on Monday.
+
+Recovery of the Body of Mr. Frank Pittman. — About 3 o'clock on Friday afternoon the divers at the Eurydice discovered the body of an officer in full uniform, which was afterwards identified as that of Mr. Frank Pittman, paymaster, and brother of Mr. Pittman, of Union-street. The corpse, which was identified by its clothing only, was interred in the hospital cemetery, on Saturday, with full Naval honours. Mr. Pittman leaves a wife and two children.
+
+
+
 ---
 
 
