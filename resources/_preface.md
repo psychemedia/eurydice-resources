@@ -1,4 +1,4 @@
-# The Loss of the Eurydice
+# Preface
 
 Several months ago, one of my fellow Island Storytellers, Sue Bailey, introduced me to story of the *Eurydice*, a ghost ship rumoured to sail across Sandown Bay, forever trying to make her way home to Portsmouth after foundering off Dunnose Point on the Isle of Wight with the loss of over three hundered lives in the last quarter of the 19th century.
 

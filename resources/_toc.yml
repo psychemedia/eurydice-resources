@@ -1,0 +1,24 @@
+format: jb-book
+root: _preface
+parts:
+- chapters:
+  - file: _intro
+- caption: The Vessel's Tale
+  chapters:
+  - file: foundering_of_the_eurydice
+  - file: immediate_plans
+  - file: struggle_to_raise_continues
+  - file: raising_the_eurydice
+  - file: eurydice_in_port
+- caption: The Human Tale
+  chapters:
+  - file: fundraising_relief
+  - file: eurydice_bodies_funerals_and_memorials
+
+  - file: eurydice_poems
+  - file: eurydice_reminiscences
+- caption: The Bureaucratic Tale
+  chapters:
+  - file: inquest
+  - file: eurydice_court_martial
+  - file: eurydice_tracked_in_parliament

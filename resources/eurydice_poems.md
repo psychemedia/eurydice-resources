@@ -207,12 +207,12 @@ That not a token reached tne dwellers by
 To tell them hundreds of their fellow men  
 Were, within eye-ken, struggling for their lives.  
 No sadder tale has ever yet been told  
-Or shipwreck's horror, sudden aud complete : —  
+Or shipwreck's horror, sudden and complete : —  
 A noble frigate, gaily homeward bound,  
 All her full press of suow-white canvas set,  
 In swan-like state came sailing past our Bay.  
 Over the waves majestic'ly she glides,  
-Replete with life aud lignt —a nation's pride—  
+Replete with life and lignt —a nation's pride—  
 An emblem of our rule upon the sea —  
 A sight to charm the eye and stir the pulse.  
 Sudden as ligutning's strike, from Culver's brow  
@@ -220,22 +220,22 @@ Swoops tne fierce squall, 'midst blinding sleet and snow,
 And, like a tiger springing on its prey,  
 Bore down that gallant vessel to her doom.  
 One moment saw her proudly ride thi waves  
-Exultant in her beauty aud her strength ;  
+Exultant in her beauty and her strength ;  
 The next, behind that curtain-cloud of storm.  
 Hopelessly stricken, crushed, and settling down.  
 So sank ihe Eurydice — as smart a craft  
 As ever bore our meteor flag aloft.
 
 Home from the West Indies she had sped,  
-With wide-spread wings, aud many a favouring gale,  
+With wide-spread wings, and many a favouring gale,  
 Till England's longed-for shores were reached at last :  
 Then, up the Channel, proud of har past fame,  
 The brave old frigate pressed upon her way,  
 With tensioned canvas spread ; to gain her port  
 She rounds the Wight, and there before her lies  
 The hoped-for haven— Portsmouth — full in sight,  
-With home aud kindling holding welcome out,  
-Almost within the sea-worn wauderor's grasp.  
+With home and kindling holding welcome out,  
+Almost within the sea-worn wanderor's grasp.  
 God! wnat a moment that to be struck down ;  
 To change home's welcome for a watery grave ;  
 To strew three hundred corses on the shore  
@@ -243,15 +243,15 @@ Where stalwart tonus, full of high hope and life,
 Were looked for by thair kindred and their Queen.
 
 The news has cast a grief-cloud o'er the land,  
-Dark'ning alike the palace aud the cot ;  
+Dark'ning alike the palace and the cot ;  
 And words of heartfelt sympathy well forth  
-For those thus lost to us, aud those bereaved.  
+For those thus lost to us, and those bereaved.  
 In meek submission to the Divine will  
 We gather now our dead, who nobly died  
 In full discharge of duty — even so,  
 As though they fell in battle, face to face  
 With England's direst foe. Above their grave  
-The sea lies calm, aud golden-tinted clouds  
+The sea lies calm, and golden-tinted clouds  
 Look down witn a mild pity on the spot  
 Where lies tne Eurydice ahd her brave crew.
 
