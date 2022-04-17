@@ -1,6 +1,20 @@
 # Fundraising and Relief
 
 
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001901/18780405/053/0006
+
+Rutland Echo and Leicestershire Advertiser
+
+Friday 05 April 1878
+
+p6
+
+THE LOSS OF THE EURYDICE.
+
+The Lord Mayor of London has received the following telegram from Captain Wilaon (H.M.S. Thunderer), Portsea:— "Your telegram has been laid before the general committee of this (Enrydice) fund, and I desired to convey to your lordship the expression of their deep sense of your lordship s consideration in proposing to open a fund for the relief of the distressed relatives of those lost in the Enrydiee, and gratefully accept your offer." Accordingly the Lord Mayor will receive subscriptions at the Mansion House. It is not intended to appoint a committee, his lordship promising to forward all the subscriptions which may entrusted to him to the Portsmouth Committee. The box which was placed outside the Mansion House during the Indian Famine Fund, and proved such a prolific source of income to that fund, is again placed in the same position for the Eurydice relief.
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780511/028/0006
