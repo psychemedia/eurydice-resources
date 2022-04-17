@@ -53,6 +53,39 @@ May 22nd, 1873.
 tag: bodies funeral
 
 
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0004258/18780525/030/0003
+
+Bray and South Dublin Herald
+Saturday 25 May 1878
+
+p3
+
+THE LOSS OF THE EURYDICE.
+
+Writing from Portsmouth on Saturday, a says:—
+
+Within the last ten days no fewer than sixteen bodies from the Eurydice have been picked up. Eight had been recovered up to Thursday. On Friday six were found in the neighbourhood of Chichester, and on Saturday two were brought in to Portsmouth Harbour. One of three was the body of George Curd, an ordinary martian, which was identified by the name on the jacket; and the other was the body of John Mitchell, a chief petty officer and seaman gunner which was identified by his widow by some tattoo marks on his arm.
+ 
+
+[The article that appeared in the Hampshire Advertiser of Saturday 25 May 1878 was also republished without any attribution. ]
+
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780530/078/0005
+Isle of Wight Times
+Thursday 30 May 1878
+p5
+
+ESCAPE OF A RYDE MAN FROM THE EURYDICE DISASTER.
+
+A young man named Hayes, whose mother was a member of the Sivell family of this town, had a very fortunate escape from being lost in the ill-fated ship. About a week before the vessel sailed from the West Indies, Hayes was taken ill, and had to be taken on shore to the hospital. His friends at first thought he was drowned, but a letter has, since the disaster, been received, which announced the gratifying fact that Hayes is alive and restored to health.
+
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/010/0005
 
@@ -66,6 +99,26 @@ The body of Lieu. Randolph, who has relatives living in this town, has been reco
 Recovery of the Body of Mr. Frank Pittman. — About 3 o'clock on Friday afternoon the divers at the Eurydice discovered the body of an officer in full uniform, which was afterwards identified as that of Mr. Frank Pittman, paymaster, and brother of Mr. Pittman, of Union-street. The corpse, which was identified by its clothing only, was interred in the hospital cemetery, on Saturday, with full Naval honours. Mr. Pittman leaves a wife and two children.
 
 
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780620/076/0005
+
+Isle of Wight Times
+Thursday 20 June 1878
+p5
+
+THE EURYDICE.
+
+Conclusion of the Inquests.— On Wednesday last Mr. Edgar Goble, one of the coroners for Hants, concluded the inquiries into the death of the unfortunate men drowned in the Eurydice. The evecvidence was confined to that of the survivors, Cuddiford and the boy Sydney Fletcher. There narratives were subetantially the same as those admitted by them at previous inquiries. Some new facts, however, were advanced. Cuddiford stated that there was not the slightest indication of the sqluall coming on before the Ship was struck, and he did not thnk the wind headed her during the whole time. To the last the captain gave his orders in a clear and distinct voice, and at the time the ship went down all the ports were open except two. They were opened in the forenoon by the orders of the mate of the deck, and the ship at about the time she struck was going at about eight knots. From the time the order was given to shorten sail to the time she heeled over about six minutes elapsed. From the time she heeled over to going down was only a few minutes. The captain was on deck the whole of the afternoon, and in witness's opinion everything was done to save the ship. He believed that none of the four guns broke loose. The ship was more lively than usual from the amount of water and provisions consumed, but if they had consumed all the water the ship would have been properly ballasted. He did not believe that Captain Hare was aware that the ports were open. Considering the state of the weather he was of the opinion that the ship was in a safe condition. She was not under too great a press of sail previous to the storm. Mr.Gifford, a sub-lieutenant, was at the wheel, but there was always a quartermaster there. As a seaman of 21 years experience, he believed that no blame attached to either officers or men for the loss of the ship. The Coroner, in concluding the inquiry, said the Admiralty did not propose to offer any scientific evidence. It would be for the jury to say whether the captain had caused a proper look-out to kept, because if he had not it would amount to a neglect of duty, for which he would have had to answer had he survived. The jury returned a verdict to the effect that the deceased came to their deaths by drowning through the foundering of the Eurydice, but that no blame attached to the captain, officers, or crew.
+
+Another body has been recovered from the wreck—that of C. Wilkins, one of the crew, found in the forechains. In opening the enquiry, the Coroner (E. Goble, Esq.) observed that the body upon which evidence would be given was supposed to be one of the crew of the Eurydice, and his clothes were marked "C. Wilkins." It would be the duty of the jury to inquire whether the identity of the deceased had been proved to their satisfaction, and also to ascertain the cause of death. It was not his intention at present to go into any further inquiry. They had received the verdict of two juries with regard to this catastrophe, and therefore all they need now do was to prove the identity of the body and find the cause of death.
+
+George Carter, foreman of the laborers at the Hospital, said the body was brought to the Hospital that day by some laborers of the Dockyard. He gave formal evidence as to the clothes which were worn by the deceased, and which proved his identity, the name being on the waistband and trousers. The deceased was picked up in the forechains of H.M.S. Eurydice.
+
+Inspector-General Domville handed in the card from the Admiralty, stating that C. Wilkins was a seaman on board the Eurydice —The inquiry was adjourned.
+
+[EXCERPT]
 
 ---
 

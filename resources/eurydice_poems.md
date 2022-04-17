@@ -801,6 +801,27 @@ tag: poem
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780606/080/0004
+
+Isle of Wight Times
+Thursday 06 June 1878
+p4
+
+THE EURYDICE. ACROSTIC ON THE WRECK OF THE EURYDICE.
+
+By J. S. Edwards, Sailor on H.M.S. Royal Adelaide.
+
+Each heart was light and hopeful on board that noble ship,  
+Unconscious of the danger near before the sundown dip  
+Revealing to the light of day, 'midst white sails spread around,  
+Youth's gallant form and manhood strong, that now in death are found.  
+Dread cloud of woe which overcast their brightest hopes in night,  
+Immersing in engulfing death, the brave, the loved, the bright.  
+Come England, spread thy gen'rous hand in pity o'er their grave, Endeavouring thus to honour those entombed beneath the wave.
+
+tag: poem
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000085/18780802/003/0002
 
