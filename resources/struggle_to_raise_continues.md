@@ -1,5 +1,10 @@
 # The Struggle to Raise the Eurydice Continues
 
+Through May, June and June, attempts to float the Eurydice were hampered by the weather.
+
+
+(See also Parlimanetary reports.)
+
 
 ---
 
@@ -36,8 +41,63 @@ Sir, —Some three weeks or more ago, it was freely published in various papers 
 I am, Sir, yours obediently,  
 Southsea, May 11. A Practical Shipwright. 
 
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780516/078/0005
+Isle of Wight Times
+Thursday 16 May 1878
+p5
+
+THE EURYDICE.
+
+[EXCERPTED - BODIES]
+
+The proper pronunciation of the name of the ill-fated ship is Eu-*ryd*-i-ce, making it sound as four syllables, accenting the second.
+
+Operations at the wreck were resumed yesterday (Tuesday). Five toggles have been got in. Both the Pearl and the Rinaldo have been fitted with Merryweather's fire engines, so that, if considered desirable, resort may be had to water ballast. As the lift at the utmost at high water will not exceed 11ft., eight lifts will probably be required to float the sunken vessel into the shallow water in Sandown Bay. The beaching of the vessel has been found to be absolutely necessary, as there is insufficient water in the harbour and fairway at high water to enable the Eurydice to be towed in and docked in much below her normal load-line. It has been proposed to dispense with the lighters altogether. In their stead, and to secure additional buoyancy, two old gunboats, the Wave and the Swan, are to be employed.
+
+*Iron.* – Our prophecy that the "scientific officers" in her Majesty's service would find the Eurydice too much fur them, has, we regret to say, been realised in the most complete manner. There is no doubt that the " fighting officers" in the Royal Navy are, so far as pluck, English grammar, and good manners are concerned, as exeellent gentlemen as any in the service of Britannia. Vicariously they rule the waves for her, but when submarine operations are to the fore they are wofully at fault. The Eurydice affair is a catalogue of melancholy failure. Setting aside the vexed question of seamanship as to her loss, her subaqueous record is full of blundering. The Admiralty very naturally opined that there ought to be somebody about Portsmouth Dockyard who could raise a sunken ship, and orders were forthwith sent to Portsmouth to lift the Eurydice. As it turned out, this decision was unfortunate. Perhaps it might have been as well to employ practical people. Fighting officers always fight well, but they know nothing about raising ships.
+
+*British Medical Journal.* – Both the Royal George and the Eurydice sank in tideways, with very strong currents, which, from the first instant, swept constantly through the hatchways and open ports with searching effect ; so it may be surmised that many unattached floating masses lying in their course would be carried away and rolled into deeper waters or on to the shore. It is a remarkable feature in the Eurydice that so few of the watch on deck floated away from her, and that so very few corpses have been anywhere found. This may perhaps be explained on the suddenness of the struggle for life in the water, and the vortex created by the sinking ship taking them with her to the bottom ; and the same reasons will apply *á fortiori* to the watch off duty and between decks. We think that, by calmly reflecting on such ideas, the minds of those who are now in eager expectation may he brought to a tone conducive to submission to many disappointments on clearance of the vessel.
+
+*Review.* — It was asserted that the frigate had drifted of her own accord from the position in which she lay. The dockyard authorities published a notice, in which they pointed out the incorrectness of this assertion, and naively protested that the ship had not altered her position since she foundered. That protest is also the general complaint of the public. She ought to have altered positin so much as to be now safe in port. We can safely assert that if the Eurydice had been a trading vessel insured in England, she would have been afloat about three weeks ago. Possibly no cable would have been passed round her longitudinally ; probably none would have been passed under her keel. She is so buoyant that hawsers would merely have been passed through her open ports and firmly fixed, and this done she would have been lifted to the surface on the first fine day. We think underwriters may congratulate themmselves on possessing a staff of practical experts who have qualified themselves better than the engineers in Portsmouth dockyard to accomplish the task of raising a sunken vessel.
+
+
+
 ---
 
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780518/025/0006
+
+Isle of Wight Observer
+Saturday 18 May 1878
+
+p6
+
+THE EURYDICE DISASTER.
+
+Late on Friday night a storm set in, and the Rinaldo and the Rinaldo and the lumps, which were moored near the wreck of the Eurydice, had to slip their cables and make for port, in tow of the Griuder. The iron toggles wnich the divers succeeded in dropping into the ports will have to be removed, and their places supplied by wooden toggles of greater bearing area, as the former have been found to bend and come cut under the strain of thirteen tons. The Rinaldo was taken back to her moorings on the following day, and the mauly was out at the wreck on Sunday, when two additional toggles were put into position. Shortly after mid-day two coastguardsmen who were on duty at St. Lawrence observed a body floating about three miles out to sea. They at once launched a boat, and succeeded in bringing the body in tow to Ventnor, where it was found to be that of a marine, evidently from the wreck of the Eurydice. Tne features were beyond identification, but it was found that the body is George Falconer. The body was landed that of on the Isle of Wight, and the Coroner, considering an inquest unnecessary, gave an order for the burial which took place on Tuesday afternoon. The body was interred in Ventnor Cemetery with military honours and a large number of the townspeople attended. The Government tugs and divers resumed operations on Monday, but the boisterous weather prevented much progress being made. On Tuesday morning, however, they again proceeded out of harbour to the wreck. As many as a dozen or 16 toggles will be used if they can be successfully introduced into the ports , the hawsers still remain rouud the Eurydice, with buoys to pick them up. The Pearl was finished for service on Monday, and can be brought into requisition on whatever day it is thought advisable. A telegraphic statement of the exact rise and fall of the tide is daily sent from the wreck to the dockyard authorities, so that they may know when the tide is likely to serve, and they are putting their plans into execution with as much dispatch as is practicable, considering the difficulties which have to be encountered, aud the unfavourable turn of the weather. These difficulties are increasing every day, the wreck having within the last week or ten days sunk further in the mud by several feet.
+
+[EXCERPTED - BODIES]
+
+
+
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0004565/18780527/032/0002
+Magnet (London)
+
+Monday 27 May 1878
+
+p2
+THE "EURYDICE" FATALITY.
+
+*Republishes the Hampshire Advertiser article of Saturday 25 May 1878, but ends short and slightly differently:*
+
+During the recent gales the Eurydice has sunk two feet and a half further into the mud, and the misgivings as to the possibility of her being raised are now materially strengthened.
 
 
 ---

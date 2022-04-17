@@ -3,6 +3,126 @@
 
 
 
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002
+Hampshire Telegraph
+Wednesday 03 April 1878
+p2
+
+THE FOUNDERING OF THE "EURYDICE."
+
+DISCOVERY OF ANOTHER BODY.
+
+A telegram last night states that the Dover and and Calais steamboat had picked up the body of a sailor, doubtless one of the crew of the Eurydice.
+
+FUNERAL OF CAPTAIN FERRIER.
+
+On Saturday afternoon the remains of Captain J. G. L. Ferrier, RE., of Bellside, Linlithgowshire, who was drowned by the sinking of the Eurydice, were interred with military honours in Greyfriars' Churchyard, Edinburgh. The burial service was read in St. John's Episcopal Church by the Bishop of Edinburgh, after which the procession went by way of Prince's-street, the Mound, and George IV. Bridge to the place of interment. The coffin, which was covered by the Union Jack, and on which were the deceased's hat and sword, with wreaths of *immortelles*, was conveyed on a gun-carriage drawn by six horses. Detachments of the 50th Regiment, the 6th Inniskilling Dragoons, and the Royal Artillery took part in the procession. The streets along the route were crowded with spectators.
+
+FUNERAL OF THE PETTY OFFICER AT HASLAR.
+
+On Monday afternoon the body of George Andrew Bennett, the Petty Officer who was picked up either dead, or in a dying condition, by the Emma schooner, was interred in the pretty little cemetery at Haslar. The bedy, it will probably be remembered, was removed from Ventnor to the Haslar Royal Naval Hospital on the day after the inquest and was kept as long as possible, in hopes of other bodies being found, so that a number of the crew might have been buried together. No additional bodies, however, have been recovered, and further delay being considered inexpedient, the interment was fixed for Monday. The day was exceedingly fine, and the sun, which shone brightly, seemed to bring into greater prominence the sad surroundings of the occasion. Soon after two o'clock detachments of seamen and petty officers from the flagship, *Duke of Wellington*, the *Asia* (flagship of Rear-Admiral the Hon. Fitzgerald A. C. Foley), and the Thunderer landed at the Haslar Jetty, and, accompanied by a firing party of Marines from the Duke of Wellington, proceeded to the dead-house, on the grade plot, outside of which several relations and friends had congregatcd. The word dead- house, as a rule, carries with it the idea of an ugly building, dark, close, and stuffy. The one at Haslar, however, is a model of its kind. It is not at all unsightly, either as regards its external or internal appearances, and is light and airy. Seats are placed in the lobby for the accommodation of mourners, and here the widow and other relatives and friends of the deceased who had come from his late home near Bognor were awaiting the arrival of the funeral party. In addition to the ordinary number of seamen told off to attend the funeral, several petty officers and seamen volunteered to attend and pay a last tribute of respect to one of their number, and it is hardly necessary to say their request was granted. One of the men who thus attended-Lawton, captain of the forecastle of the Thunderer-was an old shipmate of the deceased. After the men had been drawn up they were allowed to break off for a few moments and take a farewell look of the deceased before the coffin was finally closed. The large majority of the party availed themselves of the opportunity. The deceased was a fine, stalwart fellow-a splendid specimen of a British sailor-and was about 30 years of age. Although he had been dead more than a week there was little change perceptible, and there was no trace of suffering stamped on his features. On the contrary, his face bore a tranquil and placid expression, which it was somewhat difficult to associate with the harrowing nature of the terrible event which had such a fatal ending. A number of flowers had been tastefully arranged around the head of the dead man. The coffin was a stained deal one, studded with black nails, and the breast-plate bore the following inscription:—
+
+R. I. P.  
+GEORGE ANDREW BENNETT, P.O.,  
+Captain of the Quarter-deck, H.M.S. Eurydice,  
+Drowned by the capsizing of that ship off Dunnose,  
+March 24th, 1878.
+
+A Union Jack formed the pall, and the coffin was carried to the hearse by six blue-jackets. For some reason the corpse was not conveyed on a gun-carriage, as is usual in naval funerals. The cortege was headed by the firing party of marines, with arms reversed. There was no band, it being understood that the widow did not desire one. Next came the hearse, behind which followed, on foot, the widow of the deceased, his sister, brother-in-law, and a few other relatives and friends of the deceased, including two Petty Officers-Jones and Evans-from the Osborne. Then followed the detachments of the crews of the Duke of Wellington, Asia and Thunderer, numbering altogether about 170. The whole party was under the command of Lieutenant John G. Haggard, of the *Duke of Wellington*. The other officers Present were Sub-Lieutenants Wm. M. Oxley and Willingham Franklin, Mr. John Hills, gunner, and Mr. Wm. Aldridge, boatswain, of H.M.S. *Duke of Wellington**; Lieutenant George Izat and Mr. Thomas A. King, boatswain, of *H.M.S. Asia*; Lieutenant Robert H. Stewart, Lieutenant Arthur B. Shakespeare, R.M.A., Sub-Lieutenant Henry E. Rooper, Engineer George E. Foote, Assistant-Engineer William H. Riley, Mr Patrick Barry, boatswain, Mr. Martin Jackson, boatswain, and Mr James Farrell, boatswain, of *H.M.S. Thunderer*. The procession moved slowly out of the main gates, a number of the inmates being congregated in the grounds to see it pass, and wended its way slowly along the road to the cemetery. Several civilians followed the *cortège*, but the number would, doubtless, have been far greater had the date of the burial been generally known. On arriving at the cemetery the marines formed up on either side of the gateway, and the coffin was borne on the shoulders of half-a-dozen blue-jackets to the gates, where it was met by the Rev. Fredk. W. Nicholl, M.A., the Hospital Chaplain, who preceded the body to the Mortuary Chapel,reading from the Burial Service the glad tidings of the Resurrection. A portion of the seamen entered the chapel and the remainder proceeded to the grave, whither the body was borne at the completion of the service in the chapel. Some twenty or thirty graves have been dug in the plot of ground which has been marked out for the reception of the bodies, and the first graves have been dug almost immediately adjoining the monument erected over the spot where the victims of the *Thunderer* catastrophe were interred. Into one of these the coffin was lowered. The remaining portion of the Burial Service was then gone through, and at its conclusion, the widow and other relatives took a farewell look at the coffin. The customary three volleys were fired into the air by the Marines, and the funeral party then reformed and marched back to Haslar Jetty, where they embarked in the boats and returned to their respective ships. In anticipation of a large number of the general public attending a detachment of Metropolitan Police was told off by Mr. Inspector Coppin, the Chief Officer at Haslar, for duty at the Cemetery, but on account of the comparative smallness of the number of persons who collected their services were scarcely required.
+
+[EXCERPTED]
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780404/059/0005
+Isle of Wight Times
+Thursday 04 April 1878
+p5
+
+THE EURYDICE.
+
+A correspondent of the *Devenport Independent* writes:- There are many distressing cases of bereavement and suffering here. In one a poor woman in Devonport, who lost a father, mother, and two children in 14 months, actually left the town early on Monday morning to be in Portsmouth to receive her husband, and only learnt the harrowing news on the road, when she returned a widow. In another case a young woman went round to be married to one of the young men ; she has been brought hack in such a condition, from shock sustained to the system, that her life is despaired of. A third case is that of a poor woman in Devonport, who, four months ago lost her husband in the Narcissus ; whilst her husband was in that ship she lost and buried seven children; and in the Eurydice had lost her only remaining child and her only support. A hardhearted act has oome to my knowledge concerning this poor woman. She is fortunately entitled to £17 for the back pay of her deceased husband, and on Monday she went to a certain clergyman—a curate—and asked him to sign a certificate of her marriage, in order to get the money. Notwithstanding that she explained to him the distressing circumstance in which she was paced, he demanded 2s. 6d. of her. She told him that she had not got the money, whereupon he refused his signature without the fee. The poor woman was obliged to borrow the money, which she obtained through a friend. Returning to the clergyman she *purchased* the certificate, but it was necessary for her to remind the rev. gentleman that he had to give her 6d. change to the 3s. she had tendered in payment! "And above all things have fervent charity among yourselves, for charity shall cover a multitude of sins."
+
+[EXCERPTED]
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006
+Isle of Wight Observer
+Saturday 06 April 1878
+p6
+
+THE LOSS OF THE "EURYDICE."
+
+On Saturday afternoon the remains of Captain J. G. L. Ferrier, R.E., of Bellside, Linlithgowshire, who was drowned by the sinking of the Eurydice, were interred with military honours in Greyfriars' Churchyard, Edinburgh. Detachments of the 50th Regiment, the 6th Inniskilling Dragoons, and the Royal Artillery took part in the procession. The streets along the route were crowded with spectators.
+
+The remains of Lieutenaut Tabor, which, after the inquest at Ventnor, were conveyed to Cheam, Surrey, the residence of his family, were interred in Cheam Churchyard on Friday afternoon. The corpse was followed by the Rev. R S. Tabor, the father, aud the brother and sister of the deceased, Mrs Tabor, the wife of the gallant officer, being present at the church and grave. The coffin was covered by the Union Jack, a fitting pull, flowers forming a cross, and *immortelles*. The service, which was partly choral, was conducted by the rector, the Rev. C. H. Rice, assisted by several other clergymen. Despite the terrible weather, a large number of persons were present, comprising many of the resident gentry. Captain Fellowes, of the Royal Naval College, re-presented the Admiralty.
+
+The remains of George Arthur Bennett were interred in the cemetery at Haslar, close by the spot at which the victims of the explosion on board the Thunderer were buried. The fuueral was a very quiet affair. No band attended, but a firing party of Marines, and a number of blue-jackets who had volunteered from the various ships in harbour, were present. The spectators were very few. The servioe was conducted by the Rev. Mr. Nickolby, chaplain to the hospital.
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780515/013/0003
+
+Hampshire Telegraph
+Wednesday 15 May 1878
+
+p3
+
+FOUNDERING OF H.M.S. EURYDICE.
+
+The prevalence of high winds and strong tides have prevented anything like successful operations being carried out by the authorities engaged in the attempt to raise the Eurydice. The efforts of the party are by no means relaxed, and advantage is taken of every opportunity which presents itself. Four bodies, however, have been m recovered since Saturday. The first was that of a marine named George Falconer, which was observed by the Coastguardsmen at St. Lawrence, early on Sunady afternoon. The body was brought ashore by a boat which the Coastguard put off in, and the Isle of Wight Coroner being communimcated with, he did not consider an inquest necessary. Yesterday morning three other bodies were picked up near the Noman Fort and the Warner lightship, by Geofg Connor, flsherman, of Gosport, John Gawn, a boatman, of Portsmouth, and Joseph Briggs. Two of the bodies Were taken to the Gosport shore, and landed at the Coastguard jetty, where they were received by Mr. Stephen George, the Chief Officer of the station.. The officials at Haslar Hospital were communicated with and Inspeetor-General W.T. Domville, C.B., M.D., had coffins sent down to the jetty, and the bodies were conveyed in them to the dead-house at the Hospital. In order that there should be no delay in the identification of the corpses, Mr. Superintendent Cheyney communicated by telegraph with the County Coroner (Edgar Goble, Esq.), who decided to hold the inquest on the bodies at once. The Jury were, in consequence, hastily summoned, and met at Haslar Hospital last evening. The two bodies were identified by Charles Carter, foreman of labourers at the Hospital, who stripped them, and found the names of the men upon the clothing. The bodies were those of Edward Lockett and William E. Sandy, ordinary seamen, second class. An excellent arrangement has been made for the identification of the bodies. The Inspector-General has had a complete list made of the whole of the crew and passengers of the Eurdice-321 in number. The names marked on the clothing of the bodies recovered are compared with this list, and providing there is no other way of recognizing the corpses, identification can be established by this means. Both bodiee were much decomposed, the flesh being entirely removed from the faces, and the hands were also missing. Sandy had on a serge, a flannel, a check shirt, his trousers, &c.; and Lockett had on two flannels and a check shirt and trowsers. The lower jaw of Sandy was a entirely gone. In his trowsers pocket were found one penny piece, three halfpence, and two buttons. Formal evidence of identification was taken, and the inquest was adjourned to the date originally fixed, the 23rd inst. The men who recovered the bodies were bound over to appear then, and also, the two survivors — Benjamin Cuddeford and Sidney Fletcher, the latter being sick, a patient in Haslar Hospital. The funeral of the two men will take place this (Wednesday) afterneon. The third body, which was landed on the Portsmouth side of the harbour, was conveyed in a shell to the dead-house adjoining Portsea police-station. As it had been landed within the jurisdiction of the Borough Coroner, it was thought that an inquest would be held by that gentleman, but it appears that this duplication of depositions is not likely to occur, as the Coroner expressed a desire that if the Chief-Constable were satisfied that the body had come from the Eurydice, it might be conveyed to a Haslar, as he considered it inexpedient that inquiries should be opened in various parts of the county on the same matter. The body, although not identified up to last night, has no doubt come from the ill-fated ship. It has on a pair of laced boots, brown socks, blue cloth trowsers whiteshirt, and drawers, and short blue serge jacket. This latter article leads to the supposition that the body is either that of an officer's servant or steward. At all events he evidently belonged to the non-combatant class. The bones of the head were perfcetly bare, and both bands had been eaten off. The flesh had also come off a considerable portion of the right arm, the bones of which were bared for several inches. The corpse will be removed to Haslar, where it will be stripped, and identification will no doubt be established by the marking of the clothing. Nothing was found in the pockets of the deceased.
+
+FUNERAL OF THE MARINE.
+
+Our Ventnor correspondent telegraphs last night that the funeral of George Falconer, the marine whose body was picked up off Ventnor on Sunday, took place yesterday  afternoon. The hearse containing the body was followed from the Esplanade to Ventnor Cemetery by Captain Roche, R.N., Inspecting-Commander of St. Catherine's Division,; Mr. Clarke, Chief Officer of Ventnor Station; and about twenty Coastguardmen of the Division; fifty-five men of the 5th Isle of Wight Rifle Volunteers (which was a very good muster, considering the short notice given, and the funeral taking place during the working hours), under the command of Captain G. N. Burt and Lieutenant Henry Owen. The *cortège* was headed by the a Battalion band playing the Dead March in *Saul*. Many leading inhabitants of the town also followed in the procession and the greatest sympathy and respect was manifested by the numerous bystanders as the mournful *cortège* wound its way up the circuitous roads leading to the heights ahove Ventnor, on which the Cemetery is situated. The burial service was impressively read by the Rev. W. W. Willan. The firing party of the Volunteers fired three volleys over the grave at the conclusion of the service.
+
+Mr. B. J. Physick, sculptor, has been commissioned to execute the monument in memory of Lieutenant Frank Tabor, R.N., who, it will be remembered, was picked up in an exhausted condition, and expired shortly after. The memorial will be erected over the grave in Cheam churchyard, Surrey, and the design prepared by Mr. Physick is appropriate as a memento of the sad circumstances which cause its erection.
+
+tag: funeral memorial
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780516/078/0005
+Isle of Wight Times
+Thursday 16 May 1878
+p5
+
+THE EURYDICE.
+
+...
+
+Five bodies (or rather portions) have been recovered during the week. One was a seaman named Taylor, and another Lieut. George Falconer, R.M.
+
+...
+
+[EXCERPT]
+
+---
+
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780518/025/0006
+
+Isle of Wight Observer
+Saturday 18 May 1878
+
+p6
+
+THE EURYDICE DISASTER.
+
+...
+
+On Tuesday morning, about 11 o'clock, John Gawn, a fisherman of Portsmouth, while near the Warner light, picked up the body of a seaman belonging to the Eurydice. Just before that time George Comer, a fisherman, of Gosport, had picked up another body near the same spot. Both bodies were towed into harbour and were taken to the Gosport Coastguard station, to which place a handcart and coffins were conveyed from Haslar Hospital, and the bodies were placed in them and taken to the dead-house at that place. One of the bodies was that of a young man whose name is supposed to be William Hendy. Both bodies are in a very advanced stage of decomposition.
+
+The Duke aud Duchess of Edinburgh have forwarded to the Lord Mayor a donation of £ 100 towards the support of the widows, orphans, and dependant relatives of the men who lost their lives in the Eurydice.
+
+Mr. E. J. Physick, sculptor, has been commissioned to execute the monument in memory of Lieut. Frank Tabor, R.N., who was picked up in an exhausted condition, and expired shortly after the sinking of H M.S. Eurydice. The memorial will be erected over the grave in Cheam churchyard, Surrey, and the design prepared by Mr Physick is singularly appropriate as a memento of the sad circumstances which caused its erection.
+
+[EXCERPT]
 
 ---
 
@@ -28,6 +148,23 @@ FUNERAL OF LIEUT. BURNEY.
 Yesterday afternoon the remains of Lieut. Stanley Alfred Brooke Burney, the only officer whose body has been recovered from the wreck, were interred in the pretty little cemetery at Haslar with every demonstration of respeact and esteem for the deceased offilcer's memory. The weather was exceedingly squally, and a heavy shower fell during the progress of the cortege to the burial ground. The late Lieut. Burney was one of the most promising officers of the Service, and his geniality of disposition, added to his kindliness of manner to all those with whom he was associated, made him a most popular officer. Under these circumstances therefore, it was but natural that a large number of both officers and men belonging to the Service should attend his funeral obsequies. The deceased, who was only 23 years of age, passed his eamination with honours (technically speaking he passed in the three ones) and thus gained his commission as a Lieutenant. He was the soon of Commander Charles Burney, the Superintendent of Greenwich Hospital School, by whom, on attaining his commission, he was presented with a watch, the inscription on which proved the means of identifying the body when it was recovered. The deceased was educated at the scholastic establishment of the Rev. Edward Burney, and well known in the neighbourhood. A younger brother is now studying at the same academy, a second is at the Royal Naval College, Portsmouth, and a third is at Sandhurst. The late Lieut. Burney was specially chosen for his attainments as one of the officers of the ill-fated Eurydice.Soon after half-past two the funeral cortege left Haslar Hospital, the way being led by a firing party of 100 privates, 5 sergeants, 5 corporals, and 2 buglers of tRoyal Marines, drawn from the Duke of Wellington, Asia, and Excellent, under the command of Captain Hugh W. Bamber of H.M.S. Asia.  Next came the band of the St. Vincent, playing hte Dead March in Saul, and behind the band the corpse was conveyed on a gun carriage drawn by 16 blue-jackets. A Union Jack covered the coffin, and the pall bearers were: Staff-Commander George A. MacFarlane,of H. M. S. Hercules; Commander Edward G. Hulton, of H M.S. Narcissus, and a Lieutenant from the Duke of Wellington, Monarch, Asia and Excellent. Immediately behinf the corpse the following gentlemen walkeda as mourners:— Captain Charles Burney (father of the deceased); Messrs. Cecil, Ernest, and Percy Burney (brothers); Staff-Captain Alfred Balliston, Royal yacht Alberta; Col. Longmore, Capt. Colclough, and Mr. R. Wilkinson. Next followed about 160 blue jackets, under the command of Lientenant-Edgar R. Mathias, the rear being brought up by about fifty officers, including Lieutenants, Sub-Lieutenants, Midshipman, oofficers of the Royal Marine Light Infantry and Royal Marine Artillery, the  party being made up of representatives from all the ships in harbour. The Port Admiral, who was absent from the town, was represented by Flag-Lieutenant Hugh G. Gough. Inspector-General W. T. Domville, C.B., M.D., was aslo present, and Captain the Hon. Walter C. Carpenter, of the flag-ship Duke of Wellington. Amongst those who followed to show their respect to the deceased officer's memory, were a number of his old shipmates; among these were Commander Harry T. Grenfell, who was formerly Flag-Lietenant to Admiral Cochrane, in the Pacific; the Rev. George M. Sutton, B.A.. of H.M.S. Warrior, who was formerly in the Repulse, with the deceased, and also Lieutenants Edward J. Sanderson, H.M.S. Crocodile, Spencer B. Hesketh, and Robert C. Sparkes; Sub-Lieutenants Lionel G. Tufnell and Ingram. There were also present Colour-Sergeant James Murphy, Royal Marine Light Infantry, of H.M.S. Crocodile, who formerly served on board the same ship as the deceased,  and a numbe of petty officeris and seamen who had also served with him. On the procession arriving at the Cemetery the firing party formed up on either side of the road, and allowed the corpse to pass into the grounds, where it wast met by the Rev. Frederick W. Nickokll, M.A., Chaplain to Haslar Hospital, who preceded the body into the mortuary chapel, repeating the introductory sentences of the Burial Service. After the religious ceremony in the chapel, the procession re-formed, and proceeded to the grave, which is one of the centre ones in the plot of ground marked out for the reception of the bodies recovered from the wreck. Here the Burial Service was proceeded with, and concluded, and at the close the customary three volleys were fired over the grave, and the funeral party re-formed and returned to their respective ships. The coffin was of polished oak, anne with Mediaeval mountings, and was supplied by Mr. Miller, undertaker, of High-street, who had charge of the funeral arrangements. A number of metropolitan police, under the command of Mr. Inspector Coppin, were present to keep the ground.
 
 tag: funeral bodies
+
+
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780523/092/0005
+
+Isle of Wight Times
+Thursday 23 May 1878
+p5
+
+THE EURYDICE.
+
+The inclement weather of the last few days has kept the operations of the wreck in complete obeyance. It is now hoped that the tides will sufficiently answer *within a fortnight* to enable the attempt to be made to lift the Eurydice ! A waterman has succeeded in up Captain Hare's writing desk, and handed it over to the Coastguard at Bembridge, by whom it was forwarded to the Commander-in-Chief. The gales have disturbed the banks of sand and freed many bodies – several of which have been recovered.
+
+On Saturday two more bodies which were decomposed beyond recognition, picked up near the wreck, were, brought into Portsmouth harbour by the steam tug Grinder and conveyed to Haslar Hospital One is evidently a seaman, thother is believed to be a marine. The Rinaldo reports that the body of an officer passed her as she lay anchored near the wreck on Friday night, but the sea was too rough for a boat to be lowered. The body subsequently washed ashore off Sea View, and has been identified as that of Lieutenant Barry. The south cone was hoisted at the semaphore on Saturday evening, and the gale which sprang up during the night prevented the tugs from proceeding out of harbour during Sunday. The squally weather and the heavy gale from the W.S.W. will, it is expected, tend to ease the position of the the wreck, and lead to large numbers of bodies floating through the ports.
+
 
 ---
 
@@ -298,7 +435,6 @@ Lieutenant Langley, R.N., stepped forward and said: Colonel and Lady Isabel Athe
 
 On the proposition of Mr. Nicholson, J.P., D.L. of Ventnor, an expression of thanks was conveyed' to the Lady Isabel Atherley for the part which she had so kindly and gracefully performed ; and Col. Atherley, after acknowledging the compliment, said they were greatly indebted to the clergy and choir of St. Saviour's for the impressive service which they had rendered, and which had invested the ceremony with an interest and solemnity that would not soon be forgotten.— After a few words in reply by the Rev. C. I. Burland, who spoke in high terms of his choir, the hymn " Eternal Father, strong to save," was sung, and the proceedings closed with the Benediction, pronounced by the Vicar of St. Saviour's.
 
-
 TH: noteable
 
 > Following this was an address very impressive and appropriate by the Rev. C. I. Borland, vicar of St. Saviour's, who said he believed that there was in seamen a strong instinctive feeling that whereever their bodies might be cast they had a yearning desire that those bodies should be committed to the dust, if possible with pious words, and with loving friends standing round. It was for this reason, he had been told, that it was very often the custom with them to mark their bodies, so that they might be identified when they were found. It was to them a melancholy satisfaction that they could rear this stone over the bodies of the brave. We did not know their names, but we knew that they belonged to a service which we highly honoured.
@@ -372,7 +508,6 @@ Eurydice Memorial.
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011
 
 The Graphic - Saturday 19 November 1881
-
 
 p11
 
