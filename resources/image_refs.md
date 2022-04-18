@@ -170,7 +170,14 @@ Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy
 H.M.S. Eurydice salvage operation off the coast of the Isle of Wight in 1878. Original page from ‘The Illustrated London News’ of Royal Navy divers engaged in the raising of the vessel. Dated Apri 6th. 1878. Excellent condition. Paper size 15.75 x 10 inches.
 https://www.mapsandantiqueprints.com/shop/antique-prints/h-m-s-eurydice-salvaged/
 
-![](../images/UK_CCM_1_P.1986.1470X.webp)
+Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich
+![](../images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg)
+
+Henry Robins - Wreck of HMS 'Eurydice' Towed into Portsmouth Harbour, 1 September 1878 HMP PORMG 1974 517 , Portmsouth City Museum
+![](../images/henry-robins-wreck-of-hms-eurydice-towed-into-portsmouth-harbour-1-september-db6eb8.jpg)
+
+
+???
 Wreck of HMS Eurydice
 1878
 R. Cadogan-Rothery
@@ -180,16 +187,23 @@ Carisbrooke Castle Museum
 Photo credit: Portsmouth Museums and Visitor Services
 https://artuk.org/discover/artworks/wreck-of-hms-eurydice-towed-into-portsmouth-harbour-1-september-1878-24881
 
+Public domain image search - https://picryl.com/search?q=Eurydice%20
 
+
+H.M.S. Euyrydice, in The Last Four Days of the "Eurydice", by Captain E. H. Verney, R.N.
+![](../images/lastfourdaysofeu00vern_bw_pdf__page_6_of_90_.png)
 
 ![](../images/j6247_632f00d5-54a3-48ae-98cc-5c27528e77dd_1000x.jpg)
 Inboard profile plan for HMS 'Eurydice' (1843)
 https://prints.rmg.co.uk/collections/ship-plans/products/inboard-profile-plan-for-hms-eurydice-1843-j6247
 
+
+![](../images/BL_0001702_18780323_078_0008_pdf__1_page_.png)
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008 Shipping and Mercantile Gazette - Saturday 23 March 1878 - weather chart
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true Weather chart for week March 21st - March 27th (inclusive) Graphic - Saturday 30 March 1878
+![](../images/BL_0000057_18780330_027_0021_pdf__1_page_.png)
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true Weather chart for week March 21st - March 27th (inclusive) Graphic - Weather chart for the week- Saturday 30 March 1878
 
 
 ![The Graphic -  THE EURYDICE MEMORIAL AT HASLAR It will be remembered that the bodies of the unfortunate officers and seamen which were recovered from the wreck of the Eurydice were laid to rest in Haslar Cemetery, near Gosport, each grave being marked with a simple headstone. A more imposing memorial, as represented in our engraving, has now been erected on the spot. It was designed by Colonel Parley, R.E., C.B., and erected by Mr. Carruthers, the Assistant Civil Engineer for Gosport, and Messrs. Bramble, the contractors for the work. The base, of bright granite, bears upon its sloping ledge the 316 names of those who went down with the" ill-fated vessel on Sunday, March 24th, 1878, and above this is a moulding of Portland stone, each side of which contains an appropriate quotation from Scripture. This again is surmounted by a huge rocky superstructure, on the summit of which is the real anchor, shackle, and part of the ship's cable which was recovered from the scene of the disaster. The measurement at the base is 23 feet by 17 feet, and the height is 10 feet. Our engraving is from a photograph by G. West and Son, Gosport, copies of which have been purchased by Her Majesty the Queen.  - Saturday 19 November 1881, p11](../images/BL_9000057_18811119_027_0011.png)

@@ -357,8 +357,24 @@ TH: letter noteable eg for Eurydice myth, but also is:
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true
 
+Graphic
+Saturday 30 March 1878
 
+p21
+
+Weather Chart for the week  MARCH 21ST TO MARCH 27TH (INCLUSIVE)
+
+EXPLANATION. -The thick line shows the variations in the height of the Barometer during the past week ending Wednesday midnight. The fine line shows the shade temperature for the same interval, and gives the maximum and minimum readings for each day, with the (approximate) time at which they occurred. The information is furnished to us by the Meteorological Office.
+
+REMARKS.
+
+This week has been marked by a very sudden change from the mild dry weather recently reported to a period of very cold northerly and north-westerly winds, frost, and snow. The change commenced in Scotland on Thursday, the 21st instant, when strong northerly winds set in, bringing with them a sudden decrease of temperature, and considerable fall of snow. This spread rapidly, and by the following morning cold weather was felt all over the country, forming a marked contrast to the weather of the previous day. On Friday, the 22nd instant, the thermometer went down to 19° in the shade at York, 21° was registered at Cambridge, and in London, where the thermometer did not sink below 25° in the shade at any time during the week, that on the grass went as low as 12° on Sunday sight. During Sunday a most sudden shift of wind from west to north-west in a severs squall, with snow, took place over England. At Ledale, in Yorkshire, it took place at 10.20 a-m., in London at 3.50 p.m., and soon after in the Channel. The fall of temperature in the squall was very rapid. (See curve above.) In London a decrease of over 10° in nine minutes was observed, and a total fall of 18° in a little over an hour. The currents of air at the same time were *very* complicated. The barometer was highest (30'42 inches) on Thursday, the 2Sst instant lowest (29-48 inches) on Sunday, the 24th instant; range, 0'94 inches. Temperature, in the shade, was highest (56°) on Thursday, the 21st instant ; lowest (25°) on Tuesday, the 26th instant a range, 31'. Rainfall (entirely melted snow: Total fall, 0'03 inches, on two days; greatest fall, 0'02 inches, on Monday, the 25th instant.
+
+*Temperatures in degrees Fahrenheit. A ' is used in place of a decimal point.*
+
+See also image: BL_0000057_18780330_027_0021_pdf__1_page_.png
 ---
 
 
