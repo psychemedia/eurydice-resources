@@ -879,3 +879,166 @@ Is deemed to blend thee with the lov'd and lost.
 - Thomas SMITH
 
 tag: poem
+
+---
+
+https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/
+
+Gerard Manley Hopkins, 1918
+
+p?
+
+The Loss of the Eurydice  
+
+Foundered March 1878.
+
+THE Eurydice–it concerned thee, O Lord:  
+Three hundred souls, O alas! on board,  
+Some asleep unawakened, all un-  
+warned, eleven fathoms fallen  
+
+Where she foundered! One stroke  
+Felled and furled them, the hearts of oak!  
+And flockbells off the aerial  
+Downs' forefalls beat to the burial.  
+
+For did she pride her, freighted fully, on  
+Bounden bales or a hoard of bullion?–  
+Precious passing measure,  
+Lads and men her lade and treasure.  
+
+She had come from a cruise, training seamen–  
+Men, boldboys soon to be men:  
+Must it, worst weather,  
+Blast bole and bloom together?  
+
+No Atlantic squall overwrought her  
+Or rearing billow of the Biscay water:  
+Home was hard at hand  
+And the blow bore from land.  
+
+And you were a liar, O blue March day.  
+Bright sun lanced fire in the heavenly bay;  
+But what black Boreas wrecked her? he  
+Came equipped, deadly-electric,  
+
+A beetling baldbright cloud thorough England  
+Riding: there did storms not mingle? and  
+Hailropes hustle and grind their  
+Heavengravel? wolfsnow, worlds of it, wind there?  
+  
+Now Carisbrook keep goes under in gloom;  
+Now it overvaults Appledurcombe;  
+Now near by Ventnor town  
+It hurls, hurls off Boniface Down.  
+  
+Too proud, too proud, what a press she bore!  
+Royal, and all her royals wore.  
+Sharp with her, shorten sail!  
+Too late; lost; gone with the gale.  
+  
+This was that fell capsize,  
+As half she had righted and hoped to rise  
+Death teeming in by her portholes  
+Raced down decks, round messes of mortals.  
+  
+Then a lurch forward, frigate and men;  
+‘All hands for themselves’ the cry ran then;  
+But she who had housed them thither  
+Was around them, bound them or wound them with her.  
+  
+Marcus Hare, high her captain,  
+Kept to her–care-drowned and wrapped in  
+Cheer’s death, would follow  
+His charge through the champ-white water-in-a-wallow.  
+  
+All under Channel to bury in a beach her  
+Cheeks: Right, rude of feature,  
+He thought he heard say  
+‘Her commander! and thou too, and thou this way.’  
+  
+It is even seen, time’s something server,  
+In mankind’s medley a duty-swerver,  
+At downright ‘No or yes?’  
+Doffs all, drives full for righteousness.  
+  
+Sydney Fletcher, Bristol-bred,  
+(Low lie his mates now on watery bed)  
+Takes to the seas and snows  
+As sheer down the ship goes.  
+  
+Now her afterdraught gullies him too down;  
+Now he wrings for breath with the deathgush brown;  
+Till a lifebelt and God's will  
+Lend him a lift from the sea-swill.  
+  
+Now he shoots short up to the round air;  
+Now he gasps, now he gazes everywhere;  
+But his eye no cliff, no coast or  
+Mark makes in the rivelling snowstorm.  
+  
+Him, after an hour of wintry waves,  
+A schooner sights, with another, and saves,  
+And he boards her in Oh! such joy  
+He has lost count what came next, poor boy.–  
+  
+They say who saw one sea-corpse cold  
+He was all of lovely manly mould,  
+Every inch a tar,  
+Of the best we boast our sailors are.  
+  
+Look, foot to forelock, how all things suit! he  
+Is strung by duty, is strained to beauty,  
+And brown-as-dawning-skinned  
+With brine and shine and whirling wind.  
+  
+O his nimble finger, his gnarled grip!  
+Leagues, leagues of seamanship  
+Slumber in these forsaken  
+Bones, this sinew, and will not waken.  
+  
+He was but one like thousands more,  
+Day and night I deplore  
+My people and born own nation,  
+Fast foundering own generation,  
+  
+I might let bygones be–our curse  
+Of ruinous shrine no hand or, worse,  
+Robbery’s hand is busy to  
+Dress, hoar-hallowèd shrines unvisited;  
+  
+Only the breathing temple and fleet  
+Life, this wildworth blown so sweet,  
+These daredeaths, ay this crew, in  
+Unchrist, all rolled in ruin–  
+  
+Deeply surely I need to deplore it,  
+Wondering why my master bore it,  
+The riving off that race  
+So at home, time was, to his truth and grace  
+  
+That a starlight-wender of ours would say  
+The marvellous Milk was Walsingham Way  
+And one–but let be, let be:  
+More, more than was will yet be.–  
+  
+O well wept, mother have lost son;  
+Wept, wife; wept, sweetheart would be one:  
+Though grief yield them no good  
+Yet shed what tears sad truelove should.  
+  
+But to Christ lord of thunder  
+Crouch; lay knee by earth low under:  
+'Holiest, loveliest, bravest,  
+Save my hero, O Hero savest.  
+  
+And the prayer thou hearst me making  
+Have, at the awful overtaking,  
+Heard; have heard and granted  
+Grace that day grace was wanted.’  
+  
+Not that hell knows redeeming,  
+But for souls sunk in seeming  
+Fresh, till doomfire burn all,  
+Prayer shall fetch pity eternal.
+
