@@ -214,5 +214,55 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/046/0021
 
 
+http://www.bl.uk/onlinegallery/onlineex/ordsurvdraw/s/002osd00000027au00421000.html
+This plan of Chine Head shows the southern cliffs of the Isle of Wight and the downland behind Ventnor. The drawing is made on rectangular sheet lines, enclosed by a black border. Fields are coloured brown where cultivated, and green or blank if untilled. Coniferous trees are distinguished pictorially from deciduous trees on this map.
+Draughtsman: [Gardner, William]
+Medium: Pen and ink on paper
+Date: 1793
+![](../images/002OSD00000027AU00421000-SVC2.jpg)
+
+
+http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html
+Medium: Aquatint, coloured
+Date: 1800
+View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is located in an area known as the Undercliff. This area is protected by the peaks of the Downs and has a notably milder climate than much of the rest of the island. Dunnose is one of the highest points on the island with some peaks reaching a height of 792 feet. The rocks around Dunnose Point are extremely dangerous and it was here that in 1878 the HMS Eurydice sank claiming over 350 lives.
+![](..images/003KTOP00000015U02700000-SVC2.jpg)
+
+
+http://www.bl.uk/onlinegallery/onlineex/ordsurvdraw/s/002osd00000027au00422000.html
+This plan of the Isle of Wight extends from Sandown Bay, at the bottom right, to Haven Street, at the top. The drawing is made on rectangular sheet lines, enclosed by a black border. Fields are coloured brown where cultivated, and green or blank if untilled. Stonework buildings or structures are drawn in red ink at major settlements like Newchurch and Brading. Infilled or blocked areas of black or sepia ink depict structures or buildings made from impermanent materials such as wood. Coniferous trees are distinguished pictorially from deciduous trees on this map.
+Draughtsman: [Gardner, William]
+Medium: Pen and ink on paper
+Date: 1793
+![](../images/002OSD00000027AU00422000-SVC2.jpg)
+
+
+https://www.oldmapsonline.org/en/Isle_of_Wight
+
+https://maps.nls.uk/view/101169209
+OS  
+Sheet 345 - Ventnor (Hills)
+Publication date:  1895
+Size: map 31 x 46 cm (ca. 12 x 18 inches) on sheet ca. 43 x 56 cm (ca. 17 x 22 inches) 
+![](../images/map-maps_nls_uk-view-101169209.png)
+
+http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
+The Isle of Wight, AW Fowles, 1897
+![](../images/004956958-SVC2.jpg)
+
+https://maps.nls.uk/view/102343218
+Hampshire & Isle of Wight Sheet XCIX
+Surveyed: 1862 to 1863, Published: 1866
+Size: map 61 x 92 cm (ca. 24 x 36 inches), on sheet ca. 70 x 100 cm (28 x 40 inches) 
+![](../images/maps-nls-uk-21adc5b8-2f67-4811-bfad-c3c45549676e.png)
+
+
+Example of sail names for a three masted sailing ship
+![](../images/sail_names.jpg)
+
+holy stone
+
+https://ltwilliammowett.tumblr.com/post/642558618647085056/holy-stoning-the-deck
+
 
 ---
