@@ -133,6 +133,14 @@ https://w.iln.org.uk/iln_years/year/images/1878/euridyce/1878%20loss%20of%20euri
 http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
 
 
+![Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isable Atherley, June 23rd 1880](../images/52012947425_583b978292_o.jpg)
+
+![Shankling memorial](../images/52012675554_6773617d89_o.jpg)
+
+![Shankling memorial](../images/52011404897_3891bd2bea_o.jpg)
+
+![Shankling memorial inscription - To the memory of the officers and men of H.M.S. Eurydice which foundered off Shanklin March 24th 1878 seven of whom are buried here ](../images/52012674049_b63a65f7c2_o.jpg)
+
 ![](../images/Eurydice-wreck.jpg)
 ![](../images/Eurydice_salvage.jpg)
 ![](../images/Salvage_Attempt_3.jpg)
