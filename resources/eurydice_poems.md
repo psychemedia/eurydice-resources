@@ -802,6 +802,8 @@ And rejoice in the hope of eternal life.
 
 tag: poem
 
+*This poem also appeared at the end of The last Four Days of the Eurydice, by Captain E. H. Verney, R.N., 1878, with the following note: `The following poem, which appeared in the " Christian" and other papers, was attributed to Captain M. Hare, but recently it has been ascertained , on good authorityy, that they were written by a Lady friend ; and committed to memory by Captain Hare, who afterwaards inserted them in an album.`*
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780606/080/0004
