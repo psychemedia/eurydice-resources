@@ -125,7 +125,6 @@ The lifting operations were suspended on Friday for the re-arrangement of the pl
 ---
 
 
-
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780801/064/0005
 Isle of Wight Times
 Thursday 01 August 1878

@@ -269,7 +269,6 @@ The Survivors.
 
 Benjamin Cuddiford was saved by a life-buoy which he found floating in the water, and which brought him again to the surface after he had been sucked down by the sinking of the ship. He did what he could to save others by taking them pieces of floating wreck. Sydney Fletcher was also saved by a cork life-belt. From the mouths of these two comes all we know, or ever shall know, of the loss of a splendid frigate, and her living freight of some three hundred and fifty souls.
 
-
 Appendix
 
 THE CREW.

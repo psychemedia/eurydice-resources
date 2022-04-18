@@ -277,7 +277,7 @@ MORE COLUMNS WITH NO RELIABLE OCR POSSIBLE - LIST OF NAMES AND BIOGRAPHIES
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006#
 
-Isle of Wight Observer 
+Isle of Wight Observer
 
 Saturday 30 March 1878
 
@@ -357,6 +357,9 @@ TH: letter noteable eg for Eurydice myth, but also is:
 
 ---
 
+
+
+---
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000344/18780330/007/0002

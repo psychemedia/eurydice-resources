@@ -304,6 +304,19 @@ The Portsmouth correspondent of the *Telegraph* writing on the 25th inst., says:
 
 [EXCERPT - RELIEF]
 
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780427/051/0012
+
+Illustrated London News
+Saturday 27 April 1878
+p12
+
+THE WRECK OF RAISING THE EURYDICE.
+
+The hull of H.M.S. Eurydice, the training-ship for seamen of the Royal Navy, which was unhappily sunk by a sudden squall of wind off the coast of the Isle of Wight near Ventnor on Sunday, the 24th ult., has since been lying in eleven fathoms of water, with the dead bodies of more than three hundred men. The raising of the ship, means of lighters attached to her sides, for her removal to Sandown Bay, is not yet accomplished. On Monday last the operations were resumed amid considerable difficulties, the Government arrangements having been unsuccessful. The plan which has been adhered to for about month has been abandoned, and three private divers Messrs. F. Davies, A. Sutherland, and Whittaker, of the firm of Siebe and Gorman, the submarine engineers of London have been retained. Four tugs, the Grinder, Manly, Malta, and Camel, appeared on the scene during the day. An attempt was made to descend to the wreck early in the day, but the tide ran so strongly that it was impossible to do so with safety. The divers managed to reach the vessel during the slack tide in the afternoon, and examined her bows and head-gear. The new plan is to sweep the ship with two steel hawsers and then to lift and carry her between two lighters to the beach. The electric lamp used the divers is one of Foucault’s latest improvements, and regulates itself according to the strength of the current employed. When the current is too powerful the carbon points recede, and when weak they approach each other, thereby keeping up a light of equal intensity. This lamp will burn in any position and is not liable to get out of order. This lamp is inclosed in a strong case, with a lens opposite the carbon points, and a smaller one of colour to examine the light before sending under water. This casing is called the lantern; the whole, with the general arrangements of connection, being after designs of Messrs. Siebe and Gorman. This lantern when closed is perfectly watertight, for when the trial in seventeen fathoms took place not a drop of water entered. The lantern is connected to the battery by means of a double cable of two insulated wire, the cable being made of indiarubber, and the two united together by a tape covering. The battery is composed of fifty Bunsen elements placed in boxes of ten, being handier for moving about. The electric lamp will burn for one hour in the open air, but in the lantern it will bum two hours, as the combustion of the carbon points is not so rapid as in the open air—in fact, after a few minutes the light is burning in a complete vacuum when in the lantern.
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780502/073/0005
