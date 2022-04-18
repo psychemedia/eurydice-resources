@@ -9,13 +9,16 @@ In the days and weeks following the loss of the Eurydice, testimonial and memori
 https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice
 
 Sir Arthur Conan Doyle
+
 1894
 
 p?
 
+Conan Doyle was a resident of Southsea at the time of the disaster.  The poem was originally published in *The Speaker: The Liberal Review* dated March 24th, 1894, as "The Ballad of the Eurydice". It was later collected as "The Home-Coming of the Eurydice".
+
 Poetry - The Home-Coming of the Eurydice
 
-[Lost, with her crew of three hundred boys, on the last day of her voyage, March 23, 1876. She foundered off Portsmouth, from which town many of the boys came.]
+[Lost, with her crew of three hundred boys, on the last day of her voyage, March 23, 1878. She foundered off Portsmouth, from which town many of the boys came.]
 
 Up with the royals that top the white spread of her!  
 Press her and dress her, and drive through the foam;  
