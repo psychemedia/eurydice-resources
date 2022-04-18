@@ -8,7 +8,7 @@
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0003142/19270409/028/0002
-Hampshire Advertiser
+The Hampshire Advertiser and Southampton Times
 
 Saturday 09 April 1927
 p2
@@ -17,7 +17,7 @@ LOSS OF THE EURYDICE.
 
 Mrs C. Mitchelmore. 33 Briton's-road, writes: I have a few remembrances in my mind which no doubt will be very interesting to others as well as myself. The one that comes first is the foundering of H.M.S. Eurydice off the Isle of Wight. I cannot state the exact date. It was about this time of the year in the eighties. 
 
-*Image: Two of the survicors of the Eurydice whose prtraits were preserved by the writer of this note.*
+*Image: Two of the survivors of the Eurydice whose portraits were preserved by the writer of this note.*
 
 It was on a Sunday afternoon, and, as usual, I was in Sunday School at Watts Hall, being in the second Bible class. We were told off to our Bible Classrooms: ours was in the tower facing :he parks. During Scripture lesson the darkness that came over seemed noticeable, it being a lovely bright afternoon. All at once the wind was very boisterous, blowing people in all directions. Then came a blizzard thick and fast. with no chance for anyone to take shelter.
 
