@@ -1,4 +1,6 @@
-# Introducing the Eurydice
+# Life on Board the Eurydice
+
+H.M.S.Eurydice was
 
 Verney book
 

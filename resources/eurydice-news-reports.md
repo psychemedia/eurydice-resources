@@ -3,65 +3,6 @@
 
 ## SOURCES
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18430429/016/0003
-
-Naval & Military Gazette and Weekly Chronicle of the United Service
-
-Saturday 29 April 1843
-p3 
-
-The Eurydice, 26, building Portsmouth upon the plan laid down Admiral Elliot, will launched next month. She is constructed on the draught of the Vestal, with an increase of length and a decrease of beam, and the reduction of the angle of the floor, which will reduce her draught of water about 18 inches. This vessel is extremely clean abaft and forward, and there is no doubt she will have great velocity ; but, in all probability, she will prove very wet. 
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18431016/025/0004
-
-Hampshire Telegraph
-
-Monday 16 October 1843
-
-p4
-
-WEATHERLINESS OF THE EURYDICE.
-
-To the Editor of the Hampshire Telegraph.
-
-Sir, -I learn that the Eurydice draws two feet less water than is usual with ships of war of her size and tonnage. Now this fact, connected as it is with her superior capabilities on a winid, appears to me, to be as a relation of thinigs that deserves no slight consideration-one inideed that ought to be scrutinizingly looked into ; because the quiality of ships' weatherliness is taught by some ship designers to depend on the amiounit of their respective *lateral resistance*, or the quantity of immersed area of the greatest longitudinal sectton a vessel when on the wind offers to the floating medium. That thlis is a very prevalent opinion need not be urged on those who attend to changes made in order to improve leewuardly vessels and those carrying slack helms; for the alterations then effected in them are invariably in accordance with it, and found to consist either in bringing them down in the water by means of more ballast, giving them additionial false keel, or gripe, or increaise of forefront. All these are, however, futile conitrivances, and from general failure whenever put into practice, have proved themselves to be but valueless substitutions to counteract the ill consequencies atteniding bad constructions. The case of the Eurydice, as a contradiction to the entire truth of this taught principle, in my opinion, forms an instance of a very striking kind, since we find in her the possession of the quality of great weatheiliness, conjoined with diminution of lateral resistance. The fact, as relates to her, being established to this extent, I think then there arises a right to regard the possesion of that desirable quality by her as a result of something additional and distinct from a requisite portion of *lateral resistance*, which, of course, is always indispensable, though, perhaps, even that of the Eurydice is far too great; and a possibility may therefore exist that the quality in question and so conspicuous in her, might be as fully possessed by vessels considerably flatter-floored than herself. That this development might occur in forms constructed as described it is thought will appear evident, should what is about to be stated  be conceived to explain the true cause of that ship's weatherly capacity. This true cause is, by me, considered to depend on a mechanical action of her immersed body on the floatinig medium, ensured and takinig place in consequence of her greatest breadth being placed well forwvard, and her mastng strictly comforming to this peculiarity of build. By this disposition of the greatest vertical cross-section, it neceessarily follows that she has greater superficial displacement abaft that section than before it, and that therefore when sailing on a wind, which is productive of a diagonal movement of her hull in the direction of the weather bow and lee quarter, anid to which the axis of this said section forms a pivot-the always greater resistance her lee quiarter, when dipping, maintains over that then acting against the advance of her weather bow, serves most effectually, and by a mechanical process, to continually throw that bow up to windward, and also to lift the entire ship in that direction, realizing what sailors term " fetching to winidward of the point she looked up to." To those who, like myself, may be induced to assign a ship's going to windward to a mechanical operation of her hull on the water as just detailed, two important particulars relative to ship-designing must appear indispensable, namely, that of accurately determining the precise situation of the greatest cross-vertical section, and to what extent draft of water might serviceably be abridged: the latter a not unesential consideration, since a ship when drwaing less water is rendered more effective when employed cruisinig off a coast. Now then, Sir, taking the foregoimg statement for a guide to the ensuing opinion, I will conclude my letter by venturing to say, that owing to neglect of the first particular perhaps may truly be ascribed the cause of so many bad sailing ships apparently having, when seen in dock, forms well calculated to ensure weatherliness and swiftness in sailing; but which, solely from having their greatest breadth placed too far aft, have disappointed the aims of their constructors, and the expectations of all those who, when inspecting them, have not given the circumstance under review due and fitting reflection. It is quite possible too, that great but unnecessary rise of floors in ships, and great draft of water, have been the consequence of not fully detecting this imnperfection in their designs-two things which of late years have gone on increasing, probably with the hope that the greater amount of lateral resistance so obtained would be the means of making them tend well to windward; which quality, I trust, I have in this letter advantageously pointed out to you to be the result of a very different, indeed, opposite arrangement of the elements of their form, and I remain,
-
-Sir, your obedient Servant
-
-JAMES SABBEN, Lieut. R.N.  
-October 13th, 1843.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18431104/013/0003#
-Hampshire Advertiser
-Saturday 04 November 1843
-
-p3
-
-A letter from Lieut. Sabben, R.N. on a subject of considerable interest to naval men — namely, the cause of " weatherliness" in ships, as illustrated by that apparent in H.M.S. Eurydice, was published by our local contemporary some little time since. It msy not be irregular, if we say a few words on the subject, without going into Lieut. Sabben's theory, which would be "dry" — and therefore unpardonable.
-
-We doubt whether " giving additional false keel, or gripe, or increase of forefoot," be " futile contrivances," by way of making a ship more weatherly when deficient in that important quality ; — they will not turn a bad ship into a good one, any more than a pair of spectacles will do the same for defective sight ; but that such things have something to do wilh " weatherliness," universal experience seems to attest. We also doubt extremely the fact alluded to concerning vessels which have the faculty of being lifted bodily to windward, and making " weather " way, instead of " leeway"; and, consequently, having to reckon the former instead of the latter in their calculations on a voyage. That some sailors " say " that some ships do this, proves little : we have *heard it said* that musket balls *rise* on leaving the barrel. The question of how accurately ships do "*fetch* the point they look up to," is very interesting in each individual case, and should be carefully tried, when, and where, no weather or lee, tide or current, lurks as a disturbing cause.
-
-But our concern is with Lieut. Sabben's *data*, the chief of which is the weatherliness of the Eurydice. She has " little " (comparative) "lateral resistance" ;— is that quite certain ? Does not length, and great length of keel, give this ? and is not the Eurydice longer, considerably, " than ships of war of her size and tonnage" : ex. gr. Sir W. Symonds's 26s ? We do not presume to speak positively ; and are quite sure that Lieut. S. is well able to set us right, if we are not so ; but we should have *guessed* that the " lateral resistance " of Eurydice, waa at least equal to that 'of Vestal, for instance : a ship of the claas with which alone Eurydice is to be compared, with any fairness.
-
-Our own very clumsy notion is, that " very different, indeed opposite arrangements of the elements of a ship's form," may produce almost equal excellence, in our present state of knowledge of the subject be it remembered, and without saying tbat there is not one leading principle of form which may be perfect, supposing we could get at it. Now, observe these trials of Eurydice and Warspite ; the formerly certainly had the advantage ; we never for a moment doubted that she would — at least, we always expected it. But there was a third vessel in company, during (we think) most of those trials— H.M. brig Grecian, built on a plan much more unlike both Warspite and Eurydice, than either of these was unlike tbe other, with the very form which Lieut. S. thinks a mistaken one— namely, with " great rise of floor" — in fact, a complete wedge ; and yet she went to windward of both ships.
-
-So that the facts are these— here were three ships, differing in model many ways, and especially as to their midship sections — one having a flat floor, that of an old two-decked ship ; tbe other having a sharper form, with a very deep " hollow," but still with considerable fulness ; the third with what Captain Rous called a "*peg-top* midship section" ; and the result of tbe trials places tbe flattest-floored ship most to leeward ; the mezzo-termine next ; and little peg-top spinning away to windward of all ! Now we do not infer that therefore the flatter-floored a ship is the less weatherly she is, and tbe sharper the more so— there a hundred other things to be thought of, and other trials might give other result ; but *there are the facts*.
-
-We are to remember that, as yet, Eurydice has had no trial with any ship of her own class, and with which she was built expressly to compete — namely, Sir W. Symonds's beautiful 26s ; but we may give it as an opinion — perhaps a worthless one — that her model is superior to theirs.
-
-Again, we are all to recollect that there is another ship on tbe same plan as Eurydice, now of some standing and known character in the service — the corvette Modeste. This ship was for some time in company with the Rover, a corvette of precisely similar class, but on the almost opposite plan of Sir W. Symonds. We never saw any official account of their trials, but we had our's from the officer then commanding H.M.S. Vestal, and under whose orders Rover and Modeste tben were; he had frequent opportunities of judging of these two representations of opposite systems, under a variety of circumstances. The result was that, taking one thing with another, they were very equal in excellence ; tbe superiority of Modeste, as to speed, was off tbe wind, or in smooth water ; tbat of Rover, invariably, was close-hauled, and especially when blowing fresh. That is, be it observed, just at the time when the " mechanical action " of the " body " on the " floating medium," spoken of by Lieutenant Sabben, would come into operation. We only throw out these facts for his consideration, or that of any one whom they may interest, without in any way meaning to dogmatise on them. All will agree with Lieut. S. that the closest attention should be paid to the *position* of the " greatest breadth ;" for, as yet, opinions differ about it considerably.
-
-All will agree, likewise, that whatever tends to " throw " tbe weather bow " up to windward," has the same tendency as regards "the entire ship ;" it being proverbial tbat, " where the head is, the body will not be far behind," unless the ship should have the mishap to come in two, and its dissevered portions should start, each on its own account! Lieut. S. is of course aware that in the case of the " Symondian " ships (the *sharpest*, and we really think, taken as a whole, the most *weatherly* class of ships in existence) being " brought down " generally ruins them ; and the lighter tbey are the better. The reasons are obvious, on an examination of their form. All will concur in what he says as to the importance of *light* draught : but on this we cannot now enter.
-
-With very much that Lieut. S. doubtlessly has to say, we suspect that we should agree ; and his letter was an interesting one. What we protest against is, *not his theory*, but tbe assumption that it is proved or supported, by the recent trials of the Eurydice. Whether his theory be correct is quite a separate question.
-
-
-
----
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002865/18780413/090/0006
 
@@ -80,7 +21,7 @@ Isle of Wight Observer
 Saturday 13 April 1878
 p5
 
-The Loss or the " Eurydice." — Several very good sketches of incidents following the loss of the Eurydice eppeared iv the Pictorial World last week.
+The Loss or the " Eurydice." — Several very good sketches of incidents following the loss of the Eurydice appeared in the Pictorial World last week.
 
 
 ---

@@ -163,7 +163,9 @@ Via https://w.iln.org.uk/iln_years/year/1878.htm
 Illustrated London News
 https://w.iln.org.uk/iln_years/year/images/1878/euridyce/1878%20loss%20of%20euridyce%20aug%2017%20004.jpg
 
+?? https://www.oldpictorial.com/publishedby/pictorial-world/ various graphic magazines
 
+https://en.wikipedia.org/wiki/List_of_19th-century_British_periodicals
 
 ---
 

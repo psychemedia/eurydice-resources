@@ -3,7 +3,15 @@ root: _preface
 parts:
 - chapters:
   - file: _intro
-- caption: The Vessel's Tale
+- caption: In the Beginning
+  chapters:
+  - file: launch_of_eurydice
+  - file: sea_trial_shenanigans
+- caption: Reborn As A Training Ship
+  chapters:
+  - file: training_ship
+  - file: life_on_board_eurydice
+- caption: The Last Voyage
   chapters:
   - file: foundering_of_the_eurydice
   - file: immediate_plans
