@@ -18,7 +18,7 @@ Natalie M. Houston
 Victorian Studies
 Victorian Studies
 Vol. 50, No. 2, Papers and Responses from the Fifth Annual Conference of the North American Victorian Studies Association, Held Jointly with the Victorian Studies Association of Western Canada (Winter, 2008), pp. 233-242 (10 pages)
-
+https://www.jstor.org/stable/40060322?seq=1
 
 FIVE MILLION POEMS, OR THE LOCAL PRESS AS POETRY PUBLISHER, 1800–1900
 Hobbs, Andrew  (2012) Five Million Poems, or the Local Press as Poetry Publisher, 1800–1900. Victorian Periodicals Review, 45 (4). pp. 488-492. ISSN 1712-526X
@@ -287,9 +287,8 @@ tag: poem
 ---
 
 
-
-
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002751/18780329/071/0006
+
 Montrose Standard
 Friday 29 March 1878
 p6
@@ -361,14 +360,13 @@ tag: poem
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/020/0006
+
 Isle of Wight Observer
 Saturday 13 April 1878
 p6
 
 
 [In an article - can we find the original?]
-
-The following lines (signed "F. G.") on the loss  of the Eurydice, appears in the *Baily's Magazine* for this month :
 
 The following lines (signed "F. G.") on the loss  of the Eurydice, appears in the *Baily's Magazine* for this month :
 
@@ -420,12 +418,13 @@ Took the three hundred wanderers Home.
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002281/18780404/035/0003
+
 Soulby's Ulverston Advertiser and General Intelligencer
 
 Thursday 04 April 1878
 p3
 
-POETRY - WRECK OP THE EURYDICE.
+POETRY - WRECK OF THE EURYDICE.
 
 WRITTEN ON A SICK BED
 
@@ -478,6 +477,7 @@ tag: poem
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780405/083/0004
+
 Dundee Evening Telegraph
 
 Friday 05 April 1878
@@ -556,6 +556,7 @@ tag: poem
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002703/18780403/064/0004
+
 Perthshire Constitutional & Journal
 Wednesday 03 April 1878
 p4
@@ -563,7 +564,7 @@ p4
 Poetry. IN MEMORIAM.
 
 Ho! merrily home with her gallant crew,  
-The dear 0ld coast-line in full view,  
+The dear old coast-line in full view,  
 Up Channel under a press of sail  
 She sped, careering before the gale.  
 Taut and trim as a ship should be,  
@@ -661,6 +662,7 @@ tag: poem
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000472/18780424/057/0004
+
 Greenock Telegraph and Clyde Shipping Gazette
 Wednesday 24 April 1878
 
@@ -775,9 +777,9 @@ With their wild and sad and musical tone?
 Why is there never repose for thee ?  
 Why slumberest thou not, oh mighty sea?
 
-Then the ocean's voice I seemed to hear, 
+Then the ocean's voice I seemed to hear,  
 Mournfully, solemnly— sounding near,  
-Like a wail sent up from the caves below, 
+Like a wail sent up from the caves below,  
 Fraught with dark memories of human woe.  
 Telling of loved ones, buried there,  
 Of the dying shriek and the dying prayer ;  
@@ -814,12 +816,12 @@ And at resting-time it must pass away.
 But, oh thou glorious and beautiful sea,  
 There is health and joy and blessing in thee  
 Solemnly, sweetly, I hear thy voice,  
-Bidding me weep mid yet rijoice—  
-Weep for the loved ones buried beneath,
+Bidding me weep and yet rejoice—  
+Weep for the loved ones buried beneath,  
 Rejoice in Him who has conquered death ;  
 Weep for the sorrowing and tempest-tossed,  
 Rejoice in him who has saved the lost ;  
-Weep for the sin, the sorrow. and strife,  
+Weep for the sin, the sorrow, and strife,  
 And rejoice in the hope of eternal life.
 
 tag: poem
