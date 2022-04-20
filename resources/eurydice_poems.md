@@ -200,7 +200,7 @@ For those who in their country's service died.
 All England feels for those who now are left,  
 Widowed and fatherless, their loss to mourn ;  
 Of all their lived unes suddenly bereft  
-By fearful violence of tne pissing storm !  
+By fearful violence of the passing storm !  
 Shine down, O sun, with thy bright cheering face,  
 The world roils on as it has done before ;  
 Grant those who died have found iheir resting place  
