@@ -595,7 +595,7 @@ Merciful Father ! this hour what tears
 Fall, and will fall through the weary years ?  
 Fond friends bitterly, night and day,  
 Mourning the dear ones gone for aye;  
-Sadly raising the cry to Thee–
+Sadly raising the cry to Thee–  
 "O God, have pity on *all* at sea !"
 
 Sad blow indeed ! Yet we'll think with pride  
