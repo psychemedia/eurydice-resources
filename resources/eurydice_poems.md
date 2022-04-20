@@ -481,7 +481,7 @@ Fair hamlets and rich towns,
 There stretch stern Cornwall's jagged cliffs,  
 There Devon's gentle downs.
 
-Tbe Sabbath morning rises blue  
+The Sabbath morning rises blue  
 Above the gloom of night,  
 And on their lee they hail with joy  
 The castled coast of Wight.  

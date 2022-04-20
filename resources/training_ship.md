@@ -1,7 +1,41 @@
 # H.M.S. Eurydice, Training Ship
 
+In 1877, H.M.S. Eurydice was refitted as a training ship. For many years, the fleet had been miving over to aromoured steamships and rigged sailing ships were no longer appropriate for modern naval warfare. However, it was still felt that sailors should still be able to handle traditionally rigged vessels and that training ratings on them would be to their benefit as seamen.
+
+The Eurydice was thus converted over to a training ship in the Spring of 1877, before embarking on a voyage to the West Indies in Autumn 1877. Rumour had it that a calamity had befallen the ship, but a telegram reported in the *Naval & Military Gazette and Weekly Chronicle of the United Service* of Wednesday 21 November 1877, received 17th of November and dated November 16th, 1877, revealed that all was well.
+
+In passing, we might note that this news articles reveals how tegraphic cable communication was available between the West Indies and Britain by this time. A little bit of digging turns up the following history of the cable that presumably carried the telegram signal.
+
+Telegraph Cables (1899)
+by C. J. Cooke
+Transactions and Proceedings of the Royal Society of New Zealand
+Volume 32, 1899, pp 324-329. Art. XXXVIII.
+https://archive.org/details/transactionsofro99roya/page/n349/mode/2up?q=Telegraph
+Transcript: https://atlantic-cable.com/Article/1899Cooke/index.htm
+"Great Western Telegraph Company was formed to connect the United States with Europe by way of the West Indies," then  'changed their title to the "Western and Brazilian Telegraph Company".'?
+
+https://www.gracesguide.co.uk/Great_Western_Telegraph_Co
+Great Western Telegraph Co
+1872 Company incorporated to connect by telegraph cable New York with England, and the West Indies with New York and England, with prospect of further connection to Brazil. Sir William Thomson and Fleeming Jenkin were the engineers. Hooper's Telegraph Works were contracted to provide the cable; arrangements with the Great Northern Telegraph Co to make use of its cables
+1873 The company was in liquidation but the cables were being laid by Hoopers and would be operated by other companies
 
 
+Grace's Guide To British Industrial History;  source of historical information on industry and manufacturing in the UK. Additions are being made daily by a team of volunteers who give freely of their time and expertise.
+Grace’s Guide is a Registered Charity and it relies upon donations and sponsors. Grace's Guide Ltd is a charity (No.1154342) for the advancement of education of the history of Industry and Engineering in the UK.
+
+https://www.gracesguide.co.uk/Western_and_Brazilian_Telegraph_Co
+Western and Brazilian Telegraph Co
+1873 Sir William Thomson and Professor Fleeming Jenkin were connected with the manufacture and laying of cables off the coast of Brazil for the Western and Brazilian Telegraph Company.
+
+https://www.gracesguide.co.uk/Hoopers_Telegraph_and_India-Rubber_Works
+Hoopers Telegraph and India-Rubber Works
+Jump to:navigation, search
+of 31 Lombard Street, London, EC
+1845 William Hooper, a chemist, set up a factory around 1845 in Mitcham, Surrey, to produce rubber goods mostly for the medical profession. He experimented with rubber insulation for electric cables and eventually found a way of insulating cables in a continuous process.
+c.1857 or later: The Indian Government placed Hooper's first order, followed by another order for cable to link India and Ceylon. W. T. Henley carried out the armouring of the cable.
+1860 Company established by William Hooper trading under his own name.
+1870 Hooper formed Hooper's Telegraph Works Ltd. to undertake both manufacture and laying of submarine cables. The first order for the new company was from the Great Northern Telegraph Co for a cable connecting Vladivostock to Hong Kong; Siemens Brothers and Co carried out the armouring of this cable.
+1873 Hooper's laid the cable (which had been made for an Atlantic crossing) off the east coast of South America, having been offered this concession by the Telegraph Construction and Maintenance Co on the condition that Hooper's dropped their plans for a transatlantic cable.
 
 ---
 
@@ -66,6 +100,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18771003/009/0005
 Naval & Military Gazette and Weekly Chronicle of the United Service
 Wednesday 03 October 1877
 p5
+
 Movements of Her Majesty's Ships.
 
 Eurydice. 6, training ship, Captain Marcus A. S. Hare, came into Portsmouth Harbour on Wednesday last, and was taken into the ship basin on Thursday to make good defects.
@@ -97,6 +132,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18771031/063/0006
 Shipping and Mercantile Gazette
 Wednesday 31 October 1877
 p6
+
 NAVAL AND MILITARY - THE ROYAL NAVY
 
 Portsmouth, Oct. 30.—The Eurydice, training ship for seamen, sailed to-day for the West Indies, but in consequence of the weather she has put into St. Helen’s Roads.
@@ -133,8 +169,8 @@ Movements of Her Majesty's Ships
 
 ...
 
-Eurydice, 4 training-ship for ordinary seamean, Captain Marcus A S. Hare. Mauh excitement prevailed Portsmouth during last week, consequent on a rumour that during the recent heavy gale this vessel lost her topmasts and topsail yard, and that several men were carried overboard with them and drowned. On inquiry we learn that nothing official is yet to hand. On the 17th of November all apprehensions were removed by the receipt of the following telegram:— "Eurydice, Lisbon, Friday, November l6ih. 8 55 p.m.—Arrived all well; will leave on the 24th. Send letters and papers to Barbadoes."
+Eurydice, 4 training-ship for ordinary seamean, Captain Marcus A S. Hare
+
+Much excitement prevailed Portsmouth during last week, consequent on a rumour that during the recent heavy gale this vessel lost her topmasts and topsail yard, and that several men were carried overboard with them and drowned. On inquiry we learn that nothing official is yet to hand. On the 17th of November all apprehensions were removed by the receipt of the following telegram:— "Eurydice, Lisbon, Friday, November 16th. 8 55 p.m.—Arrived all well; will leave on the 24th. Send letters and papers to Barbadoes."
 
 ...
-
----

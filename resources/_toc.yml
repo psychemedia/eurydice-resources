@@ -11,11 +11,16 @@ parts:
   chapters:
   - file: training_ship
   - file: life_on_board_eurydice
-- caption: The Last Voyage
+- caption: The Loss of the Eurydice
   chapters:
   - file: foundering_of_the_eurydice
   - file: immediate_plans
   - file: struggle_to_raise_continues
+- caption: An Aside
+  chapters:
+    - file: life_aside
+- caption: The Final Voyage
+  chapters:
   - file: raising_the_eurydice
   - file: eurydice_in_port
 - caption: The Human Tale
@@ -30,3 +35,8 @@ parts:
   - file: inquest
   - file: eurydice_court_martial
   - file: eurydice_tracked_in_parliament
+- caption: Endnotes
+  chapters:
+  - file: image_refs
+  - file: _sources
+  - file: _biography

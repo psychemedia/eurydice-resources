@@ -270,6 +270,19 @@ TWO BODIES FOUND.
 On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near to Sir William Hutt's pier at Apley ; one of the bodies was headless, but a human head was found floating near the spot. The bodies were in a very advanced state of decomposition, and almost nude, so that there were no means of identification ; but there is little doubt that they were from the ill-fated Eurydice. Coffins were procured, and the bodies conveyed by the Coastguard to the mortuary at the Cemetery. At half-past 5 in the afternoon the funeral took place at the north side of the Cemetery. Palls were thrown over the coffins, which were carried, shoulder high, by eight Coastguardsmen, under the superintendence of Mr. Jefferys, the chief officer. They were met at the grave (both being interred in one) by Mr. Westhall, a gentleman residing in Ryde, who read portions of Scripture. and afterwards addressed the large concourse of people, remarking that it was a very solemn occasion, and took their thoughts back to the 24th March, when about 300 poor men and boys were drowned by the capsizing of the Eurydice; the bodies of two of them were in the coffins before them ; there were no names on the coffins, but the men were known to God. He nothing of their history, and he did not know whether they were Christians, and he had nothing to do with that. They were surrounded by mysteries ; even their own existence was a mystery, and it was a most mysterious thing that the poor creatures who were drowned would have been on land in about an hour, and would have boon welcomed by loving friends; but it was not to be. They could not understand it, but the light of eternity would interpret all mysteries, and all they had to do was to bow to the will of God, for would not the Judge of the whole earth do right? The lesson for all of them to learn was the uncertainty of human life. Those who were drowned were in good health and spirits a few minutes before, and then were called to their final account. There were these present who evidently had sympathy for those who had been thus taken suddenly away. Although they were taken thus suddenly, it was possible they might have been able to give one look to the Saviour, and there was life in a look. It did not take long to save the thief on the cross, and they might hope that many in the Eurydice were saved, and he was glad to believe that many on board loved the Saviour. Mr. Westhall concluded the simple, but very impressive, service by offering prayer and pronouncing the benediction. There was something exceedingly affecting in witnessing the two plain, nameless coffins placed in the grave, and no friends or relatives near to pay the last tribute of affection ; and also in the thought that until the morning of the resurrection it must remain a profound secret as to who was interred in Ryde Cemetery on Saturday afternoon.
 
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790412/066/0008
+Hampshire Advertiser
+Saturday 12 April 1879
+p8
+
+SANDOWN, April 12.
+
+...
+
+Eurydice Memorial.— The subscription set on foot for the purpose of erecting a memorial to the seven seamen who were drowned in the Eurydice disaster, and whose bodies were washed on shore at Sandown, has been very successful. Sufficient funds were collected to obtain a very handsome monument, which has just been completed by Mr. J. Ellery, of Ryde, and erected in Sandown Churchyard. It is of Portland stone, and consists of a pedestal 3ft. 6in. high, which stands on a moulded base, with two steps surrounding it. The whole is about 4ft. 6in. high. On the four sides of the pedestal are sunken panels, surmounted with appropriate emblems. On each side of the pedestal is an inscription. That on the east is as follows : — " Sacred to the memory of seven brave seamen of Her Majesty's Navy, who lie buried here, after having first found a watery grave on Sunday, March 24th, 1878, when H.M.S. Eurydice foundered in a terrific squall off Sandown Bay." On the north side the names of those known are stated, viz., D. Harvey, J. T. Smith, W. Shuker, H. Veals. The names of the others buried here are unknown. The other sides of the memorial have appropriate texts of Scripture.
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18790426/022/0011
 
@@ -284,6 +297,14 @@ A Memorial to those Sailors of the "Eurydice" buried at Sandown, Isle of Wight, 
 
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790709/030/0004
+Hampshire Advertiser
+Wednesday 09 July 1879
+p4
+
+The Eurydice. — A handsome tablet has been placed in the chapel of the dockyard at Portsmouth, by permission of the Admiralty, and is a fine specimen of the sculptor's art. On a tablet of jet black marble is a cross and anchor and cable resting on rock covered with seaweed, and beneath a scroll in white block marble, the latter bearing the following inscription, surmounted by the word " Eurydice," and having underneath the crest and motto of the deceased:— "In affectionate remembrance of Francis Hope Tabor, Lieutenant Royal Navy, who was drowned by the capsizing of H.M.S. Eurydice off Dunnose, Isle of Wight, March 24th, I878, this tablet was erected by the officers of the ships in which he had served."
+
+---
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790712/014/0008
@@ -294,6 +315,38 @@ The Eurydice.
 
 A handsome tablet has been placed in the chapel of the dockyard at Portsmouth by permissian of the Admiralty, and is a fine specimen of the sculptor's art. On a tablet of jet black marble is a cross, anchor, and cable resting on a rock covered with seaweed, and beneath a scroll in white block marble, the latter bearing the following inscription, surmounted by the word "Eurydice," and having underneath the crest and motto of the deceased: "In affectionate rememberance of Francis Hope Tabor, Lieutenant Royal Navy, who was drowned by the capsizing of H.M S. Eurydice off Donnose, Isle of Wight, March 24th, 1878. This tablet was erected by the officers of the ships in which he had served."
 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790830/066/0008
+Hampshire Advertiser
+Saturday 30 August 1879
+
+p8
+
+Portsmouth Branch
+
+The seaman Cuddeford, one of the two survivors of the foundering of the Eurydice, brig, off the Isle of Wight, has been invalided, a medical certificate showing him to be unfit for further service. In consequence of his lengthy immersion in the water he has lost all his teeth.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18791108/004/0002
+Portsmouth Evening News
+Saturday 08 November 1879
+
+p2
+
+THE WRECK REGISTER FOR 1877-78.
+
+The greatest sacrificc of human life happened on the south coast of England, on account of the 318 lives lost by the foundering the Eurydice off the Isle of Wight on thfe 24th of March, 1878.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18791112/037/0004
+Hampshire Independent
+Wednesday 12 November 1879
+
+p4
+
+Sandown
+
+A CURIOUS INClDENT.—connected with the loss of H.M.S. Eurydice has just occurred at Brighton. Amongst those who were reported as having perished in that ill-fated vessle was a lad named Merchant, and, a lad of the same same having left his home in Brighton a long time previously in order to join that ship, his friends, who had not heard from him since he left home, mourned for him as dead, believing, as the name and initial were the same, and as the descriptions corresponded, that it was their son who was lost. Nearly twenty months had elapsed since the disaster, when greatly to their surprise, the lad who was regarded as dead long since walked into his home alive and well, having travelled 65,000 miles since he had set forth. It appeared that, instead of joining the Eurydice, he had joined another ship, and finally had reached England in the Shah, after having visited the four continents. He had not written home either from want of opportunity or indifference.
 
 ---
 
@@ -321,8 +374,6 @@ SHANKLIN. May 29
 
 Ihe Eurydice Memorial.— The memorial to the offioers and men lost in the Eurydice is now in course of erection in our cemetery, in which seven bodies recovered from the unfortunate ship are buried. The monument is a very handsome structure, and will stand about 8ft high. It is carved entirely in Portland stone by Mr Moynihan, of Shepherd's Bush, London. The design which was partly suggested by our townsman Mr. Tyler is made np of cannon, anchors, and sea emblems, bat as it is not quite completed we must defer a description The value ofthe monument is said to be between £4OO and £5OO. The monument will be unveiled some time in June by Lady Atherley.
 
-
----
 
 ---
 

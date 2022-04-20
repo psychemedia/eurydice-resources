@@ -1,15 +1,20 @@
 # H.M.S. Eurydice, Original Commission
 
+In 1843, various newspaper reports started appearing announcing the upcoming launch the *Eurydice*, a 26 gun frigate based on a design by Admiral the Hon. George Elliot.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18430429/016/0003
+```{admonition} Admiral the Hon. George Elliot
+:class: seealso dropdown
 
-Naval & Military Gazette and Weekly Chronicle of the United Service
-Saturday 29 April 1843
+https://en.wikipedia.org/wiki/George_Elliot_(Royal_Navy_officer,_born_1784)
+```
 
-p3
+H.M.S. Eurydice was officially launched by one of his daughters, and the ship was commissioned by his eldest son, Captain George Elliot.
 
-The Eurydice, 26, building Portsmouth upon the plan laid down Admiral Elliot, will launched next month. She constructed on the draught of the Vestal, with an increase of length and a decrease of beam, and the reduction of the angle of the floor, which will reduce her draught of water about 18 inches. This vessel is extremely clean abaft and forward, and there is no doubt she will have great velocity ; but, in all probability, she will prove very wet.
+```{admonition} Captain George Elliot
+:class: seealso dropdown
+
+https://en.wikipedia.org/wiki/George_Elliot_(Royal_Navy_officer,_born_1813)
+```
 
 ---
 
@@ -21,7 +26,7 @@ Naval & Military Gazette and Weekly Chronicle of the United Service
 Saturday 29 April 1843
 p3 
 
-The Eurydice, 26, building Portsmouth upon the plan laid down Admiral Elliot, will launched next month. She is constructed on the draught of the Vestal, with an increase of length and a decrease of beam, and the reduction of the angle of the floor, which will reduce her draught of water about 18 inches. This vessel is extremely clean abaft and forward, and there is no doubt she will have great velocity ; but, in all probability, she will prove very wet. 
+The Eurydice, 26, building at Portsmouth upon the plan laid down by Admiral Elliot, will be launched next month. She is constructed on the draught of the Vestal, with an increase of length and a decrease of beam, and the reduction of the angle of the floor, which will reduce her draught of water about 18 inches. This vessel is extremely clean abaft and forward, and there is no doubt she will have great velocity ; but, in all probability, she will prove very wet.
 
 
 ---
@@ -35,11 +40,11 @@ The Portsmouth, Portsea and Gosport Herald, PORTSMOUTH, MAY 20.
 
 The Eurydice, 26 guns, built according to the plan of Rear Admiral the Hon. George Elliot, was launched on Tuesday. The ceremony of naming her was performed by a daughter of the gallant Admiral. A numerous assemblage of persons had collected, and a few minutes before high-water she left her semi-aerial position for a more natural and graceful one upon the surface of the element over which she is hereafter to move. The following are her principal dimensions  [Feet. Inches.]: —
 
-Length between tbe perpendiculars . . 141 2
-Keel for tonnage . . ..116 1 1/2
-Breadth extreme .. .. 38 10
-Breadth for tonnage . . . . 38 4
-Depth in hold .. .. 8 9 
+Length between the perpendiculars . . 141 2  
+Keel for tonnage . . ..116 1 1/2  
+Breadth extreme .. .. 38 10  
+Breadth for tonnage . . . . 38 4  
+Depth in hold .. .. 8 9  
 
 908 tons.
 
@@ -69,7 +74,7 @@ Portsmouth, May 25
 
 ...
 
-No other vessel is to be built upon the slip from which the ! Eurydice was recently launched, as it forms part of the yard which is to be converted into a basin here for war steamers.
+No other vessel is to be built upon the slip from which the Eurydice was recently launched, as it forms part of the yard which is to be converted into a basin here for war steamers.
 
 ...
 
@@ -130,6 +135,6 @@ p4
 
 PORTSMOUTH, SATURDAY, SEPTEMBER 30, 1843.
 
-The Eurydice, 26, Captain G. Elliot;, sailed this morning tor the West India Station, calling at Plymouth. She will convey orders for a small frigate — most probably the Spartan-to go to the Mediterranean, in the same manner as the Inconstant 36, sends the Pique, 36, to the same station ; and we understand all the vessles on the West India Station, are to be shifted to other quarter at the end of eighteen months. The Eurydice answers delightfully, and beat the Warspite in every point of sailing in the late cruise.
+The Eurydice, 26, Captain G. Elliot, sailed this morning tor the West India Station, calling at Plymouth. She will convey orders for a small frigate — most probably the Spartan-to go to the Mediterranean, in the same manner as the Inconstant 36, sends the Pique, 36, to the same station ; and we understand all the vessles on the West India Station, are to be shifted to other quarter at the end of eighteen months. The Eurydice answers delightfully, and beat the Warspite in every point of sailing in the late cruise.
 
 

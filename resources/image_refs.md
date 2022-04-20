@@ -19,6 +19,8 @@ The 26-gun, three-masted HMS 'Eurydice' launched on 16 May 1843, sailing the Nor
 
 The present model faithfully recreates the timber deck with inscribed plank lines, and detailed fittings including anchor & cables, bitts, ship's boats on chocks, capstan, gratings, companionway, wheel, binnacle, and hammocks in place in the nettings.
 
+William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
+![](../images/William_Howard_Yorke_-_HMS_'Eurydice'_at_Sea_-_RMG_BHC3331.jpg)
 
 
 ![](../images/623829-1470753518.jpg)
@@ -85,6 +87,13 @@ Size: map 61 x 92 cm (ca. 24 x 36 inches), on sheet ca. 70 x 100 cm (28 x 40 inc
 ![](../images/maps-nls-uk-21adc5b8-2f67-4811-bfad-c3c45549676e.png)
 
 
+
+View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight
+http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html
+View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is located in an area known as the Undercliff. This area is protected by the peaks of the Downs and has a notably milder climate than much of the rest of the island. Dunnose is one of the highest points on the island with some peaks reaching a height of 792 feet. The rocks around Dunnose Point are extremely dangerous and it was here that in 1878 the HMS Eurydice sank claiming over 350 lives.
+Medium: Aquatint, coloured
+Date: 1800
+![](../images/003KTOP00000015U02700000_SVC2.jpg)
 
 Title: HMS EURYDICE British Frigate, 1843
 Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
@@ -281,6 +290,20 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/046/0021
 ![Shankling memorial inscription - To the memory of the officers and men of H.M.S. Eurydice which foundered off Shanklin March 24th 1878 seven of whom are buried here ](../images/52012674049_b63a65f7c2_o.jpg)
 
 
+
+Sandown
+
+![](../images/uo_1532958638-16959-69.jpg)
+
+Library of Congress
+Title: [Sandown Bay, Isle of Wight, England]
+Date Created/Published: [between ca. 1890 and ca. 1900].
+![](../images/service-pnp-ppmsc-08900-08995r.jpg)
+
+Library of Congress
+Title: [Sandown from pier, Isle of Wight, England]
+Date Created/Published: [between ca. 1890 and ca. 1900].
+![](../images/service-pnp-ppmsc-08900-08996r.jpg)
 holy stone
 
 https://ltwilliammowett.tumblr.com/post/642558618647085056/holy-stoning-the-deck
