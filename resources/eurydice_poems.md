@@ -598,12 +598,12 @@ Mourning the dear ones gone for aye;
 Sadly raising the cry to Thee–
 "O God, have pity on *all* at sea !"
 
-Sad blow indeed ! VoYetl we'll think with pride  
+Sad blow indeed ! Yet we'll think with pride  
 Like British tars at their posts they died.  
 And what nobler grave than his native deep  
 Could the sailor choose for his long last sleep,  
 Where the roar of the surf shall ever be  
-The dirge of the Eurydice? 
+The dirge of the Eurydice?
 
 — *Whitehall Review.*
 
