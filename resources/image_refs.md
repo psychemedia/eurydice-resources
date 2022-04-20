@@ -295,6 +295,11 @@ Sandown
 
 ![](../images/uo_1532958638-16959-69.jpg)
 
+
+![](../images/sandown_pier.jpeg)
+
+![](../images/Sandown-pier-c.1900-c-Richard-T-Riding-640px.jpg)
+
 Library of Congress
 Title: [Sandown Bay, Isle of Wight, England]
 Date Created/Published: [between ca. 1890 and ca. 1900].
@@ -308,6 +313,12 @@ holy stone
 
 https://ltwilliammowett.tumblr.com/post/642558618647085056/holy-stoning-the-deck
 
+Isle of Wight : Bembridge from St.Helens . Harbour section of Victorian Print c.1850s.
+Isle of Wight : A finely detailed print view titled " Bembridge from St.Helens " : a Victorian Print c.1850s.
+![](../images/3512272457_8784bc5a44_b.jpg)
+https://www.flickr.com/photos/lenton_sands/3512272457/
 
-
+(Golf course opened 1882)
+St Helens Duver Golf Links
+![](../images/st_helens_duver_links_l.jpg)
 ---

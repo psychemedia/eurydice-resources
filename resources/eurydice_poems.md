@@ -1,8 +1,9 @@
 # Memorial Poems on the Loss of the Eurydice
 
-In the days and weeks following the loss of the Eurydice, testimonial and memorial poems appeared in newspapers across Great Britain.
+In the days and weeks following the loss of the Eurydice, testimonial and memorial poems appeared in newspapers across Britain.
 
-
+```{admonition} Vicorian Newspaper Poetry
+:class: seealso dropdown
 
 "A Very Poetical Town": Newspaper Poetry and the Working-Class Poet in Victorian Dundee
 KIRSTIE BLAIR
@@ -23,6 +24,8 @@ https://www.jstor.org/stable/40060322?seq=1
 FIVE MILLION POEMS, OR THE LOCAL PRESS AS POETRY PUBLISHER, 1800–1900
 Hobbs, Andrew  (2012) Five Million Poems, or the Local Press as Poetry Publisher, 1800–1900. Victorian Periodicals Review, 45 (4). pp. 488-492. ISSN 1712-526X
 https://clok.uclan.ac.uk/11418/1/45.4.hobbs.pdf
+
+```
 
 ---
 

@@ -393,7 +393,6 @@ p7
 A memorial to the officers and men lost in the Eurydice is now in course of erection in the Shanklin Cemetery, in which seven bodies recovered from the ill fated ship aro buried. The monument, a very handsome structure, will stand about eight feet high, and will be carved entirely in Portland stone by Mr. Moyniham, of Shepherd's Bush, London. The design consists of naval emblems—cannon, anchors, &c., and the value of the monument, it is said, will be between £4OO and £5OO. The monument will be unveiled during the present month by Lady Atherley.
 
 
-
 ---
 
 
@@ -416,7 +415,7 @@ Saturday 26 June 1880
 
 p7
 
-MEMORIAL OP H.M.S. EURYDICE.
+MEMORIAL OF H.M.S. EURYDICE.
 
 On Wednesday afternoon, in the presence of a numerous crowd of spectators, a monument to the memory of the officers and crew of tho ill-fated training ship, the Eurydice, which foundered, with the loss of over 300 officers, seamen, and boys, on March 24, 1878, was unveiled in Shanklin Cemetery, Isle of Wight, by Lady Isabel Atherley. The monument, which is the result of public subscription, was sculptured by Mr. F. J. Moyniham, of London, and consists of a naval trophy, wrought in Portland stone, and surmounted and partly shrouded in a canopy of naval flags. It is built so as to face Sandown Bay, the mouth of the cannon being pointed to the spot where the ill-fated vessel sank. On the front is a tablet, with the inscription, "To the memory of the officers and men of H.M.S. Eurydice, which foundered off Shanklin, March 24, 1878," and above it is a ribbon with raised letters, indicative of the ribbon on the caps of the crew of the vessel. Lieut. Langley, of H.M.S. Excellent, and other officers of the Navy, with petty officers, sailors, and marines of her Majesty's ships Orontes, St. Vincent, and Asia, represented her Majesty's Service, and the coastguards of the Isle of Wight, under their officers, also took part in the ceremony. The vicar of St. Saviour's, Shanklin (the Rev. C. J. Burland), delivered an address prior to the unveiling of the monument. He paid a high tribute to the memory of the brave men who lost their lives in the performance of their duty on the memorable 24th of March, and it was incidentally intimated that an impression was current that one of the seven unknown bodies which had been washed ashore at Shanklin, and over which this monument had been erected, was that of the gallant captain of the ill-fated ship. Colonel Atherley, Lieutenant Langley, and others also addressed the assembly, and the proceedings were of a deeply interesting character.
 
