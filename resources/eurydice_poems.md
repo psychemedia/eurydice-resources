@@ -1,6 +1,28 @@
-# Memorial Poems on Tthe Loss of the Eurydice
+# Memorial Poems on the Loss of the Eurydice
 
-In the days and weeks following the loss of the Eurydice, testimonial and memorial poems appeared in nespapers across GReat Britain.
+In the days and weeks following the loss of the Eurydice, testimonial and memorial poems appeared in newspapers across Great Britain.
+
+
+
+"A Very Poetical Town": Newspaper Poetry and the Working-Class Poet in Victorian Dundee
+KIRSTIE BLAIR
+Victorian Poetry
+Vol. 52, No. 1, Victorian Periodical Poetry (SPRING 2014), pp. 89-109 (21 pages)
+Published By: West Virginia University Press
+Victorian Poetry
+https://www.jstor.org/stable/43592678
+
+
+Newspaper Poems: Material Texts in the Public Sphere
+Natalie M. Houston
+Victorian Studies
+Victorian Studies
+Vol. 50, No. 2, Papers and Responses from the Fifth Annual Conference of the North American Victorian Studies Association, Held Jointly with the Victorian Studies Association of Western Canada (Winter, 2008), pp. 233-242 (10 pages)
+
+
+FIVE MILLION POEMS, OR THE LOCAL PRESS AS POETRY PUBLISHER, 1800–1900
+Hobbs, Andrew  (2012) Five Million Poems, or the Local Press as Poetry Publisher, 1800–1900. Victorian Periodicals Review, 45 (4). pp. 488-492. ISSN 1712-526X
+https://clok.uclan.ac.uk/11418/1/45.4.hobbs.pdf
 
 ---
 

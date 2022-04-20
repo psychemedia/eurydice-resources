@@ -5,7 +5,7 @@ Whilst attempts were being made to raise the Eurydice, other activity had been g
 The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
 
 
-
+## The Opening of Sandown Pier
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780522/025/0004
@@ -109,6 +109,8 @@ The toasts of "The Ladies" and "The Press" brought the proceedings to a close.
 ---
 
 TEXT
+
+## Looming War
 
 TO DO
 

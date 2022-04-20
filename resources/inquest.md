@@ -122,11 +122,11 @@ By the Coroner : I cannot say whether the wind was bowing off the land or not. I
 
 A Juror: Had you a sufficient quantity of ballast on board?— A great portion of our ballast was water.
 
-The Coroner : Which was being consumed during the voyage ? — Yes 
+The Coroner : Which was being consumed during the voyage ? — Yes
 
-Do you kuow whether there waa a large quantity of water in her on Sunday afternoon before this happened ?— No, I cannot tell.
+Do you kuow whether there was a large quantity of water in her on Sunday afternoon before this happened ?— No, I cannot tell.
 
-The Foreman : You had not been put on shor allowance of water ?— No. 
+The Foreman : You had not been put on shor allowance of water ?— No.
 
 The Coroner: Were the guns or stores displaced previously ? —No ; not that I kuow of.
 

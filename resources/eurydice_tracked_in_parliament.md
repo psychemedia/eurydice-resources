@@ -1,4 +1,4 @@
-# Parlimanetary Mentions
+# Parliamentary Mentions
 
 
 ---
