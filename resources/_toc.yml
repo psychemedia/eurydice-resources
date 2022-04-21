@@ -16,12 +16,11 @@ parts:
   - file: foundering_of_the_eurydice
   - file: immediate_plans
   - file: struggle_to_raise_continues
-- caption: An Aside
-  chapters:
-    - file: life_aside
+  - file: life_aside
 - caption: The Final Voyage
   chapters:
   - file: raising_the_eurydice
+  - file: life_aside_2
   - file: eurydice_in_port
 - caption: The Human Tale
   chapters:

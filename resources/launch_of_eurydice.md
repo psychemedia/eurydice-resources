@@ -28,6 +28,17 @@ p3
 
 The Eurydice, 26, building at Portsmouth upon the plan laid down by Admiral Elliot, will be launched next month. She is constructed on the draught of the Vestal, with an increase of length and a decrease of beam, and the reduction of the angle of the floor, which will reduce her draught of water about 18 inches. This vessel is extremely clean abaft and forward, and there is no doubt she will have great velocity ; but, in all probability, she will prove very wet.
 
+![](../images/eurydice-model-bonhams.jpeg)
+https://www.bonhams.com/auction/27248/lot/13/a-model-of-the-frigate-hms-eurydice-40in-x-195in-x-315in-102cm-x-50cm-x-80cm/
+Bonhams Auctioneers
+A Model of the Frigate HMS 'Eurydice', English,
+40in x 19.5in x 31.5in (102cm x 50cm x 80cm)
+THE MARINE SALE
+27 April 2022, 14:00 BST
+London, Knightsbridge
+£800 - £1,200
+
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430520/018/0003
@@ -63,6 +74,16 @@ PORTSMOUTH, MAY 23 (from our private correspondent)
 The Eurydice, 20, recently launched from this yard, and built on the plan of Rear Admiral George Elliot, is ordered to be forthwith fitted for commission ; she was coppered yesterday, and will be taken out of dock on Thursday next.
 
 ...
+
+
+---
+
+TEXT
+
+![](../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg)
+William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
+
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000306/18430527/022/0008

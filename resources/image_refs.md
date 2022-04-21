@@ -2,7 +2,6 @@ IMAGES
 
 ![](../images/eurydice-model-bonhams.jpeg)
 https://www.bonhams.com/auction/27248/lot/13/a-model-of-the-frigate-hms-eurydice-40in-x-195in-x-315in-102cm-x-50cm-x-80cm/
-
 Bonhams Auctioneers
 A Model of the Frigate HMS 'Eurydice', English,
 40in x 19.5in x 31.5in (102cm x 50cm x 80cm)
@@ -19,9 +18,9 @@ The 26-gun, three-masted HMS 'Eurydice' launched on 16 May 1843, sailing the Nor
 
 The present model faithfully recreates the timber deck with inscribed plank lines, and detailed fittings including anchor & cables, bitts, ship's boats on chocks, capstan, gratings, companionway, wheel, binnacle, and hammocks in place in the nettings.
 
-William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
-![](../images/William_Howard_Yorke_-_HMS_'Eurydice'_at_Sea_-_RMG_BHC3331.jpg)
 
+![](../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg)
+William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
 
 ![](../images/623829-1470753518.jpg)
 HMS Eurydice at St Lucia before her last voyage home, 1878 1878
@@ -38,14 +37,18 @@ H.M.S. Eurydice, in The Last Four Days of the "Eurydice", by Captain E. H. Verne
 Inboard profile plan for HMS 'Eurydice' (1843)
 https://prints.rmg.co.uk/collections/ship-plans/products/inboard-profile-plan-for-hms-eurydice-1843-j6247
 
-Example of sail names for a three masted sailing ship
 ![](../images/sail_names.jpg)
+Example of sail names for a three masted sailing ship
 
 
-http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
-The Isle of Wight, AW Fowles, 1897
+
 ![](../images/004956958-SVC2.jpg)
+The Isle of Wight, AW Fowles, 1897
+http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
 
+
+![](../images/004956958-SVC2_jpg_annotated.png)
+The Isle of Wight, AW Fowles, 1897 annotated
 
 http://www.bl.uk/onlinegallery/onlineex/ordsurvdraw/s/002osd00000027au00421000.html
 This plan of Chine Head shows the southern cliffs of the Isle of Wight and the downland behind Ventnor. The drawing is made on rectangular sheet lines, enclosed by a black border. Fields are coloured brown where cultivated, and green or blank if untilled. Coniferous trees are distinguished pictorially from deciduous trees on this map.
@@ -87,25 +90,13 @@ Size: map 61 x 92 cm (ca. 24 x 36 inches), on sheet ca. 70 x 100 cm (28 x 40 inc
 ![](../images/maps-nls-uk-21adc5b8-2f67-4811-bfad-c3c45549676e.png)
 
 
-
+![](../images/003KTOP00000015U02700000_SVC2.jpg)
 View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight
 http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html
 View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is located in an area known as the Undercliff. This area is protected by the peaks of the Downs and has a notably milder climate than much of the rest of the island. Dunnose is one of the highest points on the island with some peaks reaching a height of 792 feet. The rocks around Dunnose Point are extremely dangerous and it was here that in 1878 the HMS Eurydice sank claiming over 350 lives.
 Medium: Aquatint, coloured
 Date: 1800
-![](../images/003KTOP00000015U02700000_SVC2.jpg)
 
-Title: HMS EURYDICE British Frigate, 1843
-Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
-Description:
-Catalog #: NH 61070
-Copyright Owner: Naval History and Heritage Command
-Original Creator:
-Original Date: Wed, Mar 27, 1878
-After this Year: 1870
-Before this Year: 1879
-Original Medium: BW Photo
-- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html
 
 ![](../images/NH_61069.jpg)
 Title: HMS EURYDICE British Frigate, 1843
@@ -119,6 +110,23 @@ After this Year: 1870
 Before this Year: 1879
 Original Medium: BW Photo
 - https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html
+
+
+![](../images/NH_61070.jpg)
+Title: HMS EURYDICE British Frigate, 1843
+Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
+Description:
+Catalog #: NH 61070
+Copyright Owner: Naval History and Heritage Command
+Original Creator:
+Original Date: Wed, Mar 27, 1878
+After this Year: 1870
+Before this Year: 1879
+Original Medium: BW Photo
+- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html
+
+![](../images/P.1986.44-Copy.jpg)
+http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
 
 
 ![](../images/BL_0001702_18780323_078_0008_pdf__1_page_.png)
@@ -150,26 +158,30 @@ Original Medium: BW Photo
 
 Via https://w.iln.org.uk/iln_years/year/1878.htm
 
-![Illustrated London News - Loss of HMS Eurydice with 300 seamen, March 30, 1878](../images/ILN_1878_loss_of_euridyce_mar_30_002.jpg)
+![](../images/ILN_1878_loss_of_euridyce_apr_06_011.jpg)
+Illustrated London News — H.M.S. Eurydice as she lay in Portsmouth harbour before her last voyage - from a photograph, April 6, 1878
 
-![Illustrated London News — H.M.S. Eurydice as she lay at eight a.m. on March 25 off Dunnose Point, Isle of Wight, April 6, 1878](../images/ILN_1878_loss_of_euridyce_apr_06_03x.png)
+![](../images/ILN_1878_loss_of_euridyce_mar_30_002.jpg)
+Illustrated London News - Loss of HMS Eurydice with 300 seamen, March 30, 1878
 
-![Illustrated London News — H.M.S. Eurydice as she lay in Portsmouth harbour before her last voyage - from a photograph, April 6, 1878](../images/ILN_1878_loss_of_euridyce_apr_06_011.jpg)
-
-![Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878](../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg)
-
-![Illustrated London News — Divers at Work on H.M.S. Eurydice, April 4, 1878](../images/ILN_1878_loss_of_euridyce_apr_04_009.jpg)
-
-![Illustrated London News — The wreck of the Eurydice: Divers examining a wreck by the submarine light, April 27, 1878](../images/ILN_1878_loss_of_euridyce_apr_27_007.jpg)
-
-![Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle of Wight, July 27, 1878](../images/ILN_1878_loss_of_euridyce_jul_27_005.jpg)
-
-![Illustrated London News — Visit of the Prince of Wales to the wreck of H.M.S. Eurydice in Sandown Bay, August 17, 1878](../images/ILN_1878_loss_of_euridyce_aug_17_004.jpg)
+![](../images/ILN_1878_loss_of_euridyce_apr_06_03x.png)
+Illustrated London News — H.M.S. Eurydice as she lay at eight a.m. on March 25 off Dunnose Point, Isle of Wight, April 6, 1878
 
 
+![](../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg)
+Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878
 
-![](../images/1878-loss-of-euridyce-aug-17-004.jpg)
-Illustrated London News
+![](../images/ILN_1878_loss_of_euridyce_apr_04_009.jpg)
+Illustrated London News — Divers at Work on H.M.S. Eurydice, April 4, 1878
+
+![](../images/ILN_1878_loss_of_euridyce_apr_27_007.jpg)
+Illustrated London News — The wreck of the Eurydice: Divers examining a wreck by the submarine light, April 27, 1878
+
+![](../images/ILN_1878_loss_of_euridyce_jul_27_005.jpg)
+Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle of Wight, July 27, 1878
+
+![](../images/ILN_1878_loss_of_euridyce_aug_17_004.jpg)
+Illustrated London News — Visit of the Prince of Wales to the wreck of H.M.S. Eurydice in Sandown Bay, August 17, 1878
 https://w.iln.org.uk/iln_years/year/images/1878/euridyce/1878%20loss%20of%20euridyce%20aug%2017%20004.jpg
 
 ?? https://www.oldpictorial.com/publishedby/pictorial-world/ various graphic magazines
@@ -180,28 +192,28 @@ https://en.wikipedia.org/wiki/List_of_19th-century_British_periodicals
 
 The Graphic
 
-![The Graphic - THE DISASTER IN THE CHANNEL H.M.S. EURYDICE OFF DUNNOSE, JUST BEFORE THE SQUALL N THE DISASTER IN THE CHANNEL H.M.S. EURYDICE ON HER BEAM-ENDS, JUST AFTER THE SQUALL THE LOSS OF H. M. S. "EURYDICE", Saturday 30 March 1878, p19](../images/BL_0000057_18780330_024_0019.png)
+![](../images/BL_0000057_18780330_024_0019.png)
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/024/0019?browse=true
+The Graphic - THE DISASTER IN THE CHANNEL H.M.S. EURYDICE OFF DUNNOSE, JUST BEFORE THE SQUALL N THE DISASTER IN THE CHANNEL H.M.S. EURYDICE ON HER BEAM-ENDS, JUST AFTER THE SQUALL THE LOSS OF H. M. S. "EURYDICE", Saturday 30 March 1878, p19
 
-
-![The Graphic - THE LOSS OF H. M. S, "EURYDICE" I. The Eurydice Shortening Sail.- -2. The Cottage Hospital, Ventnor, where the Survivors were taken.-- -3. The Eurydice making the Last Plunge by the bow before settling.- -4. The Wreck at Low Water Divers at Work.-- -5. The Day after the Squall High Water. ,  Saturday 06 April 1878, p12](../images/BL_9000057_18780406_029_0012.jpg)
+![](../images/BL_9000057_18780406_029_0012.jpg)
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18780406/029/0012
+The Graphic - THE LOSS OF H. M. S, "EURYDICE" I. The Eurydice Shortening Sail.- -2. The Cottage Hospital, Ventnor, where the Survivors were taken.-- -3. The Eurydice making the Last Plunge by the bow before settling.- -4. The Wreck at Low Water Divers at Work.-- -5. The Day after the Squall High Water. ,  Saturday 06 April 1878, p12
 
-![The Graphic - TOWING THE WRECK OF H.M.S. EURYDICE INTO PORTSMOUTH HARBOUR  - Saturday 14 September 1878, p8](../images/BL_9000057_18780914_020_0008.png)
+![](../images/BL_9000057_18780914_020_0008.png)
 https://www.britishnewspaperarchive.co.uk/viewer/BL/9000057/18780914/014/0006?browse=true
+The Graphic - TOWING THE WRECK OF H.M.S. EURYDICE INTO PORTSMOUTH HARBOUR  - Saturday 14 September 1878, p8
 
 ---
 
 
 ![Eurydice survivors](../images/eurydice-survivors.jpg)
+The two survivors
 
-![Hampshire Advertiser - LOSS OF THE EURYDICE. Two of the survivors of the Eurydice , preserved by Mrs C. Mitchelmore - Saturday 09 April 1927, p2](../images/BL_0003142_19270409_028_0002.png)
+![](../images/BL_0003142_19270409_028_0002.png)
+Hampshire Advertiser - LOSS OF THE EURYDICE. Two of the survivors of the Eurydice , preserved by Mrs C. Mitchelmore - Saturday 09 April 1927, p2
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0003142/19270409/028/0002
 
-![](../images/NH_61070.jpg)
-
-![](../images/P.1986.44-Copy.jpg)
-http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
 
 ![](../images/Eurydice-wreck.jpg)
 ![](../images/Eurydice_salvage.jpg)
@@ -224,18 +236,14 @@ Bones, this sinew, and will not waken.
 http://dawlishchronicles.blogspot.com/2014/07/training-tragedies-losses-of-hms.html
 
 
+
+![](../images/The-Raising-of-HMS-Eurydice-Richard-Henry-Nibbs-oil-painting.jpg)
 The Raising of HMS Eurydice
 Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy
-![](../images/The-Raising-of-HMS-Eurydice-Richard-Henry-Nibbs-oil-painting.jpg)
-
-![](../images/HMS-Eurydice-attempted-salvage-antique-print-1878-500x325.jpg)
-H.M.S. Eurydice salvage operation off the coast of the Isle of Wight in 1878. Original page from ‘The Illustrated London News’ of Royal Navy divers engaged in the raising of the vessel. Dated Apri 6th. 1878. Excellent condition. Paper size 15.75 x 10 inches.
-https://www.mapsandantiqueprints.com/shop/antique-prints/h-m-s-eurydice-salvaged/
 
 
-Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich
 ![](../images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg)
-
+Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich
 
 
 ![](../images/808750-1534236882.jpg)
@@ -250,14 +258,15 @@ Painted for Queen Victoria (See also QV Journal, 22 August 1878)
 https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice
 
 
-Sandown, looking towards the red cliff and white cliff, Yaverland
+
 ![](../images/52015295425_b61281d18e_o.jpg)
+Sandown, looking towards the red cliff and white cliff, Yaverland
 
-Sandown, looking back towards Luccombe
 ![](../images/52015030324_42a5559933_o.jpg)
+Sandown, looking back towards Luccombe
 
-Henry Robins - Wreck of HMS 'Eurydice' Towed into Portsmouth Harbour, 1 September 1878 HMP PORMG 1974 517 , Portmsouth City Museum
 ![](../images/henry-robins-wreck-of-hms-eurydice-towed-into-portsmouth-harbour-1-september-db6eb8.jpg)
+Henry Robins - Wreck of HMS 'Eurydice' Towed into Portsmouth Harbour, 1 September 1878 HMP PORMG 1974 517 , Portmsouth City Museum
 
 
 ???
@@ -272,53 +281,79 @@ https://artuk.org/discover/artworks/wreck-of-hms-eurydice-towed-into-portsmouth-
 
 Public domain image search - https://picryl.com/search?q=Eurydice%20
 
-![The Graphic -  THE EURYDICE MEMORIAL AT HASLAR It will be remembered that the bodies of the unfortunate officers and seamen which were recovered from the wreck of the Eurydice were laid to rest in Haslar Cemetery, near Gosport, each grave being marked with a simple headstone. A more imposing memorial, as represented in our engraving, has now been erected on the spot. It was designed by Colonel Parley, R.E., C.B., and erected by Mr. Carruthers, the Assistant Civil Engineer for Gosport, and Messrs. Bramble, the contractors for the work. The base, of bright granite, bears upon its sloping ledge the 316 names of those who went down with the" ill-fated vessel on Sunday, March 24th, 1878, and above this is a moulding of Portland stone, each side of which contains an appropriate quotation from Scripture. This again is surmounted by a huge rocky superstructure, on the summit of which is the real anchor, shackle, and part of the ship's cable which was recovered from the scene of the disaster. The measurement at the base is 23 feet by 17 feet, and the height is 10 feet. Our engraving is from a photograph by G. West and Son, Gosport, copies of which have been purchased by Her Majesty the Queen.  - Saturday 19 November 1881, p11](../images/BL_9000057_18811119_027_0011.png)
+![](../images/BL_9000057_18811119_027_0011.png)
+The Graphic -  THE EURYDICE MEMORIAL AT HASLAR It will be remembered that the bodies of the unfortunate officers and seamen which were recovered from the wreck of the Eurydice were laid to rest in Haslar Cemetery, near Gosport, each grave being marked with a simple headstone. A more imposing memorial, as represented in our engraving, has now been erected on the spot. It was designed by Colonel Parley, R.E., C.B., and erected by Mr. Carruthers, the Assistant Civil Engineer for Gosport, and Messrs. Bramble, the contractors for the work. The base, of bright granite, bears upon its sloping ledge the 316 names of those who went down with the" ill-fated vessel on Sunday, March 24th, 1878, and above this is a moulding of Portland stone, each side of which contains an appropriate quotation from Scripture. This again is surmounted by a huge rocky superstructure, on the summit of which is the real anchor, shackle, and part of the ship's cable which was recovered from the scene of the disaster. The measurement at the base is 23 feet by 17 feet, and the height is 10 feet. Our engraving is from a photograph by G. West and Son, Gosport, copies of which have been purchased by Her Majesty the Queen.  - Saturday 19 November 1881, p11
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011
 
 
-![The Graphic - UNVEILING THE MONUMENT TO THE OFFICERS AND CREW OF H.M.S. EURYDICE IN SHANKLIN CEMETERY, ISLE OF WIGHT  -  Saturday 10 July 1880](../images/BL_9000057_18800710_046_0021.png)
+![](../images/BL_9000057_18800710_046_0021.png)
+The Graphic - UNVEILING THE MONUMENT TO THE OFFICERS AND CREW OF H.M.S. EURYDICE IN SHANKLIN CEMETERY, ISLE OF WIGHT  -  Saturday 10 July 1880
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/046/0021
 
 
 
-![Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isable Atherley, June 23rd 1880](../images/52012947425_583b978292_o.jpg)
+![](../images/52012947425_583b978292_o.jpg)
+Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isable Atherley, June 23rd 1880
 
-![Shankling memorial](../images/52012675554_6773617d89_o.jpg)
+![](../images/52012675554_6773617d89_o.jpg)
+Shanklin memorial
 
-![Shankling memorial](../images/52011404897_3891bd2bea_o.jpg)
+![](../images/52011404897_3891bd2bea_o.jpg)
+Shanklin memorial
 
-![Shankling memorial inscription - To the memory of the officers and men of H.M.S. Eurydice which foundered off Shanklin March 24th 1878 seven of whom are buried here ](../images/52012674049_b63a65f7c2_o.jpg)
-
+![](../images/52012674049_b63a65f7c2_o.jpg)
+Shanklin memorial inscription - To the memory of the officers and men of H.M.S. Eurydice which foundered off Shanklin March 24th 1878 seven of whom are buried here
 
 
 Sandown
 
-![](../images/uo_1532958638-16959-69.jpg)
+![](../images/52019996761_b67da681c2_o.jpg)
+Memorial Christ Church, Sandown
 
+![](../images/52019997011_d6ccbdb70a_o.jpg)
+
+![](../images/52019997311_65401508de_o.jpg)
+
+![](../images/uo_1532958638-16959-69.jpg)
+Bathing machines, Sandown
 
 ![](../images/sandown_pier.jpeg)
+Sandown Pier
 
 ![](../images/Sandown-pier-c.1900-c-Richard-T-Riding-640px.jpg)
 
+
+![](../images/service-pnp-ppmsc-08900-08995r.jpg)
 Library of Congress
 Title: [Sandown Bay, Isle of Wight, England]
 Date Created/Published: [between ca. 1890 and ca. 1900].
-![](../images/service-pnp-ppmsc-08900-08995r.jpg)
 
+![](../images/service-pnp-ppmsc-08900-08996r.jpg)
 Library of Congress
 Title: [Sandown from pier, Isle of Wight, England]
 Date Created/Published: [between ca. 1890 and ca. 1900].
-![](../images/service-pnp-ppmsc-08900-08996r.jpg)
+
 holy stone
 
 https://ltwilliammowett.tumblr.com/post/642558618647085056/holy-stoning-the-deck
 
+
+![](../images/3512272457_8784bc5a44_b.jpg)
 Isle of Wight : Bembridge from St.Helens . Harbour section of Victorian Print c.1850s.
 Isle of Wight : A finely detailed print view titled " Bembridge from St.Helens " : a Victorian Print c.1850s.
-![](../images/3512272457_8784bc5a44_b.jpg)
 https://www.flickr.com/photos/lenton_sands/3512272457/
 
+
+![](../images/st_helens_duver_links_l.jpg)
 (Golf course opened 1882)
 St Helens Duver Golf Links
-![](../images/st_helens_duver_links_l.jpg)
+
+![](../images/Paddle-steamer-Island-Queen-and-the-Spithead-hotel-before-the-addtion-of-the-upper-windows-c.1880-Copy-1024x762.jpg)
+Island Queen at Bembridge Pier
+
 ---
+
+
+oral history 
+Memories of the Sea
+https://memoriesofthesea.uk/

@@ -4,6 +4,50 @@ Whilst attempts were being made to raise the Eurydice, other activity had been g
 
 The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
 
+![](../images/uo_1532958638-16959-69.jpg)
+Bathing machines, Sandown
+
+---
+https://www.gutenberg.org/files/11483/11483-h/11483-h.htm
+
+The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)
+by Stuart Dodgson Collingwood
+
+1898
+
+Lewis Carroll during the last fifteen years of his life always spent the Long Vacation at Eastbourne; in earlier times, Sandown, a pleasant little seaside resort in the Isle of Wight, was his summer abode. He loved the sea both for its own sake and because of the number of children whom he met at seaside places. Here is another "first meeting"; this time it is at Sandown, and Miss Gertrude Chataway [to whom The Hunting of the Snark was dedicated] is the narrator:—
+
+I first met Mr. Lewis Carroll on the sea-shore at Sandown in the Isle of Wight, in the summer of 1875, when I was quite a little child.
+
+We had all been taken there for change of air, and next door there was an old gentlemen—to me at any rate he seemed old—who interested me immensely. He would come on to his balcony, which joined ours, sniffing the sea-air with his head thrown back, and would walk right down the steps on to the beach with his chin in air, drinking in the fresh breezes as if he could never have enough. I do not know why this excited such keen curiosity on my part, but I remember well that whenever I heard his footstep I flew out to see him coming, and when one day he spoke to me my joy was complete.
+
+Thus we made friends, and in a very little while I was as familiar with the interior of his lodgings as with our own.
+
+I had the usual child's love for fairy-tales and marvels, and his power of telling stories naturally fascinated me. We used to sit for hours on the wooden steps which led from our garden on to the beach, whilst he told the most lovely tales that could possibly be imagined, often illustrating the exciting situations with a pencil as he went along.
+
+One thing that made his stories particularly charming to a child was that he often took his cue from her remarks—a question would set him off on quite a new trail of ideas, so that one felt that one had somehow helped to make the story, and it seemed a personal possession It was the most lovely nonsense conceivable, and I naturally revelled in it. His vivid imagination would fly from one subject to another, and was never tied down in any way by the probabilities of life.
+
+To me it was of course all perfect, but it is astonishing that he never seemed either tired or to want other society. I spoke to him once of this since I have been grown up, and he told me it was the greatest pleasure he could have to converse freely with a child, and feel the depths of her mind.
+
+He used to write to me and I to him after that summer, and the friendship, thus begun, lasted. His letters were one of the greatest joys of my childhood.
+
+I don't think that he ever really understood that we, whom he had known as children, could not always remain such. I stayed with him only a few years ago, at Eastbourne, and felt for the time that I was once more a child. He never appeared to realise that I had grown up, except when I reminded him of the fact, and then he only said, "Never mind: you will always be a child to me, even when your hair is grey."
+
+---
+TEXT
+
+In *Fit the Second, The Bellman's Speech* of the *Hunting of the Snark*, Carroll describes the various marks by which a genuine Snark may be known:
+
+"The fourth is its fondness for bathing-machines,  
+Which it constantly carries about,  
+And believes that they add to the beauty of scenes—  
+A sentiment open to doubt.
+
+Such things were a common sight in Sandown at the time.
+
+---
+
+lins would open round culver at st helens duver.
 
 ## The Opening of Sandown Pier
 
@@ -20,7 +64,25 @@ The new pier is almost completed, and, although in appearance it is slight, the 
 
 
 ---
+TEXT
 
+![](../images/service-pnp-ppmsc-08900-08995r.jpg)
+Library of Congress
+Title: [Sandown Bay, Isle of Wight, England]
+Date Created/Published: [between ca. 1890 and ca. 1900].
+
+
+![](../images/sandown_pier.jpeg)
+Sandown Pier
+
+![](../images/service-pnp-ppmsc-08900-08996r.jpg)
+Library of Congress
+Title: [Sandown from pier, Isle of Wight, England]
+Date Created/Published: [between ca. 1890 and ca. 1900].
+
+
+
+---
 
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005
@@ -45,7 +107,7 @@ The Common Seal of the Local Board of Sandown was affixed, this 27th day of May,
 
 Leaning on the arm of Major Leeds, her ladyship then walked to the end of the pier, which had been carpeted for the occasion. Here she was introduced to the chairman and directors of the Pier Company. Her ladyship having briefly declared the pier open, Mr. Jonathan Jolliffe, the chairman of the company, stepped forward and presented her ladyship with another address. He explained that the company had a hard struggle to get the pier completed so far, but they hoped to be able to make the structure double its present length, and to place a lifeboat at the end. It would then be very useful for yachts and steamers, which would be able to land passengers here. He then presented the address, which was also engrossed on vellum, and read as follows :
 
-To Lady Oglander, Nunwell Ptrk. Isle of Wight.  
+To Lady Oglander, Nunwell Park, Isle of Wight.  
 Madam, — The chairman and directors of the Sandown Pier Company beg to welcome your ladyship on this, to them, important occasion, and at the same time express their sincere thanks for your kindness in consenting to preside at the opening of the pier. It is only after having overcome many difficulties, and even local opposition, that the directors have at length succeeded im completiing the first section of the pier, so as to permit the same to be opened for the use of the public. However, they hope to receive such pecuniary assistance from residents, owners of property, and others interested in the welfare of Sandown, as may enable them to complete the original design, and carry out the pier to its full lengih of 650 feet, being nearly double the length of the portion already constructed, and so kindly opened by your ladyship. — The directors are sure that the pier will atford a pleasant and agreeable promenade, and prove a source of attraction to the town of Sandowm and its visitors; and they venture also to hope that it may ultimately prove useful, not only for purposes of recreation, but also a station from which a lifeboat may bo launched. Recent sad events that have taken place in the bay deepen the conviction that Sandown will prove a most important station for a lifeboat. For the carrying out so laudable an object the directors can only trust to the liberality and sympathy of the public generally.— Again thanking your ladyship tor the kind interest you have shown in the work the directors have in hand by your presence here to-day, and with every good wish for your welfare and happiness,  
 We beg to remain,  
 Your ladyship's obedient and faithful servants  

@@ -126,6 +126,12 @@ p4
 The Eurydice, training ship, Captain M. A. S. Hare, was to go out of the ship basin at Portsmouth on Wednesday.
 
 ---
+TEXT
+
+![](../images/ILN_1878_loss_of_euridyce_apr_06_011.jpg)
+Illustrated London News — H.M.S. Eurydice as she lay in Portsmouth harbour before her last voyage - from a photograph, April 6, 1878
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18771031/063/0006
 
@@ -156,7 +162,16 @@ The Eurydice, 6, sailing corvette, and training ship for ordinary seamen, sailed
 The Liberty, training brig, sailed on Saturday, in company with the Eurydice, for the West Indies.
 
 
+---
+TEXT
 
+![](../images/623829-1470753518.jpg)
+HMS Eurydice at St Lucia before her last voyage home, 1878 1878
+Albumen print | 14.5 x 21.5 cm (image) | RCIN 2580515
+Photograph of sailing ship surrounded by small boats, off St Lucia; tree covered cliffs
+Provenance
+Album compiled by the Reverend J N Dalton (1839-1931) and presented to King George V
+https://www.rct.uk/collection/2580515/hms-eurydice-at-st-lucia-before-her-last-voyage-home-1878
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18771121/038/0004

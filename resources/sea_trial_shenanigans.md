@@ -4,6 +4,13 @@ Once launched, the H.M.S. Eurydice took part in a sea-trial to compare her perfr
 
 From the reports of the trials, it seems that sea trials resembled a cavalier "motor sport" ethic, with every opportunity taken to cheat and malign the compettition!
 
+```{figure} ../images/lastfourdaysofeu00vern_bw_pdf__page_6_of_90_.png
+---
+width: 600px
+name: eurydice_last_four_days
+---
+H.M.S. Eurydice, in The Last Four Days of the "Eurydice", by Captain E. H. Verney, R.N.
+```
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430916/014/0002

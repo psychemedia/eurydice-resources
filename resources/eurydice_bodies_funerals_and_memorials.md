@@ -271,6 +271,18 @@ On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near
 
 
 
+
+---
+TEXT
+
+![](../images/52019996761_b67da681c2_o.jpg)
+Memorial Christ Church, Sandown
+
+![](../images/52019997011_d6ccbdb70a_o.jpg)
+
+![](../images/52019997311_65401508de_o.jpg)
+
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790412/066/0008
 Hampshire Advertiser
@@ -364,10 +376,13 @@ p8
 
 SHANKLIN. May 29
 
-Ihe Eurydice Memorial.— The memorial to the offioers and men lost in the Eurydice is now in course of erection in our cemetery, in which seven bodies recovered from the unfortunate ship are buried. The monument is a very handsome structure, and will stand about 8ft high. It is carved entirely in Portland stone by Mr Moynihan, of Shepherd's Bush, London. The design which was partly suggested by our townsman Mr. Tyler is made np of cannon, anchors, and sea emblems, bat as it is not quite completed we must defer a description The value ofthe monument is said to be between £4OO and £5OO. The monument will be unveiled some time in June by Lady Atherley.
+Ihe Eurydice Memorial.— The memorial to the officers and men lost in the Eurydice is now in course of erection in our cemetery, in which seven bodies recovered from the unfortunate ship are buried. The monument is a very handsome structure, and will stand about 8ft high. It is carved entirely in Portland stone by Mr Moynihan, of Shepherd's Bush, London. The design which was partly suggested by our townsman Mr. Tyler is made np of cannon, anchors, and sea emblems, bat as it is not quite completed we must defer a description The value ofthe monument is said to be between £4OO and £5OO. The monument will be unveiled some time in June by Lady Atherley.
 
 
 ---
+
+
+
 
 Hampshire Telegraph
 
@@ -378,6 +393,8 @@ p4
 (SHANKLIN.) THE EURYDICE MEMORIAL.
 
 -A memorial to the officers and men lost in the Eurydice is now in course of  erection in our cemetery, in which seven bodies recovered from the ill-fated ship are buried. The monument, a very handsome structure, will stand about eight feet high, and will be carved entirely in Portland ctone, by Mr. Moynihan, of Sbepherd's Bush, London. The design consists of naval emblems-cannons, anchors, &c., and the S qy value of the monument, it is said, will be between 400l. el and 500l. Further subscriptions are still needed, and will be thankfully received by Mr. Tizard, of Daish's Hotel, on behalf of the Committee. The monument will be unveiled in June by Lady Atherley.
+
+
 
 ---
 
@@ -394,7 +411,16 @@ A memorial to the officers and men lost in the Eurydice is now in course of erec
 
 
 ---
+TEXT
 
+
+![](../images/BL_9000057_18800710_046_0021.png)
+The Graphic - UNVEILING THE MONUMENT TO THE OFFICERS AND CREW OF H.M.S. EURYDICE IN SHANKLIN CEMETERY, ISLE OF WIGHT  -  Saturday 10 July 1880
+https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/046/0021
+
+
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18800624/068/0004
 
@@ -407,6 +433,15 @@ THE EURYDICE MEMORIAL
 
 Lady Isabel Atherley yesterday unveiled a monument in Shanklin Cemetery erected to the memory of the captain and crew of the Eurydice. The monument, which is erected by public subscription, is of Portland stone, surmounted by a naval trophy of crossed auchor, broken cable, and cannon pointing to the spot where the Eurydice foundered.
 
+---TEXT
+
+
+![](../images/52012675554_6773617d89_o.jpg)
+Shanklin memorial
+
+
+
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000496/18800626/025/0007
 
@@ -418,6 +453,13 @@ p7
 MEMORIAL OF H.M.S. EURYDICE.
 
 On Wednesday afternoon, in the presence of a numerous crowd of spectators, a monument to the memory of the officers and crew of tho ill-fated training ship, the Eurydice, which foundered, with the loss of over 300 officers, seamen, and boys, on March 24, 1878, was unveiled in Shanklin Cemetery, Isle of Wight, by Lady Isabel Atherley. The monument, which is the result of public subscription, was sculptured by Mr. F. J. Moyniham, of London, and consists of a naval trophy, wrought in Portland stone, and surmounted and partly shrouded in a canopy of naval flags. It is built so as to face Sandown Bay, the mouth of the cannon being pointed to the spot where the ill-fated vessel sank. On the front is a tablet, with the inscription, "To the memory of the officers and men of H.M.S. Eurydice, which foundered off Shanklin, March 24, 1878," and above it is a ribbon with raised letters, indicative of the ribbon on the caps of the crew of the vessel. Lieut. Langley, of H.M.S. Excellent, and other officers of the Navy, with petty officers, sailors, and marines of her Majesty's ships Orontes, St. Vincent, and Asia, represented her Majesty's Service, and the coastguards of the Isle of Wight, under their officers, also took part in the ceremony. The vicar of St. Saviour's, Shanklin (the Rev. C. J. Burland), delivered an address prior to the unveiling of the monument. He paid a high tribute to the memory of the brave men who lost their lives in the performance of their duty on the memorable 24th of March, and it was incidentally intimated that an impression was current that one of the seven unknown bodies which had been washed ashore at Shanklin, and over which this monument had been erected, was that of the gallant captain of the ill-fated ship. Colonel Atherley, Lieutenant Langley, and others also addressed the assembly, and the proceedings were of a deeply interesting character.
+
+---
+TEXT 
+
+![](../images/52011404897_3891bd2bea_o.jpg)
+Shanklin memorial
+
 
 
 ---
@@ -434,6 +476,13 @@ p6
 HER MAJESTY'S SHIP " EURYDICE."
 
 In the pretty cemetery of Shanklin, Isle of Wight, on Wednesday afternoon, Lady Isabel Atherley veiled a fine monument, which has been erected there by public subscription, to the officers and men who perished by the foundering of the *Eurydice* off Shanklin, in March, 1878. Seven of the bodies were buried in this cemetery, among them, as many suppose, the body of Captain Hare, the commander. The monument has been erected from a design furnished by Mr. F. J. Moynihan, of Uxbridge-road. Many persons were present to witness the ceremony, after which Lieutenant Langley, on behalf the Naval Service, thanked the people of Shanklin for erecting so worthy a memorial to the gallant men who had perished amid such lamentable circumstances.
+
+---
+TEXT
+
+
+![](../images/52012947425_583b978292_o.jpg)
+Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isable Atherley, June 23rd 1880
 
 
 ---
@@ -480,6 +529,14 @@ On the proposition of Mr. Nicholson, J.P., D.L. of Ventnor, an expression of tha
 TH: noteable
 
 > Following this was an address very impressive and appropriate by the Rev. C. I. Borland, vicar of St. Saviour's, who said he believed that there was in seamen a strong instinctive feeling that whereever their bodies might be cast they had a yearning desire that those bodies should be committed to the dust, if possible with pious words, and with loving friends standing round. It was for this reason, he had been told, that it was very often the custom with them to mark their bodies, so that they might be identified when they were found. It was to them a melancholy satisfaction that they could rear this stone over the bodies of the brave. We did not know their names, but we knew that they belonged to a service which we highly honoured.
+
+
+---
+TEXT
+
+
+![](../images/52012674049_b63a65f7c2_o.jpg)
+Shanklin memorial inscription - To the memory of the officers and men of H.M.S. Eurydice which foundered off Shanklin March 24th 1878 seven of whom are buried here
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/020/0006
@@ -547,6 +604,15 @@ Eurydice Memorial.
 
 ---
 
+TEXT
+
+![](../images/BL_9000057_18811119_027_0011.png)
+The Graphic -  THE EURYDICE MEMORIAL AT HASLAR It will be remembered that the bodies of the unfortunate officers and seamen which were recovered from the wreck of the Eurydice were laid to rest in Haslar Cemetery, near Gosport, each grave being marked with a simple headstone. A more imposing memorial, as represented in our engraving, has now been erected on the spot. It was designed by Colonel Parley, R.E., C.B., and erected by Mr. Carruthers, the Assistant Civil Engineer for Gosport, and Messrs. Bramble, the contractors for the work. The base, of bright granite, bears upon its sloping ledge the 316 names of those who went down with the" ill-fated vessel on Sunday, March 24th, 1878, and above this is a moulding of Portland stone, each side of which contains an appropriate quotation from Scripture. This again is surmounted by a huge rocky superstructure, on the summit of which is the real anchor, shackle, and part of the ship's cable which was recovered from the scene of the disaster. The measurement at the base is 23 feet by 17 feet, and the height is 10 feet. Our engraving is from a photograph by G. West and Son, Gosport, copies of which have been purchased by Her Majesty the Queen.  - Saturday 19 November 1881, p11
+https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011
+
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011
 
 The Graphic - Saturday 19 November 1881
@@ -559,5 +625,4 @@ It will be remembered that the bodies of the unfortunate officers and seamen whi
 
 
 [includes illustration - BL_9000057_18811119_027_0011_pdf_haslar_graphic_19-11-1881.png ]
-
 

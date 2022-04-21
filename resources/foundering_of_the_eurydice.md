@@ -1,7 +1,10 @@
 # The Foundering of the Eurydice
 
 
----
+![Illustrated London News - Loss of HMS Eurydice with 300 seamen, March 30, 1878](../images/ILN_1878_loss_of_euridyce_mar_30_002.jpg)
+
+
+
 
 
 ---
@@ -19,7 +22,7 @@ FEARFUL LOSS OF LIFE.
 
 PAINFUL EXCITEMENT THE TOWN AND DOCKYARD.
 
-Since the memorable day in September, 187O, when H.M.S. Captain foundered off Cape Finisterre and when nearly all hands were drowned, no naval disaster has occurred of a nature so truly awful as that which it is our most painful duty to announce as having happened yesterday afternoon to H.M. training ship Eurydice, just as that ill-starred vessel was almost within sight of the harbour, where all on board were anxiously expecting the meeting of those the enforced separation from whom had been the chief cause of regret during the continuance of the voyage apparently so rapidly drawing to successful conclusion. The Eurydice was a training ship for youths of the rating of ordinary seamen, and every year it was the practice of the authorities to send her on deep sea cruise, for tha purpose of giving the young men forming her crew more thorough insight into their duties than any they could receive whilst quietly lying anchor in a land-locked harbour. Tho voyage from which she was returning had been made to the West Indies, and in addition to her crew, we have been informed that she had on board several time-expired men and invalids. We have telegraphed to London for a complete list, and trust to receive it in time for our third edition. So far as we have peon able to gather, she had favouring winds until she sighted the Lizard, and during her subsequent passage up the Channel until she arrived off the Isle of Wight on an afternoon so clear and pleasant as to resembla almost a summer day. However, about four o'clock the sun became obscured and the sky of a dull leaden colours, and a species of mist seemed to envelope the horizon. At the same it time began to snow, and the snow was accompanied with a biting wind of such strength (we had almost said ferosity) that people who a few minute* before had been walking and chatting gaily on the Southsea Common, were bent double by its force, whilst on the Portsdown Hill the dust was lifted and whirled towards the sky in masses resembling water-spouts. Into this storm of haze, and wind and snow, sailed the Eurydice, with every sail set, save and except her mizen-royal, and braced sharp on the port tack. She was seen no more !! A schooner, named the Emma, bound from Newcastle-on-Tyne to Poole, was also caught in the squall, but she weathered it successfully, and almost immediately the sun, we are told, came out again. The master of the schooner, on looking round, states that he saw wreckage, and thought that he heard cries, but there was no sign of the noble ship, which but a moment before had pursued her way proudly with all her studding sails set. Five men were rescued by those on board the Emma, and they were stripped, wrapped in blankets, rubbed, and received every possible attention ; but we much regret to say that three of them died on board, the other two, an A.B. named Benjamin Cuddiford, and a first-class boy, named Sydney Fletcher, of Bristol, were removed to the Cottage Hospital Bonchurch, where they received every attention, and are considered by Dr. Williamson, of Veutnor, to be progressing favourably. The following is the account given Benjamin Cuddiford:
+Since the memorable day in September, 187O, when H.M.S. Captain foundered off Cape Finisterre and when nearly all hands were drowned, no naval disaster has occurred of a nature so truly awful as that which it is our most painful duty to announce as having happened yesterday afternoon to H.M. training ship Eurydice, just as that ill-starred vessel was almost within sight of the harbour, where all on board were anxiously expecting the meeting of those the enforced separation from whom had been the chief cause of regret during the continuance of the voyage apparently so rapidly drawing to successful conclusion. The Eurydice was a training ship for youths of the rating of ordinary seamen, and every year it was the practice of the authorities to send her on deep sea cruise, for tha purpose of giving the young men forming her crew more thorough insight into their duties than any they could receive whilst quietly lying anchor in a land-locked harbour. The voyage from which she was returning had been made to the West Indies, and in addition to her crew, we have been informed that she had on board several time-expired men and invalids. We have telegraphed to London for a complete list, and trust to receive it in time for our third edition. So far as we have peon able to gather, she had favouring winds until she sighted the Lizard, and during her subsequent passage up the Channel until she arrived off the Isle of Wight on an afternoon so clear and pleasant as to resembla almost a summer day. However, about four o'clock the sun became obscured and the sky of a dull leaden colours, and a species of mist seemed to envelope the horizon. At the same it time began to snow, and the snow was accompanied with a biting wind of such strength (we had almost said ferosity) that people who a few minute* before had been walking and chatting gaily on the Southsea Common, were bent double by its force, whilst on the Portsdown Hill the dust was lifted and whirled towards the sky in masses resembling water-spouts. Into this storm of haze, and wind and snow, sailed the Eurydice, with every sail set, save and except her mizen-royal, and braced sharp on the port tack. She was seen no more !! A schooner, named the Emma, bound from Newcastle-on-Tyne to Poole, was also caught in the squall, but she weathered it successfully, and almost immediately the sun, we are told, came out again. The master of the schooner, on looking round, states that he saw wreckage, and thought that he heard cries, but there was no sign of the noble ship, which but a moment before had pursued her way proudly with all her studding sails set. Five men were rescued by those on board the Emma, and they were stripped, wrapped in blankets, rubbed, and received every possible attention ; but we much regret to say that three of them died on board, the other two, an A.B. named Benjamin Cuddiford, and a first-class boy, named Sydney Fletcher, of Bristol, were removed to the Cottage Hospital Bonchurch, where they received every attention, and are considered by Dr. Williamson, of Veutnor, to be progressing favourably. The following is the account given Benjamin Cuddiford:
 
 "The ship capsized in a squall and snowstorm about four o clock, when we were five miles from Dunnose.
 
@@ -44,6 +47,23 @@ MESSAGE FROM HER MAJESTY TO ADMIRAL FANSHAWE.
 (Admiral Fanshawe has authorised us to publish (he following telegram. 
 
 The Queen is deeply grieved to hear of the loss the Eurydice. Her Majesty anxiously asks for further details.
+
+---
+TEXT
+
+![](../images/NH_61069.jpg)
+Title: HMS EURYDICE British Frigate, 1843
+Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
+Description:
+Catalog #: NH 61069
+Copyright Owner: Naval History and Heritage Command
+Original Creator:
+Original Date: Wed, Mar 27, 1878
+After this Year: 1870
+Before this Year: 1879
+Original Medium: BW Photo
+- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html
+
 
 ---
 
@@ -113,6 +133,12 @@ Assistant Clerk—William Lamont, Feb. 20, 1877.
 Commissioned at Portsmouth, Feb. 7, 1877.
 
 ---
+TEXT
+
+![](../images/P.1986.44-Copy.jpg)
+http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/014/0003
 
@@ -131,6 +157,26 @@ Mr. Smith was sorry he had not much information beyond what had already appeared
 
 
 ---
+TEXT
+
+![](../images/NH_61070.jpg)
+Title: HMS EURYDICE British Frigate, 1843
+Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
+Description:
+Catalog #: NH 61070
+Copyright Owner: Naval History and Heritage Command
+Original Creator:
+Original Date: Wed, Mar 27, 1878
+After this Year: 1870
+Before this Year: 1879
+Original Medium: BW Photo
+- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html
+
+
+
+---
+
+
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/009/0003
 
@@ -159,7 +205,7 @@ Shipping and Mercantile Gazette
 Monday 25 March 1878
 p6
 
-FOUNDERING OF H.M.& EURYDICE.
+FOUNDERING OF H.M.S. EURYDICE.
 
 We have received the following sad news from the Admiralty:– "The Admiralty have received the following telegram from Admiral Fanshawe, Commander-In-Chief Portsmouth: — 'Have just received the following from Coastguard, Ventnor:— 'Eurydice capsized off Dunnose. Cuddicome, First-class Boy, and Fletcher saved. Tabor, First Lieutenant, very doubtful. Steamer going Immediately'
 
@@ -182,6 +228,18 @@ The following list of Officers board is given in the *Navy List* .—Captain Mar
 WEST COWES, March 25, a.m.  
 Three bodies have come ashore; two identified as those of Colonel Ferrol, RE. (? Ferrier), and Lieutenant Tabor, RN.; the third is an A.B. The masts of the vessel show above water.
 
+
+---
+TEXT
+
+![](../images/BL_0001702_18780323_078_0008_pdf__1_page_.png)
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008 Shipping and Mercantile Gazette - Saturday 23 March 1878 - weather chart
+
+
+![](../images/BL_0000057_18780330_027_0021_pdf__1_page_.png)
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true Weather chart for week March 21st - March 27th (inclusive) Graphic - Weather chart for the week- Saturday 30 March 1878
+
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0006#
 Morning Post
@@ -197,7 +255,7 @@ The weather in South Shropshire is intensely cold, and the hilly district has be
 
 During a snowstorm which raged off the Scotch cosst at Stranraer on Sunday the schooner Ellipse, with coals, from Greenock for Isly, was totally lost about ten miles from Stranraer. Two of the crew, by name M'Millan and M'Neill, were drowned.
 
-On Sunday afternoon, while the wind was blowng hard from the north, a schooner, which afterwards proved to be the Heroine, of Dartmouth, bound from Lydney to Fremington with a cargo of coals, was seen running for the harbour at Appledore, in Devon, when sha was caught by some dense snow squalls which completely enveloped her. On their clearing away she was found to have been driven on the South Tail Bank, where she was surrounded by broken water. The Appledore No. 1 life-boat of the National Life-boat Institution was launched with all despatch, and was fortunately enabled to save the crew of the vessel, which is likely to become a total wreck.
+On Sunday afternoon, while the wind was blowing hard from the north, a schooner, which afterwards proved to be the Heroine, of Dartmouth, bound from Lydney to Fremington with a cargo of coals, was seen running for the harbour at Appledore, in Devon, when sha was caught by some dense snow squalls which completely enveloped her. On their clearing away she was found to have been driven on the South Tail Bank, where she was surrounded by broken water. The Appledore No. 1 life-boat of the National Life-boat Institution was launched with all despatch, and was fortunately enabled to save the crew of the vessel, which is likely to become a total wreck.
 
 The screw-steamer Eagle, of Neath, while making for Hayle Harbour, in Cornwall, on Sunday, during a stroug N.E. wind, grounded on the bar, and the heavy seas breaking over her carried away her screw, rudder, and stern poet. The Oxford University life-boat Isis, belonging to the National Life-boat Institution, and stationed at this place, promptly proceeded to her and remained by her for an hour, until it was considered the lives of the crew were no longer in danger.
 
@@ -207,7 +265,12 @@ On Sunday evening, during a heavy gale from the north, accompanied by snow showe
 
 ---
 
+TEXT
 
+![](../images/ILN_1878_loss_of_euridyce_apr_06_03x.png)
+Illustrated London News — H.M.S. Eurydice as she lay at eight a.m. on March 25 off Dunnose Point, Isle of Wight, April 6, 1878
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005
 
@@ -220,9 +283,9 @@ THE LOSS OF THE EURYDICE.
 
 From Our Own Correspondent, Ventnor, Monday
 
-Finding that the two poor fellows who had such a narrow escape from the sinking of the ill-fated Government training-ship Eurydice were sufficiently convalescent to admit of an interview, I spent a short time with them in their bed-room this morning, and elicited a few facts from them concerning tha terrible catastrophe. These poor fellows, Benjamin Cuddiford and Sidney Fletcher, did not appear to be very communicative, but thay exhibited no particular studied desire to withhold any facts. Cuddiford, a powerful-looking man, about 35, was second captain on the quarterdeck, and belongs to Plymouth. Fletcher is a youth about 20 years of age, and was qualifying as seaman. From Cuddiford's statement, which was confirmed by Fletcher, it appears that the Eurydice left Bermuda on the 6th instant, having on board ber full complement o officers and men, with about 300 men and boys in training for her Majesty's navy. There were also Colonel Ferrier and five other officers of the Royal Engineers on board, with Colonel Ferrier's servant. They had a fine voyage homeward, with the exception of one day's rough sea. As they passed Bonchurch and Ventnor shortly after mid-day the vessel was in full sail, and there appeared not the slightest premonitory indication of the awful event. Part of the men and boys were below deck at the time, and some of them were asleep in their berths, having gone off duty at noon. At the moment of the catastrophe they were thrown bodily from their sleeping postures, and as they rushed to the gangways they were met by the sea and carried below with the ill-fated vessel. There were others firmly locked in the cells below deck, and several were in irons for various misdemeanours. There were six of these prisoners on board, being transferred to Portsmouth — four from her Majesty's ship Rover, which was in the company of the Eurydice on the West Indian station, one from the brig Martin, and one from the Bermuda dockyard. After passing Bonchurch the ship was sailing apparently in safety, when a sudden squall from the W.N.W. caught hold of her canvas, and, with the aid of an immense sea which broke upon the port side of the hull, she was quickly thrown on her beam ends. The captain was at his post, and instantly gave orders to take in the lower studding-sail, which Cuddiford, who was on deck at the time, seized hold of and let go, hastening afterwards to the side of the captain at the stern of the vessel. Other men had been ordered aloft, and were in the act of taking in the royals when the ship sank, carrying all hands with her. There were only four guns on board, bnt they were all fast, and did not seem to move from the port holes. She was what the seamen call a "stiff"' vessel, and the hands considered her safe, particularly in regard to the unlooked-for casualty of capsizing. When she heeled over a rush was made for the starboard boat, but they were unable to clear her from her davits and she was stove in ; but as to the boat to windward, that was lifted so high in the air aa to be out of all reach, and it was useless to attempt to utilise it. It had been a beautiful day, and the port doors had been unsuspectingly left open, and when the vessel heeled over the sea rushed into these open ports like a torrent, and the hands on deck plunged into the sea as the craft went down. The captain bravely remained on the deck till nearly every man who was on the upper deck had jumped overboard, and so far as the survivors could remember he went down with the ship. Suddenly thrown into the raging sea, the seamen struggled and cried for assistance, but there was none to help. Tha two men who were saved are good swimmers, aad they say they were in the water about an hour. They could see the cliffs as the snowstorm cleared away, and they struggled hard to reach the shore, but all their efforts proved ineffectual. They were on the verge of despair, when, to make bad worse, they saw to their horror an immense sea rushing towards them and threatening speedy destruction. In their last hope they turned upon the coming wave and in terror awaited their fate. As if by a miracle they found themselves again on the surface of the water. After this swell had spent itself, and again looking round, they discovered a short distance away a schooner which had weathered the terrible storm. By this time they were almost exhausted, but they took fresh courage from the sight of the schooner, which was bound for Poole, and raised their hands as a signal of distress. When hauled on board they became unconscious, but recovered before they were landed at Ventnor.
+Finding that the two poor fellows who had such a narrow escape from the sinking of the ill-fated Government training-ship Eurydice were sufficiently convalescent to admit of an interview, I spent a short time with them in their bed-room this morning, and elicited a few facts from them concerning tha terrible catastrophe. These poor fellows, Benjamin Cuddiford and Sidney Fletcher, did not appear to be very communicative, but thay exhibited no particular studied desire to withhold any facts. Cuddiford, a powerful-looking man, about 35, was second captain on the quarterdeck, and belongs to Plymouth. Fletcher is a youth about 20 years of age, and was qualifying as seaman. From Cuddiford's statement, which was confirmed by Fletcher, it appears that the Eurydice left Bermuda on the 6th instant, having on board ber full complement o officers and men, with about 300 men and boys in training for her Majesty's navy. There were also Colonel Ferrier and five other officers of the Royal Engineers on board, with Colonel Ferrier's servant. They had a fine voyage homeward, with the exception of one day's rough sea. As they passed Bonchurch and Ventnor shortly after mid-day the vessel was in full sail, and there appeared not the slightest premonitory indication of the awful event. Part of the men and boys were below deck at the time, and some of them were asleep in their berths, having gone off duty at noon. At the moment of the catastrophe they were thrown bodily from their sleeping postures, and as they rushed to the gangways they were met by the sea and carried below with the ill-fated vessel. There were others firmly locked in the cells below deck, and several were in irons for various misdemeanours. There were six of these prisoners on board, being transferred to Portsmouth — four from her Majesty's ship Rover, which was in the company of the Eurydice on the West Indian station, one from the brig Martin, and one from the Bermuda dockyard. After passing Bonchurch the ship was sailing apparently in safety, when a sudden squall from the W.N.W. caught hold of her canvas, and, with the aid of an immense sea which broke upon the port side of the hull, she was quickly thrown on her beam ends. The captain was at his post, and instantly gave orders to take in the lower studding-sail, which Cuddiford, who was on deck at the time, seized hold of and let go, hastening afterwards to the side of the captain at the stern of the vessel. Other men had been ordered aloft, and were in the act of taking in the royals when the ship sank, carrying all hands with her. There were only four guns on board, bnt they were all fast, and did not seem to move from the port holes. She was what the seamen call a "stiff"' vessel, and the hands considered her safe, particularly in regard to the unlooked-for casualty of capsizing. When she heeled over a rush was made for the starboard boat, but they were unable to clear her from her davits and she was stove in ; but as to the boat to windward, that was lifted so high in the air as to be out of all reach, and it was useless to attempt to utilise it. It had been a beautiful day, and the port doors had been unsuspectingly left open, and when the vessel heeled over the sea rushed into these open ports like a torrent, and the hands on deck plunged into the sea as the craft went down. The captain bravely remained on the deck till nearly every man who was on the upper deck had jumped overboard, and so far as the survivors could remember he went down with the ship. Suddenly thrown into the raging sea, the seamen struggled and cried for assistance, but there was none to help. Tha two men who were saved are good swimmers, and they say they were in the water about an hour. They could see the cliffs as the snowstorm cleared away, and they struggled hard to reach the shore, but all their efforts proved ineffectual. They were on the verge of despair, when, to make bad worse, they saw to their horror an immense sea rushing towards them and threatening speedy destruction. In their last hope they turned upon the coming wave and in terror awaited their fate. As if by a miracle they found themselves again on the surface of the water. After this swell had spent itself, and again looking round, they discovered a short distance away a schooner which had weathered the terrible storm. By this time they were almost exhausted, but they took fresh courage from the sight of the schooner, which was bound for Poole, and raised their hands as a signal of distress. When hauled on board they became unconscious, but recovered before they were landed at Ventnor.
 
-From other sources it seems that the schooner made signals to the shore, while on board they were doing all they could to restore the poor sea-men, having also picked up Colonel Ferrier, Lieutenant Tabor, and an able seaman who has not get been identified, but is supposed to be named Bennett. All were alive when picked up by the schooner— the Emma, of Poole— but the two officers and the unknown seaman had expired before they reached the shore at Ventnor, whither they were taken by a Deal lugger, which had been chartered by the coaatguards and taken off to the Emma by Chief-officer Clark, of the Ventnor station. Lieutenant Tabor was found clinging to a locker which had been washed from the foundered ship.
+From other sources it seems that the schooner made signals to the shore, while on board they were doing all they could to restore the poor sea-men, having also picked up Colonel Ferrier, Lieutenant Tabor, and an able seaman who has not get been identified, but is supposed to be named Bennett. All were alive when picked up by the schooner— the Emma, of Poole— but the two officers and the unknown seaman had expired before they reached the shore at Ventnor, whither they were taken by a Deal lugger, which had been chartered by the coastguards and taken off to the Emma by Chief-officer Clark, of the Ventnor station. Lieutenant Tabor was found clinging to a locker which had been washed from the foundered ship.
 
 Cuddiford and Fletcher left Ventnor by the 2.10 train this afternoon for Portsmouth, there to undergo an examination by the Admiral of the Port. The Eurydice is now lying, it is thought, on a ledge, drifted there by the rough sea. She stands with a slight list, but at low water several feet of her upper masts are observable with the topsails furled. During the day two Government tugs have been at the scene of the wreck.
 
@@ -272,8 +335,6 @@ The indications are that her sails were not blown away by the squall, and the co
 
 MORE COLUMNS WITH NO RELIABLE OCR POSSIBLE - LIST OF NAMES AND BIOGRAPHIES
 
-
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006#
 
@@ -285,13 +346,13 @@ p6
 CAPSIZING oF H.M.S. "EURYDICE"  
 OVER 300 LIVES LOST.
 
-On Sunday afrernoon, one of the most sudden and terrific snow squalls whica we ever remember at tnis time of the year, passed over Ryde, making tne waters in the Solent rise in white-capped breakers in a wonderfully short space of time and those who witnessed its effects on the waters think of the "poor souls at sea." Although accidents were anticipated, the imagination of no one compassed such a terrible event as that which then occurred at the back of the Wight. In the course of the evening it was whispered, with bated breath, that one of Her Majesty's ships had been overset off Ventnor, and the dreadful rumour was, of course, treated at first as a canard. Its correctness was, however, subsequentiy verifed, and the excitement which reigned may be easily imagined, more especially on the following morning, when the news of the sad disaster was spread abroad far and wide. At Ventnor, however, the excitement was most intense. On Sunday afternoon the weather wss comparatively fine and miid, and there were more than tne usual number of visitors on the esplanade. About 4 o'clock all eyes were turned to a pleasant sight. Close to the shore, and easily distinguished, was H.M.S. Eurydice, which was bowling along uuder a press of canvas, with a stiff breeze, at a fine rate. Soon, however, the sky be- came overcast, and it became evident that a storm wa-s coming on, and the vessel was watched by the "old salts" with some interest. As they noted tne storm gathering, their verdict was "that fellow will soon have to shorten sail." The snow storm which came on, however, soon drove the promenaders to their homes, and hid the ship from all, and she was not seen again. The sudden squall caught her off Dunnose, and she Was overturned in a moment, and went down with over 300 men. Only five of these were picked up. The schooner Emma, which was passing, picked up five men — Lieutenant Tabor, Captain Ferrier, R.E., Bennett, Cuddiford, and Fletcher, a first-class boy, but the first three of these died before reaching the shore. The ship was commissioned at Portsmouth on the 7th of February, 1877, and was ordered to the West Indies. She was now bound for Spithead. Cuddiford states that the ship capsized in a squall and snow storm, five mils off Dunnose, about 4 o' clock. More than 3OO men were on board, all of whom, he believes, are lost, excepting himself and Fletcher. Cuddiford was amongst the iast on the ship. Captain Hare was with him when the ship went down, sucking many with it. Cuddiford and a man near him said that a vessel was close by when the squall came on, and, therefore, they would be sure to be picked up. He was over an hour in the water, and, being a good swimmer, every one called out to him for help. He tried to assist two or three, but at last four clung to him, and he was obdged to kick tnem off. He was well taken care of by tne master and crew of the schooner. The ship left Bermuda three weeks ago, passed the Lizaid on Sunday, and was expected to anchor at Spithead about, 5 o'clock.
+On Sunday afrernoon, one of the most sudden and terrific snow squalls whica we ever remember at this time of the year, passed over Ryde, making tne waters in the Solent rise in white-capped breakers in a wonderfully short space of time and those who witnessed its effects on the waters think of the "poor souls at sea." Although accidents were anticipated, the imagination of no one compassed such a terrible event as that which then occurred at the back of the Wight. In the course of the evening it was whispered, with bated breath, that one of Her Majesty's ships had been overset off Ventnor, and the dreadful rumour was, of course, treated at first as a canard. Its correctness was, however, subsequentiy verifed, and the excitement which reigned may be easily imagined, more especially on the following morning, when the news of the sad disaster was spread abroad far and wide. At Ventnor, however, the excitement was most intense. On Sunday afternoon the weather wss comparatively fine and miid, and there were more than tne usual number of visitors on the esplanade. About 4 o'clock all eyes were turned to a pleasant sight. Close to the shore, and easily distinguished, was H.M.S. Eurydice, which was bowling along uuder a press of canvas, with a stiff breeze, at a fine rate. Soon, however, the sky be- came overcast, and it became evident that a storm wa-s coming on, and the vessel was watched by the "old salts" with some interest. As they noted tne storm gathering, their verdict was "that fellow will soon have to shorten sail." The snow storm which came on, however, soon drove the promenaders to their homes, and hid the ship from all, and she was not seen again. The sudden squall caught her off Dunnose, and she Was overturned in a moment, and went down with over 300 men. Only five of these were picked up. The schooner Emma, which was passing, picked up five men — Lieutenant Tabor, Captain Ferrier, R.E., Bennett, Cuddiford, and Fletcher, a first-class boy, but the first three of these died before reaching the shore. The ship was commissioned at Portsmouth on the 7th of February, 1877, and was ordered to the West Indies. She was now bound for Spithead. Cuddiford states that the ship capsized in a squall and snow storm, five mils off Dunnose, about 4 o' clock. More than 3OO men were on board, all of whom, he believes, are lost, excepting himself and Fletcher. Cuddiford was amongst the iast on the ship. Captain Hare was with him when the ship went down, sucking many with it. Cuddiford and a man near him said that a vessel was close by when the squall came on, and, therefore, they would be sure to be picked up. He was over an hour in the water, and, being a good swimmer, every one called out to him for help. He tried to assist two or three, but at last four clung to him, and he was obdged to kick tnem off. He was well taken care of by tne master and crew of the schooner. The ship left Bermuda three weeks ago, passed the Lizaid on Sunday, and was expected to anchor at Spithead about, 5 o'clock.
 
 The following list of officers on board is given in the *Navy List*: Captain, Marcus A. S. Hare; Lieuteuants, Francis H. Tabor. Charles Y. Strange, William E. Black, Stanley A Burney; Staff-surgeon, James L. Whitney; Paymaster, Frank Pittman; Sub-Lieutenants, the Hon. Edward R. Gifford, Herbert S. Edmonds, Walter S. Smith, Sidney G. Randolph ; Surgeon, Robert Murdoch, M. B. ; gunner, Frederick Aden ; boatswains, William Brewer, Joseph Warren ; assistant clerk, William Lamont.
 
 FURTHER PARTICULARS
 
-The Eurydice was a wooden sailing, fully-rigged ship of 921 tons displacement, and was at one time considered one of tne smartest and quickest 26 gun frigates in the service. She was built about 1843. Last year she was conveted into a training-ship for orainary seamen at Mr John White's yard at Cowes, and was completed for sea at Portsmouth dockyard. She was commissioned on the 7th of February, 1877, and finally sailed from Portsmouth on the 13th of November with a crew of about 390 ordinary seamen and the officers named above. All the officers and crew are lost, with the exception of two seamen. Captain Hare had been at one time commander of the St. Vincent, training-ship at Portsmouth, and was selected for the command from his knowledge and experience of young seamen. Lieutenant Tabor was a thorougnly efficient sailor, having had command of ihe Cruizer in ihe Mediterranean. The Eurydice Was aocompnied foom Portsmouth by the training- brig Martin, and was eventually joined at Madeira by the Liberty from Plymouth. All the vessels were filled with ordinary seamen, whom it was considered necessary to inure to the sea by a long cruise ; and, as they were all draughted from the home training-snips, the distress caused by their loss is spread over the whole country. They were, of course, mostly unmarried men, and in this respect the crew differ irom that of the Captain, who were principally able-bodied seamen and petty officers. Tne Liberty arrived at Portsmouth a few days ago, the Eurydice being detained for the purpose of taking up supernumeraries. Captain Hare, however, intormed Lieutenant Commander Hicks that he expected to be home almost as soon as the Martin.
+The Eurydice was a wooden sailing, fully-rigged ship of 921 tons displacement, and was at one time considered one of tne smartest and quickest 26 gun frigates in the service. She was built about 1843. Last year she was conveted into a training-ship for orainary seamen at Mr John White's yard at Cowes, and was completed for sea at Portsmouth dockyard. She was commissioned on the 7th of February, 1877, and finally sailed from Portsmouth on the 13th of November with a crew of about 390 ordinary seamen and the officers named above. All the officers and crew are lost, with the exception of two seamen. Captain Hare had been at one time commander of the St. Vincent, training-ship at Portsmouth, and was selected for the command from his knowledge and experience of young seamen. Lieutenant Tabor was a thorougnly efficient sailor, having had command of ihe Cruizer in ihe Mediterranean. The Eurydice Was aocompnied foom Portsmouth by the training- brig Martin, and was eventually joined at Madeira by the Liberty from Plymouth. All the vessels were filled with ordinary seamen, whom it was considered necessary to inure to the sea by a long cruise ; and, as they were all draughted from the home training-snips, the distress caused by their loss is spread over the whole country. They were, of course, mostly unmarried men, and in this respect the crew differ irom that of the Captain, who were principally able-bodied seamen and petty officers. Tne Liberty arrived at Portsmouth a few days ago, the Eurydice being detained for the purpose of taking up supernumeraries. Captain Hare, however, informed Lieutenant Commander Hicks that he expected to be home almost as soon as the Martin.
 
 THE VOYAGE FROM BERMUDA.
 
@@ -312,6 +373,14 @@ The second was transmitted to the First Lord of the Admiralty, and was to the fo
 "The Queen would ask Mr Smith to make kunwn her grief at the terrible calamity to the Eurydice and her heartfelt sympathy with the afflicted friends and relatives."
 
 In another telegram to Mr Smith the Queen said the telegrams had caused us the greatest grief. These telegrams, having been forwarded to Admiral Fanshawe, were promptly posted at the dockyard gates, where they were eagerly read by sympathetic crowds.
+
+
+---
+TEXT
+
+
+![](../images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg)
+Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006
@@ -375,6 +444,17 @@ This week has been marked by a very sudden change from the mild dry weather rece
 *Temperatures in degrees Fahrenheit. A ' is used in place of a decimal point.*
 
 See also image: BL_0000057_18780330_027_0021_pdf__1_page_.png
+---
+
+
+
+TEXT
+
+
+![](../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg)
+Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878
+
+
 ---
 
 
@@ -469,6 +549,19 @@ VERDICT.
 
 The jury retired, and after an absence of half hour, returned with the following verdict:— "The jury unanimously find that the three deceased were accidentally drowned owing to the capsizing of her Majesty's ship Eurydice, by a sudden squall, at Dunnose, on Sunday, the 24th inst., and the jury consider that, from the evidence adduced, no blame whatever can attach to the captain, officers, and men of the ship."
 
+
+
+---
+TEXT
+
+![](../images/003KTOP00000015U02700000_SVC2.jpg)
+View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight
+http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html
+View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is located in an area known as the Undercliff. This area is protected by the peaks of the Downs and has a notably milder climate than much of the rest of the island. Dunnose is one of the highest points on the island with some peaks reaching a height of 792 feet. The rocks around Dunnose Point are extremely dangerous and it was here that in 1878 the HMS Eurydice sank claiming over 350 lives.
+Medium: Aquatint, coloured
+Date: 1800
+
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0001578/18780330/143/0017?browse=true
@@ -490,7 +583,7 @@ The Eurydice left Bermuda on the 6th inst., and nothing was heard of her until s
 
 The Isle of Wight is of peculiar formation on its southern fringe, having what may be considered as a double coast line extending from Blackgang Chine as far as Shanklin. The inner circle of the downs reaches a height of 500 ft. above the sea, and affords a deceptive shelter to ships well in shore. From the direction in which the Eurydice was steering she would be in comparatively smooth water, sheltered by the downs, until she rounded Dunnose Head, where the disaster occurred. This circumstance will also serve to explain the fact that the Emma, schooner, which was near at the time, was not affected by the gale.
 
-At ten minutes to four the wind suddenly veered round from the west to the eastward, and a gale, accompanied by a blinding fall of snow, came rushing from the high lands down Luccombe Chine, striking the Eurydice just a little before the beam, driving her out of her course, which was heading to the north-east, and turning her bows to the east. This is what seems probable, though, from the manner in which the sea was concealed by the snow, nothing was seen of her at the supreme moment when she capsized to starboard. The air cleared as suddenly as it became overcast, the wind sinking away at the same time. 
+At ten minutes to four the wind suddenly veered round from the west to the eastward, and a gale, accompanied by a blinding fall of snow, came rushing from the high lands down Luccombe Chine, striking the Eurydice just a little before the beam, driving her out of her course, which was heading to the north-east, and turning her bows to the east. This is what seems probable, though, from the manner in which the sea was concealed by the snow, nothing was seen of her at the supreme moment when she capsized to starboard. The air cleared as suddenly as it became overcast, the wind sinking away at the same time.
 
 As soon as anything could be seen, the masts and top-hamper of the ship were discerned above the water about 2 3/4 miles ENE. off Dunnose, a well-known and lofty landmark between Shanklin and Ventnor. The ship lies in eleven fathoms of water, and from her position she appears to have righted in going down.
 

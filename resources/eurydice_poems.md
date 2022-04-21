@@ -27,6 +27,8 @@ https://clok.uclan.ac.uk/11418/1/45.4.hobbs.pdf
 
 ```
 
+*Pers. comm.*, Andrew Hobbs, 20/4/2022, it is interesting "that so many people turn to poetry in times of disaster, and also most of the poems you've found are published in places on or near the coast -- Dundee, Liverpool, Montrose, Ulverston, Berwick, Drogheda -- where geography meant more empathy?"
+
 ---
 
 

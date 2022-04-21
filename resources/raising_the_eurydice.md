@@ -89,6 +89,15 @@ At noon today the wreck was moved another 144 feet towards the shore, making alt
 
 TH note: Japanese diver
 
+
+---
+
+
+![](../images/The-Raising-of-HMS-Eurydice-Richard-Henry-Nibbs-oil-painting.jpg)
+The Raising of HMS Eurydice
+Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy
+
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780720/031/0006
 Isle of Wight Observer
@@ -118,12 +127,27 @@ Isle of Wight Times
 Thursday 25 July 1878
 p5
 
+TO DO 
+
 THE EURYDICE.
 
-The lifting operations were suspended on Friday for the re-arrangement of the plan hitherto adopted. Iron plates have been manufactured for taking off the rubbing effects on the sides of the sides of the Eurydice, and were taken out of harbour in the afternoon to be fixed in position. On Friday morning at low tides the quarter-davits of the sunken vessel were visible and it was officially ascertained that she was within a mile of the Culver Cliff, entirely out of the tide way, so that she will not be in danger even should the weather take an unfavourable turn It was not expected that the actual lifting of the wreck can be proceeded with before this day, but of every moment was utilised by divers to clear the decks as far as practicable, and they have been busily engaged in preparing to cut away the mainmast. Orders have been issued regulating the steps to be taken for the recovery of valueable property so soon as the ship shall be pumped dry. A lieutenant, two warrant officers, a dockyard detective and a ship's steward have been appointed for this purpose, except for special moans, no persons will be permitted to enter the cabins until search has been made. Particubx attention is to be paid to the recovery of the public chest and of large onus of money believed to be in possession of the ship's corporal and a lieutenant in the itoyal Engineers, who were on board. The Dockyard officials are preparing comparative list of weights carried by the Lurydic . e in her commissions of 1846, 1846 and 1877, and oho descriptive drawings of her angle stability, for the purpose of the tourt-martial. We had hoped to have been able to record the fact that the Eurydice was safe in Portsmouth Harbour at the time of going to press with our present issue, but it seems that a little more delay is necessary. On Monday evening the ehipwirght department of Portsmouth Dockyard finished their part of the work of adapting the Peed, Rinaldo, Wave, and Swan to the new place of lifting the wreck from the sides, 100 men having been engaged upon these vessels throughout Sunday. Much, however, remains to be done in the way of strengthening the sides of the craft with wooden balks, and it is not expected that the necessary preliminaries can be completed before Friday or miturday. The Peral will be located on the port side of the Eurydice, and alongside her, for the purpose of increasing her stability, will be the Swan ; whilst the Rinaldo and the Wave will be similarly platted on the starboard side. The wreck will not, as heretofore, be swept with hawsers, the lift having to be effected entirely by means of 16 toggles, eight being fixed in position on each side, secured by Tin. wire hawsers, each capable of standing a strain equivalent to a hundred tons. Though not altogether out of the tide, the Eurydice is in water that is less in the run of the tide, and this will be highly advantageous in rendering the lifting vessels more manageable than has hitherto been the came. It is intended to lift the Eurydice with successive tides as high tie may be found practicable, then to cloge up her ports and hatchways, and afterwards to pump her dry, when she will flo.tt to W the surface b lt y virtue of her own bouyancy. ith this resu attained the salvage operations will be completed and the wreck will undergo a thorough fumigation before being brought into harbour. On Monday the Manly tug brought a body into harbour, and a chest of drawers and a cashbox were also recovered from the unfortunate frigate.
+The lifting operations were suspended on Friday for the re-arrangement of the plan hitherto adopted. Iron plates have been manufactured for taking off the rubbing effects on the sides of the sides of the Eurydice, and were taken out of harbour in the afternoon to be fixed in position. On Friday morning at low tides the quarter-davits of the sunken vessel were visible and it was officially ascertained that she was within a mile of the Culver Cliff, entirely out of the tide way, so that she will not be in danger even should the weather take an unfavourable turn It was not expected that the actual lifting of the wreck can be proceeded with before this day, but of every moment was utilised by divers to clear the decks as far as practicable, and they have been busily engaged in preparing to cut away the mainmast. Orders have been issued regulating the steps to be taken for the recovery of valueable property so soon as the ship shall be pumped dry. A lieutenant, two warrant officers, a dockyard detective and a ship's steward have been appointed for this purpose, except for special moans, no persons will be permitted to enter the cabins until search has been made. Particubx attention is to be paid to the recovery of the public chest and of large onus of money believed to be in possession of the ship's corporal and a lieutenant in the itoyal Engineers, who were on board. The Dockyard officials are preparing comparative list of weights carried by the Eurydice in her commissions of 1846, 1846 and 1877, and oho descriptive drawings of her angle stability, for the purpose of the court-martial. We had hoped to have been able to record the fact that the Eurydice was safe in Portsmouth Harbour at the time of going to press with our present issue, but it seems that a little more delay is necessary. On Monday evening the ehipwirght department of Portsmouth Dockyard finished their part of the work of adapting the Peed, Rinaldo, Wave, and Swan to the new place of lifting the wreck from the sides, 100 men having been engaged upon these vessels throughout Sunday. Much, however, remains to be done in the way of strengthening the sides of the craft with wooden balks, and it is not expected that the necessary preliminaries can be completed before Friday or miturday. The Peral will be located on the port side of the Eurydice, and alongside her, for the purpose of increasing her stability, will be the Swan ; whilst the Rinaldo and the Wave will be similarly platted on the starboard side. The wreck will not, as heretofore, be swept with hawsers, the lift having to be effected entirely by means of 16 toggles, eight being fixed in position on each side, secured by Tin. wire hawsers, each capable of standing a strain equivalent to a hundred tons. Though not altogether out of the tide, the Eurydice is in water that is less in the run of the tide, and this will be highly advantageous in rendering the lifting vessels more manageable than has hitherto been the came. It is intended to lift the Eurydice with successive tides as high tie may be found practicable, then to cloge up her ports and hatchways, and afterwards to pump her dry, when she will flo.tt to W the surface b lt y virtue of her own bouyancy. ith this resu attained the salvage operations will be completed and the wreck will undergo a thorough fumigation before being brought into harbour. On Monday the Manly tug brought a body into harbour, and a chest of drawers and a cashbox were also recovered from the unfortunate frigate.
+
 
 ---
 
+TEXT
+
+
+
+![](../images/ILN_1878_loss_of_euridyce_jul_27_005.jpg)
+Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle of Wight, July 27, 1878
+
+![](../images/52015295425_b61281d18e_o.jpg)
+Sandown, looking towards the red cliff and white cliff, Yaverland
+
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780801/064/0005
 Isle of Wight Times
@@ -137,7 +161,7 @@ On Sunday the Commander-in-chief returned into harbour bringing with him informa
 
 At half-past three on Monday morning all the divers went down passing two more seven-inch wires under the ship. The tugs then towed her in, and the Eurydice was brought up in about 14 feet of water at low tide, and at about a cable's length from the shore. Here she will remain. THe lifting has in fact been completed, and the Rinaldo end the Pearl have been disconnected from the wreck. This done, the divers were set to work to closce the ports on the lee side, which are about three feet below water at low tide, a party of shipwrights were sent to cover the ports on the port side, which are now out of water. In the course of Monday eleven more bodies were discovered. They were found on the main deck, in, of course, the most shocking condition. Coffins were passed through the ports, the bodies placed in them, the coffins screwed down, and then passed out again, so that the distressing spectacle was witnessed by us few persons as possible. Admission to the ship for any but the working party is strictly prohibited. The pumping out having been completed, and the entrance of water prevented, it is believed that the ship will right herself and float. Then will that terrible task of exploration of the lower deck, on which it is expected that the majority of the missing men, some 250 were assembled when the vessel was capsized, and from which there was no escape during the minute or two before she foundered.
 
-ADDITIONAL PAARTICULAR— STATE OF HE WRECK
+ADDITIONAL PARTICULAR— STATE OF HE WRECK
 
 The topsides and deck on the port side exhibited a remarkably clean appearance, producsed, no doubt, by the wash of the tide, and it was observed, as furnishing confirmatory proof of the suddenness of the catastrophe, that the ropes connected with the upper sails, were all belayed. So soon as the ports on the weather side came above the water, a volunteer exploring party from the Naval Reserve and two undertakers entered the main deck in search of bodies, having their mouths and nostrils enveloped in swathes to prevent their inhaling the effluvium. A dockyard launch simultaneously brought a cargo of coffins from the Pearl, and, with a covered barge intended for the reception of the coffins, took up a postion under the fore part on the elevated side. The shells were passed into the deck, and eleven bodies, which were floating, were quickly recovered, coffined separately, and then towed away in the barge, deodorants being freely used. The locale of the wreck was literally swarming with sightseers, who pressed round the hull. On the main deck all was chaos, everything being unshipped and floating to the leeward, whilst the bodies were stripped of flesh mainly by ??  ?position and coated with slime and sand. Eight were absolutely unrecognisable, but one was identified as a first-class petty officer by his badge, and two others were found to be ordinary seamen, Watts and Haver. through their names remaining upon the remnants of clothes on them. At low water the upper part of the port bilge was out of water, and a party of ninety seamen began to clear the upper deck and to float the cutter and the crew's boat, whilst the Adniiral-Superintendent and Inspector-General Domville managed to penetrate into the captain's cabin and also the weather cabins, but found no bodies in them. They were unable to pass into the starboard cabins, the water remaining as high as the centre of the combing of the main hatchways. On the port side the guns remained in position in the midship, port forward, and the port under the main chains, and those on the starboard side in the port before the gangway and that abaft the gangway were also visible.
 
@@ -150,6 +174,15 @@ A number of liberty men were sent ashore on Monday evening, under orders to retu
 A CURIOUS INCIDENT
 
 Among the otfieers on board the Eurydice at the time she foundered was Mr. Charles V. Strange, a lieutenant who is said to be the owner of part of the Epsom Racecourse. His will has been in the posesasion of his friends, but it was believed that there was also a codicil which, though diligent search has been made, could not be found. Yesterday the codicil was discovered on board.
+
+
+---
+
+TEXT
+
+
+![](../images/52015030324_42a5559933_o.jpg)
+Sandown, looking back towards Luccombe
 
 ---
 
@@ -191,7 +224,7 @@ p5
 
 THE EURYDICE
 
-The weatheron Wednesday being favourable, for the first time since the abandonment of the attempt to close the lee ports of the Eurydice, a highly satisfactory day's work was done towards the recovery of the ship from her exceedingly critical position in Sandown Bay. At eleven o'clock the Pearl and the Rinaldo were hove down upon the wreck by means of the six steel hawsers which had been passed under the keel, the Wave and the Swan being immersed and used as lateral counter weights in the manner which has been already described. The only thing to do next was to wait for the tide, and a few minutes after three the wreck began to lift a little. As the wreck and the lifting ships were lying with their bows towards shore, the tugs were necessarily placed with towing ropes made fast to the sterns of the Pearl and Rinaldo, to draw them into deeper water. At half-past three the four tugs were ordered to steam easily ahead. There was great suspense for a few minutes, every eye watching the flagstaff of Sandown Fort in line with a tall elm tree in the upper part of Sandown. Presently the flagstaff was slowly passed, proving that the wreck was fairly afloat and moving seawards. After steaming a short distance the tugs cast off the tow ropes and went round to the bows of the flotilla, swung them round towards sea, and and were soon going ahead at full speed. By twenty minutes after four the ships were off the point of Culver Cliffs, about two miles from the starting point. The course was now directed between Princess Bank and shoal water off Bembridge, leaving the black and white chequered buoy of Bembridge Ledge on the port side. After going about three knots an hour ,weathering the easternmost point of the Isle of Wight, the Heather Bell, passed crowded with passengers, who vociferously cheered Admiral Foley and other officers on their success. The width amidships across the decks of the whole flotilla of seven ships was then measured, and it was found to be 250 feet. A consultation between the officers was held, and it was determined to beach the Eurydice on St. Helen's sands. The mouth of Portsmouth harbour would be amply wide enough, but it would be quite impossible to tow the combined craft of such enormous breadth of beam through the channels inside the harbour and between all other ships and buoys. Brading harbour soon opened up to view, and a course was steered for St. Helen's Point, which is on the western side of the haven. There being still half an hour of flood tide left, the tugs were kept forging ahead towards the shore to get the wreck into as shallow water as practicable. Soundings were continually taken from the tugs and called, showing a gradual decrease of water, until at a quarter to six o'clock the Eurydice grounded in 22 feet forward and 24 feet aft, near Bembridge Fort, and about half a mile from the beach at St. Helen's. At low tide the depth was 14 feet forward and was 11 feet aft.
+The weather on Wednesday being favourable, for the first time since the abandonment of the attempt to close the lee ports of the Eurydice, a highly satisfactory day's work was done towards the recovery of the ship from her exceedingly critical position in Sandown Bay. At eleven o'clock the Pearl and the Rinaldo were hove down upon the wreck by means of the six steel hawsers which had been passed under the keel, the Wave and the Swan being immersed and used as lateral counter weights in the manner which has been already described. The only thing to do next was to wait for the tide, and a few minutes after three the wreck began to lift a little. As the wreck and the lifting ships were lying with their bows towards shore, the tugs were necessarily placed with towing ropes made fast to the sterns of the Pearl and Rinaldo, to draw them into deeper water. At half-past three the four tugs were ordered to steam easily ahead. There was great suspense for a few minutes, every eye watching the flagstaff of Sandown Fort in line with a tall elm tree in the upper part of Sandown. Presently the flagstaff was slowly passed, proving that the wreck was fairly afloat and moving seawards. After steaming a short distance the tugs cast off the tow ropes and went round to the bows of the flotilla, swung them round towards sea, and and were soon going ahead at full speed. By twenty minutes after four the ships were off the point of Culver Cliffs, about two miles from the starting point. The course was now directed between Princess Bank and shoal water off Bembridge, leaving the black and white chequered buoy of Bembridge Ledge on the port side. After going about three knots an hour ,weathering the easternmost point of the Isle of Wight, the Heather Bell, passed crowded with passengers, who vociferously cheered Admiral Foley and other officers on their success. The width amidships across the decks of the whole flotilla of seven ships was then measured, and it was found to be 250 feet. A consultation between the officers was held, and it was determined to beach the Eurydice on St. Helen's sands. The mouth of Portsmouth harbour would be amply wide enough, but it would be quite impossible to tow the combined craft of such enormous breadth of beam through the channels inside the harbour and between all other ships and buoys. Brading harbour soon opened up to view, and a course was steered for St. Helen's Point, which is on the western side of the haven. There being still half an hour of flood tide left, the tugs were kept forging ahead towards the shore to get the wreck into as shallow water as practicable. Soundings were continually taken from the tugs and called, showing a gradual decrease of water, until at a quarter to six o'clock the Eurydice grounded in 22 feet forward and 24 feet aft, near Bembridge Fort, and about half a mile from the beach at St. Helen's. At low tide the depth was 14 feet forward and was 11 feet aft.
 
 Another lift of the wreck was made as the tide rose early on Thursday morning, and she was towed a short mean distance further towards St. Helen's Beach, and again grounded at about seven am. As this tide left her a good deal of the main deck began to show above water, and shipwrights and divers were soon put on in strong force to close the hatchways of this deck and all other openings, in order to make the ship watertight preparatory to pumping her out. At low water about noon half the main deck was dry, the lee side of the upper deck being just washed. This tide has also been busily employed in getting down the copper suction pipes as low as possible into the ship, and fitting them in readiness for connecting with the powerful steam pumps of the four tugs. Some hours before low tide the Pearl was aground, and the tide receded to 6ft. below her water line, and the Rinaldo also grounded, and therefore both were incapable of lifting the Eurydice much more. Yesterday the work of pumping  out the ship was commenced, the whole of the extensive pumping appliances being brought into requisition, but no progress was made in consequence of the leaky condition of the vessel. Renewed efforts will be made to-day.
 
@@ -215,6 +248,20 @@ Although the morning looked unpromising, with fresh south-west breeze, it was de
 
 Telegrams were seat to the Qaeen and the Prince of Wales this evening informing them of the success achieved.
 
+
+---
+TEXT
+
+![](../images/808750-1534236882.jpg)
+HENRY ROBINS (1820-92)
+The Wreck of the "Eurydice" Signed and dated 1878
+Oil on canvas | 60.2 x 123.1 cm (support, canvas/panel/str external) | RCIN 406265
+HMS Eurydice was a training ship for ordinary seamen which had sunk in a sudden squall on 24 March 1878. There were more than 300 men on board but only two survivors. She was brought into Sandown bay on the Isle of Wight, but an easterly gale caused her further damage and by 9 August, when this picture was painted, she was being pumped out in preparation for being moved to Portsmouth Harbour.
+In the painting the vessel is in Sandown Bay under Culver Cliff, with spectators and a photographer on the beach. There are other small craft, including steam tugs and the 'Rinaldo', which had helped to raise the sunken ship. The picture was apparently painted in less than 40 hours by Robins 'an artillery sergeant who paints naval subjects exceedingly well. He is self taught', according to Queen Victoria's notes in her Journal. The Queen had driven over with other members of her family to see the wreck.
+Signed and dated: H. Robins / Augt 9th 1878.
+Provenance
+Painted for Queen Victoria (See also QV Journal, 22 August 1878)
+https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780815/106/0004
@@ -257,6 +304,15 @@ Since our last issue the wreck of the Eurydice has been removed from the exposed
 
 
 ---
+
+
+TEXT
+
+![](../images/ILN_1878_loss_of_euridyce_aug_17_004.jpg)
+Illustrated London News — Visit of the Prince of Wales to the wreck of H.M.S. Eurydice in Sandown Bay, August 17, 1878
+
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001857/18780817/011/0003
 
 Illustrated Sporting and Dramatic News
@@ -288,6 +344,7 @@ p5
 The Eurydice.
 
 It is now believed that the last body has been recovered from the ship, and Admiral Foley has officially reported the ship clear of corpses. A thorough investigation was made by Jenkins, the diver, before this opinion was come to. The body of Lieut. Black was discovered jammed against the ladder. The body of a seaman was found in the cells of the lower deck, but not in irons. Since the ship has been off St. Helen's only 15 bodies have been recovered, making the total number recovered since the wreck 121, of which six were found in the sick bay. The number washed out to sea by the strong tide in the direction of France, must therefore have been more than was first supposed. A director of the Salvage Steamship Company has written a letter in reply to observations made in the House of Commons, and explained the difficulties of rasing sunken ships, and agreeing that the work done to the Eurydice by the dockyard authorities reflects great credit on them.
+
 
 
 ---
