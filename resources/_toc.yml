@@ -10,10 +10,11 @@ parts:
 - caption: Reborn As A Training Ship
   chapters:
   - file: __training_ship
-  - file: __life_on_board_eurydice
+  - file: __last_four_days_eurydice_verney
 - caption: The Loss of the Eurydice
   chapters:
   - file: __foundering_of_the_eurydice
+  - file: __inquest
   - file: __immediate_plans
   - file: __struggle_to_raise_continues
   - file: __life_aside
@@ -31,7 +32,6 @@ parts:
   - file: __eurydice_reminiscences
 - caption: The Bureaucratic Tale
   chapters:
-  - file: __inquest
   - file: __eurydice_court_martial
   - file: __eurydice_tracked_in_parliament
 - caption: Endnotes

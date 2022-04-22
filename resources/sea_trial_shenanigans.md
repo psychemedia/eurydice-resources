@@ -1,12 +1,18 @@
 # Sea Trial Shenanigans
 
-Once launched, the H.M.S. Eurydice took part in a sea-trial to compare her perfrmance against that of other ships, specifically the *Warspite* and the *Grecian* in September 1843 and the *Inconstant* and *Spartan* in Spring, 1844. 
+Once launched, the H.M.S. Eurydice took part in a sea-trial to compare her perfrmance against that of other ships, specifically the *Warspite* and the *Grecian* in September 1843 and the *Inconstant* and *Spartan* in Spring, 1844.
 
-From the reports of the trials, it seems that sea trials resembled a cavalier "motor sport" ethic, with every opportunity taken to cheat and malign the compettition!
+![](../images/Hms-warspite-1884.jpg)
+HMS Warspite
+
+From the reports of the trials, it seems that sea trials resembled a cavalier "motor sport" ethic, with every opportunity taken to cheat and malign the competition!
 
 ![](../images/lastfourdaysofeu00vern_bw_pdf__page_6_of_90_.png)
 H.M.S. Eurydice, in The Last Four Days of the "Eurydice", by Captain E. H. Verney, R.N.
 
+## Sea Trials, Autumn, 1843
+
+Only brief mention of the progress of the trials appears to have been mentioned in the press, and the outcome described by them was unclear.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430916/014/0002
@@ -17,7 +23,6 @@ PORTSMOUTH— (Continued)—
 
 The result of the comparative rates of sailing of the Warspite and Eurydice, as far as is yet known is, that the former beat the Eurydice running free and sparing studding-sails, while the latter bad the advantage in light winds on a wind.
 
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18430916/018/0003
 Salisbury and Winchester Journal
@@ -27,7 +32,6 @@ p3
 Portsmouth, Friday September 15
 
 On Saturday afternoon, the Warspite, Eurydice, and Grecian put sea for another sailing trial, and afterwards attend her Majesty to Ostend. Letters have been received from the Eurydice, stating that she is now quite equal the Warspite in sailing and working: with the Grecian she is about equal.
-
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430930/018/0003
@@ -44,7 +48,6 @@ Opinions and accounts are very uncertain relative to the trials between the Wars
 
 ---
 
-
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000077/18431001/051/0012
 Lloyd's Weekly Newspaper
 Sunday 01 October 1843
@@ -56,7 +59,14 @@ THE ROYAL NAVY. Portsmouth, SEPT. 27.
 
 The Eurydice, 26, Captain Elliot, having been found to be out of trim during her recent trial cruise with the Warspite and Grecian, is landing some of her water-tanks and 15 tons of water, as it is intended that she shall not carry so much water as was originally intended by 15 tons. She is intended to leave in a day or two for China and the East Indies.
 
-[TH: it seems the destination was either changed or incorrectly reported, with the Eurydice sailing for the *West Indies* a few days later. It was in returning from the West Indies that the Eurydice was also to have her last voyage of note when she foundered in March, 1878, when rounding the Isle of Wight and making for home in Portsmouth.]
+---
+
+TEXT
+
+As previously mentioned, the Eurydice's firstvoyage was actually to the *West* Indies.
+## Weatherliness in Ships
+
+Following the trials, the "weatherliness" of the Eurydice became a matter for correspondence.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18431016/025/0004
@@ -78,16 +88,14 @@ Sir, your obedient Servant
 JAMES SABBEN, Lieut. R.N.  
 October 13th, 1843.
 
-
----
-
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18431104/013/0003#
 Hampshire Advertiser
 Saturday 04 November 1843
 
 p3
+
+[Re: Weatherliness in Ships]
 
 A letter from Lieut. Sabben, R.N. on a subject of considerable interest to naval men — namely, the cause of " weatherliness" in ships, as illustrated by that apparent in H.M.S. Eurydice, was published by our local contemporary some little time since. It may not be irregular, if we say a few words on the subject, without going into Lieut. Sabben's theory, which would be "dry" — and therefore unpardonable.
 
@@ -106,6 +114,14 @@ Again, we are all to recollect that there is another ship on the same plan as Eu
 All will agree, likewise, that whatever tends to " throw " the weather bow " up to windward," has the same tendency as regards "the entire ship ;" it being proverbial tbat, " where the head is, the body will not be far behind," unless the ship should have the mishap to come in two, and its dissevered portions should start, each on its own account! Lieut. S. is of course aware that in the case of the " Symondian " ships (the *sharpest*, and we really think, taken as a whole, the most *weatherly* class of ships in existence) being " brought down " generally ruins them ; and the lighter they are the better. The reasons are obvious, on an examination of their form. All will concur in what he says as to the importance of *light* draught : but on this we cannot now enter.
 
 With very much that Lieut. S. doubtlessly has to say, we suspect that we should agree ; and his letter was an interesting one. What we protest against is, *not his theory*, but the assumption that it is proved or supported, by the recent trials of the Eurydice. Whether his theory be correct is quite a separate question.
+
+---
+
+TEXT
+
+## Sea-Trial One-Upmanship
+
+A report in January, 1844, regarding the performance of another ship, the Sealark, which mentions the Eurydice in passing, suggests that the "team bosses" were accustomed to talking down the performance of their rivals!
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18440113/023/0006
@@ -134,6 +150,11 @@ It would be interesting to your Naval readers at all times to know the results a
 
 C.
 
+---
+
+TEXT
+
+"Unsportsmanlike behaviour" also appears to have been par for the course, as these reports involving a trial for the Eurydice in Spring 1844 suggest:
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440406/017/0005
@@ -155,4 +176,3 @@ p4
 PORTSMOUTH, SATURDAY, APRIL 13, 1844
 
 It has reached us, on good authority, that in the recent trial of sailing between Inconstant, 36, Spartan, 26, and Eurydice, 26, in which Spartan is said to have had the advantage, — that advantage was purchased at the cost of her efficiency as a man-of-war, — namely, by starting a considerable quantity of water, and by shifting the guns, — the other ships remaining in their usual trim. Now, this at once destroys the whole value of the trial, as a real test of the qualities of the respective ships ;— and we wonder that any commanding officer does not perceive that a victory so obtained is no credit, and proves nothing. The necessity for trimming by shifting guns in ships with decks so little burdened as the 26's, seems absurd. With 10 broadside ports, they carry 18 guns on the main deck,— the foremost  port being vacant ;— pierced for 6 forecastle guns, they carry only 2, a solitary gun on either side ; and 6 quarter-deck guns only, though they are pierced for 10. They need carry no gun on either deck so far forward as the foremast, —nor so far aft as the mizen ; assuredly, therefore, they have not much to complain of.
-

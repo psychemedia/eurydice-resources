@@ -1,11 +1,18 @@
 # Sea Trial Shenanigans
 
-Once launched, the H.M.S. Eurydice took part in a sea-trial to compare her perfrmance against that of other ships, specifically the *Warspite* and the *Grecian* in September 1843 and the *Inconstant* and *Spartan* in Spring, 1844. 
+Once launched, the H.M.S. Eurydice took part in a sea-trial to compare her perfrmance against that of other ships, specifically the *Warspite* and the *Grecian* in September 1843 and the *Inconstant* and *Spartan* in Spring, 1844.
 
-From the reports of the trials, it seems that sea trials resembled a cavalier "motor sport" ethic, with every opportunity taken to cheat and malign the compettition!
+![](../images/Hms-warspite-1884.jpg)
+HMS Warspite
+
+From the reports of the trials, it seems that sea trials resembled a cavalier "motor sport" ethic, with every opportunity taken to cheat and malign the competition!
 
 ![](../images/lastfourdaysofeu00vern_bw_pdf__page_6_of_90_.png)
 H.M.S. Eurydice, in The Last Four Days of the "Eurydice", by Captain E. H. Verney, R.N.
+
+## Sea Trials, Autumn, 1843
+
+Only brief mention of the progress of the trials appears to have been mentioned in the press, and the outcome described by them was unclear.
 
 
 ```{admonition} PORTSMOUTH— (Continued)—
@@ -52,10 +59,13 @@ Opinions and accounts are very uncertain relative to the trials between the Wars
 
 The Eurydice, 26, Captain Elliot, having been found to be out of trim during her recent trial cruise with the Warspite and Grecian, is landing some of her water-tanks and 15 tons of water, as it is intended that she shall not carry so much water as was originally intended by 15 tons. She is intended to leave in a day or two for China and the East Indies.
 
-[TH: it seems the destination was either changed or incorrectly reported, with the Eurydice sailing for the *West Indies* a few days later. It was in returning from the West Indies that the Eurydice was also to have her last voyage of note when she foundered in March, 1878, when rounding the Isle of Wight and making for home in Portsmouth.]
-
 ```
 
+
+As previously mentioned, the Eurydice's firstvoyage was actually to the *West* Indies.
+## Weatherliness in Ships
+
+Following the trials, the "weatherliness" of the Eurydice became a matter for correspondence.
 
 
 ```{admonition} WEATHERLINESS OF THE EURYDICE.
@@ -76,12 +86,12 @@ October 13th, 1843.
 
 
 
-```{admonition} A letter from Lieut. Sabben, R.N. on a subject of considerable interest to naval men — namely, the c
+```{admonition} [Re: Weatherliness in Ships]
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18431104/013/0003#), 1843-11-04, p. 3
 
-ause of " weatherliness" in ships, as illustrated by that apparent in H.M.S. Eurydice, was published by our local contemporary some little time since. It may not be irregular, if we say a few words on the subject, without going into Lieut. Sabben's theory, which would be "dry" — and therefore unpardonable.
+A letter from Lieut. Sabben, R.N. on a subject of considerable interest to naval men — namely, the cause of " weatherliness" in ships, as illustrated by that apparent in H.M.S. Eurydice, was published by our local contemporary some little time since. It may not be irregular, if we say a few words on the subject, without going into Lieut. Sabben's theory, which would be "dry" — and therefore unpardonable.
 
 We doubt whether " giving additional false keel, or gripe, or increase of forefoot," be " futile contrivances," by way of making a ship more weatherly when deficient in that important quality ; — they will not turn a bad ship into a good one, any more than a pair of spectacles will do the same for defective sight ; but that such things have something to do wilh " weatherliness," universal experience seems to attest. We also doubt extremely the fact alluded to concerning vessels which have the faculty of being lifted bodily to windward, and making " weather " way, instead of " leeway"; and, consequently, having to reckon the former instead of the latter in their calculations on a voyage. That some sailors " say " that some ships do this, proves little : we have *heard it said* that musket balls *rise* on leaving the barrel. The question of how accurately ships do "*fetch* the point they look up to," is very interesting in each individual case, and should be carefully tried, when, and where, no weather or lee, tide or current, lurks as a disturbing cause.
 
@@ -101,6 +111,10 @@ With very much that Lieut. S. doubtlessly has to say, we suspect that we should 
 
 ```
 
+
+## Sea-Trial One-Upmanship
+
+A report in January, 1844, regarding the performance of another ship, the Sealark, which mentions the Eurydice in passing, suggests that the "team bosses" were accustomed to talking down the performance of their rivals!
 
 
 ```{admonition} THE SEALARK, 10 GUNS, AND THE NEW 13-GUN BRIGS, &c.
@@ -128,6 +142,8 @@ C.
 
 ```
 
+
+"Unsportsmanlike behaviour" also appears to have been par for the course, as these reports involving a trial for the Eurydice in Spring 1844 suggest:
 
 
 ```{admonition} Portsmouth, Saturday, April 6, 1844

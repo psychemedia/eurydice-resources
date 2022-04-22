@@ -6,16 +6,11 @@ The book was written following the loss of the Eurydice, with profits going to t
 
 The first part of the book reviews what daily life would have been like in the last few days of the Eurydice's voyage back from the West Indies leading up to Sunday, March 24th, 1878.
 
----
 
-https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up
+```{admonition} THE LAST FOUR DAYS OF THE " EURYDICE."
+:class: note dropdown
 
-THE LAST FOUR DAYS OF THE " EURYDICE."
-1878
-
-p?
-
-THE LAST FOUR DAYS OF THE " EURYDICE."
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-22, p. ?
 
 By CAPTAIN E. H. VERNEY, R.N.
 
@@ -223,22 +218,16 @@ The danger of sailing close under high land in squally weather is well known to 
 
 To the danger of such squalls the Captain was alive, for both he and his First Lieutenant were keenly watching the sky to windward with the eyes of practised seamen ; the watch were all ready on deck, prepared to take in the canvass when the proper moment should arrive.
 
----
+```
 
-TEXT
 
 The book then describes what happened on the afternoon of Sunday, March 24th, 1878. If you would like to read the tale as it unfurled in the press, hold off reading this until you have read the next couple of chapters.
 
----
 
-https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up
+```{admonition} THE SQUALL.
+:class: note dropdown
 
-THE LAST FOUR DAYS OF THE " EURYDICE."
-1878
-
-p?
-
-THE SQUALL.
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-22, p. ?
 
 The wind blew fresh again : as it grew late  
 A squall came on. anil while some guns broke loose,  
@@ -280,21 +269,16 @@ The Survivors.
 
 Benjamin Cuddiford was saved by a life-buoy which he found floating in the water, and which brought him again to the surface after he had been sucked down by the sinking of the ship. He did what he could to save others by taking them pieces of floating wreck. Sydney Fletcher was also saved by a cork life-belt. From the mouths of these two comes all we know, or ever shall know, of the loss of a splendid frigate, and her living freight of some three hundred and fifty souls.
 
----
-TEXT
+```
+
 
 The work also includes a list of the crew, and republishes a poem that was ascribed in certain places to the captain of the Eurydice, Captain M. Hare, but which appears *not* to have been written by him at all.
 
----
 
-https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up
+```{admonition} Appendix - THE CREW.
+:class: note dropdown
 
-THE LAST FOUR DAYS OF THE " EURYDICE."
-1878
-
-p?
-
-Appendix - THE CREW.
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-22, p. ?
 
 OFFICERS AND CREW OF H.M.S. "EURYDICE."
 
@@ -315,17 +299,14 @@ SUPERNUMARIES.
 
 Peter Mason, ordinary, 1st class ; John Scanlan, ordinary, 1st class; M. Varcoe, ordinary, 2nd class; William Davey, ordinary, 2nd class ; John M'Donnell, ordinary 2nd class ; Samuel T. Board, ordinary, 1st class ; John Broad, ordinary 2nd class ; Charles Clements, ordinary, 2nd class ; Arthur Radford, ordinary, 1st class ; John Curd, ordinary, 2nd class ; Alfred Parker, ordinary, 1st class ; John G. Abraham, ordinary, 1st class ; George Slade, ordinary, 2nd class; Charles J. Blake, ordinary, 2nd class; Albert J. Brown, ordinary, 2nd class ; William R. Allen, ordinary, 2nd class ; Edward Home, ordinary, 2nd class ; Henry Duncan, ordinary, 2nd clas ; William E. Sandy, ordinary, 2nd class ; Henry Gillham, ordinary, 2nd class ; W. H. Sibthorpe, ordinary, 2nd class ; William Begg, ordinary, 2nd class; Daniel J. Devitt, ordinary, 1st class; John Madock, ordinary, 1st class ; Alexander W. Vassie, ordinary, 2nd class ; Charles F. Butler, ordinary, 2nd class (run 3rd of January, 1878, recaptured, sent to prison) ; Alma Taylor, ordinary, 2nd class ; R. A. G. Albone, ordinary, 2nd class ; John H. Mooney, ordinary, 2nd class ; John Winter, ordinary, 1st i:lass ; I'eter l.amond, ordinary, 1st class; Samuel Hounsell, ordinary, 2nd class ; W. J. R. Coombes ordinary, 2nd class; James Pcarce, ordinary, 2nd class; Charles Wilkins, ordinary, 1st class ; Simeon R. Armstrong, ordinary, 1st class ; William Stewart, ordinary, 2nd class ; George Bexhall, ordinary, 1stc lass; William Snell, ordinary, 1st class; James W. Farrar, ordinary, 2nd class; Henry Underwood, ordinary, 1st class ; John Woodgates, ordinary, 1st class ; Eugene A. A. Horswell, ordinary, 1st class, (discharged to Military Prison, Barbadoes, for 28 days, on the 22nd December, 1877, not known whether he returned to ship before leaving station) ; E. I Parker, ordinary ; W. R. Adams, ordinary, 2nd class ; John Bowman, ordinary, 2nd class ; Frederick E. Austin, ordinary, 2nd class ; W. R. Pitt, ordinary, 2nd class ; W. H. Shuker, ordinary, 2nd class ; William C. Goff, ordinary, 2nd class ; Charles F. Read, ordinary ; Alfred Seymour, ordinary ; Charles M'Dermott, ordinary ; Harry Taylor, ordinary ; William Frampton, ordinary, 2nd class ; Thomas Parker, ordinary, 2nd class ; Alma J. Drury, ordinary, 2nd class ; William Chamberlin, ordinary, 2nd class; John H. Brookes, ordinary, 2nd class ; Charles Day, ordinary 2nd class ; Alexander Crerar, ordinary ; Albert G. Newland, ordinary, 2nd class ; William Council, ordinary, 2nd class ; James H. Millie, ordinary, 2nd class ; John Ransome, ordinary, 2nd class ; Samuel Fair, ordinary ; L. Feherty, ordinary, 2nd class ; George Gray, ordinary, 2nd class ; Henry Fielder, ordinary, 2nd class ; George Smith, ordinary ; Charles Adams, ordinaay, 2nd class ; Charles Claringbold, ordinary, 2nd class ; Britton Cranstone, ordinary, ordinary, 2nd class; William R. French, ordinary ; William Russell, ordinary, 2nd class (run 7th January, 1878, recaptured, query in prison); Joseph G. F. B. Butler, ordinary, 2nd class; William Brewer, ordinary 2nd class ; Charles Clarke, ordinary, 2nd class ; Samuel Hunt, ordinary, 2nd class ; E. Lockett, ordinary, 2nd class ; Thomas Bailey, ordinary, 2nd class ; Henry Chappie, ordinary, 2nd class; W. J. Duff, ordinary 2nd class ; John Havern, ordinary 2nd class ; James Knight, ordinary ; Thomas B. Smith, ordinary ; James Kelly, ordinary, 2nd class; Adam Storey, ordinary, 2nd class; John Craig, ordinary, 2nd class ; John Smith, ordinary, 2nd class ; Charles Dunn, ordinary, 2nd class ; John Williams, ordinary ; R. Watts, ordinary ; David Bowden, ordinary, 2nd class ; John Adams, ordinary ; John Galbraith, ordinary ; Ceorge J. Smith, ordinary ; Martin Mooney, ordinary, 2nd class; Christopher Kiely, ordinary, 2nd class, James Goggin, ordinary 2nd class ; W. J. Wilmot, ordinary, 2nd class ; John Appledore, ordinary, 2nd class ; Henry Veals, ordinary, 1st class ; Charles Mellish, ordinary, 2nd class ; Joseph Gibbs, ordinary 2nd class ; Thomas Cleverley, ordinary, 2nd class ; Thomas Esling, ordinary, 2nd class; Henry Scull, ordinary, 1st class; William J. Trotman, ordinary 2nd class ; Patrick Keating, ordinary, 2nd class ; Samuel Emmett, ordinary 1st class; Robert A. Cozens, ordinary 2 nd class; William Smith, ordinary 2nd class ; K. VV. Drayton, ordinary 2nd class ; A. W. Batchelor, ordinary 1st class; Thomas Dally, ordinary, 1st class ; James Linforth, ordinary, 1st class ; Archibald D. Hillier, ordinary, 2nd class ; Albert C. Doogood, ordinary, 1st class ; Stephen Dale, ordinary, 1st class, (discharged to gaol, Barbadoes, December 22nd, 1877, for 28 days, not known whether he returned to ship before she left station) ; Robert Fitzsimmons, ordinary, 1st class; William Plank, ordinary 1st class; James Dowdal, ordinary 2nd class; Andrew Philip, ordinary, 1st class; William Shorrock, ordinary, 1st class; George Ward, ordinary, 1st class; James J. Richards, ordinary, 1st class ; James H. Chew, ordinary, 1st class; William J. Arnold, ordinary, 2nd class; George Symons, ordinary, 1st class ; Charles Mutton, ordinary, 1st class ; Alfred Barnes, ordinary, 1st class ; Thomas Keast, ordinary, 1st class; George Lambe, ordinary, 2nd class ; Alfred G. Glass, ordinary, 1st class ; William Martin, ordinary, 1st class; Henry Wands, ordinary, 1stclass ; Alfred Walker, ordinary, 2nd class ; Albert L. Pead, ordinary, 1st class ; Samuel Brown, ordinary, 2nd class (discharged to hospital 24th of November, 1877, and not returned, 31.12.77); Arthur W. Leggs, ordinary, 2nd class; Charles F. Bradfield, ordinary, 2nd class ; David Harvey, ordinary, 2nd claiss ; Frederick Channon, ordinary, 1st class; Charles Howard, ordinary, 1st class; William J. Logan, ordinary, 1st class; Ernest Hill, ordinary, 1st class; William J. Badcock, ordinary, 2nd class; Thomas Grigg, ordinary, 2nd class ; Sydney Fletcher, ordinary, 2nd class ; Frank Targett, ordinary ; James Riley, ordinary, 2nd class ; John W. Poole, ordinary, 2nd class ; Francis Dawes, ordinary, 2nd class; Charles Allen, ordinary, 2nd class; William Blight, ordinary ; Ward Lister, ordinary, 2nd class ; Albert Adams, ordinary ; Albert Curtis, ordinary ; Thomas Wardlow, ordinary, 2nd class ; John S. March, ordinary, 2nd class ; John Marney, ordinary, 2nd class (discharged to Military Gaol, Barbadoes, for 28 days, on December 22nd, 1877; not known whether he returned to ship before she left station) ; Aquila Paver, ordinary ; Henry Sandham, ordinary, 2nd class; Patrick Grannon, ordinary, 2nd class; William J. Desver, ordinary, 2nd class ; Thomas Calnau, ordinary ; Charles Lawrence, ordinary ; Philip Baker, ordinary ; James Rose, ordinary ; Richard Farndell, ordinary ; Charles A. Wentworth, ordinary ; Matthew Aitken, ordinary ; George W. Rolls, ordinary, Alfred W, Walker, ordinary, 2nd class, (run January 7th, 1878, at Grenada, re-captured per return for February, 1878: query sent to prison) ; Edward Burnside, ordinary, 2nd class ; Walter J. Baker, ordinary; Walter Swindells, A.B. ; J. Carrett, ordinary; George W. Ambridge, ordinary, 2nd class; S. R. A. Mitchell, ordinary, 2nd class ; S. W. List, ordinary; Thomas Brophy, ordinary; G. W. Lee. ordinary, 2nd class ; C. K. Fry, ordinary ; Charles Jackson, ordinary, Thomas Spriddle, ordinary ; W. H. Mildon, ordinary, 2nd class ; Charles Bloomfield, ordinary ; W. A. Brookes, ordinary, 2nd class ; John Gordon, ordinary, 2nd class ; J. Chandler, ordinary, 2nd class ; John Robertson, ordinary, 2nd class ; John Galvin, ordinary ; Alfred J. Gale, ordinary, 2nd class; J. M'Dermott, ordinary, 2nd class; Edward Turner, ordinary, 2nd class ; Samuel Brown, ordinary, 2nd class.
 
+```
 
 
----
-https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up
 
-THE LAST FOUR DAYS OF THE " EURYDICE."
-1878
+```{admonition} Appendix - "SORROW ON THE SEA."
+:class: note dropdown
 
-p?
-
-Appendix - "SORROW ON THE SEA."
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-22, p. ?
 
 "There is sorrow on the sea — it cannot be quiet." — Jer. xlix. 23.
 
@@ -411,3 +392,5 @@ Weep for the sin, the sorrow, and strife,
 And rejoice in the hope of eternal life.
 
 *A booklist of publications by J. Griffin & Co. then follows...*
+
+```

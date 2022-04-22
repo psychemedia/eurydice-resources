@@ -8,6 +8,9 @@ In 1843, various newspaper reports started appearing announcing the upcoming lau
 https://en.wikipedia.org/wiki/George_Elliot_(Royal_Navy_officer,_born_1784)
 ```
 
+![](../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg)
+William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
+
 H.M.S. Eurydice was officially launched by one of his daughters, and the ship was commissioned by his eldest son, Captain George Elliot.
 
 ```{admonition} Captain George Elliot
@@ -16,13 +19,20 @@ H.M.S. Eurydice was officially launched by one of his daughters, and the ship wa
 https://en.wikipedia.org/wiki/George_Elliot_(Royal_Navy_officer,_born_1813)
 ```
 
+## Launch of H.M.S. Eurydice
 
-```{admonition} The Eurydice, 26, building at Portsmouth upon the plan laid down by Admiral Elliot, will be launched
+Several reports provided the dimensions of the vessel, and commented on her likely turn of speed.
+
+
+```{admonition} [The Eurydice, 26]
 :class: note dropdown
 
 [Naval & Military Gazette and Weekly Chronicle of the United Service](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18430429/016/0003), 1843-04-29, p. 3
 
- next month. She is constructed on the draught of the Vestal, with an increase of length and a decrease of beam, and the reduction of the angle of the floor, which will reduce her draught of water about 18 inches. This vessel is extremely clean abaft and forward, and there is no doubt she will have great velocity ; but, in all probability, she will prove very wet.
+The Eurydice, 26, building at Portsmouth upon the plan laid down by Admiral Elliot, will be launched next month. She is constructed on the draught of the Vestal, with an increase of length and a decrease of beam, and the reduction of the angle of the floor, which will reduce her draught of water about 18 inches. This vessel is extremely clean abaft and forward, and there is no doubt she will have great velocity ; but, in all probability, she will prove very wet.
+
+```
+
 
 ![](../images/eurydice-model-bonhams.jpeg)
 https://www.bonhams.com/auction/27248/lot/13/a-model-of-the-frigate-hms-eurydice-40in-x-195in-x-315in-102cm-x-50cm-x-80cm/
@@ -33,9 +43,6 @@ THE MARINE SALE
 27 April 2022, 14:00 BST
 London, Knightsbridge
 £800 - £1,200
-
-```
-
 
 
 ```{admonition} The Portsmouth, Portsea and Gosport Herald, PORTSMOUTH, MAY 20.
@@ -73,10 +80,7 @@ The Eurydice, 20, recently launched from this yard, and built on the plan of Rea
 ```
 
 
-![](../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg)
-William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
-
-Even as The Eurydice was launched, it looked as if the days of sail were numbered:
+But even as The Eurydice was launched, it looked as if the days of sail were numbered:
 
 
 ```{admonition} Portsmouth, May 25
@@ -115,6 +119,10 @@ No other vessel is to be built upon the slip from which the Eurydice was recentl
 ```
 
 
+## Maiden Voyage, October, 1843
+
+With sea trials ongoing, a possible destination for her first voyage was described:
+
 
 ```{admonition} Portsmouth, Sept. 23
 :class: note dropdown
@@ -126,7 +134,7 @@ It is determined that the Eurydice, 26, Captain Elliott, goes to the East Indies
 ```
 
 
-It seems there was a miscommunication in that report of the destination of the Eurydice on her first voyage, or the desitnation as changed, for she was actually to sail for the West Indies.
+However, it seems there was a miscommunication in that report of the destination of the Eurydice on her first voyage, or the destination was changed, for she was actually to sail for the West Indies.
 
 
 ```{admonition} Naval Intelligence (From our Correspondent)
@@ -140,9 +148,6 @@ Ships at Spithead.— The Warspite and Eurydice.
 
 ```
 
-
-![](../images/Hms-warspite-1884.jpg)
-HMS Warspite
 
 
 ```{admonition} PORTSMOUTH, SATURDAY, SEPTEMBER 30, 1843.

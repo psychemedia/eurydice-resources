@@ -1,7 +1,47 @@
 # The Foundering of the Eurydice
 
+What then of the teerrible calamity that was to strike the Eurydice that fateful afternon of Sunday, March 24th, 1878?
 
-![Illustrated London News - Loss of HMS Eurydice with 300 seamen, March 30, 1878](../images/ILN_1878_loss_of_euridyce_mar_30_002.jpg)
+With Portsmouth almost in sight, the Eurydice rounded the southernmost point of the Isle of Wight, St. Catherine's point, and made for Ventnor.
+
+![](../images/004956958-SVC2.jpg)
+The Isle of Wight, AW Fowles, 1897
+http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
+
+All that would then remain of her voyage would be to round Dunnose Point, cross Sandown Bay, pass by Yaverland and Culver Cliff, round the Eastern most point of the Island at Bembridge, pass by Brading Haven and St Helen's, then into the Spithead and across the Solent, before reaching home and Portsmouth harbour.
+
+They had so nearly made it...
+
+![](../images/003KTOP00000015U02700000_SVC2.jpg)
+View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight
+http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html
+View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is located in an area known as the Undercliff. This area is protected by the peaks of the Downs and has a notably milder climate than much of the rest of the island. Dunnose is one of the highest points on the island with some peaks reaching a height of 792 feet. The rocks around Dunnose Point are extremely dangerous and it was here that in 1878 the HMS Eurydice sank claiming over 350 lives.
+Medium: Aquatint, coloured
+Date: 1800
+
+As they passed Dunnose Point, the crew perhaps looked to each other as if they were already home...
+
+https://maps.nls.uk/view/101169209
+OS  
+Sheet 345 - Ventnor (Hills)
+Publication date:  1895
+Size: map 31 x 46 cm (ca. 12 x 18 inches) on sheet ca. 43 x 56 cm (ca. 17 x 22 inches) 
+![](../images/map-maps_nls_uk-view-101169209.png)
+
+But then a sudden and mighty squall hit...
+
+![](../images/NH_61069.jpg)
+Title: HMS EURYDICE British Frigate, 1843
+Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
+Description:
+Catalog #: NH 61069
+Copyright Owner: Naval History and Heritage Command
+Original Creator:
+Original Date: Wed, Mar 27, 1878
+After this Year: 1870
+Before this Year: 1879
+Original Medium: BW Photo
+- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html
 
 
 ```{admonition} FOUNDERING OF H.M.S. EURYDICE OFF THE ISLE OF WIGHT.
@@ -13,7 +53,7 @@ FEARFUL LOSS OF LIFE.
 
 PAINFUL EXCITEMENT THE TOWN AND DOCKYARD.
 
-Since the memorable day in September, 187O, when H.M.S. Captain foundered off Cape Finisterre and when nearly all hands were drowned, no naval disaster has occurred of a nature so truly awful as that which it is our most painful duty to announce as having happened yesterday afternoon to H.M. training ship Eurydice, just as that ill-starred vessel was almost within sight of the harbour, where all on board were anxiously expecting the meeting of those the enforced separation from whom had been the chief cause of regret during the continuance of the voyage apparently so rapidly drawing to successful conclusion. The Eurydice was a training ship for youths of the rating of ordinary seamen, and every year it was the practice of the authorities to send her on deep sea cruise, for tha purpose of giving the young men forming her crew more thorough insight into their duties than any they could receive whilst quietly lying anchor in a land-locked harbour. The voyage from which she was returning had been made to the West Indies, and in addition to her crew, we have been informed that she had on board several time-expired men and invalids. We have telegraphed to London for a complete list, and trust to receive it in time for our third edition. So far as we have peon able to gather, she had favouring winds until she sighted the Lizard, and during her subsequent passage up the Channel until she arrived off the Isle of Wight on an afternoon so clear and pleasant as to resembla almost a summer day. However, about four o'clock the sun became obscured and the sky of a dull leaden colours, and a species of mist seemed to envelope the horizon. At the same it time began to snow, and the snow was accompanied with a biting wind of such strength (we had almost said ferosity) that people who a few minute* before had been walking and chatting gaily on the Southsea Common, were bent double by its force, whilst on the Portsdown Hill the dust was lifted and whirled towards the sky in masses resembling water-spouts. Into this storm of haze, and wind and snow, sailed the Eurydice, with every sail set, save and except her mizen-royal, and braced sharp on the port tack. She was seen no more !! A schooner, named the Emma, bound from Newcastle-on-Tyne to Poole, was also caught in the squall, but she weathered it successfully, and almost immediately the sun, we are told, came out again. The master of the schooner, on looking round, states that he saw wreckage, and thought that he heard cries, but there was no sign of the noble ship, which but a moment before had pursued her way proudly with all her studding sails set. Five men were rescued by those on board the Emma, and they were stripped, wrapped in blankets, rubbed, and received every possible attention ; but we much regret to say that three of them died on board, the other two, an A.B. named Benjamin Cuddiford, and a first-class boy, named Sydney Fletcher, of Bristol, were removed to the Cottage Hospital Bonchurch, where they received every attention, and are considered by Dr. Williamson, of Veutnor, to be progressing favourably. The following is the account given Benjamin Cuddiford:
+Since the memorable day in September, 1870, when H.M.S. Captain foundered off Cape Finisterre and when nearly all hands were drowned, no naval disaster has occurred of a nature so truly awful as that which it is our most painful duty to announce as having happened yesterday afternoon to H.M. training ship Eurydice, just as that ill-starred vessel was almost within sight of the harbour, where all on board were anxiously expecting the meeting of those the enforced separation from whom had been the chief cause of regret during the continuance of the voyage apparently so rapidly drawing to successful conclusion. The Eurydice was a training ship for youths of the rating of ordinary seamen, and every year it was the practice of the authorities to send her on deep sea cruise, for tha purpose of giving the young men forming her crew more thorough insight into their duties than any they could receive whilst quietly lying anchor in a land-locked harbour. The voyage from which she was returning had been made to the West Indies, and in addition to her crew, we have been informed that she had on board several time-expired men and invalids. We have telegraphed to London for a complete list, and trust to receive it in time for our third edition. So far as we have peon able to gather, she had favouring winds until she sighted the Lizard, and during her subsequent passage up the Channel until she arrived off the Isle of Wight on an afternoon so clear and pleasant as to resembla almost a summer day. However, about four o'clock the sun became obscured and the sky of a dull leaden colours, and a species of mist seemed to envelope the horizon. At the same it time began to snow, and the snow was accompanied with a biting wind of such strength (we had almost said ferosity) that people who a few minute* before had been walking and chatting gaily on the Southsea Common, were bent double by its force, whilst on the Portsdown Hill the dust was lifted and whirled towards the sky in masses resembling water-spouts. Into this storm of haze, and wind and snow, sailed the Eurydice, with every sail set, save and except her mizen-royal, and braced sharp on the port tack. She was seen no more !! A schooner, named the Emma, bound from Newcastle-on-Tyne to Poole, was also caught in the squall, but she weathered it successfully, and almost immediately the sun, we are told, came out again. The master of the schooner, on looking round, states that he saw wreckage, and thought that he heard cries, but there was no sign of the noble ship, which but a moment before had pursued her way proudly with all her studding sails set. Five men were rescued by those on board the Emma, and they were stripped, wrapped in blankets, rubbed, and received every possible attention ; but we much regret to say that three of them died on board, the other two, an A.B. named Benjamin Cuddiford, and a first-class boy, named Sydney Fletcher, of Bristol, were removed to the Cottage Hospital Bonchurch, where they received every attention, and are considered by Dr. Williamson, of Veutnor, to be progressing favourably. The following is the account given Benjamin Cuddiford:
 
 "The ship capsized in a squall and snowstorm about four o clock, when we were five miles from Dunnose.
 
@@ -38,19 +78,6 @@ The Queen is deeply grieved to hear of the loss the Eurydice. Her Majesty anxiou
 
 ```
 
-
-![](../images/NH_61069.jpg)
-Title: HMS EURYDICE British Frigate, 1843
-Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
-Description:
-Catalog #: NH 61069
-Copyright Owner: Naval History and Heritage Command
-Original Creator:
-Original Date: Wed, Mar 27, 1878
-After this Year: 1870
-Before this Year: 1879
-Original Medium: BW Photo
-- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html
 
 
 ```{admonition} SCENE AT THE DOCKYARD GATES.
@@ -116,8 +143,7 @@ Commissioned at Portsmouth, Feb. 7, 1877.
 ```
 
 
-![](../images/P.1986.44-Copy.jpg)
-http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
+![Illustrated London News - Loss of HMS Eurydice with 300 seamen, March 30, 1878](../images/ILN_1878_loss_of_euridyce_mar_30_002.jpg)
 
 
 ```{admonition} THE LOSS OF H.M.S. "EURYDICE."
@@ -133,18 +159,8 @@ Mr. Smith was sorry he had not much information beyond what had already appeared
 ```
 
 
-![](../images/NH_61070.jpg)
-Title: HMS EURYDICE British Frigate, 1843
-Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
-Description:
-Catalog #: NH 61070
-Copyright Owner: Naval History and Heritage Command
-Original Creator:
-Original Date: Wed, Mar 27, 1878
-After this Year: 1870
-Before this Year: 1879
-Original Medium: BW Photo
-- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html
+![](../images/P.1986.44-Copy.jpg)
+http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
 
 
 ```{admonition} THIRD EDITION. MESSAGES FROM THE QUEEN.
@@ -165,6 +181,19 @@ Windsor Castle, Monday.
 
 ```
 
+
+![](../images/NH_61070.jpg)
+Title: HMS EURYDICE British Frigate, 1843
+Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
+Description:
+Catalog #: NH 61070
+Copyright Owner: Naval History and Heritage Command
+Original Creator:
+Original Date: Wed, Mar 27, 1878
+After this Year: 1870
+Before this Year: 1879
+Original Medium: BW Photo
+- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html
 
 
 ```{admonition} FOUNDERING OF H.M.S. EURYDICE.

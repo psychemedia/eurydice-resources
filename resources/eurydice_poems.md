@@ -31,76 +31,6 @@ https://clok.uclan.ac.uk/11418/1/45.4.hobbs.pdf
 
 ---
 
-
-
-https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice
-
-Sir Arthur Conan Doyle
-
-1894
-
-p?
-
-Conan Doyle was a resident of Southsea at the time of the disaster.  The poem was originally published in *The Speaker: The Liberal Review* dated March 24th, 1894, as "The Ballad of the Eurydice". It was later collected as "The Home-Coming of the Eurydice".
-
-Poetry - The Home-Coming of the Eurydice
-
-[Lost, with her crew of three hundred boys, on the last day of her voyage, March 23, 1878. She foundered off Portsmouth, from which town many of the boys came.]
-
-Up with the royals that top the white spread of her!  
-Press her and dress her, and drive through the foam;  
-The Island's to port, and the mainland ahead of her,  
-Hey for the Warner and Hayling and Home!
-
-"Bo'sun, O Bo'sun, just look at the green of it!  
-Look at the red cattle down by the hedge!  
-Look at the farmsteading—all that is seen of it,  
-One little gable end over the edge!"
-
-"Lord! the tongues of them clattering, clattering,  
-All growing wild at a peep of the Wight;  
-Aye, sir, aye, it has set them all chattering,  
-Thinking of home and their mothers to-night."
-
-Spread the topgallants — oh, lay them out lustily!  
-What though it darken o'er Netherby Combe?  
-'Tis but the valley wind, puffing so gustily—  
-On for the Warner and Hayling and Home!
-
-"Bo'sun, O Bo'sun, just see the long slope of it!  
-Culver is there, with the cliff and the light.  
-Tell us, oh tell us, now is there a hope of it?  
-Shall we have leave for our homes for to-night?"
-
-"Tut, the clack of them! Steadily! Steadily!  
-Aye, as you say, sir, they're little ones still;  
-One long reach should open it readily,  
-Round by St. Helens and under the hill.
-
-"The Spit and the Nab are the gates of the promise,  
-Their mothers to them—and to us it's our wives.  
-I've sailed forty years, and—By God it's upon us!  
-Down royals, Down top'sles, down, down, for your lives!"
-
-A grey swirl of snow with the squall at the back of it,  
-Heeling her, reeling her, beating her down!  
-A gleam of her bends in the thick of the wrack of it,  
-A flutter of white in the eddies of brown.
-
-It broke in one moment of blizzard and blindness;  
-The next, like a foul bat, it flapped on its way.  
-But our ship and our boys! Gracious Lord, in your kindness,  
-Give help to the mothers who need it to-day!
-
-Give help to the women who wait by the water,  
-Who stand on the Hard with their eyes past the Wight.  
-Ah! whisper it gently, you sister or daughter,  
-"Our boys are all gathered at home for to-night."
-
-
-
----
-
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780326/102/0002
 
 Dundee Evening Telegraph
@@ -916,6 +846,76 @@ Is deemed to blend thee with the lov'd and lost.
 tag: poem
 
 ---
+
+https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice
+
+Arthur Conan Doyle
+
+1894
+
+p?
+
+Conan Doyle, The Home-Coming of the Eurydice
+
+Conan Doyle was a resident of Southsea at the time of the disaster.  The poem was originally published in *The Speaker: The Liberal Review* dated March 24th, 1894, as "The Ballad of the Eurydice". It was later collected as "The Home-Coming of the Eurydice".
+
+Poetry - The Home-Coming of the Eurydice
+
+[Lost, with her crew of three hundred boys, on the last day of her voyage, March 23, 1878. She foundered off Portsmouth, from which town many of the boys came.]
+
+Up with the royals that top the white spread of her!  
+Press her and dress her, and drive through the foam;  
+The Island's to port, and the mainland ahead of her,  
+Hey for the Warner and Hayling and Home!
+
+"Bo'sun, O Bo'sun, just look at the green of it!  
+Look at the red cattle down by the hedge!  
+Look at the farmsteading—all that is seen of it,  
+One little gable end over the edge!"
+
+"Lord! the tongues of them clattering, clattering,  
+All growing wild at a peep of the Wight;  
+Aye, sir, aye, it has set them all chattering,  
+Thinking of home and their mothers to-night."
+
+Spread the topgallants — oh, lay them out lustily!  
+What though it darken o'er Netherby Combe?  
+'Tis but the valley wind, puffing so gustily—  
+On for the Warner and Hayling and Home!
+
+"Bo'sun, O Bo'sun, just see the long slope of it!  
+Culver is there, with the cliff and the light.  
+Tell us, oh tell us, now is there a hope of it?  
+Shall we have leave for our homes for to-night?"
+
+"Tut, the clack of them! Steadily! Steadily!  
+Aye, as you say, sir, they're little ones still;  
+One long reach should open it readily,  
+Round by St. Helens and under the hill.
+
+"The Spit and the Nab are the gates of the promise,  
+Their mothers to them—and to us it's our wives.  
+I've sailed forty years, and—By God it's upon us!  
+Down royals, Down top'sles, down, down, for your lives!"
+
+A grey swirl of snow with the squall at the back of it,  
+Heeling her, reeling her, beating her down!  
+A gleam of her bends in the thick of the wrack of it,  
+A flutter of white in the eddies of brown.
+
+It broke in one moment of blizzard and blindness;  
+The next, like a foul bat, it flapped on its way.  
+But our ship and our boys! Gracious Lord, in your kindness,  
+Give help to the mothers who need it to-day!
+
+Give help to the women who wait by the water,  
+Who stand on the Hard with their eyes past the Wight.  
+Ah! whisper it gently, you sister or daughter,  
+"Our boys are all gathered at home for to-night."
+
+
+---
+
 
 https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/
 

@@ -54,12 +54,13 @@ http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
 ![](../images/004956958-SVC2_jpg_annotated.png)
 The Isle of Wight, AW Fowles, 1897 annotated
 
+![](../images/002OSD00000027AU00421000-SVC2.jpg)
 http://www.bl.uk/onlinegallery/onlineex/ordsurvdraw/s/002osd00000027au00421000.html
 This plan of Chine Head shows the southern cliffs of the Isle of Wight and the downland behind Ventnor. The drawing is made on rectangular sheet lines, enclosed by a black border. Fields are coloured brown where cultivated, and green or blank if untilled. Coniferous trees are distinguished pictorially from deciduous trees on this map.
 Draughtsman: [Gardner, William]
 Medium: Pen and ink on paper
 Date: 1793
-![](../images/002OSD00000027AU00421000-SVC2.jpg)
+
 
 
 http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html
@@ -86,13 +87,11 @@ Publication date:  1895
 Size: map 31 x 46 cm (ca. 12 x 18 inches) on sheet ca. 43 x 56 cm (ca. 17 x 22 inches) 
 ![](../images/map-maps_nls_uk-view-101169209.png)
 
-
+![](../images/maps-nls-uk-21adc5b8-2f67-4811-bfad-c3c45549676e.png)
 https://maps.nls.uk/view/102343218
 Hampshire & Isle of Wight Sheet XCIX
 Surveyed: 1862 to 1863, Published: 1866
 Size: map 61 x 92 cm (ca. 24 x 36 inches), on sheet ca. 70 x 100 cm (28 x 40 inches) 
-![](../images/maps-nls-uk-21adc5b8-2f67-4811-bfad-c3c45549676e.png)
-
 
 ![](../images/003KTOP00000015U02700000_SVC2.jpg)
 View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight

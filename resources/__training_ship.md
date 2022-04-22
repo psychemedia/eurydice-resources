@@ -2,52 +2,12 @@
 
 In 1877, H.M.S. Eurydice was refitted as a training ship. For many years, the fleet had been moving over to armoured steamships and rigged sailing ships were no longer appropriate for modern naval warfare. However, it was still felt that sailors should still be able to handle traditionally rigged vessels and that training ratings on them would be to their benefit as seamen.
 
-The Eurydice was thus converted over to a training ship in the Spring of 1877, before embarking on a voyage to the West Indies in Autumn 1877. Rumour had it that a calamity had befallen the ship, but a telegram reported in the *Naval & Military Gazette and Weekly Chronicle of the United Service* of Wednesday 21 November 1877, received 17th of November and dated November 16th, 1877, revealed that all was well.
+![](../images/ILN_1878_loss_of_euridyce_apr_06_011.jpg)
+Illustrated London News — H.M.S. Eurydice as she lay in Portsmouth harbour before her last voyage - from a photograph, April 6, 1878
 
-In passing, we might note that this news articles reveals how telegraphic cable communication was available between the West Indies and Britain by this time. A little bit of digging turns up the following history of the cable that presumably carried the telegram signal.
+## On the Training of Sailors
 
-```{admonition} Great Western Telegraph Company
-:class: seealso dropdown
-
-Telegraph Cables (1899)
-by C. J. Cooke
-Transactions and Proceedings of the Royal Society of New Zealand
-Volume 32, 1899, pp 324-329. Art. XXXVIII.
-https://archive.org/details/transactionsofro99roya/page/n349/mode/2up?q=Telegraph
-Transcript: https://atlantic-cable.com/Article/1899Cooke/index.htm
-"Great Western Telegraph Company was formed to connect the United States with Europe by way of the West Indies," then  'changed their title to the "Western and Brazilian Telegraph Company".'?
-
-https://www.gracesguide.co.uk/Great_Western_Telegraph_Co
-Great Western Telegraph Co
-1872 Company incorporated to connect by telegraph cable New York with England, and the West Indies with New York and England, with prospect of further connection to Brazil. Sir William Thomson and Fleeming Jenkin were the engineers. Hooper's Telegraph Works were contracted to provide the cable; arrangements with the Great Northern Telegraph Co to make use of its cables
-1873 The company was in liquidation but the cables were being laid by Hoopers and would be operated by other companies
-
-https://www.gracesguide.co.uk/Western_and_Brazilian_Telegraph_Co
-Western and Brazilian Telegraph Co
-1873 Sir William Thomson and Professor Fleeming Jenkin were connected with the manufacture and laying of cables off the coast of Brazil for the Western and Brazilian Telegraph Company.
-
-https://www.gracesguide.co.uk/Hoopers_Telegraph_and_India-Rubber_Works
-Hoopers Telegraph and India-Rubber Works
-Jump to:navigation, search
-of 31 Lombard Street, London, EC
-1845 William Hooper, a chemist, set up a factory around 1845 in Mitcham, Surrey, to produce rubber goods mostly for the medical profession. He experimented with rubber insulation for electric cables and eventually found a way of insulating cables in a continuous process.
-c.1857 or later: The Indian Government placed Hooper's first order, followed by another order for cable to link India and Ceylon. W. T. Henley carried out the armouring of the cable.
-1860 Company established by William Hooper trading under his own name.
-1870 Hooper formed Hooper's Telegraph Works Ltd. to undertake both manufacture and laying of submarine cables. The first order for the new company was from the Great Northern Telegraph Co for a cable connecting Vladivostock to Hong Kong; Siemens Brothers and Co carried out the armouring of this cable.
-1873 Hooper's laid the cable (which had been made for an Atlantic crossing) off the east coast of South America, having been offered this concession by the Telegraph Construction and Maintenance Co on the condition that Hooper's dropped their plans for a transatlantic cable.
-
-```
-
-The historical company information comes from [Grace's Guide](https://www.gracesguide.co.uk).
-
-```{admonition} Grace's Guide To British Industrial History
-:class: seealso dropdown
-
-[Grace's Guide To British Industrial History](https://www.gracesguide.co.uk);  source of historical information on industry and manufacturing in the UK. Additions are being made daily by a team of volunteers who give freely of their time and expertise.
-
-Grace’s Guide is a Registered Charity and it relies upon donations and sponsors. Grace's Guide Ltd is a charity (No.1154342) for the advancement of education of the history of Industry and Engineering in the UK.
-
-```
+The Eurydice was thus converted over to a training ship in the Spring of 1877, before embarking on a voyage to the West Indies in Autumn 1877.
 
 
 ```{admonition} SEAMANSHIP OF YOUNG SAILORS.
@@ -64,12 +24,14 @@ The Admiralty are about to take practical measures for improving the seamanship 
 
 
 
-```{admonition} The Eurydice, training brig, received her masts at Portsmouth on Monday, and will be taken in hand and rigged by her own crew. 
+```{admonition} Hampshire Advertiser, Portsmouth Branch
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18770210/054/0008), 1877-02-10, p. 7
 
-APPOINTMNTS.
+The Eurydice, training brig, received her masts at Portsmouth on Monday, and will be taken in hand and rigged by her own crew.
+
+APPOINTMENTS.
 
 Captain M. A. S, Hare to the Eurydice.
 
@@ -124,6 +86,8 @@ Eurydice, Captain Hare, is having defects made good at Portsmouth before startin
 ```
 
 
+## Maiden Voyage as a Training Vessel, October, 1877
+
 
 ```{admonition} The Eurydice, training ship, Captain M. A. S. Hare, was to go out of the ship basin at Portsmouth on Wednesday.
 :class: note dropdown
@@ -134,9 +98,6 @@ Eurydice, Captain Hare, is having defects made good at Portsmouth before startin
 
 ```
 
-
-![](../images/ILN_1878_loss_of_euridyce_apr_06_011.jpg)
-Illustrated London News — H.M.S. Eurydice as she lay in Portsmouth harbour before her last voyage - from a photograph, April 6, 1878
 
 
 ```{admonition} NAVAL AND MILITARY - THE ROYAL NAVY
@@ -172,6 +133,11 @@ Provenance
 Album compiled by the Reverend J N Dalton (1839-1931) and presented to King George V
 https://www.rct.uk/collection/2580515/hms-eurydice-at-st-lucia-before-her-last-voyage-home-1878
 
+## Rumour of Disaster
+
+
+Rumour had it that a calamity had befallen the ship, but a telegram reported in the *Naval & Military Gazette and Weekly Chronicle of the United Service* of Wednesday 21 November 1877, received 17th of November and dated November 16th, 1877, revealed that all was well.
+
 
 ```{admonition} Movements of Her Majesty's Ships
 :class: note dropdown
@@ -185,5 +151,51 @@ Eurydice, 4 training-ship for ordinary seamean, Captain Marcus A S. Hare
 Much excitement prevailed Portsmouth during last week, consequent on a rumour that during the recent heavy gale this vessel lost her topmasts and topsail yard, and that several men were carried overboard with them and drowned. On inquiry we learn that nothing official is yet to hand. On the 17th of November all apprehensions were removed by the receipt of the following telegram:— "Eurydice, Lisbon, Friday, November 16th. 8 55 p.m.—Arrived all well; will leave on the 24th. Send letters and papers to Barbadoes."
 
 ...
+
+```
+
+
+In passing, we might note that the previous news article reveals how telegraphic cable communication was available between the West Indies and Britain by this time. A little bit of digging turns up the following history of the cable that presumably carried the telegram signal.
+
+```{admonition} Great Western Telegraph Company
+:class: seealso dropdown
+
+Telegraph Cables (1899)
+by C. J. Cooke
+Transactions and Proceedings of the Royal Society of New Zealand
+Volume 32, 1899, pp 324-329. Art. XXXVIII.
+https://archive.org/details/transactionsofro99roya/page/n349/mode/2up?q=Telegraph
+Transcript: https://atlantic-cable.com/Article/1899Cooke/index.htm
+"Great Western Telegraph Company was formed to connect the United States with Europe by way of the West Indies," then  'changed their title to the "Western and Brazilian Telegraph Company".'?
+
+https://www.gracesguide.co.uk/Great_Western_Telegraph_Co
+Great Western Telegraph Co
+1872 Company incorporated to connect by telegraph cable New York with England, and the West Indies with New York and England, with prospect of further connection to Brazil. Sir William Thomson and Fleeming Jenkin were the engineers. Hooper's Telegraph Works were contracted to provide the cable; arrangements with the Great Northern Telegraph Co to make use of its cables
+1873 The company was in liquidation but the cables were being laid by Hoopers and would be operated by other companies
+
+https://www.gracesguide.co.uk/Western_and_Brazilian_Telegraph_Co
+Western and Brazilian Telegraph Co
+1873 Sir William Thomson and Professor Fleeming Jenkin were connected with the manufacture and laying of cables off the coast of Brazil for the Western and Brazilian Telegraph Company.
+
+https://www.gracesguide.co.uk/Hoopers_Telegraph_and_India-Rubber_Works
+Hoopers Telegraph and India-Rubber Works
+Jump to:navigation, search
+of 31 Lombard Street, London, EC
+1845 William Hooper, a chemist, set up a factory around 1845 in Mitcham, Surrey, to produce rubber goods mostly for the medical profession. He experimented with rubber insulation for electric cables and eventually found a way of insulating cables in a continuous process.
+c.1857 or later: The Indian Government placed Hooper's first order, followed by another order for cable to link India and Ceylon. W. T. Henley carried out the armouring of the cable.
+1860 Company established by William Hooper trading under his own name.
+1870 Hooper formed Hooper's Telegraph Works Ltd. to undertake both manufacture and laying of submarine cables. The first order for the new company was from the Great Northern Telegraph Co for a cable connecting Vladivostock to Hong Kong; Siemens Brothers and Co carried out the armouring of this cable.
+1873 Hooper's laid the cable (which had been made for an Atlantic crossing) off the east coast of South America, having been offered this concession by the Telegraph Construction and Maintenance Co on the condition that Hooper's dropped their plans for a transatlantic cable.
+
+```
+
+The historical company information comes from [Grace's Guide](https://www.gracesguide.co.uk).
+
+```{admonition} Grace's Guide To British Industrial History
+:class: seealso dropdown
+
+[Grace's Guide To British Industrial History](https://www.gracesguide.co.uk);  source of historical information on industry and manufacturing in the UK. Additions are being made daily by a team of volunteers who give freely of their time and expertise.
+
+Grace’s Guide is a Registered Charity and it relies upon donations and sponsors. Grace's Guide Ltd is a charity (No.1154342) for the advancement of education of the history of Industry and Engineering in the UK.
 
 ```
