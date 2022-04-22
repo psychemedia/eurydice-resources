@@ -34,15 +34,10 @@ St Helens Duver Golf Links
 Island Queen at Bembridge Pier
 
 
+```{admonition} CLOSING PUBLIC-HOUSES ON SUNDAY.
+:class: note dropdown
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790710/110/0005
-
-Isle of Wight Times
-Thursday 10 July 1879
-p5
-
-CLOSING PUBLIC-HOUSES ON SUNDAY.
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790710/110/0005), 1879-07-10, p. 5
 
 The Mayor said that the next matter on the agenda was a motion by himself and he hoped that they would all give their adhesion to it. That butchers, bakers, grocers, tailors, and candlestick makers, should not be allowed to sell on Sundays, and that publicans should be allowed to sell intoxicating liquors on Sundays had always been a marvel to him. A large number of publicans would only be too glad to close their hones if they could. He thought that as the Governing body of the town they ought to shew their respect for the Sabbath-day by trying to close public-houses. When they considered the number of people that public-houses kept at work on the Sabbath he thought they would see that there was good reason why such houses should be shut up. He proposed the following resolution:—" That the seal of the Borough be of to a petition to Parliament for closing Public-houses on Sundays."
 
@@ -86,17 +81,14 @@ The Mayor said it dad been said that Scotland was the most drunken place in the 
 
 He put the resolution to the meeting. Councillors Ellery, Gunn, and Newbold left the room previously to the vote being given. Alderman Wallis and Councillors Riddett, Allen, James, Spencer, Dixon and Sweetman voted against the resolution. The ten other members voted in the affirmative and the Mayor declared the resolution carried. The Borough seal was then affixed to the petition, which was ordered to be forwarded to the proper quarter.
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790712/012/0006
 
-Isle of Wight Observer
 
-Saturday 12 July 1879
+```{admonition} RYDE TOWN COUNCIL.
+:class: note dropdown
 
-p6
-
-RYDE TOWN COUNCIL.
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790712/012/0006), 1879-07-12, p. 6
 
 A meeting of the Council was held on Tuesday afternoon, when there were present the Mayor (Alderman B. Barrow) ; Aldermen, Wallis, Colenutt, Futcher, Harrington, and Dashwood ; Councillors Newbald, Riddett, Whittington, Allen, James, Spencer, Ellery, Barton, Dixon, Purnell, Comden, Sweetman, and Marvin.
 
@@ -169,14 +161,15 @@ The Mayor said that Mr. Riddett seemed to have expressed just the same idea as b
 
 He then put the motion, which was carried. For it— The Mayor, Aldermen Colenutt, Futcher, Harrington, Dashwood, Whittington, Marvin, Purnell Barton, and Com Jen. Messrs. Gunn and Newbald had left, and those remaining were against.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790717/088/0004
+```
 
-Isle of Wight Times
-Thursday 17 July 1879
 
-p4
 
-RYDE, THURSDAY, JULY 17, 1879.
+```{admonition} RYDE, THURSDAY, JULY 17, 1879.
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790717/088/0004), 1879-07-17, p. 4
 
 The course which the Ryde Town Council took last week, with regard to the petition in favour of closing publichouses on Sundays, must have met with the approbation of the majority of our fellow-townsmen, and of many of the publicans also. The general feeling of the meeting exhibited by those who dissented from the petition being sealed, was in favour of the movement, but their objection was on the ground that it was a matter of Imperial and not of local politics. This seemed a correct view to take, inasmuch, as the principle implied in the Premissive Bill has not yet been legislatively brought into the law of England, over the sale of intoxicating beverages. On the other hand it was urged, on quite as good a basis, that the matter was not yet a question of party polities, but one which seriously affected our social interest : that the question was not one of Imperial politics even, so much as essentially a social one, and that moreover, open public-houses on the Sunday very seriously deteriorated the value of property. Many of the argument. brought forward, although, everyway applicable to manufacturing towns, had locally but little weight. The population of Ryde and its neighbourhood being a highclass one and, therefore, not subjected to the too prevalent bad habits of workingmen. On reading the report, which we published last week, it is easy to see that the subject was one which affected individual and pocket interests, as well as the social well-being of our Borough, but the neutrality of Councillors. Ellery, Gunn, and Newbald, placed the majority of the votes on the side of law and order. We cannot help thinking that the most important speech, during the late discussion, was that of Alderman Harrington, which in our last report, unfortunately, by an accident, was attributed to Alderman Colenutt. He looked on Intoxicating beverages as luxuries, and such undoubtedly they are, and the most expensive of the present age. He reviewed it from a social, personal, domestic, and religious, point of view, and put forward the important suggestion hat the Corporate bodies of the Kingdom should have full control over licensed houses, instead of the Magistrate. If, however, this course were pursued there would be the great danger that the publican interest would be more rampant than under the present system. In the majority of English towns it is the publican interest that secures the election of anti-teetotal candidates at municipal and general elections. The position the Mayor assumed was not that the control of the liquor traffic is not an Imperial question, for that is, at once, self-evident to anyone, but that in no sense did he look upon it locally as a question of Parliamentary, or of Party Politics, when the sanctity of the Sabbath is concerned. This seemed misunderstood by some of the members of the Council, for no good man would attempt to call into question the correctness of this view of the matter. When Alderman Harrington said that it was a subject to be dealt with by the " religious influence" he took up a strong position, and if this course were but followed up by the clergy of all denominations, there would soon be no need for the interference of the Government, for Sunday custom would become speedily extinct and publicans would close their houses when there was no longer any demand. A most important part of the subject is the Sunday labour, which is entailed on so many thousands of bar-girls, by those unfortunate individuals, who think that they would die if they did not gratify their drinking propensities on the Sunday. Many of these young women have to work seven days in the week, and have virtually no Sabbath free from the helotry of the bar.
+
+```

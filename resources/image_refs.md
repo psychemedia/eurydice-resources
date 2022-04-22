@@ -1,4 +1,4 @@
-IMAGES
+# IMAGES
 
 ![](../images/eurydice-model-bonhams.jpeg)
 https://www.bonhams.com/auction/27248/lot/13/a-model-of-the-frigate-hms-eurydice-40in-x-195in-x-315in-102cm-x-50cm-x-80cm/
@@ -21,6 +21,10 @@ The present model faithfully recreates the timber deck with inscribed plank line
 
 ![](../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg)
 William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
+
+
+![](../images/Hms-warspite-1884.jpg)
+HMS Warspite
 
 ![](../images/623829-1470753518.jpg)
 HMS Eurydice at St Lucia before her last voyage home, 1878 1878
@@ -62,7 +66,7 @@ http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.ht
 Medium: Aquatint, coloured
 Date: 1800
 View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is located in an area known as the Undercliff. This area is protected by the peaks of the Downs and has a notably milder climate than much of the rest of the island. Dunnose is one of the highest points on the island with some peaks reaching a height of 792 feet. The rocks around Dunnose Point are extremely dangerous and it was here that in 1878 the HMS Eurydice sank claiming over 350 lives.
-![](..images/003KTOP00000015U02700000-SVC2.jpg)
+![](../images/003KTOP00000015U02700000-SVC2.jpg)
 
 
 http://www.bl.uk/onlinegallery/onlineex/ordsurvdraw/s/002osd00000027au00422000.html

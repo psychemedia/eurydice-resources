@@ -29,17 +29,17 @@ https://clok.uclan.ac.uk/11418/1/45.4.hobbs.pdf
 
 *Pers. comm.*, Andrew Hobbs, 20/4/2022, it is interesting "that so many people turn to poetry in times of disaster, and also most of the poems you've found are published in places on or near the coast - Dundee, Liverpool, Montrose, Ulverston, Berwick, Drogheda - where geography meant more empathy?"
 
----
 
+```{admonition} title=The_Home-Coming_of_the_Eurydice
+:class: note dropdown
 
-
-https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice
+[Sir Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-04-22, p. ?
 
 Sir Arthur Conan Doyle
 
 1894
 
-p?
+?
 
 Conan Doyle was a resident of Southsea at the time of the disaster.  The poem was originally published in *The Speaker: The Liberal Review* dated March 24th, 1894, as "The Ballad of the Eurydice". It was later collected as "The Home-Coming of the Eurydice".
 
@@ -97,18 +97,14 @@ Who stand on the Hard with their eyes past the Wight.
 Ah! whisper it gently, you sister or daughter,  
 "Our boys are all gathered at home for to-night."
 
+```
 
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780326/102/0002
+```{admonition} POETRY - THE LAST OF THE EURYDICE.
+:class: note dropdown
 
-Dundee Evening Telegraph
-Tuesday 26 March 1878
-
-p2
-
-POETRY - THE LAST OF THE EURYDICE.
+[Dundee Evening Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780326/102/0002), 1878-03-26, p. 2
 
 Sunday, March 24, 1878.
 
@@ -172,17 +168,14 @@ March 25- *Noel Paton, in the Scotsman*
 
 tag: poem
 
----
+```
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18780330/018/0008?browse=true#
 
-Isle of Wight Observer
-Saturday 30 March 1878
+```{admonition} Poetry - THE LOSS OF THE "EURYDICE," SUNDAY, MARCH 25, 1878.
+:class: note dropdown
 
-p8
-
-Poetry - THE LOSS OF THE "EURYDICE," SUNDAY, MARCH 25, 1878.
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18780330/018/0008?browse=true#), 1878-03-30, p. 8
 
 O'er the calm bosom of the treacherous sea,  
 The bright sun-shining on each snowy sail,  
@@ -217,16 +210,14 @@ Ryde, March 25th, 1878.
 
 tag: poem
 
----
+```
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/024/0008
 
-Isle of Wight Observer
-Saturday 30 March 1878
+```{admonition} Poetry - FOUNDERING OF THE "EURYDICE" IN SANDOWN BAY.
+:class: note dropdown
 
-p8
-Poetry - FOUNDERING OF THE "EURYDICE" IN SANDOWN BAY.
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/024/0008), 1878-03-30, p. 8
 
 Men stood aghast, as well they might, to hear  
 The dreadful news last Monday morning brought:  
@@ -289,16 +280,14 @@ Thomas Maton. Sandown, March 26th, 1878.
 
 tag: poem
 
----
+```
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002751/18780329/071/0006
 
-Montrose Standard
-Friday 29 March 1878
-p6
+```{admonition} POETRY - THE LAST OF THE EURYDICE.
+:class: note dropdown
 
-POETRY - THE LAST OF THE EURYDICE.
+[Montrose Standard](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002751/18780329/071/0006), 1878-03-29, p. 6
 
 Sunday, March 24, 1878.
 
@@ -362,16 +351,14 @@ March 25. Noel Paton.
 
 tag: poem
 
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/020/0006
-
-Isle of Wight Observer
-Saturday 13 April 1878
-p6
+```
 
 
-[In an article - can we find the original?]
+
+```{admonition} [In an article - can we find the original?]
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/020/0006), 1878-04-13, p. 6
 
 The following lines (signed "F. G.") on the loss  of the Eurydice, appears in the *Baily's Magazine* for this month :
 
@@ -420,16 +407,14 @@ He from whom good and evil come,
 Who rides upon the stormy wind,  
 Took the three hundred wanderers Home.
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002281/18780404/035/0003
 
-Soulby's Ulverston Advertiser and General Intelligencer
 
-Thursday 04 April 1878
-p3
+```{admonition} POETRY - WRECK OF THE EURYDICE.
+:class: note dropdown
 
-POETRY - WRECK OF THE EURYDICE.
+[Soulby's Ulverston Advertiser and General Intelligencer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002281/18780404/035/0003), 1878-04-04, p. 3
 
 WRITTEN ON A SICK BED
 
@@ -477,18 +462,14 @@ Remember 'tis for us their hearts are torn!
 
 tag: poem
 
----
+```
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780405/083/0004
 
-Dundee Evening Telegraph
+```{admonition} Poetry - THE CLOSE OF THE VOYAGE.
+:class: note dropdown
 
-Friday 05 April 1878
-p4
-
-Poetry - THE CLOSE OF THE VOYAGE.
+[Dundee Evening Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780405/083/0004), 1878-04-05, p. 4
 
 There sailed the ship Eurydice—  
 On board three hundred men,  
@@ -557,16 +538,14 @@ J. G. M.
 
 tag: poem
 
----
+```
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002703/18780403/064/0004
 
-Perthshire Constitutional & Journal
-Wednesday 03 April 1878
-p4
+```{admonition} Poetry. IN MEMORIAM.
+:class: note dropdown
 
-Poetry. IN MEMORIAM.
+[Perthshire Constitutional & Journal](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002703/18780403/064/0004), 1878-04-03, p. 4
 
 Ho! merrily home with her gallant crew,  
 The dear old coast-line in full view,  
@@ -614,15 +593,14 @@ The dirge of the Eurydice?
 
 tag: poem
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000470/18780416/035/0004
 
-Berwickshire News and General Advertiser
-Tuesday 16 April 1878
-p4
 
-Poetry - H.M.S. "EURYDICE," MARCH 24, 1878.
+```{admonition} Poetry - H.M.S. "EURYDICE," MARCH 24, 1878.
+:class: note dropdown
+
+[Berwickshire News and General Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000470/18780416/035/0004), 1878-04-16, p. 4
 
 "Eurydice," twice-told, ill-fated name,  
 The fullest agony of grief to claim.  
@@ -665,16 +643,14 @@ M. J. K. — *Graphic*, April 6.
 
 tag: poem
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000472/18780424/057/0004
 
-Greenock Telegraph and Clyde Shipping Gazette
-Wednesday 24 April 1878
 
-p4
+```{admonition} POETRY - THE EURYDICE.
+:class: note dropdown
 
-POETRY - THE EURYDICE.
+[Greenock Telegraph and Clyde Shipping Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000472/18780424/057/0004), 1878-04-24, p. 4
 
 The day was bright and fair day could be,  
 The blue with many sail was dotted o’er;  
@@ -736,15 +712,14 @@ G.L.
 
 tag: poem
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001445/18780511/089/0006
 
-Drogheda Argus and Leinster Journal
-Saturday 11 May 1878
-p6
 
-Poetry - SORROW ON THE SEA.
+```{admonition} Poetry - SORROW ON THE SEA.
+:class: note dropdown
+
+[Drogheda Argus and Leinster Journal](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001445/18780511/089/0006), 1878-05-11, p. 6
 
 "There is sorrow on the sea—it cannot be quiet"— Jer. xlix. 23.
 
@@ -834,15 +809,14 @@ tag: poem
 
 *This poem also appeared at the end of The last Four Days of the Eurydice, by Captain E. H. Verney, R.N., 1878, with the following note: `The following poem, which appeared in the " Christian" and other papers, was attributed to Captain M. Hare, but recently it has been ascertained , on good authorityy, that they were written by a Lady friend ; and committed to memory by Captain Hare, who afterwaards inserted them in an album.`*
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780606/080/0004
 
-Isle of Wight Times
-Thursday 06 June 1878
-p4
 
-THE EURYDICE. ACROSTIC ON THE WRECK OF THE EURYDICE.
+```{admonition} THE EURYDICE. ACROSTIC ON THE WRECK OF THE EURYDICE.
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780606/080/0004), 1878-06-06, p. 4
 
 By J. S. Edwards, Sailor on H.M.S. Royal Adelaide.
 
@@ -856,15 +830,14 @@ Come England, spread thy gen'rous hand in pity o'er their grave, Endeavouring th
 
 tag: poem
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000085/18780802/003/0002
 
-Newcastle Courant
-Friday 02 August 1878
-p2
 
-Poetry -  THE RAISING OF THE EURYDICE.
+```{admonition} Poetry -  THE RAISING OF THE EURYDICE.
+:class: note dropdown
+
+[Newcastle Courant](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000085/18780802/003/0002), 1878-08-02, p. 2
 
 Return from death ! -return Eurydice !  
 Appear again — nor sojourn in the grave;  
@@ -915,17 +888,14 @@ Is deemed to blend thee with the lov'd and lost.
 
 tag: poem
 
----
+```
 
-https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/
 
-Gerard Manley Hopkins
 
-1918
+```{admonition} The Loss of the Eurydice  
+:class: note dropdown
 
-p?
-
-The Loss of the Eurydice  
+[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-04-22, p. ?
 
 Foundered March 1878.
 
@@ -1079,3 +1049,4 @@ But for souls sunk in seeming
 Fresh, till doomfire burn all,  
 Prayer shall fetch pity eternal.
 
+```

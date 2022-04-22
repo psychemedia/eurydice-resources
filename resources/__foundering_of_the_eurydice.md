@@ -4,25 +4,16 @@
 ![Illustrated London News - Loss of HMS Eurydice with 300 seamen, March 30, 1878](../images/ILN_1878_loss_of_euridyce_mar_30_002.jpg)
 
 
+```{admonition} FOUNDERING OF H.M.S. EURYDICE OFF THE ISLE OF WIGHT.
+:class: note dropdown
 
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/007/0002#
-
-Portsmouth Evening News
-
-Monday 25 March 1878
-
-p2
-
-FOUNDERING OF H.M.S. EURYDICE OFF THE ISLE OF WIGHT.
+[Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/007/0002#), 1878-03-25, p. 2
 
 FEARFUL LOSS OF LIFE.
 
 PAINFUL EXCITEMENT THE TOWN AND DOCKYARD.
 
-Since the memorable day in September, 1870, when H.M.S. Captain foundered off Cape Finisterre and when nearly all hands were drowned, no naval disaster has occurred of a nature so truly awful as that which it is our most painful duty to announce as having happened yesterday afternoon to H.M. training ship Eurydice, just as that ill-starred vessel was almost within sight of the harbour, where all on board were anxiously expecting the meeting of those the enforced separation from whom had been the chief cause of regret during the continuance of the voyage apparently so rapidly drawing to successful conclusion. The Eurydice was a training ship for youths of the rating of ordinary seamen, and every year it was the practice of the authorities to send her on deep sea cruise, for tha purpose of giving the young men forming her crew more thorough insight into their duties than any they could receive whilst quietly lying anchor in a land-locked harbour. The voyage from which she was returning had been made to the West Indies, and in addition to her crew, we have been informed that she had on board several time-expired men and invalids. We have telegraphed to London for a complete list, and trust to receive it in time for our third edition. So far as we have peon able to gather, she had favouring winds until she sighted the Lizard, and during her subsequent passage up the Channel until she arrived off the Isle of Wight on an afternoon so clear and pleasant as to resembla almost a summer day. However, about four o'clock the sun became obscured and the sky of a dull leaden colours, and a species of mist seemed to envelope the horizon. At the same it time began to snow, and the snow was accompanied with a biting wind of such strength (we had almost said ferosity) that people who a few minute* before had been walking and chatting gaily on the Southsea Common, were bent double by its force, whilst on the Portsdown Hill the dust was lifted and whirled towards the sky in masses resembling water-spouts. Into this storm of haze, and wind and snow, sailed the Eurydice, with every sail set, save and except her mizen-royal, and braced sharp on the port tack. She was seen no more !! A schooner, named the Emma, bound from Newcastle-on-Tyne to Poole, was also caught in the squall, but she weathered it successfully, and almost immediately the sun, we are told, came out again. The master of the schooner, on looking round, states that he saw wreckage, and thought that he heard cries, but there was no sign of the noble ship, which but a moment before had pursued her way proudly with all her studding sails set. Five men were rescued by those on board the Emma, and they were stripped, wrapped in blankets, rubbed, and received every possible attention ; but we much regret to say that three of them died on board, the other two, an A.B. named Benjamin Cuddiford, and a first-class boy, named Sydney Fletcher, of Bristol, were removed to the Cottage Hospital Bonchurch, where they received every attention, and are considered by Dr. Williamson, of Veutnor, to be progressing favourably. The following is the account given Benjamin Cuddiford:
+Since the memorable day in September, 187O, when H.M.S. Captain foundered off Cape Finisterre and when nearly all hands were drowned, no naval disaster has occurred of a nature so truly awful as that which it is our most painful duty to announce as having happened yesterday afternoon to H.M. training ship Eurydice, just as that ill-starred vessel was almost within sight of the harbour, where all on board were anxiously expecting the meeting of those the enforced separation from whom had been the chief cause of regret during the continuance of the voyage apparently so rapidly drawing to successful conclusion. The Eurydice was a training ship for youths of the rating of ordinary seamen, and every year it was the practice of the authorities to send her on deep sea cruise, for tha purpose of giving the young men forming her crew more thorough insight into their duties than any they could receive whilst quietly lying anchor in a land-locked harbour. The voyage from which she was returning had been made to the West Indies, and in addition to her crew, we have been informed that she had on board several time-expired men and invalids. We have telegraphed to London for a complete list, and trust to receive it in time for our third edition. So far as we have peon able to gather, she had favouring winds until she sighted the Lizard, and during her subsequent passage up the Channel until she arrived off the Isle of Wight on an afternoon so clear and pleasant as to resembla almost a summer day. However, about four o'clock the sun became obscured and the sky of a dull leaden colours, and a species of mist seemed to envelope the horizon. At the same it time began to snow, and the snow was accompanied with a biting wind of such strength (we had almost said ferosity) that people who a few minute* before had been walking and chatting gaily on the Southsea Common, were bent double by its force, whilst on the Portsdown Hill the dust was lifted and whirled towards the sky in masses resembling water-spouts. Into this storm of haze, and wind and snow, sailed the Eurydice, with every sail set, save and except her mizen-royal, and braced sharp on the port tack. She was seen no more !! A schooner, named the Emma, bound from Newcastle-on-Tyne to Poole, was also caught in the squall, but she weathered it successfully, and almost immediately the sun, we are told, came out again. The master of the schooner, on looking round, states that he saw wreckage, and thought that he heard cries, but there was no sign of the noble ship, which but a moment before had pursued her way proudly with all her studding sails set. Five men were rescued by those on board the Emma, and they were stripped, wrapped in blankets, rubbed, and received every possible attention ; but we much regret to say that three of them died on board, the other two, an A.B. named Benjamin Cuddiford, and a first-class boy, named Sydney Fletcher, of Bristol, were removed to the Cottage Hospital Bonchurch, where they received every attention, and are considered by Dr. Williamson, of Veutnor, to be progressing favourably. The following is the account given Benjamin Cuddiford:
 
 "The ship capsized in a squall and snowstorm about four o clock, when we were five miles from Dunnose.
 
@@ -32,24 +23,21 @@ Since the memorable day in September, 1870, when H.M.S. Captain foundered off Ca
 
 "A man near me said that a vessel was close by when the squall came on, and therefore we should be sure to be picked up. I was more than hour the water, being a first-rate swimmer, and very many of my comrades cried out for help. I tried to assist two or three, but at last there were four clinging me, and I was obliged to kick them off. We were well taken care of by the master the schooner and crew. Our ship left Bermuda three week's ago passed the Lizard yesterday, and expected to anchor at about five o'clock."
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000290/18780325/008/0002?browse=true
 
-Portsmouth Evening News
 
-Monday 25 March 1878
+```{admonition} MESSAGE FROM HER MAJESTY TO ADMIRAL FANSHAWE.
+:class: note dropdown
 
-p2
-
-MESSAGE FROM HER MAJESTY TO ADMIRAL FANSHAWE.
+[Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000290/18780325/008/0002?browse=true), 1878-03-25, p. 2
 
 (Admiral Fanshawe has authorised us to publish (he following telegram. 
 
 The Queen is deeply grieved to hear of the loss the Eurydice. Her Majesty anxiously asks for further details.
 
----
-TEXT
+```
+
 
 ![](../images/NH_61069.jpg)
 Title: HMS EURYDICE British Frigate, 1843
@@ -65,17 +53,10 @@ Original Medium: BW Photo
 - https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html
 
 
----
+```{admonition} SCENE AT THE DOCKYARD GATES.
+:class: note dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000290/18780325/008/0002?browse=true
-
-Portsmouth Evening News
-
-Monday 25 March 1878
-
-p2-3
-
-SCENE AT THE DOCKYARD GATES.
+[Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000290/18780325/008/0002?browse=true), 1878-03-25, p. 2-3
 
 The scene at the dockyard gates this morning was harrowing in the extreme. The gates this time of the year are opened at seven o'clock, but long before that hour crowds of anxious relatives had assembled in the faint hope that the awful news which had spread through the town during the night might prove after all to be, if not unfounded, at any rate exaggerated ; but tnere was no such comfort for the poor bereaved ones. The officials at the entrance broke the news to them as gently they could, but the scene was one that would have made an impression even on the callous-hearted. Mothers waiting for their sons, bonnie boys just bursting into manhood, and wives who had reason to believe that their husbands were among the time-expired men several of whom it was known had taken passage home by the Eurydice, mourning, only those who are suddenly widowed, can.
 
@@ -132,32 +113,25 @@ Boatswains—William Brewer, Feb. 9, 1877 ; Joseph Warren, Feb. 20. 1877.
 Assistant Clerk—William Lamont, Feb. 20, 1877.  
 Commissioned at Portsmouth, Feb. 7, 1877.
 
----
-TEXT
+```
+
 
 ![](../images/P.1986.44-Copy.jpg)
 http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/014/0003
+```{admonition} THE LOSS OF H.M.S. "EURYDICE."
+:class: note dropdown
 
-Portsmouth Evening News
-
-Monday 25 March 1878
-
-p3
-
-THE LOSS OF H.M.S. "EURYDICE."
+[Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/014/0003), 1878-03-25, p. 3
 
 Mr. Goschen asked if the First Lord the Admiralty had any further information in reference to the sad disaster—the loss of the Eurydice– which had spread through the country such deep and universal sorrow. (Hear, hear.)
 
 Mr. Smith was sorry he had not much information beyond what had already appeared in the Press. The disaster was a most mournful one, for the ship was returning after a successful and useful cruise, and the squall by which she was overtaken was so sudden and violent that she went down without notice. Admiral Fanshawe, in a late telegram, reported that everything bad drifted towards the French coast, and no bodies had been recovered. It appeared that when the disaster occurred the men were in the act of shortening sail. The two men recovered were in Bonchurch Cottage Hospital, and it was hoped they would be well enough to be in London, to-morrow. The officers on board the Eurydice were specially selected for efficiency. He expressed the deep sorrow the Admiralty felt at the disaster— the greatest since the loss of the Captain. (Hear, hear.)  
 [Left sitting.]
 
+```
 
----
-TEXT
 
 ![](../images/NH_61070.jpg)
 Title: HMS EURYDICE British Frigate, 1843
@@ -173,19 +147,10 @@ Original Medium: BW Photo
 - https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html
 
 
+```{admonition} THIRD EDITION. MESSAGES FROM THE QUEEN.
+:class: note dropdown
 
----
-
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/009/0003
-
-Portsmouth Evening News
-Monday 25 March 1878
-
-p3
-
-THIRD EDITION. MESSAGES FROM THE QUEEN.
+[Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/009/0003), 1878-03-25, p. 3
 
 The following telegram from Her Majesty the Queen has been received by the First Lord of the Admiralty :
 
@@ -198,14 +163,14 @@ The following telegram, in addition to that already reported by us, has been rec
 Windsor Castle, Monday.  
 "The Queen commands me to thank you for your telegrams, which have caused her the greatest grief."
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780325/064/0006
-Shipping and Mercantile Gazette
-Monday 25 March 1878
-p6
 
-FOUNDERING OF H.M.S. EURYDICE.
+
+```{admonition} FOUNDERING OF H.M.S. EURYDICE.
+:class: note dropdown
+
+[Shipping and Mercantile Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780325/064/0006), 1878-03-25, p. 6
 
 We have received the following sad news from the Admiralty:– "The Admiralty have received the following telegram from Admiral Fanshawe, Commander-In-Chief Portsmouth: — 'Have just received the following from Coastguard, Ventnor:— 'Eurydice capsized off Dunnose. Cuddicome, First-class Boy, and Fletcher saved. Tabor, First Lieutenant, very doubtful. Steamer going Immediately'
 
@@ -228,9 +193,8 @@ The following list of Officers board is given in the *Navy List* .—Captain Mar
 WEST COWES, March 25, a.m.  
 Three bodies have come ashore; two identified as those of Colonel Ferrol, RE. (? Ferrier), and Lieutenant Tabor, RN.; the third is an A.B. The masts of the vessel show above water.
 
+```
 
----
-TEXT
 
 ![](../images/BL_0001702_18780323_078_0008_pdf__1_page_.png)
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008 Shipping and Mercantile Gazette - Saturday 23 March 1878 - weather chart
@@ -240,14 +204,10 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008 Sh
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true Weather chart for week March 21st - March 27th (inclusive) Graphic - Weather chart for the week- Saturday 30 March 1878
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0006#
-Morning Post
-Tuesday 26 March 1878
+```{admonition} THE GALE AND SNOW STORM
+:class: note dropdown
 
-p6
-
-THE GALE AND SNOW STORM
+[Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0006#), 1878-03-26, p. 6
 
 During the gale which passed over the metropolis so suddenly on Sunday afternoon, several boats were swamped in the upper part of the Thames and loss of life resulted.
 
@@ -263,23 +223,17 @@ On Sunday morning, during a strong wind from the north, a vessel ran ashore on t
 
 On Sunday evening, during a heavy gale from the north, accompanied by snow showers, the schooner Velocity, of Nefyn, bound there from Silloth, exhibited signals of distress in Porthdinllaen Bay, North Wales, and in response thereto the National life-boat George Moore was launched, and succeeded in rescuing ths crew, whom she landed in safety. This life-boat was placed there about six months since, its expense being defrayed from a fund raised amongst the *employés* of Messrs. Copt stake, Hughes, Crampton, and Co. (lat. Mtssrs. Copestake, Moore, and Co.), to provide a life-boat to be called the George Moore in memory of their late respected employer, the well-known philanthropist.
 
----
+```
 
-TEXT
 
 ![](../images/ILN_1878_loss_of_euridyce_apr_06_03x.png)
 Illustrated London News — H.M.S. Eurydice as she lay at eight a.m. on March 25 off Dunnose Point, Isle of Wight, April 6, 1878
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005
+```{admonition} THE LOSS OF THE EURYDICE.
+:class: note dropdown
 
-Morning Post
-Tuesday 26 March 1878
-
-p5
-
-THE LOSS OF THE EURYDICE.
+[Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005), 1878-03-26, p. 5
 
 From Our Own Correspondent, Ventnor, Monday
 
@@ -335,15 +289,15 @@ The indications are that her sails were not blown away by the squall, and the co
 
 MORE COLUMNS WITH NO RELIABLE OCR POSSIBLE - LIST OF NAMES AND BIOGRAPHIES
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006#
+```
 
-Isle of Wight Observer
 
-Saturday 30 March 1878
 
-p6
-CAPSIZING oF H.M.S. "EURYDICE"  
+```{admonition} CAPSIZING oF H.M.S. "EURYDICE"  
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006#), 1878-03-30, p. 6
+
 OVER 300 LIVES LOST.
 
 On Sunday afrernoon, one of the most sudden and terrific snow squalls whica we ever remember at this time of the year, passed over Ryde, making the waters in the Solent rise in white-capped breakers in a wonderfully short space of time and those who witnessed its effects on the waters think of the "poor souls at sea." Although accidents were anticipated, the imagination of no one compassed such a terrible event as that which then occurred at the back of the Wight. In the course of the evening it was whispered, with bated breath, that one of Her Majesty's ships had been overset off Ventnor, and the dreadful rumour was, of course, treated at first as a canard. Its correctness was, however, subsequentiy verifed, and the excitement which reigned may be easily imagined, more especially on the following morning, when the news of the sad disaster was spread abroad far and wide. At Ventnor, however, the excitement was most intense. On Sunday afternoon the weather wss comparatively fine and miid, and there were more than the usual number of visitors on the esplanade. About 4 o'clock all eyes were turned to a pleasant sight. Close to the shore, and easily distinguished, was H.M.S. Eurydice, which was bowling along uuder a press of canvas, with a stiff breeze, at a fine rate. Soon, however, the sky be- came overcast, and it became evident that a storm wa-s coming on, and the vessel was watched by the "old salts" with some interest. As they noted the storm gathering, their verdict was "that fellow will soon have to shorten sail." The snow storm which came on, however, soon drove the promenaders to their homes, and hid the ship from all, and she was not seen again. The sudden squall caught her off Dunnose, and she Was overturned in a moment, and went down with over 300 men. Only five of these were picked up. The schooner Emma, which was passing, picked up five men — Lieutenant Tabor, Captain Ferrier, R.E., Bennett, Cuddiford, and Fletcher, a first-class boy, but the first three of these died before reaching the shore. The ship was commissioned at Portsmouth on the 7th of February, 1877, and was ordered to the West Indies. She was now bound for Spithead. Cuddiford states that the ship capsized in a squall and snow storm, five mils off Dunnose, about 4 o' clock. More than 3OO men were on board, all of whom, he believes, are lost, excepting himself and Fletcher. Cuddiford was amongst the iast on the ship. Captain Hare was with him when the ship went down, sucking many with it. Cuddiford and a man near him said that a vessel was close by when the squall came on, and, therefore, they would be sure to be picked up. He was over an hour in the water, and, being a good swimmer, every one called out to him for help. He tried to assist two or three, but at last four clung to him, and he was obdged to kick tnem off. He was well taken care of by the master and crew of the schooner. The ship left Bermuda three weeks ago, passed the Lizaid on Sunday, and was expected to anchor at Spithead about, 5 o'clock.
@@ -374,23 +328,17 @@ The second was transmitted to the First Lord of the Admiralty, and was to the fo
 
 In another telegram to Mr Smith the Queen said the telegrams had caused us the greatest grief. These telegrams, having been forwarded to Admiral Fanshawe, were promptly posted at the dockyard gates, where they were eagerly read by sympathetic crowds.
 
-
----
-TEXT
+```
 
 
 ![](../images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg)
 Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006
 
-Evening Mail
-Friday 29 March 1878
+```{admonition} THE LOSS OF THE EURYDICE.
+:class: note dropdown
 
-p6
-
-THE LOSS OF THE EURYDICE.
+[Evening Mail](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006), 1878-03-29, p. 6
 
 [EXCERPTED - FUNDRAISING]
 
@@ -423,17 +371,14 @@ TH: letter noteable eg for Eurydice myth, but also is:
 
 > "The appalling accident to Her Majesty's ship Eurydice, whereby numerous families are rendered comparatively destitute through loss of the bread-winner, calls for the sympathy of all who hold that England should ever maintain her supremacy on the ocean, and this meeting pledges itself to use every endeavour to alleviate, as far as possible, the grievous loss sustained by the widows, orphans and relatives of those who, within sight of their homes, perished in the execution of their duty to their country."
 
+```
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true
 
-Graphic
-Saturday 30 March 1878
+```{admonition} Weather Chart for the week  MARCH 21ST TO MARCH 27TH (INCLUSIVE)
+:class: note dropdown
 
-p21
-
-Weather Chart for the week  MARCH 21ST TO MARCH 27TH (INCLUSIVE)
+[Graphic](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true), 1878-03-30, p. 21
 
 EXPLANATION. -The thick line shows the variations in the height of the Barometer during the past week ending Wednesday midnight. The fine line shows the shade temperature for the same interval, and gives the maximum and minimum readings for each day, with the (approximate) time at which they occurred. The information is furnished to us by the Meteorological Office.
 
@@ -444,26 +389,18 @@ This week has been marked by a very sudden change from the mild dry weather rece
 *Temperatures in degrees Fahrenheit. A ' is used in place of a decimal point.*
 
 See also image: BL_0000057_18780330_027_0021_pdf__1_page_.png
----
 
-
-
-TEXT
+```
 
 
 ![](../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg)
 Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878
 
 
----
+```{admonition} CAPSIZING OF THE EURYDICE. LIVES LOST
+:class: note dropdown
 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000344/18780330/007/0002
-Morpeth Herald
-Saturday 30 March 1878
-p2-2
-
-CAPSIZING OF THE EURYDICE. LIVES LOST
+[Morpeth Herald](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000344/18780330/007/0002), 1878-03-30, p. 2-2
 
 We regret to have to record that during the sudden and severe snowstorm which occurred Sunday afternoon her Majesty's ship Eurydice, Admiralty training ship for second-class seamen, capsized off Dunnose, a headland near the the south east coast of the Isle of Wight. A schooner picked up five of the crew, but three of then died subsequently, one of them being Tabor, the first lieutenant, who was brought ashore at Ventnor. The only survivors are Benjamin Cuddiford, of Plymouth, and Sydney Fletcher, of Bristol, first-class boy, aged 19. These two men are well provided for at the Cottage Hospital, Bonchurch. The Eurydice was commissioned in Portsmouth 1877, and sent to the Barbados station.
 
@@ -549,10 +486,8 @@ VERDICT.
 
 The jury retired, and after an absence of half hour, returned with the following verdict:— "The jury unanimously find that the three deceased were accidentally drowned owing to the capsizing of her Majesty's ship Eurydice, by a sudden squall, at Dunnose, on Sunday, the 24th inst., and the jury consider that, from the evidence adduced, no blame whatever can attach to the captain, officers, and men of the ship."
 
+```
 
-
----
-TEXT
 
 ![](../images/003KTOP00000015U02700000_SVC2.jpg)
 View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight
@@ -562,16 +497,10 @@ Medium: Aquatint, coloured
 Date: 1800
 
 
----
+```{admonition} LOSS OF H.M.S. EURYDICE, WITH THREE HUNDRED MEN
+:class: note dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/BL/0001578/18780330/143/0017?browse=true
-
-Illustrated London News
-Saturday 30 March 1878
-
-p17
-
-LOSS OF H.M.S. EURYDICE, WITH THREE HUNDRED MEN
+[Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001578/18780330/143/0017?browse=true), 1878-03-30, p. 17
 
 The wreck of the Eurydice, the training-ship for young ordinary seamen, of the Isle of Wight, and almost within sight of Spithead, to which place she was approaching at the end of a pleasant and successful cruise to the West Indies, is a disaster which calls to mind the loss of the Captain off Cape Finisterre. With this exception, there is nothing to compare with the calamity which occurred on Sunday afternoon, so far as the Navy is concerned, though the loss of life has frequently been exceeded by the sinking of emigrant-vessels. The circumstances are similar in many respects to those attending the loss of the Captain, both ships having turned over and sunk during a gale of wind, all their sail being at the time set. So far as can be ascertained, the Eurydice had 368 souls on board at the time. But this is very much a matter of conjecture, as, besides her own officers and crew, she was bringing home a number of military officers, supernumeraries, and invalids from the West Indies. Hence considerable uncertainty exists both as to the names and number of the sufferers.
 
@@ -616,3 +545,5 @@ The inquest on the bodies of Lieutenant Tabor, Captain Louis Ferrier, R.E., and 
 A committee has been formed at Portsmouth, and another in London, to raise money for the benefit of the families of the seamen and marines who have lost their lives this disaster. Messrs. Glyn, Mills, and Co., of Lombard-street, and Messrs. Cocks and Biddulph, of Charing-cross, receive subscriptions for this purpose. The members of the House of Commons have made a special subscription amongst themselves.
 
 Our Illustration of the foundering of the Eurydice, which forms the large Engraving presented for the Extra Supplement this week, has been drawn by the aid of Sketches and verbal description supplied by the seaman Benjamin Cuddiford, one of the two survivors of the crew.
+
+```

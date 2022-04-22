@@ -5,16 +5,11 @@ Almost immediately following reports of the tragedy, fundraising relief activiti
 
 TO DO - Thunderer boiler explosion 14 July 1876, https://en.wikipedia.org/wiki/HMS_Thunderer_(1872), killing 45 people, 15 instantly, 30 of ~70 othes injured dying later.  proceeded from Portsmouth Harbour to Stokes Bay, overlooking the island.
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006
+```{admonition} THE LOSS OF THE EURYDICE.
+:class: note dropdown
 
-Evening Mail
-Friday 29 March 1878
-
-p6
-
-THE LOSS OF THE EURYDICE.
+[Evening Mail](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006), 1878-03-29, p. 6
 
 A meeting of naval officers and influential inhabitants of Portsmouth was held on Wednesday at the College in the Dockyard for the purpose of organizing a Eurydice Relief Committee. The sad occasion drew together a number of gentlemen who were formerly associated for the relief of the sufferers by the Thunderer explosion and whose offer of services for a similar purpose were heartily welcomed. Among the gentlemen present were Admiral Fanshawe, Rear-Admiral Foley, Admiral Raby, Captains Wilson, Herbert, Singer, Arthur, Kelly, Peile, and Henderson, the Mayor and ex-Mayor of Portsmouth,the Vicar of Portsmouth, Colonel Burnaby,Colonel Richards, Inspector-General Domville, Canon Doyle, Commanders Otley, Wilson, and Swinson, and Mr. Griffin, J.P. The chair was taken by Admiral Fanshawe, Commander-in-Chief.
 
@@ -48,39 +43,38 @@ The Lord Mayor has intimated to the naval authorities at Portsmouth his willingn
 
 [EXCERPT]
 
+```
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002
-Hampshire Telegraph
-Wednesday 03 April 1878
-p2
-The Lord Mayor received over 400l. at the Mansion House on Monday in aid of the fund now being raised there for the relief of the widows, orphans, and relatives of the crew of her Majesty's ship Eurydice. Of that were 177l. 16s. 1d. was the result of a spontaneous collection made on the previous day by the Rev. Canon Fleming, at St. Michael's, Chester-square. Messrs. Roberts, Lubbock and Co., contributed 25l.; Messrs. Coutts and Co. 25l.; Messrs. Smith, Payne, and Smiths, 251.; Mr. Ernest Hankey, 25l. ; some clerks in the London Joint-Stock Bank, 6l. 11s. 6d.; and at Messrs. Prescott's, 5l. 5s.; and Mr. Lewis Lloyd, 20l. The sum of 23l. 19s. 10d. was dropped into the box outside the Mansion House by passers-by during the day. Including the sum collected on the Stock Exchange, the Mansion House Fund now amounts to about 1000l.
+
+```{admonition} The Lord Mayor received over 400l. at the Mansion House on Monday in aid of the fund now being raise
+:class: note dropdown
+
+[Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002), 1878-04-03, p. 2
+
+d there for the relief of the widows, orphans, and relatives of the crew of her Majesty's ship Eurydice. Of that were 177l. 16s. 1d. was the result of a spontaneous collection made on the previous day by the Rev. Canon Fleming, at St. Michael's, Chester-square. Messrs. Roberts, Lubbock and Co., contributed 25l.; Messrs. Coutts and Co. 25l.; Messrs. Smith, Payne, and Smiths, 251.; Mr. Ernest Hankey, 25l. ; some clerks in the London Joint-Stock Bank, 6l. 11s. 6d.; and at Messrs. Prescott's, 5l. 5s.; and Mr. Lewis Lloyd, 20l. The sum of 23l. 19s. 10d. was dropped into the box outside the Mansion House by passers-by during the day. Including the sum collected on the Stock Exchange, the Mansion House Fund now amounts to about 1000l.
 
 [EXCERPT]
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001901/18780405/053/0006
 
-Rutland Echo and Leicestershire Advertiser
 
-Friday 05 April 1878
+```{admonition} THE LOSS OF THE EURYDICE.
+:class: note dropdown
 
-p6
-
-THE LOSS OF THE EURYDICE.
+[Rutland Echo and Leicestershire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001901/18780405/053/0006), 1878-04-05, p. 6
 
 The Lord Mayor of London has received the following telegram from Captain Wilaon (H.M.S. Thunderer), Portsea:— "Your telegram has been laid before the general committee of this (Enrydice) fund, and I desired to convey to your lordship the expression of their deep sense of your lordship s consideration in proposing to open a fund for the relief of the distressed relatives of those lost in the Enrydiee, and gratefully accept your offer." Accordingly the Lord Mayor will receive subscriptions at the Mansion House. It is not intended to appoint a committee, his lordship promising to forward all the subscriptions which may entrusted to him to the Portsmouth Committee. The box which was placed outside the Mansion House during the Indian Famine Fund, and proved such a prolific source of income to that fund, is again placed in the same position for the Eurydice relief.
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006
-Isle of Wight Observer
-Saturday 06 April 1878
-p6
 
-THE LOSS OF THE "EURYDICE."
+
+```{admonition} THE LOSS OF THE "EURYDICE."
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006), 1878-04-06, p. 6
 
 ...
 
@@ -90,41 +84,42 @@ On Friday the Lord Mayor received from Captain J. C. Wilson, A.D.C. of the Thund
 
 [EXCERPT]
 
+```
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/020/0005
-Isle of Wight Observer
-Saturday 27 April 1878
-p5
 
-...
+```{admonition} ...
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/020/0005), 1878-04-27, p. 5
 
 Lord Henry Lennox writes to say, regarding the Eurydice fund, that, as far as is at present known, there are between 40 and 50 widows, 170 parents, and from 60 to 70 other relatives who were partly, and in many cases mainly, dependent upon those who have perished, and have therefore claims on the fund. It is calculated that £20,000 will be required in order to administer a minimum relief to all the sufferers. Of this sum about one half has been collected by the committee presided over by his Royal Highness the Duke of Cambridge, by the Lord Mayor's committee, and by Admiral Fanshawe's committee at Portsmouth. In order to obtain the amount still necessary, Lord Henry makes a further earnest appeal to the public. The Commissioners of the Royal Patriotic Fund have undertaken the distribution of the money, in accordance with chthea powers conferred upon them by a Royal Commission in 1875.
 
 [EXCERPT]
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/034/0008
-Isle of Wight Observer
-Saturday 27 April 1878
-p8
+```
 
-To the Editor of the hie of Wight Observer.
+
+
+```{admonition} To the Editor of the hie of Wight Observer.
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/034/0008), 1878-04-27, p. 8
 
 Sir.— I think it would have been but bare justice to Mr. Wiltshire, who was deputed to collect money for the Eurydice Fund, had his name appeared, as having been selected for that office, in the paragraph heading the list of subscriptions published in your last issue. It appears to me that this was the least recognition that could be made of his untiring exertions in this charitable work ; a recognition which the public would certainly not have grudged him. Trusting to your courtesy to allow these few lines to appear in your widely circulated journal, and enclosing my card,
 
 I am, Sir, yours faithfully,  
 FIAT JUSTITIA, RUAT COELUM.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780511/028/0006
-Isle of Wight Observer
-Saturday 11 May 1878
-p6
+```
 
-Ventnor. Concert at Ventnor in aid of the Eurydice Distress Fund.
+
+
+```{admonition} Ventnor. Concert at Ventnor in aid of the Eurydice Distress Fund.
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780511/028/0006), 1878-05-11, p. 6
 
 A very excellent entertainment was given last Friday afternoon in the fine coffee room of the Royal Hotel, kindly lent by Mr. Mason, in aid of the Eurydice Distress Fund. We regret to have to say that the attendance was somewhat limited. The names of those who with the greatest good nature came from Ryde and who did so much to make the concert a success, should have provoked a hearty reception from the dwellers in Ventnor. The programme appended will indicate the character of the entertainment ; and as to the several performers, we do not know that we can say more than that each achieved a perfect success. Miss Wallace, daughter of Col. Wallace, of Ryde, who won the unqualified praise of musical critics by her singing at a concert in the Albert Hall, sang as well as we remember to have heard her, and despite the rule to the contrary, was obliged to submit to an encore. Miss Jessie Browne was suffering from a slight cold, yet fully sustained her reputation, and won rounds of applause. Miss Abbott, who is the daughter of a gentleman visiting Ventnor, is a performer of great finish, and was vehemently encored. Master Denton sang very sweetly and added very greatly to the pleasure of the afternoon, winning loud applause and a decided encore when he sang "The little tin soldier." Mr. Perkins, also a visitor, is a thorough musician, and a violinist of the highest order. Thanks cannot be too heartily given given to Miss M. Fowles, who most efficiently discharged the part of accompanist throughout. We should not omit to mention that Mr. Bourne, Manager of the Isle of Wight Railway, readily sent passes for those ladies and gentleman of Ryde who so kindly gave their help. The programme was as foliows : Pianoforte Solo, Ballade (Opus 23rd), Miss H. D. Abbot. Song, "Che faro senza Eurydice," Miss Wallace. Song, "The Token," Dudley Watkins, Esq. Violin Solo, D. Perkin, Esq. song " Non é Ver," Miss Jessie Browne. Song, "O fond dove, O fair dove," Master Willie Denton. Pianoforte Solo, " Introduzione and Rondo " from Sonata (Opus 53) Miss H. D. Abbott. Song, "Martin the man-at-arms," Dudley Watkins, Esq. Violin Solo, T. D. Perkins, Esq. Song "Waiting," Miss Jessie Browne. Pianoforte Solo, " Soiree de Vienne valse Caprice," Miss H. D. Abbott. Song, "It was a dream," Miss Wallace. Song, Dudley Watkins, Esq. Song, "The Little Tin Soldier," Master W. Denton.
 
----
+```

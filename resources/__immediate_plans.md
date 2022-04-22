@@ -1,14 +1,10 @@
 # Plans to Refloat the Eurydice
 
----
 
+```{admonition} THE FOUNDERING OF THE "EURYDICE."
+:class: note dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002
-Hampshire Telegraph
-Wednesday 03 April 1878
-p2
-
-THE FOUNDERING OF THE "EURYDICE."
+[Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002), 1878-04-03, p. 2
 
 THE OPERATIONS AT THE WRECK.
 
@@ -44,21 +40,17 @@ The more the matter of the foundering of the training ship Eurydice is discussed
 
 TH: who was "G. Field"?
 
----
-
-TEXT
+```
 
 
 ![](../images/ILN_1878_loss_of_euridyce_apr_04_009.jpg)
 Illustrated London News — Divers at Work on H.M.S. Eurydice, April 4, 1878
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780404/059/0005
-Isle of Wight Times
-Thursday 04 April 1878
-p5
-THE EURYDICE.
+```{admonition} THE EURYDICE.
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780404/059/0005), 1878-04-04, p. 5
 
 At Sandown Church, on Sunday. the Vicar, the Rev. G. S. Kerney, preached special and collections on behalf of the relatives were made, amounting to 3£50 1s. At Lake Mission Church  £3 10s. was collected.
 
@@ -90,25 +82,25 @@ The *Hornet* says:—"Eurydice is an unlucky name. One Eurydice hanged herself, 
 
 "It may interest some of your readers to know that the snow-storm of the 24th of March struck the Worcester end of the Malvern-hills from the north-west at 1 p.m., as the Priory church clock struck. It took threequarters of an hour to clear this end of the range. It travelled in a south-east direction, and arrived at the supposed position of the Eurydice, off the Isle of Wight, at 4.30 p.m. Its appearance was that of a 'white wall' bulging forward. There was no haze between my position and the advancing white wall, the distance of which I judged to be two and a half or three miles. With me it was sunshine ; I had not got 100 yards on my way down the hill when the storm overtook me. It travelled at a rate of 35 miles an hour, or a mile in less than two minutes. Assuming the distance to Dunnose, as the crow flies, to be 115 miles, the rate the storm travelled would be 32.7 miles an hour. The time the rear edge took to clear Malvern was three quarters of an hour; this would give a length of cloud 24.5 miles. Any one standing near an express train going at forty miles an hour knows the current which is produced, and, therefore, cannot be surprised at the enormous pressure a compact mass of cloud 24 1/2 miles long will exert on the place over which it passes at a rate of a mile in less than two minutes. As the mass of cloud was moving from N.W. to S.E. its length has been spoken of ; what its breadth may have been must remain unknown."
 
+```
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/002/0008
-Isle of Wight Observer
-Saturday 06 April 1878
-p8
 
-HER MAJESTY'S SHIP "EURYDICE"
+```{admonition} HER MAJESTY'S SHIP "EURYDICE"
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/002/0008), 1878-04-06, p. 8
 
 Two pounds reward will be given to any private person finding and bringing to the Coast Guard Station the BODY of any one belonging to the "Eurydice".
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006
-Isle of Wight Observer
-Saturday 06 April 1878
-p6
+```
 
-THE LOSS OF THE "EURYDICE."
+
+
+```{admonition} THE LOSS OF THE "EURYDICE."
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006), 1878-04-06, p. 6
 
 A message from the Queen has been forwarded by the Admiralty to the relatives of the officers who were lost in the Eurydice, together with a letter conveying an expression of their lordships' deep regret at the sad event.
 
@@ -140,16 +132,14 @@ Another correspondent to the *Globe* writes : "It seems a strange coincidence in
 
 The following extract from " Hollinshed's Chronicles" may be of interest: " *The Loss of the Mary Rose.* — .. . After this, 18 Julie, 1545, the Admirall of France, Monsieur Danabutte, hoised up sailes, and with his whole navie came forth into the seas, and arrived on the coast of Sussex before bright Hampstead, and set certaine of his soldiers on land to burne and spoile the countrie. . . . Immediatelie hereupon they made to the point of the Ile of Wight, called Saint Helens Point, and there in good order upon their arrivall they cast anchor and dailie sent sixteen of their gallice to the verie haven of Portesmouth. . . . The twentieth of Julie the whole navie of the Englishmen made out, and purposed to set on the Frenchmen, but in setting forward, through too much folly, one of the King's ships, called the Mary Rose, was drowned in the midst of the haven, by reason that she was overladen with ordinance, and had the ports left open, which were verie low, and the great artillerie unbreached, so that when the ship should turne, the water entered, and suddenly she suncke. In her was Sir George Garew, Knight, and foure hundred soldiers under his guiding. There escaped not past fortie persons of the whole number."
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780411/071/0004
 
-Isle of Wight Times
-Thursday 11 April 1878
 
-p4
+```{admonition} The Eurydice
+:class: note dropdown
 
-The Eurydice
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780411/071/0004), 1878-04-11, p. 4
 
 So far as we have been able to ascertain — and sounding very, very many, we have not met with a contrary opinion – Islanders are anything but satisfied with the verdict of the Ventnor Jury. Of course they agree with the former portion – that the unfortunate met met with their death by capsizing of the vessel during a squall; but they differ as to the latter– that no blame attaches to anyone aboard. – The boy Fletcher proven to have been the nearest to the truth after all – though Cuddeford was recalled by the Admiralty law agent of Portsmouth to rebut his words– in saying that the ballast of the ill-fated vessel wa her water and stores (both for use), and these lessened on the voyage. Cuddeford said the lower tier of tanks were never touched, but the fact is there was no lower tier ! and the crew using from the only tanks below lightened the ship. However, this ballast question to our mind is not the most serious one. We believe most persons are firmly of opinion that the ports ought not to have been open, and that so much sail ought not to have been carried, under the circumstances. The ports being only 6ft. above water it will be seen that a comparatively slight heel over -18 degrees only— would bring them under water. Of course they should be open in fine weather and when there is no probability of bad weather— but in this case there was more than a probablility of bad weather- no-one could tell *how* bad, and wisdom and ordinary caution must have dictated their closing. The port question is a more serious one than that of water ballast, but a more important one still is the question of sail. Old, experienced seamen at Ventnor, remarked to one another as the Eurydice passed that she was carrying too much sail and would have to shorten directly— *they* could see that something bad was coming, and this most have been seen by the officers, *before* they came to the Culver shield, which has been made to shield them. We had newspaper warning that a storm might be expected on or about this day— we de not know whether this intimation was conveyed to the officers by signal or not, but we do know that the barometer had fallen rapidly, indicating something sudden and sharp, and we do know that another warning was given in the clouds some time before the storm broke on the vessel– before she passed Ventnor and came to the "shield."— There was no doubt an intense desire to get home— to the home within sight, and, being so close home, the dangers of the sea might *seem* to have been passed. " Fly on my boys, she'll stand it" would seem to have been the mental utterance— and there might have been a race on for a bet between this and a certain other vessel, when one would strain a point and run a risk, thought not certainly and knowingly run over risk to death. We give what the opinion at Ventnor was as she passed, and we must think that ordinary prudence and caution would have said–  never mind a few minutes, never mind a £5O bet (supposing this to have been lain) the barometer has fallen and the sky is threatening— one doesn't know *how much* these portend— it be be safer to close the ports and take in some little of the extra sail. The ports were not closed, and it was not attempted to reef till the full force of the squall was upon them and it was too late. It occurs to us that the fact of the ports being open may have been for the  nonce *forgotten*, with thoughts of home, and so on, and a belief the sail would "stand the storm" enabling them to anchor "by and by". No doubt sail ought to have been taken in and ports closed half-an-hour or an hour before, but we believe that had the ports only been closed, and had the vessel continued to carry her every stitch she would have righted, for according to Cuddeford she encountered a far heavier gale in the Bay of Biscay, and was "lively." As we say a comparatively slight list brought the ports under water, and then tons of water pouring in were auxiliaries to the squall, and the tin effected their terribly fatal work. The captain d the "Emma " did not shorten sail till the squall was on him, but he had *no ports open*, and had not been  carrying so much canvas. We believe the Eurydice would never have gone down had the warning of Providence and science been heeded. We class the calamity as a *preventible* one, and should write more strongly on the matter but for the words *"De mortuis nil nisi bonum."* Still, when we find one after another of our ships going down— may not the ships but about a thousand of our men– supposed to be commended by the cream of seamen— when we lose these at times when other seamen clse by are not lost, the interests of the country and of the relatives of our naval men demand that the press shall speak out and insist that the matter be not only fully enquired into, but that stringent orders be given that the officers shall run no risks, that ships shall be late, and that orders shall be disobeyed even rather than this losing game shall no longer continue. There is something radically wrong in our recent losses of ships and men. Whether naval men have become steamship hands and ceased to be *sailors* we cannot say, but certainly the matter demands the most minute enquiry, and more than that. Let us conclude with two quotations :
 
@@ -157,25 +147,25 @@ So far as we have been able to ascertain — and sounding very, very many, we ha
 
 *Vanity Fair*— We protest most emphatically against the questions arising out of this catastrophe being treated as though it were a matter concerning only the reputation of the poor fellows who have gone down. The question is not that, but a far more grave and serious one— namely, whether the vessels in the Queen's service are to be handled in a prudent and seamanlike manner. We are convinced that the *Eurydice* was not so handled ; and to say that she was, in order to screen the memory the dead, or to spare the susceptibilities of the living, would be to give a public encouragement to carelessness and lubberliness not only in the Navy but in all other cases, and that at a time when those very defects are most seriously on the increase and likely to bring about disasters of greatly increased gravity.
 
+```
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780411/087/0005
-Isle of Wight Times
-Thursday 11 April 1878
-p5
 
-HER MAJESTY'S SHIP EURYDICE.
+```{admonition} HER MAJESTY'S SHIP EURYDICE.
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780411/087/0005), 1878-04-11, p. 5
 
 TWO POUNDS REWARD will be given to any Private Person Finding and bringing to any Coast Guard Station the Body of any one belonging to the "Eurydice."
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/020/0006
-Isle of Wight Observer
-Saturday 13 April 1878
-p6
+```
 
-THE WRECK OF THE EURYDICE.
+
+
+```{admonition} THE WRECK OF THE EURYDICE.
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/020/0006), 1878-04-13, p. 6
 
 The Secretary of the Admiralty publishes the following copy of a memorandum received from the British steamship Badger, with regard to the state of the weather at the time of the loss of H.M.S. Eurydice, on the 24th ult. : " London and Edinburgn Shipping Compauy, Bordeaux, Maich 28, 1878. Steamship Badger. — Sunday, March 24th,1878, about 3.30 p.m., St. Catherine's Point, about N.N.W. five miles, passed one of H.M. ships on our port side. She was then under ail sail, topmast and lower studding sails on the port side, the wind being about W. by N., fresh breeze and fine weather. The weather had been fine all day ; wind westerly, shifting from W.S.W. to W.N.W. Passed St. Catherine's Point N.N.E. two miles, at 3.45 p.m. Then observed dark, heavy clouds to the north-west. About 4 p.m. the wind shifted suddenly to N. N. W., blowing strong, with snow, and continued about half-an-hour. I believe that the appearace of a squall coming on couid not be seen from Her Majesty's ship. I did not see it until clear of  St. Catherine's Point. It was low down, and clear over head, and also clear over Isle of Wight. Therefore Her Majesty's ship would get the squall without any warning. — (signed) -Jno. Louttit."
 
@@ -247,17 +237,14 @@ Took the three hundred wanderers Home.
 
 TO DO - Baily's Magazine original; Hathi Trust? archive.or?
 
+```
 
----
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780420/039/0008
-Isle of Wight Observer
-Saturday 20 April 1878
+```{admonition} THE FOUNDERING OF THE "EURYDICE."
+:class: note dropdown
 
-p8
-
-THE FOUNDERING OF THE "EURYDICE."
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780420/039/0008), 1878-04-20, p. 8
 
 A meeting of the Portsmouth General Committee of the Eurydice Relief Fund was held at the College on Monday afternoon. The Commander-in-Chief (Admiral Fanshawe, C.B.) who presided, moved, the ex-Mayor (Mr W. Pink) seconded, and it was resolved : "That this committee, while recognising the expediency of collecting funds for those rendered destitute by the foundering of Her Majesty's ship Eurydice through several agencies as likely to enrol the largest number of subscribers, are of one opinion, that it is desirable, with a view to the efficient administration of the funds collected, that the whole should be distributed through one agency ; and that the machinery of the Patriotic Fund, so enlarged in 1875, for such objects by a Royal Commission, offer the best means for the purpose. That this committee accordingly intends to apply to the Royal Commissioners of the Patriotic Fund to receive the sums collected to be administered by the Royal Commissioners, uuder the schema adopted for the Captain Fund, excepting such sum, as they might find absolutely necessary to give for urgent and immediate relief." It was further determined : "That the Secretary be deputed to place himself in communication with the London Eurydice Relief Committee presided over by His Royal Highness the Duke of Cambridge, with a view to the joint intentions of the two committees being carried out."
 
@@ -265,14 +252,14 @@ A correspondent to Thursday's *Telegraph*, writes : -—What has been done at th
 
 The Secretary to the Admiralty forwards a further list (received by telegraph from the Naval Commander-in-Chief on the North-American Station) of men who were discharged from and to her Majesty's ship Eurydice before she left the West Indies for England viz. : Discharged from Eurydice to Rover - Walter Swindell, able seaman. Discharged to Eurydice from Rover- Charles Nicholson, captain of foretop ;  James T Devine , ordinary seaman; and Robert Hiscutt, engineer's cook.
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780425/057/0005
-Isle of Wight Times
-Thursday 25 April 1878
-p5
 
-Battalion Drill - Scene and Thoughts at Nunwell
+
+```{admonition} Battalion Drill - Scene and Thoughts at Nunwell
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780425/057/0005), 1878-04-25, p. 5
 
 ...
 
@@ -280,31 +267,25 @@ Perhaps we never enjoyed the outlook more than we did on Monday, but to reverse 
 
 ...
 
+```
 
 
 
----
+```{admonition} THE EURYDICE.
+:class: note dropdown
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001683/18780426/209/0007
-
-Irish Times
-Friday 26 April 1878
-
-p7
-
-THE EURYDICE.
+[Irish Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001683/18780426/209/0007), 1878-04-26, p. 7
 
 The unexpected delay which has occurred connection with the raising of the has, it is stated, evoked strong expression of dissatisfaction from the Admiralty, and it has been deemed advisable to call in aid the advice and assistance of the constructors' department Portsmouth dockyard. The divers went out to the scene the wreck of the Eurydice yesterday morning, and from the activity shown the Government officials it was thought that the vessel would be moved. About eleven o'clock, however, strong breeze set from the north-west, and the divers came ashore about noon, without attempting descend to the wreck.
 
+```
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/020/0005
-Isle of Wight Observer
-Saturday 27 April 1878
-p5
 
-THE FOUNDERING OF THE "EURYDICE."
+```{admonition} THE FOUNDERING OF THE "EURYDICE."
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/020/0005), 1878-04-27, p. 5
 
 Operations at the wreck of the Eurydice were resumed on Monday amid  considerable difficulties, the Government arrangements having been unsuccessful. The plan which had been adhered to for about a month has been abandoned, and three private divers, Messrs. F. Davies, A. Sutherland, and Whittaker, of the firm of Messrs. Sielee and German, the submarine engineers of London, have been retained. Four tugs, the Grinder, Manly and Camel appeared on the scene during the day. An attempt was made to descend to the wreck early in the day, but the tide ran so strongly that it was impossible to do so with safety. The divers managed to reach the vessel during the slack tide in the afternoon, and examined her bows and head gear. The new plan is to sweep the ship with two steel hawsers and then to lift and carry her between two lighters to the beach.
 
@@ -312,34 +293,28 @@ The Portsmouth correspondent of the *Telegraph* writing on the 25th inst., says:
 
 [EXCERPT - RELIEF]
 
----
-TEXT
+```
+
 
 ![](../images/ILN_1878_loss_of_euridyce_apr_27_007.jpg)
 Illustrated London News — The wreck of the Eurydice: Divers examining a wreck by the submarine light, April 27, 1878
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780427/051/0012
+```{admonition} THE WRECK OF RAISING THE EURYDICE.
+:class: note dropdown
 
-Illustrated London News
-Saturday 27 April 1878
-p12
-
-THE WRECK OF RAISING THE EURYDICE.
+[Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780427/051/0012), 1878-04-27, p. 12
 
 The hull of H.M.S. Eurydice, the training-ship for seamen of the Royal Navy, which was unhappily sunk by a sudden squall of wind off the coast of the Isle of Wight near Ventnor on Sunday, the 24th ult., has since been lying in eleven fathoms of water, with the dead bodies of more than three hundred men. The raising of the ship, means of lighters attached to her sides, for her removal to Sandown Bay, is not yet accomplished. On Monday last the operations were resumed amid considerable difficulties, the Government arrangements having been unsuccessful. The plan which has been adhered to for about month has been abandoned, and three private divers Messrs. F. Davies, A. Sutherland, and Whittaker, of the firm of Siebe and Gorman, the submarine engineers of London have been retained. Four tugs, the Grinder, Manly, Malta, and Camel, appeared on the scene during the day. An attempt was made to descend to the wreck early in the day, but the tide ran so strongly that it was impossible to do so with safety. The divers managed to reach the vessel during the slack tide in the afternoon, and examined her bows and head-gear. The new plan is to sweep the ship with two steel hawsers and then to lift and carry her between two lighters to the beach. The electric lamp used the divers is one of Foucault’s latest improvements, and regulates itself according to the strength of the current employed. When the current is too powerful the carbon points recede, and when weak they approach each other, thereby keeping up a light of equal intensity. This lamp will burn in any position and is not liable to get out of order. This lamp is inclosed in a strong case, with a lens opposite the carbon points, and a smaller one of colour to examine the light before sending under water. This casing is called the lantern; the whole, with the general arrangements of connection, being after designs of Messrs. Siebe and Gorman. This lantern when closed is perfectly watertight, for when the trial in seventeen fathoms took place not a drop of water entered. The lantern is connected to the battery by means of a double cable of two insulated wire, the cable being made of indiarubber, and the two united together by a tape covering. The battery is composed of fifty Bunsen elements placed in boxes of ten, being handier for moving about. The electric lamp will burn for one hour in the open air, but in the lantern it will bum two hours, as the combustion of the carbon points is not so rapid as in the open air—in fact, after a few minutes the light is burning in a complete vacuum when in the lantern.
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780502/073/0005
 
-Isle of Wight Times
-Thursday 02 May 1878
 
-p5
+```{admonition} THE EURYDICE DISASTER.
+:class: note dropdown
 
-THE EURYDICE DISASTER.
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780502/073/0005), 1878-05-02, p. 5
 
 On Wednesday the Admiralty telegraphed to the officials at Portsmouth Dockyard to the effect that their lordships having observed the increasing dissatisfaction felt by the public, as expressed in the public journals and shared in by themselves, nt the want of success of the operations for raising the Eurydice, which had now been sunk since the 24th March, they had instructed the Chief-Constructor and the Master Attendant of Chatham yard (Mr. Saunders and Capt. Batt) to proceed to Portsmouth, and in consultation with the Chief-Constructor and the Master Attendant of Portsmouth Dockyard, to devise the best means for attaining the object in view as early as possible. Mr. W. B. Robinson, Chief-Constructor at Portsmouth, and Mr. J. C. Froyne, Constructor, proceeded to the wreck on Wednesday to ascertain the character of the operations which have been employed, &c. A hawser was fastened to the Eurydice's mainmast,  and carried to the Malta, which got up full speed. The wreck, however, remained immovable. The sweeping of the vessel wih the two 7in. steel hawsers was recommenced, each hawser being capable of sustaining a strain of about 130 tons.
 
@@ -365,12 +340,15 @@ The inquiry will he opened directly the ship is in the harbour, and will be look
 
 TH note: amusing editor comments eg navy good at sinking boats, and dilettante quote!
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780504/028/0008
-Isle of Wight Observer
-Saturday 04 May 1878
-p8
+```
 
-THE EURYDICE.
+
+
+```{admonition} THE EURYDICE.
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780504/028/0008), 1878-05-04, p. 8
 
 Though the result of the operations around the Eurydice on Sunday has produced great disappointment at Portsmouth, now that the officers are in possession of the exact state of the case with which they have to deal, they are, if anything, oven more hopeful than before of being able to raise the unfortunate ship. They are, however, fully cognizant of the increased difficulty of the task before them, and measures are being promptly taken to meet it, though, as the present tides will not serve, seeing that a rise of 13ft. will be required to pull the ship out of its bed, a fortnight will probably elapse before the operation of lifting can be renewed. In the meantime, it is necessary that an ample margin should be allowed for that at present unknown quantity, the dead weight of the ship *plus* the strain which will be needed to overcome the suction between the ship and the burrow which she has formed for herself in the sand. Preparations are being made to resist a strain of some 700 tons. This is more than double the estimated dead-weight of the ship in her normal state, before the saturation of her planks and timbers and the introduction of sand into her hold through the main deck lee ports,which, as already stated, are on a level with the ground. It will also be necessary to provide against unequal distribution of strains, for it is evident that where a heavy weight has to be grappled with from purchases suspended from a moving surface or platform, great care is required so to adjust them as to prevent one hawser feeling the pinch in advance of the rest, and thus being subjected to abnormal tension. After a consultation between the Portsmouth and Chatham dockyard officers, it has been decided to supplement the buoyant power of the Pearl and the Rinaldo by dropping "toggles" through the whole of the ports of the Eurydice and attaching them to lighters placed four on each side, whereby, it is thought, the ship will be lifted evenly and bodily out of her bed. It has also been deoraed expedient to put more ballast into the Pearl and the Rinaldo in order that they may be brought down nearer to their load line, and thus acquire a firmer grasp of the water. The Rinaldo has already been brought from the scene of the wreck into harbour to receive the additional ballast on board. Eight-inch jewel chains will also probably be used, as, while steel hawsers will resist enormous vertical or horizontal strains, the unfortunate experience of Sunday proved that they are exceedingly liable to part where a nip occurs. But the most important additional factor which will be imported into the operations is the famous Popoff air-bag, which was experimentally tested at Portsmouth in 1875 with reference to its applicability to raise the Vanguard, and which was subsequently put to practical use to assist in raising the Oberon, torpedo ship, from the shoal at the mouth of the harbour. The bag, which is a combination of cordage, canvas, and vulcanized rubber, measures 22ft. in length and 12ft. in breadth and when inflated to its full extent resembles a cylindrical boiler. The total displacement of the bag is about 6O tons, and when introduced through the hatches of the Eurydice, it will be able to lift to that amount minus its own weight of 47cwt. 2qrs 14lbs. Owing to the gale which prevailed, nothing was done on Monday at the wreck. Indeed, it was found necessary to bring the lighters in, one or two- of them running great risk of being lost. Two additional divers have been brought from Devonport to assist in the preliminary operations.
+
+```

@@ -7,17 +7,13 @@ The report is an odd one, and seems to hint at various slights and snipes that m
 ![](../images/uo_1532958638-16959-69.jpg)
 Bathing machines, Sandown
 
----
-https://www.gutenberg.org/files/11483/11483-h/11483-h.htm
 
-The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)
-by Stuart Dodgson Collingwood
+```{admonition} Lewis Carroll during the last fifteen years of his life always spent the Long Vacation at Eastbourne
+:class: note dropdown
 
-1898
+[The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)](https://www.gutenberg.org/files/11483/11483-h/11483-h.htm), 1898-04-22, p. ?
 
-p?
-
-Lewis Carroll during the last fifteen years of his life always spent the Long Vacation at Eastbourne; in earlier times, Sandown, a pleasant little seaside resort in the Isle of Wight, was his summer abode. He loved the sea both for its own sake and because of the number of children whom he met at seaside places. Here is another "first meeting"; this time it is at Sandown, and Miss Gertrude Chataway [to whom The Hunting of the Snark was dedicated] is the narrator:—
+; in earlier times, Sandown, a pleasant little seaside resort in the Isle of Wight, was his summer abode. He loved the sea both for its own sake and because of the number of children whom he met at seaside places. Here is another "first meeting"; this time it is at Sandown, and Miss Gertrude Chataway [to whom The Hunting of the Snark was dedicated] is the narrator:—
 
 I first met Mr. Lewis Carroll on the sea-shore at Sandown in the Isle of Wight, in the summer of 1875, when I was quite a little child.
 
@@ -35,67 +31,56 @@ He used to write to me and I to him after that summer, and the friendship, thus 
 
 I don't think that he ever really understood that we, whom he had known as children, could not always remain such. I stayed with him only a few years ago, at Eastbourne, and felt for the time that I was once more a child. He never appeared to realise that I had grown up, except when I reminded him of the fact, and then he only said, "Never mind: you will always be a child to me, even when your hair is grey."
 
+```
 
----
-TEXT
 
 ## Temperance Movement
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790215/017/0008
 
-Isle of Wight Observer
-Saturday 15 February 1879
+```{admonition} Liberal Party Truckelling to Teetotallers.
+:class: note dropdown
 
-p8
-
-Liberal Party Truckelling to Teetotallers.
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790215/017/0008), 1879-02-15, p. 8
 
 — A public meeting was held at the Queen's Rooms on Thursday evening, in support of Sir Wilfred Lawson's resolution to be submitted to the House of Commons on the 11th proximo: "-That in the granting and renewing of licenses for tho public sale of intoxicating drinks, it is both expedient and just that the will of the ratepayers should be consulted." Mr. Councillor H. J. Orchard was in the chair, supported by the Rev. Canon Connon, vicar, the Rev. B. L Green (Unitarian minister), the Rev. W. B. Lark (Bible Christian minister), and Messrs. W. Denness, R. Bullen, John Pierce, W.C, W. H. Day, and C. Jolliffe. Evidently all were intent upon making political capital at the next election for Mr. C. C. Clifford, who has promised to support Sir Wilfred' resolution. It appears that the Liberal party here, in view of the general election, finding that it would be inexpedient to make teetotallism a plank in the Liberal platform, have determined on truckling to the teetotallers in an underhand way, so as to avoid giving offence to the many Liberals who are strongly opposed to restrictive class legislation as to inns. There was tho recent *sudden* conversion of the Liberal Unitarian minister to teetotalism, and the organ of the Pinuock section of Liberals rejoicing over him as one " who would be a great acquisition to the Island teetotal platform." Mr. Green was at once hand and glove with the Vicar in the teetotal agitation, under the patronage of the Liberal Bishop of tho diocese. The Vicar, having cut his connection with the Constitutional Working Men's Association, who were holding a meeting at the same time, was enabled to attend this Liberal teetotal meeting, and propose a resolution to the effect, that it is expedient and just to take the power of granting and renewing inn licenses out of the hands of the magistrates. He proposed this, because he thought the ratepayers should have a direct voice in these Licensing matters, and that there should be power to refuse renewal of licenses to some houses, in order to lessen the number—the mere presence of so many publichouses offering, as they did, irrcsistable temptations to the masses of the people. — Mr. Bullen having seconded the resolution, a ratepayer, addressing the meeting, pointed out that this resolution, on tho face of it, implied present mal-administration in licensing matters on the part of the county aud borough magistrates. The proposer had advanced nothing in proof of mal-administration, for the simple reason that there was nothing, and therefore his position was untenable. As to the bare assertion that a large number of publichouses in a town was more irresistable to the masses than a small number, statistics showed that it was not so. And the reason of this was not far to seek. Amongst the masses who use publichouses, more or less, the number of those who are so besotted as to be allured to drink on nearing a publichouse was happily very inconsiderable. Perhaps no clearer proof of this could be offered than the marked absence of anything like a "run" upon houses having on occasions of dinner parties, license to keep open an hour or two after the usual time for closing. Here in Newport the experience of the last six years showed that a "run" upon a house having extension of time for inn business was unknown. Recently the chief constable of a county, at quarter sessions, said the same thing of his county. It was manifest that the teototal party agitators had all along rested their claims on the public for countenance and support, on this gross misrepresentation, that the masses, not merely the scum, were so besotted as to need " more restrictive class legislation for protection against themselves." As to the manner in which the magistrates as licensing authorities were discharging their duties, there was the fact that the teetotal party had not ventured to bring evidence to make out a plausible case for taking tho power from their hands. Lord Aberdare, the author of "Bruce's " Act, of 1872, had recently administered to the Permissivites a severe rebuke for their want of common honesty in systematically hiding from view the manner in which the law as it stands is operating against anything like looseness in granting uew licenses. So far from looseness in the matter were the licensing authorities carrying it, that it was most difficult to obtain a license in cases where the requirements of the public were most palpable. Every part of the country furnished instances where the licensing authority at quarter sessions again and again refused to confirm the grant of such licenses at couuty petty sessions.
 
----
-
-https://archive.org/details/cihm_04713
-The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878
-Ishmael
-1879
-
-p?
-
-TO DO
+```
 
 
----
-https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton
 
-Wikipedia
-Sir Wilfrid Lawson, 2nd Baronet, of Brayton - Temperance
+```{admonition} TO DO
+:class: note dropdown
 
-1879
+[The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878](https://archive.org/details/cihm_04713), 1879-04-22, p. ?
 
-p?
 
-Temperance
+
+```
+
+
+
+```{admonition} Temperance
+:class: note dropdown
+
+[Wikipedia](https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton), 1879-04-22, p. ?
 
 Sir Wilfrid Lawson, 2nd Baronet (4 September 1829 – 1 July 1906) was an English temperance campaigner and radical, anti-imperialist Liberal Party politician who sat in the House of Commons variously between 1859 and 1906. He was recognised as the leading humourist in the House of Commons.
 
-Although Lawson did not enter the House of Commons on behalf of the Temperance movement he became their chief parliamentary spokesman. In 1863 he spoke in favour of a Bill to introduce the Sunday closing of public houses.[67] Later that year he proposed that "the Laws under which Licences are granted for the sale of Intoxicating Liquors are eminently unsatisfactory and deficient in power to protect the public, and therefore require immediate alteration."[68] After the resolution was heavily defeated he was encouraged to introduce his Permissive Bill. On 8 June, Lawson rose in front of a packed House of Commons to deliver a speech of great ability that filled four pages of Hansard, to move the second reading of the first of several Permissive Bills. A policy that later became known as Local Option and eventually Local Veto, The Bill was fashioned to embody the convictions but not the policy of the United Kingdom Alliance. he did not propose to prohibit the sale of liquor by enactment. The Bill provided that on application of any district, be that parish, town or borough, the votes of the ratepayers should be cast on the question of whether the trade in alcoholic beverages should exist in that district or not; where a majority of two-thirds of the ratepayers would be required to decide the outcome.[69] The Bill was heavily defeated by a majority of 257. He reintroduced the bill again in 1869,[70] 1870,[71] 1871,[72] 1873,[73] 1874,[74] 1876,[75] 1878,[76] In 1879, he varied his attack on the drink trade by proposing a Resolution in place of the Permissive Bill. Taking the words from a recommendation of the Convocation of the Province of Canterbury, he asked that inhabitants of districts, being the persons most interested in the licensing of Public Houses, should themselves have the power of stopping such licensing, if they objected to having the trade forced upon them.[77] In the following year he moved his resolution on two occasions, In the first he was defeated by a majority of 114 votes,[78] whereas on the second occasion he carried his motion by 26 votes.[79] Although he carried the motion again in 1881 and 1883 with majorities of 42 and 87, Gladstone's government failed to enact the policy.
+Although Lawson did not enter the House of Commons on behalf of the  movement he became their chief parliamentary spokesman. In 1863 he spoke in favour of a Bill to introduce the Sunday closing of public houses.[67] Later that year he proposed that "the Laws under which Licences are granted for the sale of Intoxicating Liquors are eminently unsatisfactory and deficient in power to protect the public, and therefore require immediate alteration."[68] After the resolution was heavily defeated he was encouraged to introduce his Permissive Bill. On 8 June, Lawson rose in front of a packed House of Commons to deliver a speech of great ability that filled four pages of Hansard, to move the second reading of the first of several Permissive Bills. A policy that later became known as Local Option and eventually Local Veto, The Bill was fashioned to embody the convictions but not the policy of the United Kingdom Alliance. he did not propose to prohibit the sale of liquor by enactment. The Bill provided that on application of any district, be that parish, town or borough, the votes of the ratepayers should be cast on the question of whether the trade in alcoholic beverages should exist in that district or not; where a majority of two-thirds of the ratepayers would be required to decide the outcome.[69] The Bill was heavily defeated by a majority of 257. He reintroduced the bill again in 1869,[70] 1870,[71] 1871,[72] 1873,[73] 1874,[74] 1876,[75] 1878,[76] In 1879, he varied his attack on the drink trade by proposing a Resolution in place of the Permissive Bill. Taking the words from a recommendation of the Convocation of the Province of Canterbury, he asked that inhabitants of districts, being the persons most interested in the licensing of Public Houses, should themselves have the power of stopping such licensing, if they objected to having the trade forced upon them.[77] In the following year he moved his resolution on two occasions, In the first he was defeated by a majority of 114 votes,[78] whereas on the second occasion he carried his motion by 26 votes.[79] Although he carried the motion again in 1881 and 1883 with majorities of 42 and 87, Gladstone's government failed to enact the policy.
+
+```
 
 
----
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790322/011/0006
+```{admonition} THE LIBERAL PARTY TRUCKLING TO TEETOTALLERS.
+:class: note dropdown
 
-Isle of Wight Observer
-Saturday 22 March 1879
-p6
-
-THE LIBERAL PARTY TRUCKLING TO TEETOTALLERS.
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790322/011/0006), 1879-03-22, p. 6
 
 The division list on Sir Wilfrid Lawson's resolution shows that both Mr. C. C. Clifford, the Liberal member for Newport, who intends to offer himself for re-election here, and tho Hon. Evelyn Ashley, M.P. for Poole, who is pledged iv the Liberal interest to contest the seat for the county of the Isle of Wight, voted for the resolution, which was in favour of taking out of the hands of the magistrates the power of granting aud renewing inn licenses. Mr. Evelyn Ashley's leaning in favour of more restrictive class legislation as to inn businesses, subversive of the personal freedom of the artisans aud labourers, and the class next above them, was well known. But who would have thought of Mr. Clifford truckling to the teetotallers at last ? Sir Wilfrid's resolution, like his Permissive Bill, was based on the bare assumption to teetotal agitators, that the masses (and not merely the scum which has been so much reduced as to be scarcely perceptible to casual observers in large public holiday gatherings of artisans and labourers) are so besotted that every publichouse they come near proves an irresistible temptation to drink. And on this assumption, in the face of the clearest evidence to the contrary, we are asked to believe that "more restrictive legislation as to inns is needed to protect the masses against themselves ." There is growing a feeling of righteous indignation throughout the Island against the unseemly clamorous and mischievous teetotal agitation ; and, doubtless, a large majority of the electors of the Island at the hustings will bear in mind this truckling of the two Liberal candidates to the teetotallers. During the last six years the country has been flooded with temperance leaflets, setting forth this purely ideal want of self-restraint, and consequent deep degradation of the masses of artisans and labourers, and also the many other teetotal fallacies. And, for truth's sake, it is much to be deplored that the two Defence Leagues of Licensed Victualler- (the only organisations for resisting infringement of the personal liberty of the subj ct. in tho incessant teetotal attacks on the trade) have, through poverty, as we understand, entirely omitted from" their programme the issue of leaflets exposing these teetotal fallacies, and disabusing the minds of the public. We have it on good authority, that a "leading bishop," untainted with the teetotal heresy, aud honestly seeking the truth of the matter, having gone about amongst the masses, carefully noting everything at large gatherings of artisans and labourers on pleasure bent, with abundant means and facilities for indulgence in excessive drinking, fell in with a very intemperate temperance agitator, and ventured to ask him, " Where is all this intemperance you are speaking about for I really do not see the drunken men about." And the reply to the right, rev. prelate's question of fact was, " My lord, because you won't see, and not because you can't see. There are hundreds of people born blind to it!" Take the facts noted by this good bishop, together with statistics—see Mr. W. T. Wilson's pamphlet, *Law and Liquor*, published by Weldon and Co., Fleet-street showing that in the eastern counties, where publichouses are most numerous ia proportion to population, drunkenness is less than in counties where the houses are much fewer in proportion to population. And take also the marked absence of anything like a " run " upon publichouses in towns, large or small, having, on occasion of late dinner parties, license to keep open to the public an hour or two after the usual time for closing; and we have clear, undisputablo evidence that the maligned masses of artisans and labourers of this country are sober and orderly men, posessing manly self-control in respect of strong drink ; and that they no more stand in need of restrictive legislation as to inns, for " protection against themselves," than the aristocracy. If the masses had not this self-control, their large gatherings would present the inevitable outcomes— disgraceful scenes of drunkenness and tumult ; and magistrates throughout the country would have long since ceased to grant licenses for extension of time for inn businesses, on account of the " run " upon inns having such licenses. Our Army is recruited by tin- labourers and artisans, and where are the evidences of their want of pluck and endurance ? It is noteworthy, as showing that very few of our senators have endeavoured to grasp the subject, that in the debates of the House of Commons on the numerous teetotal nostrums, which have troubled the House of late years, Sir Wilfrid Lawson and his followers have never been met with this argument, which, we submit, is most conclusive, and completely cuts the ground from under them. " The teetotaller at large," clamouring to fasten the legislative muzzle of restraint on his neighbours at every turn, rests his cane wholly on his bare assertion that the masses of our people have sunk so low as to be utterly incapable of self-control. And he insists that benefit society meetings, Army and Navy pensioners' pay meetings, and coroners' courts ought *not* to be held at publichouses, *because there is the temptation to drink*. Ihe long-experienced managers of benefit societies; the sober, steady pensioners; and men who have served as coroners' jurors in town and country, in " respectable" parts of the city, and in the slums, hundreds of times, and know more on this point than coroners, who are present *only* during the enquiry, in vain relate their experience, and show clearly that he is altogether wrong in his assumption that this attendance at a publichouse is unharmful. Good, easy, well-meaning folks take the teetotal statements for granted, and readily part with their money in aid of Bands of Hope and other teetotal societies, with their marked attendant worse evils than immoderate indulgence in strong drinks ; and thus they help to perpetuate those evils, some of which are pointed out in the saying of Dr. Wordsworth, Bishop of Lincoln : " The pledge is unscriptural and heretical, and it is a deadly sin for Christians to sign it, inasmuch as it leads to lying and disregard of truth, and tends to raise a generation of hypocrites." *— Commmunicated.*
 
----
-TEXT
+```
+
 
 In *Fit the Second, The Bellman's Speech* of the *Hunting of the Snark*, Carroll describes the various marks by which a genuine Snark may be known:
 
@@ -111,20 +96,16 @@ links would open round culver at st helens duver.
 
 ## The Opening of Sandown Pier
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780522/025/0004
-Hampshire Advertiser
-Wednesday 22 May 1878
 
-p4
+```{admonition} SANDOWN, May 22. The Pier.—
+:class: note dropdown
 
-SANDOWN, May 22. The Pier.—
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780522/025/0004), 1878-05-22, p. 4
 
 The new pier is almost completed, and, although in appearance it is slight, the testing which has taken place this week has been satisfactory Thirty-five tons of sand were placed on the second bay (from one column to another), and there was no deflection of the iron work.
 
+```
 
----
-TEXT
 
 ![](../images/service-pnp-ppmsc-08900-08995r.jpg)
 Library of Congress
@@ -141,16 +122,10 @@ Title: [Sandown from pier, Isle of Wight, England]
 Date Created/Published: [between ca. 1890 and ca. 1900].
 
 
+```{admonition} OPENING OF THE NEW PIER.
+:class: note dropdown
 
----
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005
-Isle of Wight Observer
-Saturday 01 June 1878
-p5
-
-OPENING OF THE NEW PIER.
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005), 1878-06-01, p. 5
 
 Sandown was en fete on Wednesday, the day fixed for the opening of the new pier, and every one seemed impressed with the fact that the event was one of no ordinary importance in the history of the little town. Lady Oglander very kindly consented to perform the opening ceremony, but so unpropitious was the weather at the beginning of the day that for some time it was doubtful whether a postponement would not be necessary. The rain fell all the morning without ceasing, and of course made the roads in the neighbourhood of the pier dirty and muddy ; but, as the hour fixed for the ceremony approached, the sky commenced clearing, and by 3 o'clock it was tolerably fine. A considerable number of persona then began to flock to the pier, the approaches to which were decorated with banners and flags. Across the street which Lady Oglander would have to pass was stretched a banner, bearing the arms of the Oglander family and the motto "Server Munia Vitae," on each side of which was the word " Welcome." Above the street leading to the pier was a banner bearing the words "Success to the Pier," and over the pier gates another, bidding all " Welcome." There was also plenty of bunting about, a number of poles being placed at regular intervals on both sides of the pier, and each carrying a gay flag. With respect to the pier itself, which next claims our notice, it must not be understood that it is actually finished. Only a portion of the structure — half the total length contemplated — is finished, but of course this is sufficient to give a good idea of its general effect, and makes a very nice promenade. Unlike the piers we have seen elsewhere, the seats run down the whole length. From the pierhead can be obtained capital views, not only seaward but of the cliffs, sands, and general scenery of the interior of the Island. The pier looks a very light structure — uncomfortably so, in fact. The iron piles on which it rests are so slight, and their distance one from the other is so great, as to lead one to doubt whether it will be found sufficiently strong to withstand the winter waves which roll into the bay. This uncomfortable feeling was intensified by the appearance of a wreck close at hand — the John Douse— highly suggestive of the stormy waters which the structure will have to withstand ; while further out to sea, and almost in line with the head of the pier, was another dismal sight — the masts of the wreck of the Eurydice, still beneath the waters, and still holding many a score of the bodies of brave young tars. These were two things highly suggestive of what the winds and waves can do about here. We suppose, however, that the lightness of the pier just at the parts which are finished does not matter, and doubtless the structure will be made more substantial as it reaches that portion of the shore where the full fury of the waves will be encountered. However, a pier seems to be a necessity for Sandown, and we congratulate the inhabitants of the little town upon their energy and evident determination to improve the place.
 
@@ -226,11 +201,8 @@ Mr. Wooldridge, in acknowledging the warm manner in which the toast had been rec
 
 The toasts of "The Ladies" and "The Press" brought the proceedings to a close.
 
+```
 
-
----
-
-TEXT
 
 ## Looming War
 
@@ -238,13 +210,11 @@ TO DO
 
 1878 War threatening:  Tension between Russia and Britain in Europe ended with the June 1878 Congress of Berlin  https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878) Under pressure from the British, Russia accepted the truce offered by the Ottoman Empire on 31 January 1878, but continued to move towards Constantinople. The British sent a fleet of battleships to intimidate Russia from entering the city, and Russian forces stopped at San Stefano. Eventually Russia entered into a settlement under the Treaty of San Stefano on 3 March 1878, by which the Ottoman Empire would recognize the independence of Romania, Serbia, and Montenegro, and the autonomy of Bulgaria. https://en.wikipedia.org/wiki/Congress_of_Berlin
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780504/033/0006
-Illustrated London News
-Saturday 04 May 1878
-p6
 
-THE EASTERN QUESTION.
+```{admonition} THE EASTERN QUESTION.
+:class: note dropdown
+
+[Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780504/033/0006), 1878-05-04, p. 6
 
 The equivocal attitude of Russia, and the distrust of her real intentions, with regard to the disputed reference of the Treaty of San Stefano to the proposed European Congress, agreeably to the demand made by the British Government, continue to excite the worst apprehensions. The Grand Duke Nicholas has this week taken leave of the Russian army in Turkey, and has returned home way of Odessa, after a farewell visit to the Sultan at Constantinople. General Todleben has taken the chief command of the army instead of the Grand Duke. lie is said to have agam urged on the Turks the evacuation of Shumla, Varna, and Batoum, and to have intimated that, in the event of the Porte at once yielding to this demand, the Russians would withdraw to the fortified lines of Tchekmedje, Tchataldja, and Derkos. Turkish Council of War, attended by Osman Pasha and Mukhtar Pasha, has this matter under consideration.
 
@@ -260,14 +230,14 @@ The insurrection of the Greeks in Thessaly seems but partially subdued. The numb
 
 A party of Russian engineers and other officers, bound on some secret service, have passed through Egypt to the Red Sea. Erom America, too, hear of a mysterious Russian expedition. A hired steam-vessel called the Cimbria is lying in a port of Maine, having on board, in addition to the German ordinary crew, sixty Russian officers and six hundred Russian seamen, under the command of Count Grifenburg. There is a strong opinion that they are destined for San Francisco, to man Russian privateers already in the Pacific Ocean. The calling-up of 4000 fresh seamen is, we leam, causing great stir in naval circles at St. Petersburg. Plans are being prepared the Russian Government for the formation three powerful squadrons. One of these, consisting of the strongest frigates, and reinforced by the steamers which Russia is on the point of purchasing in America, will be dispatched in May to cruise in the North Sea; to a second, comprising eight or nine somewhat obselete ironclads, will be assigned the duty of cruising about the Baltic; while the third, composed of eleven small monitors and a large number of gun-boats and torpedo-vessels, will be dispersed between Cronstndt, Sweaborg, and Riga. The defensive operations of the “inshore squadron” will be waged almost exclusively with the torpedo.
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780511/037/0006
-Illustrated London News
-Saturday 11 May 1878
-p6
 
-THE EASTERN QUESTION
+
+```{admonition} THE EASTERN QUESTION
+:class: note dropdown
+
+[Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780511/037/0006), 1878-05-11, p. 6
 
 The prospects a pacific settlement have apparently improved during the past week the opening of direct negotiations between England and Russia, through the agency of Count Schouvaloff, the Russian Ambassador to this country, who has been summoned to St. Petersburg for personal conference with the Emperor Alexander II. It is now proposed that, waiving the formal question of the extent of authority to be ascribed to a Congress, each of the opposing parties to this controversy should make a positive declaration to what they think are their vital interests the East which they are determined to maintain at all hazards. A similar course has been taken in the Russo-Austrian negotiations. If the English and Russian Governments come to an understanding in this respect, then the Congress may meet to give a European sanction to Austro-English-Russian arrangements.
 
@@ -283,14 +253,14 @@ The Servians have established a strong military post at Kustendil, oil the Mitro
 
 The Cabinet of Vienna has opened negotiations with the Porte respect to the occupation the Austro-Hungarian troops of the fortress of Ada Kaleh, which will shortly be evacuated the Turkish garrison conformably with the Treaty of San Stefano. The Austrians reckon on the consent of the Porte, so that the free navigation of the Danube may be secured, and that Servia may be prevented from taking possession of this fortress. Meanwhile, a contradiction is given to the reports of a concentration of Austrian troops on the Bosnian frontier, and it is declared that Austria will not occupy that province without the consent of the Porte.
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780518/021/0006
-Illustrated London News
-Saturday 18 May 1878
-p6
 
-THE EASTERN QUESTION.
+
+```{admonition} THE EASTERN QUESTION.
+:class: note dropdown
+
+[Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780518/021/0006), 1878-05-18, p. 6
 
 The Emperor Alexander of Russia is taking counsel with his Ambassador to Queen Victoria, Count Sohouvaloff, who arrived from London at St. Petersburg on Sunday evening, and who is supposed to bring bun authentic information of the demands of our own Government. Prince Gortchakoff’s illness may delay the progress of negotiations ; but there is indication, hitherto, of the probable result, which seems to depend entirely upon the Emperor’s personal decision. It is said that one of the points upon which the British Government insists most strongly is that of its objection to the cession of the Turkishfortress of Batomn, at the south-east corner of the Black Sea. The Turkish Government continues to evade, under various pretexts, the execution of those clauses of the Treaty of San Stefano which promise the surrender of Shumla, Varna, and Batoum to the Russians; while General Todlebeu, who has succeeded the Grand Duke Nicholas in command of the army near Constantinople, is urging the point with increased vehemence. The troops at San Stefano are being encamped in tents on the hills two miles nearer to Constantinople. It is expected that Adrianoplc will fortified by General Todleben with all the resources at his command. Shumla will most likely be given up to him by the Turks, as its communications with Varna have been cut off by the Russians at Pravady. The formation of a Bulgarian army under Russian command has been commenced, and it seems to be much needed, the Russians being now called upon to suppress the Mussulman insurrection in the Rhodope mounteins, south-west of Adrianople, and finding it a difficult task. It is, nevertheless, considered that the Turkish army is not in a condition to resist the occupation of Constantinople by the Russians, which had been threatened by General Todleben if Shumla, Varna, and Batoum were not surrendered at once. From Asiatic Turkey we hear that the Russians have occupied Tchuruk-su, near Batoum. They forcibly disarmed the population, and during the proceedings losses were inflicted on both sides.
 
@@ -300,15 +270,14 @@ The official journal of St. Petersburg publishes an appeal of ihe Moscow Society
 
 In Greece much uneasiness is felt lest the suspension of hostilities in Thessaly should enable the Porte to send fresh troops to Crete and overpower the insurrection there. It is deemed highly desirable that the same truce and the same guarantees in favour of the insurgents of the mainland should he extended to the island.
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780525/041/0007
-Illustrated London News
-Saturday 25 May 1878
 
-p7
 
-THE EASTERN QUESTION.
+```{admonition} THE EASTERN QUESTION.
+:class: note dropdown
+
+[Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780525/041/0007), 1878-05-25, p. 7
 
 Our Special Artist in Turkey furnishes this week’s Illustrated London News with two Sketches of warlike precautions now going on at the Dardanelles and in the Sea of Marmora, notwithstanding the pacific tone in which Count Sohouvaloff's late conference with the Emperor of Russia is spoken of by the newspaper and telegraph correspondents at St. Petersburg and Berlin. The Turkish soldiers at work strengthening their lines of fortifications at Boulair in front of Gallipoli, is one of our Illustrations of the War that has scarcely yet been terminated between that Empire and Russia; while the situation of the British squadron in the Gulf of Ismid, few hours' sail-eastward of Constantinople, gets some light thrown upon it by the apparatus used at night on board H.M.S. Agingcourt, in looking out for possible torpedo-boats, though her Maiesty's Government is actually still at peace with the Russian Empire and every other Power. It is not incumbent upon us to reconcile these contradictory facts and incidents, but to represent their visible aspects to the eyes of our readers, and there is no occasion for any further comment, as we have already described both the position and manoeuvres of Admiral Hornby's naval force, and the military defensive preparations of the Turks on the shore of the DardaneUes. We can but hope that neither the one nor the other will have to stand the brunt of conflict with the Russian forces in that part of the world, but that the efforts of diplomacy to bring about a peaceable settlement of the Eastern Question may soon be crowned with abiding success.
 
@@ -320,13 +289,15 @@ The Greek insurrection in Crete has not yet been appeased, and intelligence was 
 
 The transport of British Indian troops through the Suez Canal, on their way to Malta, has been going on briskly since the end of last week. The Goa and the Duke of Athol were the first vessels to pass. We leam that the Madura and Hospodar, with Indian troops on board, reached Suez on Saturday, and entered the canal. The same evening the steamer Suez, towing the Bramhletye, arrived at Suez, and left for Port Said next morning. noon on Sunday the Canara steamer arrived, and entered the canal in the afternoon The Steamer St. Osyth, with a regiment of Ghoorkas on board and the whole staff of the expedition, was detained three days at Adeu repairing her machinery. The Euesian papers have published the appeal put forward by a national committee, of which the Czarevitch is president, for raising subscription funds to purchase and equip a fleet of armed vessels to attack an enemy’s merchant-ships in case of war. His Imperial Highness remarks that Eussia has adversary whom it necessary to attack at sea. Russian sailors will soon he able to find out that adversary’s weak point if they have abundance of good and rapid ships. Dozens of vessels,” he adds, under the command of competent captains, may be scattered all over the commercial routes of the enemy, and put stop to his universal trade.” But he also points out that the ships will he available in time of peace as Eussiau merchant navy.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18680523/013/0004
-Hampshire Telegraph
-Saturday 23 May 1868
-p4
+```
 
-LOCAL AND DISTRICT INTELLIGENCE.
+
+
+```{admonition} LOCAL AND DISTRICT INTELLIGENCE.
+:class: note dropdown
+
+[Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18680523/013/0004), 1868-05-23, p. 4
 
 The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the whole of the men have been discharged, with the exception of the master ropemaker and a writer. The master ropemaker is appointed to the ropery in Devonport yard, to supersede the officer of That rank at that establishment. The cause of this particular feature in the dockyard discharge has been brought about in consequence of a determination to manufacture for the future the Government rope in the yards at Chatham and Devonport, where complete arrangements are made for the employment of female labour. These women, we hear, earn from 8s. to 12s. weekly, and every possible care has been taken to provide suitable and becoming accommodation for those who are so engaged. In addition to the number of workmen who have already been discharged from Portsmouth dockyard about 50 joiners and labourers will leave next week; and this batch, according to present arrangements, will bring to a close the extraordinary exodus of artifieers which has recently taken place from this establishment. We inadvertently omitted from the list of members of the Town Council who accompanied the Mayor to London, in support of the appeal on behalf of the discharged ropemakers, the name of Mr. W. H. Dore. The omission was the more to be regretted because Mr. Dore has been from the first one of the most active of those who are interesting themselves in the dockyard discharge.
 
+```

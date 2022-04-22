@@ -12,19 +12,11 @@ The two survivors
 ![](../images/sail_names.jpg)
 Example of sail names for a three masted sailing ship
 
-----
 
+```{admonition} OFF THE ISLE OF WIGHT. 300 OR 400 LIVES LOST.
+:class: note dropdown
 
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780328/107/0005
-
-Isle of Wight Times
-
-Thursday 28 March 1878
-
-p5
-
-OFF THE ISLE OF WIGHT. 300 OR 400 LIVES LOST.
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780328/107/0005), 1878-03-28, p. 5
 
 Her Majesty's training ship Eurydice, returning from a cruise to the West Indies with a crew of young seamen, capsized on Sunday afternoon, about four o'clock, during a heavy snowstorm, and sudden and tremendously heavy squall, about live miles off Dunnose. A schooner picked up five of the crew, but two soon died. and another— Tabor, the first lieutenant, soon followed. The remainder of the officers and crew, said to be between and 300 and 400 in all, were drowned. Dunnose is a headland near the centre of the south-east coast of the Isle of Wight, between Shanklin and Sandown. The two men saved are Benjamin Cuddeford. first-class seaman, of Plymouth, and Sydney Fletcher, a first-class boy, of Bristol, aged 19. Cuddeford was among the last on the ship. Captain Marcus Hare, he says, was near him when the ship went down, sucking many with her. A man near him said a vessel was close by when the squall came up, and, therefore, they would be sure to be picked up. He was over an hour in the water. Being a first-rate swimmer everyone called to him for help. He tried to assist two or three, but at last four clung to him, and he was obliged to kick them off. He was well taken care of by the master of the schooner and the crew. The ship left Bermuda three weeks ago. She passed the Lizard on Sunay, and expected to anchor at Spithead about five o'clock. These two men were well provided for at the Cottage Hospital. Bonchurch, and placed under the care of Dr. Williamson, of Ventnor.
 
@@ -92,17 +84,14 @@ The Jury retired and were absent nearly an hour. On their return, the foreman an
 
 There is something of a personal sorrow which must affect every Englishman when he reads a narrative of this kind. We are all proud of the quality of our seamen, and of the courage with which they expose themselves to a life of constant peril. We cannot but mourn over the untimely loss of so many brave and promising fellows. The disaster is intensified in poignancy by the circumstances under which it happened. Death of one's native land, after a long separation from near and dear friends, is a terrible thing. The joyous hope, the buoyant expectation, the thrill of delight with which the shores of Old England fill the home-coming sailors are changed into the wild cry of despair and wail of drowning men. On such a picture we have no morbid fancy for dwelling. It will haunt, during these coming weeks, many an English home. In scores of cottages hearts have beat high with hope, the simple preparations of affection have been made, and parents have counted the hours till they should clasp their stalwart sailor-lads in their arms once more. And now the desolation of death has turned their joy into a terrible sorrow. The cruel, merciless sea has robbed them of the bright boys of whom they were so proud. England shares their sorrow. If it be any consolation to the bereaved relatives of those who have gone down in the Eurydice, they may be sure that not an English heart beats but does not sympathise with them in their great sorrow, and deeply deplore the calamity which has robbed the country of more than 300 of her brave defenders.
 
+```
 
----
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006
-Isle of Wight Observer
-Saturday 30 March 1878
-p6
+```{admonition} THE INQUEST.
+:class: note dropdown
 
-THE INQUEST.
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006), 1878-03-30, p. 6
 
 The inquest upon the bodies of Lieutenant Francis Hope Tabor, Captain Louis Ferrier, R E , and David Bennett, ordinary seaman, was held on Tuesday afternoon by F. Blake, Esq. coroner, who commenced the proceedings at the Queen's Hotel, Esplanade, Venrnor. The bodies were in a little outhouse near the hotel, and had already been coffined. That of Captain Ferrier especially bore a calm and peaceful expression, betokening that death had been sudden and painless. The white cloths with which they had been covered were sprinkled with beautiful fiowers. As soon as the Coroner, jury, and representatives of the Press had assembled at the Queen's Hotel it was at once perceived that the room placed at their disposal was a great deal too small, and the Coroner asked if a larger room could not be procured. The Freemasons' Tavern was at first suggested, but eventually the proprietor of the Royal Hotel offered the use of a larger room there, and after the jury, of whom Mr. W. M Judd was foreman, had been sworn and had viewed the body, they adjourned to the Royal Hotel. In opening the proceedings,
 
@@ -223,3 +212,5 @@ This being all the evidence, the coroner proceeded to sum up. He said the first 
 The jury then retired, and, after an absence of half-an-hour, returned with the following verdict:
 
 "The jury unanimously find that the three deceased were accidentally drowned, owing to the capsizing of Her Majesty's ship Eurydice by a sudden squall, at Dunnose, on Suuday, the 24th inst., and the jury consider that from the evidence adduced no lame whatever can attach to the captain, officers, and men of the ship."
+
+```

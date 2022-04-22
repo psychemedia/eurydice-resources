@@ -8,49 +8,45 @@ From the reports of the trials, it seems that sea trials resembled a cavalier "m
 H.M.S. Eurydice, in The Last Four Days of the "Eurydice", by Captain E. H. Verney, R.N.
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430916/014/0002
-Hampshire Advertiser
-Saturday 16 September 1843
-p3
-PORTSMOUTH— (Continued)—
+```{admonition} PORTSMOUTH— (Continued)—
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430916/014/0002), 1843-09-16, p. 3
 
 The result of the comparative rates of sailing of the Warspite and Eurydice, as far as is yet known is, that the former beat the Eurydice running free and sparing studding-sails, while the latter bad the advantage in light winds on a wind.
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18430916/018/0003
-Salisbury and Winchester Journal
-Saturday 16 September 1843
-p3
 
-Portsmouth, Friday September 15
+
+```{admonition} Portsmouth, Friday September 15
+:class: note dropdown
+
+[Salisbury and Winchester Journal](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18430916/018/0003), 1843-09-16, p. 3
 
 On Saturday afternoon, the Warspite, Eurydice, and Grecian put sea for another sailing trial, and afterwards attend her Majesty to Ostend. Letters have been received from the Eurydice, stating that she is now quite equal the Warspite in sailing and working: with the Grecian she is about equal.
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430930/018/0003
-Hampshire Advertiser
-Saturday 30 September 1843
 
-p3
 
-Portsmouth, Portsea and Gosport Herald, Saturday, September 30th, 1843
+```{admonition} Portsmouth, Portsea and Gosport Herald, Saturday, September 30th, 1843
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430930/018/0003), 1843-09-30, p. 3
 
 PORTSMOUTH, SEPT. 30.
 
 Opinions and accounts are very uncertain relative to the trials between the Warspite and Eurydice. Of late, things seem to have been reversed, and the Eurydice to have had the advantage. There seems to be no doubt that she once "outcarried" the Warspite, having carried topgallantsails when the latter could not. We subjoin a commumcation on the subject, premising that there certainly is an alteration in the trim of the Warspite since she was last na Spithead:-" I am surprised to see in a late ' Advertiser,' report that H.M.S. Eurydice was beat on all points by the Warspite, during their late trials. I have heard from the officers of the different ships present, that, so far from such being the case, the Eurydice had the advantage in every day's sailing; and two successive days, in a fresh breeze on a wind, she beat the Warspite four miles dead to windward in four hours. Now, as to the Warspite being out of trim, she was trimming the whole time, and even struck her forecastle bow guns below— but to no effect."
 
----
+```
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000077/18431001/051/0012
-Lloyd's Weekly Newspaper
-Sunday 01 October 1843
 
-p12
-THE ROYAL NAVY. Portsmouth, SEPT. 27.
+```{admonition} THE ROYAL NAVY. Portsmouth, SEPT. 27.
+:class: note dropdown
+
+[Lloyd's Weekly Newspaper](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000077/18431001/051/0012), 1843-10-01, p. 12
 
 ...
 
@@ -58,16 +54,14 @@ The Eurydice, 26, Captain Elliot, having been found to be out of trim during her
 
 [TH: it seems the destination was either changed or incorrectly reported, with the Eurydice sailing for the *West Indies* a few days later. It was in returning from the West Indies that the Eurydice was also to have her last voyage of note when she foundered in March, 1878, when rounding the Isle of Wight and making for home in Portsmouth.]
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18431016/025/0004
+```
 
-Hampshire Telegraph
 
-Monday 16 October 1843
 
-p4
+```{admonition} WEATHERLINESS OF THE EURYDICE.
+:class: note dropdown
 
-WEATHERLINESS OF THE EURYDICE.
+[Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18431016/025/0004), 1843-10-16, p. 4
 
 To the Editor of the Hampshire Telegraph.
 
@@ -78,18 +72,16 @@ Sir, your obedient Servant
 JAMES SABBEN, Lieut. R.N.  
 October 13th, 1843.
 
+```
 
----
 
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18431104/013/0003#
-Hampshire Advertiser
-Saturday 04 November 1843
+```{admonition} A letter from Lieut. Sabben, R.N. on a subject of considerable interest to naval men — namely, the c
+:class: note dropdown
 
-p3
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18431104/013/0003#), 1843-11-04, p. 3
 
-A letter from Lieut. Sabben, R.N. on a subject of considerable interest to naval men — namely, the cause of " weatherliness" in ships, as illustrated by that apparent in H.M.S. Eurydice, was published by our local contemporary some little time since. It may not be irregular, if we say a few words on the subject, without going into Lieut. Sabben's theory, which would be "dry" — and therefore unpardonable.
+ause of " weatherliness" in ships, as illustrated by that apparent in H.M.S. Eurydice, was published by our local contemporary some little time since. It may not be irregular, if we say a few words on the subject, without going into Lieut. Sabben's theory, which would be "dry" — and therefore unpardonable.
 
 We doubt whether " giving additional false keel, or gripe, or increase of forefoot," be " futile contrivances," by way of making a ship more weatherly when deficient in that important quality ; — they will not turn a bad ship into a good one, any more than a pair of spectacles will do the same for defective sight ; but that such things have something to do wilh " weatherliness," universal experience seems to attest. We also doubt extremely the fact alluded to concerning vessels which have the faculty of being lifted bodily to windward, and making " weather " way, instead of " leeway"; and, consequently, having to reckon the former instead of the latter in their calculations on a voyage. That some sailors " say " that some ships do this, proves little : we have *heard it said* that musket balls *rise* on leaving the barrel. The question of how accurately ships do "*fetch* the point they look up to," is very interesting in each individual case, and should be carefully tried, when, and where, no weather or lee, tide or current, lurks as a disturbing cause.
 
@@ -107,14 +99,14 @@ All will agree, likewise, that whatever tends to " throw " the weather bow " up 
 
 With very much that Lieut. S. doubtlessly has to say, we suspect that we should agree ; and his letter was an interesting one. What we protest against is, *not his theory*, but the assumption that it is proved or supported, by the recent trials of the Eurydice. Whether his theory be correct is quite a separate question.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18440113/023/0006
+```
 
-Naval & Military Gazette and Weekly Chronicle of the United Service
-Saturday 13 January 1844
-p6-7
 
-THE SEALARK, 10 GUNS, AND THE NEW 13-GUN BRIGS, &c.
+
+```{admonition} THE SEALARK, 10 GUNS, AND THE NEW 13-GUN BRIGS, &c.
+:class: note dropdown
+
+[Naval & Military Gazette and Weekly Chronicle of the United Service](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18440113/023/0006), 1844-01-13, p. 6-7
 
 To the Editor of the Naval and Military Gazette.
 
@@ -134,25 +126,26 @@ It would be interesting to your Naval readers at all times to know the results a
 
 C.
 
+```
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440406/017/0005
-Hampshire Advertiser
-Saturday 06 April 1844
-p5
 
-Portsmouth, Saturday, April 6, 1844
+
+```{admonition} Portsmouth, Saturday, April 6, 1844
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440406/017/0005), 1844-04-06, p. 5
 
 It is stated that in a late trial, which lasted several days, between Inconstant, 36, Spartan, 26, and Eurydice, 26, — Spartan, one of the Surveyor's ships, proved the best ship on all points, beating even the famed Inconstant in a decided manner. This is certainly another " feather" in the Surveyor's " cap," which is stuck pretty full of such fea- thers already. We have seen no particulars, — nor what kind of weather there was. Eurydice is said to have come in hindmost throughout the trials.
 
----
+```
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440413/028/0005
-Hampshire Advertiser
-Saturday 13 April 1844
-p4
 
-PORTSMOUTH, SATURDAY, APRIL 13, 1844
+
+```{admonition} PORTSMOUTH, SATURDAY, APRIL 13, 1844
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440413/028/0005), 1844-04-13, p. 4
 
 It has reached us, on good authority, that in the recent trial of sailing between Inconstant, 36, Spartan, 26, and Eurydice, 26, in which Spartan is said to have had the advantage, — that advantage was purchased at the cost of her efficiency as a man-of-war, — namely, by starting a considerable quantity of water, and by shifting the guns, — the other ships remaining in their usual trim. Now, this at once destroys the whole value of the trial, as a real test of the qualities of the respective ships ;— and we wonder that any commanding officer does not perceive that a victory so obtained is no credit, and proves nothing. The necessity for trimming by shifting guns in ships with decks so little burdened as the 26's, seems absurd. With 10 broadside ports, they carry 18 guns on the main deck,— the foremost  port being vacant ;— pierced for 6 forecastle guns, they carry only 2, a solitary gun on either side ; and 6 quarter-deck guns only, though they are pierced for 10. They need carry no gun on either deck so far forward as the foremast, —nor so far aft as the mizen ; assuredly, therefore, they have not much to complain of.
 
+```
