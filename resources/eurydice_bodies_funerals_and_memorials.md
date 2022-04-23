@@ -2,7 +2,6 @@
 
 In this chapter, we review the human tragedy: the discovery of bodies, some identifiable, others not, over the weeks and months following the tragedy, the funerals, and the memorials.
 
-
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002
@@ -149,8 +148,6 @@ Yesterday afternoon the remains of Lieut. Stanley Alfred Brooke Burney, the only
 
 tag: funeral bodies
 
-
-
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780523/092/0005
@@ -164,7 +161,6 @@ THE EURYDICE.
 The inclement weather of the last few days has kept the operations of the wreck in complete obeyance. It is now hoped that the tides will sufficiently answer *within a fortnight* to enable the attempt to be made to lift the Eurydice ! A waterman has succeeded in up Captain Hare's writing desk, and handed it over to the Coastguard at Bembridge, by whom it was forwarded to the Commander-in-Chief. The gales have disturbed the banks of sand and freed many bodies – several of which have been recovered.
 
 On Saturday two more bodies which were decomposed beyond recognition, picked up near the wreck, were, brought into Portsmouth harbour by the steam tug Grinder and conveyed to Haslar Hospital One is evidently a seaman, thother is believed to be a marine. The Rinaldo reports that the body of an officer passed her as she lay anchored near the wreck on Friday night, but the sea was too rough for a boat to be lowered. The body subsequently washed ashore off Sea View, and has been identified as that of Lieutenant Barry. The south cone was hoisted at the semaphore on Saturday evening, and the gale which sprang up during the night prevented the tugs from proceeding out of harbour during Sunday. The squally weather and the heavy gale from the W.S.W. will, it is expected, tend to ease the position of the the wreck, and lead to large numbers of bodies floating through the ports.
-
 
 ---
 
@@ -235,9 +231,7 @@ The body of Lieu. Randolph, who has relatives living in this town, has been reco
 
 Recovery of the Body of Mr. Frank Pittman. — About 3 o'clock on Friday afternoon the divers at the Eurydice discovered the body of an officer in full uniform, which was afterwards identified as that of Mr. Frank Pittman, paymaster, and brother of Mr. Pittman, of Union-street. The corpse, which was identified by its clothing only, was interred in the hospital cemetery, on Saturday, with full Naval honours. Mr. Pittman leaves a wife and two children.
 
-
 ---
-
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780620/076/0005
 
@@ -259,7 +253,6 @@ Inspector-General Domville handed in the card from the Admiralty, stating that C
 
 ---
 
-
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/107/0004
 Isle of Wight Times
 Thursday 08 August 1878
@@ -269,19 +262,40 @@ TWO BODIES FOUND.
 
 On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near to Sir William Hutt's pier at Apley ; one of the bodies was headless, but a human head was found floating near the spot. The bodies were in a very advanced state of decomposition, and almost nude, so that there were no means of identification ; but there is little doubt that they were from the ill-fated Eurydice. Coffins were procured, and the bodies conveyed by the Coastguard to the mortuary at the Cemetery. At half-past 5 in the afternoon the funeral took place at the north side of the Cemetery. Palls were thrown over the coffins, which were carried, shoulder high, by eight Coastguardsmen, under the superintendence of Mr. Jefferys, the chief officer. They were met at the grave (both being interred in one) by Mr. Westhall, a gentleman residing in Ryde, who read portions of Scripture. and afterwards addressed the large concourse of people, remarking that it was a very solemn occasion, and took their thoughts back to the 24th March, when about 300 poor men and boys were drowned by the capsizing of the Eurydice; the bodies of two of them were in the coffins before them ; there were no names on the coffins, but the men were known to God. He nothing of their history, and he did not know whether they were Christians, and he had nothing to do with that. They were surrounded by mysteries ; even their own existence was a mystery, and it was a most mysterious thing that the poor creatures who were drowned would have been on land in about an hour, and would have boon welcomed by loving friends; but it was not to be. They could not understand it, but the light of eternity would interpret all mysteries, and all they had to do was to bow to the will of God, for would not the Judge of the whole earth do right? The lesson for all of them to learn was the uncertainty of human life. Those who were drowned were in good health and spirits a few minutes before, and then were called to their final account. There were these present who evidently had sympathy for those who had been thus taken suddenly away. Although they were taken thus suddenly, it was possible they might have been able to give one look to the Saviour, and there was life in a look. It did not take long to save the thief on the cross, and they might hope that many in the Eurydice were saved, and he was glad to believe that many on board loved the Saviour. Mr. Westhall concluded the simple, but very impressive, service by offering prayer and pronouncing the benediction. There was something exceedingly affecting in witnessing the two plain, nameless coffins placed in the grave, and no friends or relatives near to pay the last tribute of affection ; and also in the thought that until the morning of the resurrection it must remain a profound secret as to who was interred in Ryde Cemetery on Saturday afternoon.
 
-
-
-
 ---
 TEXT
+
+"The sea gave up the dead which were in it"  Rev 20 13  
+There was no more sea  
+Rev. 20 1
+
+Then they cry unto the Lord their trouble and he bringeth them out of their distresses.  
+He maketh the storm a calm so that the waves thereof are still.  
+Then are they glad because they be quiet. So he bringeth them unto their desired haven  
+Psalm cvii 28-60
+
+D. Harvey. Buried May 17.  
+Name Unknown. - - June 5.  
+J. Howard. - - - July 6.  
+T. J. Smith. - - - Aug 2.  
+W. Shuker. - - - - - 2.  
+H. Veals. - - - - - - 12.  
+Name Unknown. - - Oct. 8.
+
+Sacred to the memory of seven brave seamen of Her Majesty's Navy who lie buried here. After having first found a watery grave on Sunday March 24, 1878 when H.M.S. Eurydice foundered in a terrific squall off Sandown Bay.
+
+
+![](../images/52024017203_2c99b3ebc0_o.jpg)
+Memorial Christ Church, Sandown,
 
 ![](../images/52019996761_b67da681c2_o.jpg)
 Memorial Christ Church, Sandown
 
 ![](../images/52019997011_d6ccbdb70a_o.jpg)
+Memorial Christ Church, Sandown, Dedication
 
-![](../images/52019997311_65401508de_o.jpg)
-
+![](../images/52024228124_75f6f288ac_o.jpg)
+Memorial Christ Church, Sandown, Names
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790412/066/0008
@@ -365,7 +379,6 @@ THE NAVY ESTIMATES.
 
 LATEST TELEGRAMS London, Thursday. The navy estimates for the coming financial year were issued this morning, and show a decrease compared with last year of £93,959. The principal item in saving is in the vote for machinery end ships built by contract, in there is a decrease of £73,000. For the conveyance of troops £38,000 less than last year will be required. For wages, victuals, and pensions a slightly increased vote is required. Under the head of purchase for torpedoes the amount required is nil. Last year's estimates included a sum of £10,000 on this account. Under the scientific branch is a new item of £9,811 for the training of naval cadets. There is a decrease of over £11,000 in the dockyards and naval yards. A sum of £500 is set apart under the heading of miscellaneous services for the Eurydice memorial.
 
-
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18800529/076/0008
@@ -379,9 +392,7 @@ SHANKLIN. May 29
 
 The Eurydice Memorial.— The memorial to the officers and men lost in the Eurydice is now in course of erection in our cemetery, in which seven bodies recovered from the unfortunate ship are buried. The monument is a very handsome structure, and will stand about 8ft high. It is carved entirely in Portland stone by Mr Moynihan, of Shepherd's Bush, London. The design which was partly suggested by our townsman Mr. Tyler is made np of cannon, anchors, and sea emblems, bat as it is not quite completed we must defer a description The value of the monument is said to be between £4OO and £5OO. The monument will be unveiled some time in June by Lady Atherley.
 
-
 ---
-
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18800602/017/0004
 
@@ -394,8 +405,6 @@ p4
 (SHANKLIN.) THE EURYDICE MEMORIAL.
 
 -A memorial to the officers and men lost in the Eurydice is now in course of  erection in our cemetery, in which seven bodies recovered from the ill-fated ship are buried. The monument, a very handsome structure, will stand about eight feet high, and will be carved entirely in Portland ctone, by Mr. Moynihan, of Sbepherd's Bush, London. The design consists of naval emblems-cannons, anchors, &c., and the value of the monument, it is said, will be between 400l. el and 500l. Further subscriptions are still needed, and will be thankfully received by Mr. Tizard, of Daish's Hotel, on behalf of the Committee. The monument will be unveiled in June by Lady Atherley.
-
-
 
 ---
 
@@ -410,16 +419,12 @@ p7
 
 A memorial to the officers and men lost in the Eurydice is now in course of erection in the Shanklin Cemetery, in which seven bodies recovered from the ill fated ship aro buried. The monument, a very handsome structure, will stand about eight feet high, and will be carved entirely in Portland stone by Mr. Moyniham, of Shepherd's Bush, London. The design consists of naval emblems—cannon, anchors, &c., and the value of the monument, it is said, will be between £4OO and £5OO. The monument will be unveiled during the present month by Lady Atherley.
 
-
 ---
 TEXT
-
 
 ![](../images/BL_9000057_18800710_046_0021.png)
 The Graphic - UNVEILING THE MONUMENT TO THE OFFICERS AND CREW OF H.M.S. EURYDICE IN SHANKLIN CEMETERY, ISLE OF WIGHT  -  Saturday 10 July 1880
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/046/0021
-
-
 
 ---
 
@@ -439,9 +444,6 @@ Lady Isabel Atherley yesterday unveiled a monument in Shanklin Cemetery erected 
 
 ![](../images/52012675554_6773617d89_o.jpg)
 Shanklin memorial
-
-
-
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000496/18800626/025/0007

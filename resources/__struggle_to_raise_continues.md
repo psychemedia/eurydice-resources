@@ -6,7 +6,7 @@ Through May, June and June, attempts to float the Eurydice were hampered by the 
 (See also Parliamentary reports.)
 
 
-```{admonition} THE WRECK OF THE EURYDICE.
+```{admonition} THE WRECK OF THE EURYDICE. - Saturday, May 11th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780511/033/0006), 1878-05-11, p. 6
@@ -21,7 +21,7 @@ A correspondent writing to a contemporary says : How are we to pronounce the nam
 
 
 
-```{admonition} CORRESPONDENCE. THE WRECK THE EURYDICE.
+```{admonition} CORRESPONDENCE. THE WRECK THE EURYDICE. - Tuesday, May 14th, 1878
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780514/016/0003), 1878-05-14, p. 3
@@ -36,7 +36,7 @@ Southsea, May 11. A Practical Shipwright.
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, May 16th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780516/078/0005), 1878-05-16, p. 5
@@ -57,7 +57,7 @@ Operations at the wreck were resumed yesterday (Tuesday). Five toggles have been
 
 
 
-```{admonition} THE EURYDICE DISASTER.
+```{admonition} THE EURYDICE DISASTER. - Saturday, May 18th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780518/025/0006), 1878-05-18, p. 6
@@ -70,7 +70,7 @@ Late on Friday night a storm set in, and the Rinaldo and the Rinaldo and the lum
 
 
 
-```{admonition} THE "EURYDICE" FATALITY.
+```{admonition} THE "EURYDICE" FATALITY. - Monday, May 27th, 1878
 :class: note dropdown
 
 [Magnet (London)](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004565/18780527/032/0002), 1878-05-27, p. 2
@@ -83,7 +83,7 @@ During the recent gales the Eurydice has sunk two feet and a half further into t
 
 
 
-```{admonition} THE EURYDICE
+```{admonition} THE EURYDICE - Thursday, May 30th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780530/078/0005), 1878-05-30, p. 5
@@ -102,7 +102,7 @@ We are inclined to the opinion of many who ought to know something of the matter
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, June 13th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780613/102/0005), 1878-06-13, p. 5
@@ -113,7 +113,7 @@ The gale on Monday night and Tuesday has led to a suspension of the operations a
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, June 20th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780620/076/0005), 1878-06-20, p. 5
@@ -130,7 +130,7 @@ HOW TO RAISE SUNKEN VESSELS. — Writing with regard to the unsuccessful attempt
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, June 27th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780627/088/0005), 1878-06-27, p. 5

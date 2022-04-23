@@ -63,7 +63,7 @@ Copyright Owner: Naval History and Heritage Command, [NH 61069](https://www.hist
 The initial reports described how, around 4 o'clock in the afternoon, a snowy squally  suddenly hit. The Eurydice was lost, and another ship, the Emma, assumed she had progressed on her way; but then the sight and sound of men in the sea corrected their misapprehension. Five men were saved but three of them were to die before the Emma reached the shore. The two who survived,  Benjamin Cuddiford and Sydney Fletcher were then taken to the Cottage Hospital at Bonchurch.
 
 
-```{admonition} FOUNDERING OF H.M.S. EURYDICE OFF THE ISLE OF WIGHT.
+```{admonition} FOUNDERING OF H.M.S. EURYDICE OFF THE ISLE OF WIGHT. - Monday, March 25th, 1878
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/007/0002#), 1878-03-25, p. 2
@@ -97,7 +97,7 @@ Since the memorable day in September, 1870, when H.M.S. Captain foundered off Ca
 The Palace was quick to respond:
 
 
-```{admonition} MESSAGE FROM HER MAJESTY TO ADMIRAL FANSHAWE.
+```{admonition} MESSAGE FROM HER MAJESTY TO ADMIRAL FANSHAWE. - Monday, March 25th, 1878
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000290/18780325/008/0002?browse=true), 1878-03-25, p. 2
@@ -112,7 +112,7 @@ The Queen is deeply grieved to hear of the loss the Eurydice. Her Majesty anxiou
 Not surprisingly, a large crowd gathered at the Dockyard gates as the news of the loss started to spread around Porstmouth. The kernel of the story was also starting to find its form, although the number of people lost was still uncertain. Divers had also been sent out to survey the wreck, if the weather would allow:
 
 
-```{admonition} SCENE AT THE DOCKYARD GATES.
+```{admonition} SCENE AT THE DOCKYARD GATES. - Monday, March 25th, 1878
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000290/18780325/008/0002?browse=true), 1878-03-25, p. 2-3
@@ -178,7 +178,7 @@ Commissioned at Portsmouth, Feb. 7, 1877.
 The disaster was also mentioned in Parliament:
 
 
-```{admonition} THE LOSS OF H.M.S. "EURYDICE."
+```{admonition} THE LOSS OF H.M.S. "EURYDICE." - Monday, March 25th, 1878
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/014/0003), 1878-03-25, p. 3
@@ -206,7 +206,7 @@ http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
 Further communications from the Palace also followed:
 
 
-```{admonition} THIRD EDITION. MESSAGES FROM THE QUEEN.
+```{admonition} THIRD EDITION. MESSAGES FROM THE QUEEN. - Monday, March 25th, 1878
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/009/0003), 1878-03-25, p. 3
@@ -246,7 +246,7 @@ Original Medium: BW Photo
 
 
 
-```{admonition} FOUNDERING OF H.M.S. EURYDICE.
+```{admonition} FOUNDERING OF H.M.S. EURYDICE. - Monday, March 25th, 1878
 :class: note dropdown
 
 [Shipping and Mercantile Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780325/064/0006), 1878-03-25, p. 6
@@ -298,7 +298,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?br
 
 
 
-```{admonition} THE GALE AND SNOW STORM
+```{admonition} THE GALE AND SNOW STORM - Tuesday, March 26th, 1878
 :class: note dropdown
 
 [Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0006#), 1878-03-26, p. 6
@@ -333,7 +333,7 @@ Illustrated London News — H.M.S. Eurydice as she lay at eight a.m. on March 25
 By this point, further information was starting to trickle out about who was thought to have been on-board the Eurydice, along with biographies of the senior officers:
 
 
-```{admonition} THE LOSS OF THE EURYDICE.
+```{admonition} THE LOSS OF THE EURYDICE. - Tuesday, March 26th, 1878
 :class: note dropdown
 
 [Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005), 1878-03-26, p. 5-6
@@ -416,7 +416,7 @@ Dunnose, the point off which the unfortunate ship was lost, is well known to vis
 The same edition of the Morning Post also provided more information regarding who had been on board that final, fateful voyage with the publication of a list of the crew as provided by the Admiralty:
 
 
-```{admonition} THE LIST OF OFFICERS AND CREW.
+```{admonition} THE LIST OF OFFICERS AND CREW. - Tuesday, March 26th, 1878
 :class: note dropdown
 
 [Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005), 1878-03-26, p. 6
@@ -445,7 +445,7 @@ Peter Mason, John Scanlan, Melehk Varcoe, William Davey, John M'Donnell,  Samuel
 Another column provided details of the construction of the Eurydice, as well as the number and types of additional boats she was carrying:
 
 
-```{admonition} THE BUILD OF THE EURYDICE
+```{admonition} THE BUILD OF THE EURYDICE - Tuesday, March 26th, 1878
 :class: note dropdown
 
 [Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005), 1878-03-26, p. 6
@@ -458,7 +458,7 @@ The Eurydice, designed by the late Admiral the Hon. George Elliot, and originall
 With the first Coroner's court over, mutterings were afoot about the need for a fuller inquiry:
 
 
-```{admonition} THE LOSS OF THE EURYDICE.
+```{admonition} THE LOSS OF THE EURYDICE. - Friday, March 29th, 1878
 :class: note dropdown
 
 [Evening Mail](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006), 1878-03-29, p. 6
@@ -498,7 +498,7 @@ TH: letter noteable eg for Eurydice myth, but also is:
 By the time the weekly local press appeared almost a week after the disaster, little further information had appeared and the news was essentially a recap of news that had been printed elsewhere:
 
 
-```{admonition} CAPSIZING OF H.M.S. "EURYDICE"  
+```{admonition} CAPSIZING OF H.M.S. "EURYDICE"   - Saturday, March 30th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006#), 1878-03-30, p. 6
@@ -547,7 +547,7 @@ Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Muse
 
 
 
-```{admonition} Weather Chart for the week  MARCH 21ST TO MARCH 27TH (INCLUSIVE)
+```{admonition} Weather Chart for the week  MARCH 21ST TO MARCH 27TH (INCLUSIVE) - Saturday, March 30th, 1878
 :class: note dropdown
 
 [Graphic](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true), 1878-03-30, p. 21
@@ -568,7 +568,7 @@ See also image: BL_0000057_18780330_027_0021_pdf__1_page_.png
 The weekly local press around the country were also keeping their readers informed about the story has it had unfurled so far, including very similar, and equally comprehensive, reports of the coroner's inquiry to those that had appeared elsewhere:
 
 
-```{admonition} CAPSIZING OF THE EURYDICE. LIVES LOST
+```{admonition} CAPSIZING OF THE EURYDICE. LIVES LOST - Saturday, March 30th, 1878
 :class: note dropdown
 
 [Morpeth Herald](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000344/18780330/007/0002), 1878-03-30, p. 2-2
@@ -665,7 +665,7 @@ tags: inquest
 Summaries of the events of that first week after the disaster also appeared in the London press:
 
 
-```{admonition} LOSS OF H.M.S. EURYDICE, WITH THREE HUNDRED MEN
+```{admonition} LOSS OF H.M.S. EURYDICE, WITH THREE HUNDRED MEN - Saturday, March 30th, 1878
 :class: note dropdown
 
 [Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/BL/0001578/18780330/143/0017?browse=true), 1878-03-30, p. 17

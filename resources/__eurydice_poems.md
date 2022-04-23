@@ -30,7 +30,7 @@ https://clok.uclan.ac.uk/11418/1/45.4.hobbs.pdf
 *Pers. comm.*, Andrew Hobbs, 20/4/2022, it is interesting "that so many people turn to poetry in times of disaster, and also most of the poems you've found are published in places on or near the coast - Dundee, Liverpool, Montrose, Ulverston, Berwick, Drogheda - where geography meant more empathy?"
 
 
-```{admonition} POETRY - THE LAST OF THE EURYDICE.
+```{admonition} POETRY - THE LAST OF THE EURYDICE. - Tuesday, March 26th, 1878
 :class: note dropdown
 
 [Dundee Evening Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780326/102/0002), 1878-03-26, p. 2
@@ -101,7 +101,7 @@ tag: poem
 
 
 
-```{admonition} Poetry - THE LOSS OF THE "EURYDICE," SUNDAY, MARCH 25, 1878.
+```{admonition} Poetry - THE LOSS OF THE "EURYDICE," SUNDAY, MARCH 25, 1878. - Saturday, March 30th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18780330/018/0008?browse=true#), 1878-03-30, p. 8
@@ -143,7 +143,7 @@ tag: poem
 
 
 
-```{admonition} Poetry - FOUNDERING OF THE "EURYDICE" IN SANDOWN BAY.
+```{admonition} Poetry - FOUNDERING OF THE "EURYDICE" IN SANDOWN BAY. - Saturday, March 30th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/024/0008), 1878-03-30, p. 8
@@ -213,7 +213,7 @@ tag: poem
 
 
 
-```{admonition} POETRY - THE LAST OF THE EURYDICE.
+```{admonition} POETRY - THE LAST OF THE EURYDICE. - Friday, March 29th, 1878
 :class: note dropdown
 
 [Montrose Standard](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002751/18780329/071/0006), 1878-03-29, p. 6
@@ -284,7 +284,7 @@ tag: poem
 
 
 
-```{admonition} [In an article - can we find the original?]
+```{admonition} [In an article - can we find the original?] - Saturday, April 13th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/020/0006), 1878-04-13, p. 6
@@ -340,7 +340,7 @@ Took the three hundred wanderers Home.
 
 
 
-```{admonition} POETRY - WRECK OF THE EURYDICE.
+```{admonition} POETRY - WRECK OF THE EURYDICE. - Thursday, April 4th, 1878
 :class: note dropdown
 
 [Soulby's Ulverston Advertiser and General Intelligencer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002281/18780404/035/0003), 1878-04-04, p. 3
@@ -395,7 +395,7 @@ tag: poem
 
 
 
-```{admonition} Poetry - THE CLOSE OF THE VOYAGE.
+```{admonition} Poetry - THE CLOSE OF THE VOYAGE. - Friday, April 5th, 1878
 :class: note dropdown
 
 [Dundee Evening Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780405/083/0004), 1878-04-05, p. 4
@@ -471,7 +471,7 @@ tag: poem
 
 
 
-```{admonition} Poetry. IN MEMORIAM.
+```{admonition} Poetry. IN MEMORIAM. - Wednesday, April 3rd, 1878
 :class: note dropdown
 
 [Perthshire Constitutional & Journal](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002703/18780403/064/0004), 1878-04-03, p. 4
@@ -526,7 +526,7 @@ tag: poem
 
 
 
-```{admonition} Poetry - H.M.S. "EURYDICE," MARCH 24, 1878.
+```{admonition} Poetry - H.M.S. "EURYDICE," MARCH 24, 1878. - Tuesday, April 16th, 1878
 :class: note dropdown
 
 [Berwickshire News and General Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000470/18780416/035/0004), 1878-04-16, p. 4
@@ -576,7 +576,7 @@ tag: poem
 
 
 
-```{admonition} POETRY - THE EURYDICE.
+```{admonition} POETRY - THE EURYDICE. - Wednesday, April 24th, 1878
 :class: note dropdown
 
 [Greenock Telegraph and Clyde Shipping Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000472/18780424/057/0004), 1878-04-24, p. 4
@@ -645,7 +645,7 @@ tag: poem
 
 
 
-```{admonition} Poetry - SORROW ON THE SEA.
+```{admonition} Poetry - SORROW ON THE SEA. - Saturday, May 11th, 1878
 :class: note dropdown
 
 [Drogheda Argus and Leinster Journal](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001445/18780511/089/0006), 1878-05-11, p. 6
@@ -742,7 +742,7 @@ tag: poem
 
 
 
-```{admonition} THE EURYDICE. ACROSTIC ON THE WRECK OF THE EURYDICE.
+```{admonition} THE EURYDICE. ACROSTIC ON THE WRECK OF THE EURYDICE. - Thursday, June 6th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780606/080/0004), 1878-06-06, p. 4
@@ -763,7 +763,7 @@ tag: poem
 
 
 
-```{admonition} Poetry -  THE RAISING OF THE EURYDICE.
+```{admonition} Poetry -  THE RAISING OF THE EURYDICE. - Friday, August 2nd, 1878
 :class: note dropdown
 
 [Newcastle Courant](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000085/18780802/003/0002), 1878-08-02, p. 2
@@ -821,7 +821,7 @@ tag: poem
 
 
 
-```{admonition} title=The_Home-Coming_of_the_Eurydice
+```{admonition} title=The_Home-Coming_of_the_Eurydice - Monday, April 23rd, 1894
 :class: note dropdown
 
 [Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-04-23, p. ?
@@ -894,7 +894,7 @@ Ah! whisper it gently, you sister or daughter,
 
 
 
-```{admonition} The Loss of the Eurydice  
+```{admonition} The Loss of the Eurydice   - Tuesday, April 23rd, 1918
 :class: note dropdown
 
 [Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-04-23, p. ?

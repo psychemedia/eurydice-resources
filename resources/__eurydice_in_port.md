@@ -5,7 +5,7 @@ With the Eurydice eventually refloated, it was now time forher final voyage: bei
 Once there, the last of the remaining bodies would be removed, she would be dismantled, and her old timbers sold off.
 
 
-```{admonition} THE EURYDICE FLOATED AND TOWED INTO PORTSMOUTH.
+```{admonition} THE EURYDICE FLOATED AND TOWED INTO PORTSMOUTH. - Friday, September 6th, 1878
 :class: note dropdown
 
 [Newcastle Courant](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000085/18780906/011/0002), 1878-09-06, p. 2
@@ -26,7 +26,7 @@ Henry Robins - Wreck of HMS 'Eurydice' Towed into Portsmouth Harbour, 1 Septembe
 
 
 
-```{admonition} THE EURYDICE TAKEN TO PORTSMOUTH.
+```{admonition} THE EURYDICE TAKEN TO PORTSMOUTH. - Thursday, September 5th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780905/082/0005), 1878-09-05, p. 5
@@ -39,7 +39,7 @@ At five o'clock on Sunday morning the divers, seven in number, gave the finishin
 
 
 
-```{admonition} The Eurydice has at length been raised and safely towed into Portchester Creek. How anxiously have t
+```{admonition} The Eurydice has at length been raised and safely towed into Portchester Creek. How anxiously have t - Thursday, September 5th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780905/078/0004), 1878-09-05, p. 4
@@ -50,7 +50,7 @@ he public, watched the proceedings of floating and pumping out of what six month
 
 
 
-```{admonition} VISIT TO THE EURYDICE.
+```{admonition} VISIT TO THE EURYDICE. - Tuesday, September 3rd, 1878
 :class: note dropdown
 
 [North British Daily Mail](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002683/18780903/053/0005), 1878-09-03, p. 5
@@ -72,7 +72,7 @@ The Graphic - TOWING THE WRECK OF H.M.S. EURYDICE INTO PORTSMOUTH HARBOUR  - Sat
 
 
 
-```{admonition} THE EURYDICE IN PORT.
+```{admonition} THE EURYDICE IN PORT. - Thursday, September 12th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780912/135/0005), 1878-09-12, p. 5
@@ -83,7 +83,7 @@ The hull of the Eurydice formally passed into the hands of the Commander-in-Chie
 
 
 
-```{admonition} The Eurydice has been brought into dock at Portsmouth for the entire demolition of the hull.
+```{admonition} The Eurydice has been brought into dock at Portsmouth for the entire demolition of the hull. - Friday, October 11th, 1878
 :class: note dropdown
 
 [Luton Times and Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000535/18781011/012/0006), 1878-10-11, p. 8
@@ -94,7 +94,7 @@ The hull of the Eurydice formally passed into the hands of the Commander-in-Chie
 
 
 
-```{admonition} THE LAST OF THE EURYDICE.
+```{admonition} THE LAST OF THE EURYDICE. - Friday, October 18th, 1878
 :class: note dropdown
 
 [Dundee Evening Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18781018/004/0002), 1878-10-18, p. 2
@@ -105,7 +105,7 @@ The last of the Eurydice was seen yesterday, when the old timbers of the ship we
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Friday, October 18th, 1878
 :class: note dropdown
 
 [Sheffield Independent](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000181/18781018/009/0002), 1878-10-18, p. 2

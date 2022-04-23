@@ -29,7 +29,7 @@ H.M.S. Eurydice, in The Last Four Days of the "Eurydice", by Captain E. H. Verne
 Only brief mention of the progress of the trials appears to have been mentioned in the press, and the outcome described by them was unclear.
 
 
-```{admonition} PORTSMOUTH— (Continued)—
+```{admonition} PORTSMOUTH— (Continued)— - Saturday, September 16th, 1843
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430916/014/0002), 1843-09-16, p. 3
@@ -40,7 +40,7 @@ The result of the comparative rates of sailing of the Warspite and Eurydice, as 
 
 
 
-```{admonition} Portsmouth, Friday September 15
+```{admonition} Portsmouth, Friday September 15 - Saturday, September 16th, 1843
 :class: note dropdown
 
 [Salisbury and Winchester Journal](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000361/18430916/018/0003), 1843-09-16, p. 3
@@ -51,7 +51,7 @@ On Saturday afternoon, the Warspite, Eurydice, and Grecian put sea for another s
 
 
 
-```{admonition} Portsmouth, Portsea and Gosport Herald, Saturday, September 30th, 1843
+```{admonition} Portsmouth, Portsea and Gosport Herald, Saturday, September 30th, 1843 - Saturday, September 30th, 1843
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430930/018/0003), 1843-09-30, p. 3
@@ -64,7 +64,7 @@ Opinions and accounts are very uncertain relative to the trials between the Wars
 
 
 
-```{admonition} THE ROYAL NAVY. Portsmouth, SEPT. 27.
+```{admonition} THE ROYAL NAVY. Portsmouth, SEPT. 27. - Sunday, October 1st, 1843
 :class: note dropdown
 
 [Lloyd's Weekly Newspaper](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000077/18431001/051/0012), 1843-10-01, p. 12
@@ -82,7 +82,7 @@ As previously mentioned, the Eurydice's firstvoyage was actually to the *West* I
 Following the trials, the "weatherliness" of the Eurydice became a matter for correspondence.
 
 
-```{admonition} WEATHERLINESS OF THE EURYDICE.
+```{admonition} WEATHERLINESS OF THE EURYDICE. - Monday, October 16th, 1843
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18431016/025/0004), 1843-10-16, p. 4
@@ -100,7 +100,7 @@ October 13th, 1843.
 
 
 
-```{admonition} [Re: Weatherliness in Ships]
+```{admonition} [Re: Weatherliness in Ships] - Saturday, November 4th, 1843
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18431104/013/0003#), 1843-11-04, p. 3
@@ -131,7 +131,7 @@ With very much that Lieut. S. doubtlessly has to say, we suspect that we should 
 A report in January, 1844, regarding the performance of another ship, the Sealark, which mentions the Eurydice in passing, suggests that the "team bosses" were accustomed to talking down the performance of their rivals!
 
 
-```{admonition} THE SEALARK, 10 GUNS, AND THE NEW 13-GUN BRIGS, &c.
+```{admonition} THE SEALARK, 10 GUNS, AND THE NEW 13-GUN BRIGS, &c. - Saturday, January 13th, 1844
 :class: note dropdown
 
 [Naval & Military Gazette and Weekly Chronicle of the United Service](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18440113/023/0006), 1844-01-13, p. 6-7
@@ -160,7 +160,7 @@ C.
 "Unsportsmanlike behaviour" also appears to have been par for the course, as these reports involving a trial for the Eurydice in Spring 1844 suggest:
 
 
-```{admonition} Portsmouth, Saturday, April 6, 1844
+```{admonition} Portsmouth, Saturday, April 6, 1844 - Saturday, April 6th, 1844
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440406/017/0005), 1844-04-06, p. 5
@@ -171,7 +171,7 @@ It is stated that in a late trial, which lasted several days, between Inconstant
 
 
 
-```{admonition} PORTSMOUTH, SATURDAY, APRIL 13, 1844
+```{admonition} PORTSMOUTH, SATURDAY, APRIL 13, 1844 - Saturday, April 13th, 1844
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18440413/028/0005), 1844-04-13, p. 4

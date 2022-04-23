@@ -31,7 +31,7 @@ https://en.wikipedia.org/wiki/George_Elliot_(Royal_Navy_officer,_born_1813)
 Several reports provided the dimensions of the vessel, and commented on her likely turn of speed.
 
 
-```{admonition} [The Eurydice, 26]
+```{admonition} [The Eurydice, 26] - Saturday, April 29th, 1843
 :class: note dropdown
 
 [Naval & Military Gazette and Weekly Chronicle of the United Service](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18430429/016/0003), 1843-04-29, p. 3
@@ -59,7 +59,7 @@ London, Knightsbridge
 
 
 
-```{admonition} The Portsmouth, Portsea and Gosport Herald, PORTSMOUTH, MAY 20.
+```{admonition} The Portsmouth, Portsea and Gosport Herald, PORTSMOUTH, MAY 20. - Saturday, May 20th, 1843
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430520/018/0003), 1843-05-20, p. 3
@@ -80,7 +80,7 @@ She is to be taken forthwith into dock to be coppered, and to be got ready for t
 
 
 
-```{admonition} PORTSMOUTH, MAY 23 (from our private correspondent)
+```{admonition} PORTSMOUTH, MAY 23 (from our private correspondent) - Wednesday, May 24th, 1843
 :class: note dropdown
 
 [London Evening Standard](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000183/18430524/031/0003), 1843-05-24, p. 3
@@ -97,7 +97,7 @@ The Eurydice, 20, recently launched from this yard, and built on the plan of Rea
 But even as The Eurydice was launched, it looked as if the days of sail were numbered:
 
 
-```{admonition} Portsmouth, May 25
+```{admonition} Portsmouth, May 25 - Saturday, May 27th, 1843
 :class: note dropdown
 
 [West Kent Guardian](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000306/18430527/022/0008), 1843-05-27, p. 8
@@ -112,7 +112,7 @@ No other vessel is to be built upon the slip from which the Eurydice was recentl
 
 
 
-```{admonition} The Eurydice, 26, has been commissioned by Capt. Elliot, a son of the gallant Admiral, upon whose lines she has been built. She will be fitted out with despatch, to test her qualities.
+```{admonition} The Eurydice, 26, has been commissioned by Capt. Elliot, a son of the gallant Admiral, upon whose lines she has been built. She will be fitted out with despatch, to test her qualities. - Saturday, July 1st, 1843
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430701/017/0003), 1843-07-01, p. 3
@@ -123,7 +123,7 @@ No other vessel is to be built upon the slip from which the Eurydice was recentl
 
 
 
-```{admonition} Portsmouth, July 13.
+```{admonition} Portsmouth, July 13. - Saturday, July 15th, 1843
 :class: note dropdown
 
 [West Kent Guardian](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000306/18430715/023/0008), 1843-07-15, p. 8
@@ -138,7 +138,7 @@ No other vessel is to be built upon the slip from which the Eurydice was recentl
 With sea trials ongoing, a possible destination for her first voyage was described:
 
 
-```{admonition} Portsmouth, Sept. 23
+```{admonition} Portsmouth, Sept. 23 - Saturday, September 23rd, 1843
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000494/18430923/024/0003), 1843-09-23, p. 3
@@ -151,7 +151,7 @@ It is determined that the Eurydice, 26, Captain Elliott, goes to the East Indies
 However, it seems there was a miscommunication in that report of the destination of the Eurydice on her first voyage, or the destination was changed, for she was actually to sail for the West Indies.
 
 
-```{admonition} Naval Intelligence (From our Correspondent)
+```{admonition} Naval Intelligence (From our Correspondent) - Monday, October 2nd, 1843
 :class: note dropdown
 
 [Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18431002/019/0003), 1843-10-02, p. 3
@@ -164,7 +164,7 @@ Ships at Spithead.— The Warspite and Eurydice.
 
 
 
-```{admonition} PORTSMOUTH, SATURDAY, SEPTEMBER 30, 1843.
+```{admonition} PORTSMOUTH, SATURDAY, SEPTEMBER 30, 1843. - Monday, October 2nd, 1843
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18431002/023/0004), 1843-10-02, p. 4

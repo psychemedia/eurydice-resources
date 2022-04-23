@@ -3,7 +3,7 @@
 In this chapter, we review the human tragedy: the discovery of bodies, some identifiable, others not, over the weeks and months following the tragedy, the funerals, and the memorials.
 
 
-```{admonition} THE FOUNDERING OF THE "EURYDICE."
+```{admonition} THE FOUNDERING OF THE "EURYDICE." - Wednesday, April 3rd, 1878
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002), 1878-04-03, p. 2
@@ -34,7 +34,7 @@ A Union Jack formed the pall, and the coffin was carried to the hearse by six bl
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, April 4th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780404/059/0005), 1878-04-04, p. 5
@@ -47,7 +47,7 @@ A correspondent of the *Devenport Independent* writes:- There are many distressi
 
 
 
-```{admonition} THE LOSS OF THE "EURYDICE."
+```{admonition} THE LOSS OF THE "EURYDICE." - Saturday, April 6th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006), 1878-04-06, p. 6
@@ -62,7 +62,7 @@ The remains of George Arthur Bennett were interred in the cemetery at Haslar, cl
 
 
 
-```{admonition} FOUNDERING OF H.M.S. EURYDICE.
+```{admonition} FOUNDERING OF H.M.S. EURYDICE. - Wednesday, May 15th, 1878
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780515/013/0003), 1878-05-15, p. 3
@@ -81,7 +81,7 @@ tag: funeral memorial
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, May 16th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780516/078/0005), 1878-05-16, p. 5
@@ -98,7 +98,7 @@ Five bodies (or rather portions) have been recovered during the week. One was a 
 
 
 
-```{admonition} THE EURYDICE DISASTER.
+```{admonition} THE EURYDICE DISASTER. - Saturday, May 18th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780518/025/0006), 1878-05-18, p. 6
@@ -117,7 +117,7 @@ Mr. E. J. Physick, sculptor, has been commissioned to execute the monument in me
 
 
 
-```{admonition} FOUNDERING OF H.M.S EURYDICE.
+```{admonition} FOUNDERING OF H.M.S EURYDICE. - Wednesday, May 22nd, 1878
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780522/006/0002), 1878-05-22, p. 2
@@ -140,7 +140,7 @@ tag: funeral bodies
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, May 23rd, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780523/092/0005), 1878-05-23, p. 5
@@ -153,7 +153,7 @@ On Saturday two more bodies which were decomposed beyond recognition, picked up 
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Saturday, May 25th, 1878
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780525/042/0007), 1878-05-25, p. 7
@@ -174,7 +174,7 @@ tag: bodies funeral
 
 
 
-```{admonition} THE LOSS OF THE EURYDICE.
+```{admonition} THE LOSS OF THE EURYDICE. - Saturday, May 25th, 1878
 :class: note dropdown
 
 [Bray and South Dublin Herald](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004258/18780525/030/0003), 1878-05-25, p. 3
@@ -190,7 +190,7 @@ Within the last ten days no fewer than sixteen bodies from the Eurydice have bee
 
 
 
-```{admonition} ESCAPE OF A RYDE MAN FROM THE EURYDICE DISASTER.
+```{admonition} ESCAPE OF A RYDE MAN FROM THE EURYDICE DISASTER. - Thursday, May 30th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780530/078/0005), 1878-05-30, p. 5
@@ -201,7 +201,7 @@ A young man named Hayes, whose mother was a member of the Sivell family of this 
 
 
 
-```{admonition} The body of Lieu. Randolph, who has relatives living in this town, has been recovered from the wreck of the Eurydice, and was buried at Haslar, on Monday.
+```{admonition} The body of Lieu. Randolph, who has relatives living in this town, has been recovered from the wreck of the Eurydice, and was buried at Haslar, on Monday. - Saturday, June 8th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/010/0005), 1878-06-08, p. 5
@@ -212,7 +212,7 @@ Recovery of the Body of Mr. Frank Pittman. — About 3 o'clock on Friday afterno
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, June 20th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780620/076/0005), 1878-06-20, p. 5
@@ -231,7 +231,7 @@ Inspector-General Domville handed in the card from the Admiralty, stating that C
 
 
 
-```{admonition} TWO BODIES FOUND.
+```{admonition} TWO BODIES FOUND. - Thursday, August 8th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/107/0004), 1878-08-08, p. 4
@@ -239,6 +239,36 @@ Inspector-General Domville handed in the card from the Admiralty, stating that C
 On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near to Sir William Hutt's pier at Apley ; one of the bodies was headless, but a human head was found floating near the spot. The bodies were in a very advanced state of decomposition, and almost nude, so that there were no means of identification ; but there is little doubt that they were from the ill-fated Eurydice. Coffins were procured, and the bodies conveyed by the Coastguard to the mortuary at the Cemetery. At half-past 5 in the afternoon the funeral took place at the north side of the Cemetery. Palls were thrown over the coffins, which were carried, shoulder high, by eight Coastguardsmen, under the superintendence of Mr. Jefferys, the chief officer. They were met at the grave (both being interred in one) by Mr. Westhall, a gentleman residing in Ryde, who read portions of Scripture. and afterwards addressed the large concourse of people, remarking that it was a very solemn occasion, and took their thoughts back to the 24th March, when about 300 poor men and boys were drowned by the capsizing of the Eurydice; the bodies of two of them were in the coffins before them ; there were no names on the coffins, but the men were known to God. He nothing of their history, and he did not know whether they were Christians, and he had nothing to do with that. They were surrounded by mysteries ; even their own existence was a mystery, and it was a most mysterious thing that the poor creatures who were drowned would have been on land in about an hour, and would have boon welcomed by loving friends; but it was not to be. They could not understand it, but the light of eternity would interpret all mysteries, and all they had to do was to bow to the will of God, for would not the Judge of the whole earth do right? The lesson for all of them to learn was the uncertainty of human life. Those who were drowned were in good health and spirits a few minutes before, and then were called to their final account. There were these present who evidently had sympathy for those who had been thus taken suddenly away. Although they were taken thus suddenly, it was possible they might have been able to give one look to the Saviour, and there was life in a look. It did not take long to save the thief on the cross, and they might hope that many in the Eurydice were saved, and he was glad to believe that many on board loved the Saviour. Mr. Westhall concluded the simple, but very impressive, service by offering prayer and pronouncing the benediction. There was something exceedingly affecting in witnessing the two plain, nameless coffins placed in the grave, and no friends or relatives near to pay the last tribute of affection ; and also in the thought that until the morning of the resurrection it must remain a profound secret as to who was interred in Ryde Cemetery on Saturday afternoon.
 
 ```
+
+
+"The sea gave up the dead which were in it"  Rev 20 13  
+There was no more sea  
+Rev. 20 1
+
+Then they cry unto the Lord their trouble and he bringeth them out of their distresses.  
+He maketh the storm a calm so that the waves thereof are still.  
+Then are they glad because they be quiet. So he bringeth them unto their desired haven  
+Psalm cvii 28-60
+
+D. Harvey. Buried May 17.  
+Name Unknown. - - June 5.  
+J. Howard. - - - July 6.  
+T. J. Smith. - - - Aug 2.  
+W. Shuker. - - - - - 2.  
+H. Veals. - - - - - - 12.  
+Name Unknown. - - Oct. 8.
+
+Sacred to the memory of seven brave seamen of Her Majesty's Navy who lie buried here. After having first found a watery grave on Sunday March 24, 1878 when H.M.S. Eurydice foundered in a terrific squall off Sandown Bay.
+
+
+
+```{figure} ../images/52024017203_2c99b3ebc0_o.jpg
+---
+---
+
+Memorial Christ Church, Sandown,
+```
+
 
 
 
@@ -256,21 +286,23 @@ Memorial Christ Church, Sandown
 ---
 ---
 
+Memorial Christ Church, Sandown, Dedication
 ```
 
 
 
 
-```{figure} ../images/52019997311_65401508de_o.jpg
+```{figure} ../images/52024228124_75f6f288ac_o.jpg
 ---
 ---
 
+Memorial Christ Church, Sandown, Names
 ```
 
 
 
 
-```{admonition} SANDOWN, April 12.
+```{admonition} SANDOWN, April 12. - Saturday, April 12th, 1879
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790412/066/0008), 1879-04-12, p. 8
@@ -283,7 +315,7 @@ Eurydice Memorial.— The subscription set on foot for the purpose of erecting a
 
 
 
-```{admonition} A Memorial to those Sailors of the "Eurydice"
+```{admonition} A Memorial to those Sailors of the "Eurydice" - Saturday, April 26th, 1879
 :class: note dropdown
 
 [The Graphic](https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18790426/022/0011), 1879-04-26, p. 11
@@ -294,7 +326,7 @@ buried at Sandown, Isle of Wight, has been erected by the inhabitants,- a pedest
 
 
 
-```{admonition} The Eurydice.
+```{admonition} The Eurydice. - Wednesday, July 9th, 1879
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790709/030/0004), 1879-07-09, p. 4
@@ -307,7 +339,7 @@ A handsome tablet has been placed in the chapel of the dockyard at Portsmouth, b
 
 
 
-```{admonition} Portsmouth Branch
+```{admonition} Portsmouth Branch - Saturday, August 30th, 1879
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790830/066/0008), 1879-08-30, p. 8
@@ -318,7 +350,7 @@ The seaman Cuddeford, one of the two survivors of the foundering of the Eurydice
 
 
 
-```{admonition} THE WRECK REGISTER FOR 1877-78.
+```{admonition} THE WRECK REGISTER FOR 1877-78. - Saturday, November 8th, 1879
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18791108/004/0002), 1879-11-08, p. 2
@@ -329,7 +361,7 @@ The greatest sacrificc of human life happened on the south coast of England, on 
 
 
 
-```{admonition} Sandown
+```{admonition} Sandown - Wednesday, November 12th, 1879
 :class: note dropdown
 
 [Hampshire Independent](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18791112/037/0004), 1879-11-12, p. 4
@@ -340,7 +372,7 @@ A CURIOUS INClDENT.—connected with the loss of H.M.S. Eurydice has just occurr
 
 
 
-```{admonition} THE NAVY ESTIMATES.
+```{admonition} THE NAVY ESTIMATES. - Thursday, February 26th, 1880
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18800226/015/0003), 1880-02-26, p. 3
@@ -351,7 +383,7 @@ LATEST TELEGRAMS London, Thursday. The navy estimates for the coming financial y
 
 
 
-```{admonition} SHANKLIN. May 29
+```{admonition} SHANKLIN. May 29 - Saturday, May 29th, 1880
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18800529/076/0008), 1880-05-29, p. 8
@@ -362,7 +394,7 @@ The Eurydice Memorial.— The memorial to the officers and men lost in the Euryd
 
 
 
-```{admonition} (SHANKLIN.) THE EURYDICE MEMORIAL.
+```{admonition} (SHANKLIN.) THE EURYDICE MEMORIAL. - Wednesday, June 2nd, 1880
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18800602/017/0004), 1880-06-02, p. 4
@@ -373,7 +405,7 @@ The Eurydice Memorial.— The memorial to the officers and men lost in the Euryd
 
 
 
-```{admonition} (HANTS.) THE EURYDICE MEMORIAL
+```{admonition} (HANTS.) THE EURYDICE MEMORIAL - Saturday, June 12th, 1880
 :class: note dropdown
 
 [Southern Times and Dorset County Herald](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002182/18800612/071/0007), 1880-06-12, p. 7
@@ -395,7 +427,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/046/0021
 
 
 
-```{admonition} THE EURYDICE MEMORIAL
+```{admonition} THE EURYDICE MEMORIAL - Thursday, June 24th, 1880
 :class: note dropdown
 
 [Edinburgh Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18800624/068/0004), 1880-06-24, p. 4
@@ -416,7 +448,7 @@ Shanklin memorial
 
 
 
-```{admonition} MEMORIAL OF H.M.S. EURYDICE.
+```{admonition} MEMORIAL OF H.M.S. EURYDICE. - Saturday, June 26th, 1880
 :class: note dropdown
 
 [Wrexham Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000496/18800626/025/0007), 1880-06-26, p. 7
@@ -437,7 +469,7 @@ Shanklin memorial
 
 
 
-```{admonition} HER MAJESTY'S SHIP " EURYDICE."
+```{admonition} HER MAJESTY'S SHIP " EURYDICE." - Saturday, June 26th, 1880
 :class: note dropdown
 
 [Aberystwyth Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003437/18800626/101/0006), 1880-06-26, p. 6
@@ -458,7 +490,7 @@ Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions a
 
 
 
-```{admonition} UNVEILING OF THE "EURYDICE" MEMORIAL AT SHANKLIN.
+```{admonition} UNVEILING OF THE "EURYDICE" MEMORIAL AT SHANKLIN. - Friday, July 2nd, 1880
 :class: note dropdown
 
 [Southend Standard and Essex Weekly Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001777/18800702/091/0008), 1880-07-02, p. 8
@@ -511,7 +543,7 @@ Shanklin memorial inscription - To the memory of the officers and men of H.M.S. 
 
 
 
-```{admonition} THE EURYDICE MONUMENT AT SHANKLIN
+```{admonition} THE EURYDICE MONUMENT AT SHANKLIN - Saturday, July 10th, 1880
 :class: note dropdown
 
 [The Graphic](https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/020/0006), 1880-07-10, p. 6
@@ -522,7 +554,7 @@ This monument, which has been erected by public subscriptions, to the memory of 
 
 
 
-```{admonition} EURYDICE MEMORIAL AND PORTLAND STONE
+```{admonition} EURYDICE MEMORIAL AND PORTLAND STONE - Thursday, April 14th, 1881
 :class: note dropdown
 
 [Poole Telegram](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003083/18810414/087/0008), 1881-04-14, p. 8
@@ -533,7 +565,7 @@ A memorial to those who lost their lives in the training brig Eurydice is being 
 
 
 
-```{admonition} EURYDICE MEMORIAL.
+```{admonition} EURYDICE MEMORIAL. - Wednesday, September 14th, 1881
 :class: note dropdown
 
 [Dundee Courier](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000269/18810914/041/0003), 1881-09-14, p. 3
@@ -544,7 +576,7 @@ A monument to the memory of 316 officers and men lost in the Training Brig Euryd
 
 
 
-```{admonition} "EURYDICE " MEMORIAL.
+```{admonition} "EURYDICE " MEMORIAL. - Wednesday, September 14th, 1881
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18810914/005/0002), 1881-09-14, p. 2
@@ -555,7 +587,7 @@ A very handsome memorial to the memory of those who foundered in H.M.S. Eurydice
 
 
 
-```{admonition} Eurydice Memorial.
+```{admonition} Eurydice Memorial. - Friday, September 16th, 1881
 :class: note dropdown
 
 [Manchester Courier and Lancashire General Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000206/18810916/029/0006), 1881-09-16, p. 6
@@ -577,7 +609,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011
 
 
 
-```{admonition} THE EURYDICE MEMORIAL AT HASLAR
+```{admonition} THE EURYDICE MEMORIAL AT HASLAR - Saturday, November 19th, 1881
 :class: note dropdown
 
 [The Graphic](https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011), 1881-11-19, p. 11

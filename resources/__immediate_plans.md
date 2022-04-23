@@ -13,7 +13,7 @@ Elsewhere, various events were already being organised locally to support a fund
 There was also a mystery: a sailor’s straw hat bearing the Eurydice’s name on the ribbon, had been revovered with the name "G. Field" marked inside it. But no similar name appeared to have been published in the crew list. And an query: why were there no stimulants available on board the Emma, the unstated implication being that perhaps Tabor and Ferrier's lives might have been saved had they been available.
 
 
-```{admonition} THE FOUNDERING OF THE "EURYDICE."
+```{admonition} THE FOUNDERING OF THE "EURYDICE." - Wednesday, April 3rd, 1878
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002), 1878-04-03, p. 2
@@ -68,7 +68,7 @@ On Sunday, 31st March, a week on from the disaster, collections were made and se
 Noting the classical tragedy of Orpheus and Eurydice, it was also observed that Eurydice's "consort ship", H.M.S. Orpheus had also been downed in not dissimilar circumstances 15 years previously, on April 7th, 1863.
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, April 4th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780404/059/0005), 1878-04-04, p. 5
@@ -109,7 +109,7 @@ The *Hornet* says:—"Eurydice is an unlucky name. One Eurydice hanged herself, 
 In an attempt to encourage islanders, particularly fishermen, to help retrieve bodies of the deceased sailors, a two pounds reward was offered for anyone retrieving and landing a body.
 
 
-```{admonition} HER MAJESTY'S SHIP "EURYDICE"
+```{admonition} HER MAJESTY'S SHIP "EURYDICE" - Saturday, April 6th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/002/0008), 1878-04-06, p. 8
@@ -120,7 +120,7 @@ Two pounds reward will be given to any private person finding and bringing to th
 
 
 
-```{admonition} THE LOSS OF THE "EURYDICE."
+```{admonition} THE LOSS OF THE "EURYDICE." - Saturday, April 6th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006), 1878-04-06, p. 6
@@ -159,7 +159,7 @@ The following extract from " Hollinshed's Chronicles" may be of interest: " *The
 
 
 
-```{admonition} The Eurydice
+```{admonition} The Eurydice - Thursday, April 11th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780411/071/0004), 1878-04-11, p. 4
@@ -174,7 +174,7 @@ So far as we have been able to ascertain — and sounding very, very many, we ha
 
 
 
-```{admonition} HER MAJESTY'S SHIP EURYDICE.
+```{admonition} HER MAJESTY'S SHIP EURYDICE. - Thursday, April 11th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780411/087/0005), 1878-04-11, p. 5
@@ -185,7 +185,7 @@ TWO POUNDS REWARD will be given to any Private Person Finding and bringing to an
 
 
 
-```{admonition} THE WRECK OF THE EURYDICE.
+```{admonition} THE WRECK OF THE EURYDICE. - Saturday, April 13th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/020/0006), 1878-04-13, p. 6
@@ -264,7 +264,7 @@ TO DO - Baily's Magazine original; Hathi Trust? archive.or?
 
 
 
-```{admonition} THE FOUNDERING OF THE "EURYDICE."
+```{admonition} THE FOUNDERING OF THE "EURYDICE." - Saturday, April 20th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780420/039/0008), 1878-04-20, p. 8
@@ -279,7 +279,7 @@ The Secretary to the Admiralty forwards a further list (received by telegraph fr
 
 
 
-```{admonition} Battalion Drill - Scene and Thoughts at Nunwell
+```{admonition} Battalion Drill - Scene and Thoughts at Nunwell - Thursday, April 25th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780425/057/0005), 1878-04-25, p. 5
@@ -294,7 +294,7 @@ Perhaps we never enjoyed the outlook more than we did on Monday, but to reverse 
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Friday, April 26th, 1878
 :class: note dropdown
 
 [Irish Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001683/18780426/209/0007), 1878-04-26, p. 7
@@ -305,7 +305,7 @@ The unexpected delay which has occurred connection with the raising of the has, 
 
 
 
-```{admonition} THE FOUNDERING OF THE "EURYDICE."
+```{admonition} THE FOUNDERING OF THE "EURYDICE." - Saturday, April 27th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/020/0005), 1878-04-27, p. 5
@@ -330,7 +330,7 @@ Illustrated London News — The wreck of the Eurydice: Divers examining a wreck 
 
 
 
-```{admonition} THE WRECK OF RAISING THE EURYDICE.
+```{admonition} THE WRECK OF RAISING THE EURYDICE. - Saturday, April 27th, 1878
 :class: note dropdown
 
 [Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780427/051/0012), 1878-04-27, p. 12
@@ -341,7 +341,7 @@ The hull of H.M.S. Eurydice, the training-ship for seamen of the Royal Navy, whi
 
 
 
-```{admonition} THE EURYDICE DISASTER.
+```{admonition} THE EURYDICE DISASTER. - Thursday, May 2nd, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780502/073/0005), 1878-05-02, p. 5
@@ -374,7 +374,7 @@ TH note: amusing editor comments eg navy good at sinking boats, and dilettante q
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Saturday, May 4th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780504/028/0008), 1878-05-04, p. 8

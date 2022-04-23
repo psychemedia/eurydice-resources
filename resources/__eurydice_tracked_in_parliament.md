@@ -1,7 +1,7 @@
 # Parliamentary Mentions
 
 
-```{admonition} STATEMENT IN PARLIAMENT
+```{admonition} STATEMENT IN PARLIAMENT - Wednesday, April 3rd, 1878
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002), 1878-04-03, p. 2
@@ -16,7 +16,7 @@ Mr. W. H. SMITH said: The amount of ballast in the Eurydice when she left Englan
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Saturday, June 8th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/026/0006), 1878-06-08, p. 6
@@ -34,7 +34,7 @@ Lord Elphinstone said that would depend entirely on the weather.
 
 
 
-```{admonition} H.M.S. EURYDICE.
+```{admonition} H.M.S. EURYDICE. - Monday, June 24th, 1878
 :class: note dropdown
 
 [Globe](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001652/18780624/004/0001), 1878-06-24, p. 1
@@ -45,7 +45,7 @@ No fewer than three questions are to put to Ministers the House of Commons this 
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, June 27th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780627/088/0005), 1878-06-27, p. 5

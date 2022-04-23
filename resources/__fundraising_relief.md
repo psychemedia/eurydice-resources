@@ -6,7 +6,7 @@ Almost immediately following reports of the tragedy, fundraising relief activiti
 TO DO - Thunderer boiler explosion 14 July 1876, https://en.wikipedia.org/wiki/HMS_Thunderer_(1872), killing 45 people, 15 instantly, 30 of ~70 othes injured dying later.  proceeded from Portsmouth Harbour to Stokes Bay, overlooking the island.
 
 
-```{admonition} THE LOSS OF THE EURYDICE.
+```{admonition} THE LOSS OF THE EURYDICE. - Friday, March 29th, 1878
 :class: note dropdown
 
 [Evening Mail](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006), 1878-03-29, p. 6
@@ -47,7 +47,7 @@ The Lord Mayor has intimated to the naval authorities at Portsmouth his willingn
 
 
 
-```{admonition} The Lord Mayor received over 400l. at the Mansion House on Monday in aid of the fund now being raise
+```{admonition} The Lord Mayor received over 400l. at the Mansion House on Monday in aid of the fund now being raise - Wednesday, April 3rd, 1878
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002), 1878-04-03, p. 2
@@ -60,7 +60,7 @@ d there for the relief of the widows, orphans, and relatives of the crew of her 
 
 
 
-```{admonition} THE LOSS OF THE EURYDICE.
+```{admonition} THE LOSS OF THE EURYDICE. - Friday, April 5th, 1878
 :class: note dropdown
 
 [Rutland Echo and Leicestershire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001901/18780405/053/0006), 1878-04-05, p. 6
@@ -71,7 +71,7 @@ The Lord Mayor of London has received the following telegram from Captain Wilaon
 
 
 
-```{admonition} THE LOSS OF THE "EURYDICE."
+```{admonition} THE LOSS OF THE "EURYDICE." - Saturday, April 6th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006), 1878-04-06, p. 6
@@ -88,7 +88,7 @@ On Friday the Lord Mayor received from Captain J. C. Wilson, A.D.C. of the Thund
 
 
 
-```{admonition} ...
+```{admonition} ... - Saturday, April 27th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/020/0005), 1878-04-27, p. 5
@@ -101,7 +101,7 @@ Lord Henry Lennox writes to say, regarding the Eurydice fund, that, as far as is
 
 
 
-```{admonition} To the Editor of the hie of Wight Observer.
+```{admonition} To the Editor of the hie of Wight Observer. - Saturday, April 27th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/034/0008), 1878-04-27, p. 8
@@ -115,7 +115,7 @@ FIAT JUSTITIA, RUAT COELUM.
 
 
 
-```{admonition} Ventnor. Concert at Ventnor in aid of the Eurydice Distress Fund.
+```{admonition} Ventnor. Concert at Ventnor in aid of the Eurydice Distress Fund. - Saturday, May 11th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780511/028/0006), 1878-05-11, p. 6

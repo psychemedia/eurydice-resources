@@ -47,7 +47,7 @@ Island Queen at Bembridge Pier
 ## Land Reclamation Around Brading Having
 
 
-```{admonition} New Local Steam Service.—
+```{admonition} New Local Steam Service.— - Thursday, September 14th, 1882
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18820914/003/0002), 1882-09-14, p. 2
@@ -58,7 +58,7 @@ Owing to the enterprise of some local gentlemen aud others connected with the Be
 
 
 
-```{admonition} Sale of Land at Bembridge.
+```{admonition} Sale of Land at Bembridge. - Wednesday, September 21st, 1898
 :class: note dropdown
 
 [Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18980921/013/0002), 1898-09-21, p. 2
@@ -104,7 +104,7 @@ Recites that the making of a Railiway from the authorised Line of Railway from R
 ...
 
 
-```{admonition} BEMBRIDGE, March 14.
+```{admonition} BEMBRIDGE, March 14. - Wednesday, March 14th, 1877
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18770314/028/0003), 1877-03-14, p. 3
@@ -117,7 +117,7 @@ Recites that the making of a Railiway from the authorised Line of Railway from R
 
 
 
-```{admonition} BRADING, Oct. 24.  
+```{admonition} BRADING, Oct. 24.   - Wednesday, October 24th, 1877
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18771024/031/0004), 1877-10-24, p. 4
@@ -162,7 +162,7 @@ The Isle of Wight, AW Fowles, 1897 annotated
 
 
 
-```{admonition} THE RECLAMATION OP BRADING HAVEN.
+```{admonition} THE RECLAMATION OP BRADING HAVEN. - Saturday, November 3rd, 1877
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18771103/004/0002), 1877-11-03, p. 1
@@ -175,7 +175,7 @@ A very curious contemporary manuscript by Sir John Oglander, is still preserved 
 
 
 
-```{admonition} BRADING, July 9.  
+```{admonition} BRADING, July 9.   - Wednesday, July 9th, 1879
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790709/028/0004), 1879-07-09, p. 4
@@ -188,7 +188,7 @@ Brading Haven Reclamation Scheme.
 
 
 
-```{admonition} Important Engineering Work.
+```{admonition} Important Engineering Work. - Tuesday, September 2nd, 1879
 :class: note dropdown
 
 [Dundee Courier](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18790902/111/0008), 1879-09-02, p. 8
@@ -199,7 +199,7 @@ Brading Haven Reclamation Scheme.
 
 
 
-```{admonition} Brading  
+```{admonition} Brading   - Saturday, November 1st, 1879
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18791101/025/0006), 1879-11-01, p. 6
@@ -212,6 +212,18 @@ We last Monday paid a visit to the reclamation works at Brading Harbour, and fou
 
 
 ## The (Royal) Isle of Wight Golf Club
+
+
+Back to last search results WILLS CIGARETTE CARD- GOLFING (1924)
+
+
+```{figure} wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg
+---
+---
+
+```
+
+
 
 
 ```{figure} ../images/iw-golf-cigarette-card.jpg
@@ -240,7 +252,7 @@ The following is found on https://www.islandeye.co.uk/history/historic-parks/the
 > The list of members slowly but steadily increased, and no inconsiderable gathering of people was present at the opening ceremony. The honour of driving the first ball fell to a Mrs Hambrough, wife of the club’s first captain, Dudley A. Hambrough, and she acquitted herself well in what must have been something of a trying ordeal. In strict truthfulness it must be recorded that at the first match the interest of many spectators was directed not so much at the players as at one of the caddies , who was a very pretty barmaid from the Royal Spithead Hotel.
 
 
-```{admonition} ISLE WIGHT GOLF CLUB.—
+```{admonition} ISLE WIGHT GOLF CLUB.— - Saturday, August 5th, 1882
 :class: note dropdown
 
 [Field](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002446/18820805/228/0020), 1882-08-05, p. 20
@@ -251,7 +263,7 @@ At a meeting held at the Marine Hotel, Ventnor, on July 31, a golf club was form
 
 
 
-```{admonition} ISLE OF WIGHT GOLF CLUB.
+```{admonition} ISLE OF WIGHT GOLF CLUB. - Saturday, September 16th, 1882
 :class: note dropdown
 
 [Field](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002446/18820916/240/0038), 1882-09-16, p. 38
@@ -264,7 +276,7 @@ After luncheon a numerous gathering proceeded to the golf grounds, where Mrs D. 
 
 
 
-```{admonition} THE HAMPSHIRE INDEPENDENT, WEDNESDAY. SEPTEMBER 20, 1882.
+```{admonition} THE HAMPSHIRE INDEPENDENT, WEDNESDAY. SEPTEMBER 20, 1882. - Wednesday, September 20th, 1882
 :class: note dropdown
 
 [Hampshire Independent](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18820920/041/0004), 1882-09-20, p. 4
@@ -277,7 +289,7 @@ ISLE OF WIGHT GOLF CLUB— we learn from the *Field*, was formally opened for pl
 
 
 
-```{admonition} BEMBRIDGE. The Isle of "Wight Golf Club. —
+```{admonition} BEMBRIDGE. The Isle of "Wight Golf Club. — - Saturday, November 4th, 1882
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18821104/016/0006), 1882-11-04, p. 6
@@ -302,7 +314,7 @@ Subsequently to the meeting a dinner took place at the Royal Spithead Hotel. The
 
 
 
-```{admonition} BEMBRIDGE.
+```{admonition} BEMBRIDGE. - Saturday, November 11th, 1882
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18821111/014/0006), 1882-11-11, p. 6
@@ -314,7 +326,7 @@ Sir, — I observe in your issue of last Saturday, in reference to the Isle of W
 
 
 
-```{admonition} ISLE OF WIGHT. BEMBRIDGE.
+```{admonition} ISLE OF WIGHT. BEMBRIDGE. - Tuesday, August 14th, 1883
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18830814/008/0002), 1883-08-14, p. 2
@@ -327,7 +339,7 @@ Sir, — I observe in your issue of last Saturday, in reference to the Isle of W
 
 
 
-```{admonition} ST. HELEN'S. Royal Isle of Wight Golf Club.
+```{admonition} ST. HELEN'S. Royal Isle of Wight Golf Club. - Saturday, August 25th, 1883
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18830825/013/0005), 1883-08-25, p. 5
@@ -374,10 +386,10 @@ Royal patronage was granted to the hotel in the following year, 1883
 The Royal Isle of Wight Golf Club, on the sand dunes across the harbour, was established by visitors to the hotel, the hotel was also popular with visitors to nearby Bembridge Sailing Club.
 The hotel was demolished in 1989 and the site redeveloped.
 
-## The Temperance Debate Continues
+## The Temperance Debate Continues
 
 
-```{admonition} CLOSING PUBLIC-HOUSES ON SUNDAY.
+```{admonition} CLOSING PUBLIC-HOUSES ON SUNDAY. - Thursday, July 10th, 1879
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790710/110/0005), 1879-07-10, p. 5
@@ -428,7 +440,7 @@ He put the resolution to the meeting. Councillors Ellery, Gunn, and Newbold left
 
 
 
-```{admonition} RYDE TOWN COUNCIL.
+```{admonition} RYDE TOWN COUNCIL. - Saturday, July 12th, 1879
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790712/012/0006), 1879-07-12, p. 6
@@ -507,7 +519,7 @@ He then put the motion, which was carried. For it— The Mayor, Aldermen Colenut
 
 
 
-```{admonition} RYDE, THURSDAY, JULY 17, 1879.
+```{admonition} RYDE, THURSDAY, JULY 17, 1879. - Thursday, July 17th, 1879
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790717/088/0004), 1879-07-17, p. 4

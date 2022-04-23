@@ -1,7 +1,7 @@
 # Memories of the Eurydice Disaster
 
 
-```{admonition} LOSS OF THE EURYDICE.
+```{admonition} LOSS OF THE EURYDICE. - Saturday, April 9th, 1927
 :class: note dropdown
 
 [The Hampshire Advertiser and Southampton Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003142/19270409/028/0002), 1927-04-09, p. 2
@@ -30,7 +30,7 @@ On landing I found a piece of the wreck, which I have now as a relic. A gentlema
 
 
 
-```{admonition} HAVANT OF PAST DAYS
+```{admonition} HAVANT OF PAST DAYS - Friday, September 6th, 1935
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19350906/526/0024), 1935-09-06, p. 24
@@ -43,7 +43,7 @@ A vivid picture arises in my mind of a Sunday in March. 1878. It was one of thos
 
 
 
-```{admonition} LOST IN SIGHT OF HOME
+```{admonition} LOST IN SIGHT OF HOME - Friday, April 22nd, 1932
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19320422/283/0014), 1932-04-22, p. 14

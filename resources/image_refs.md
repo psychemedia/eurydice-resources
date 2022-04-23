@@ -316,12 +316,17 @@ Shanklin memorial inscription - To the memory of the officers and men of H.M.S. 
 
 Sandown
 
+![](../images/52024017203_2c99b3ebc0_o.jpg)
+Memorial Christ Church, Sandown
+
 ![](../images/52019996761_b67da681c2_o.jpg)
 Memorial Christ Church, Sandown
 
 ![](../images/52019997011_d6ccbdb70a_o.jpg)
+Dedication
 
-![](../images/52019997311_65401508de_o.jpg)
+![](../images/52024228124_75f6f288ac_o.jpg)
+Names
 
 ![](../images/uo_1532958638-16959-69.jpg)
 Bathing machines, Sandown

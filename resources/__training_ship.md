@@ -17,7 +17,7 @@ Illustrated London News — H.M.S. Eurydice as she lay in Portsmouth harbour bef
 The Eurydice was thus converted over to a training ship in the Spring of 1877, before embarking on a voyage to the West Indies in Autumn 1877.
 
 
-```{admonition} SEAMANSHIP OF YOUNG SAILORS.
+```{admonition} SEAMANSHIP OF YOUNG SAILORS. - Tuesday, February 6th, 1877
 :class: note dropdown
 
 [South Wales Daily News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000919/18770206/042/0005), 1877-02-06, p. 5
@@ -31,7 +31,7 @@ The Admiralty are about to take practical measures for improving the seamanship 
 
 
 
-```{admonition} Hampshire Advertiser, Portsmouth Branch
+```{admonition} Hampshire Advertiser, Portsmouth Branch - Saturday, February 10th, 1877
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18770210/054/0008), 1877-02-10, p. 7
@@ -48,7 +48,7 @@ Lieutenants ... Francis H. Tabor Stanley, A. B. Burney, and William E. Black to 
 
 
 
-```{admonition} Movements of Her Majesty's Ships
+```{admonition} Movements of Her Majesty's Ships - Wednesday, February 14th, 1877
 :class: note dropdown
 
 [Naval & Military Gazette and Weekly Chronicle of the United Service](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18770214/029/0006), 1877-02-14, p. 124
@@ -59,7 +59,7 @@ Eurydice, 26, sailing-ship, Captain M. A. S. Hare, is being rapidly prepared a t
 
 
 
-```{admonition} Naval and Military Intelligence
+```{admonition} Naval and Military Intelligence - Friday, February 23rd, 1877
 :class: note dropdown
 
 [London Evening Standard](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000183/18770223/025/0005), 1877-02-23, p. 5
@@ -72,7 +72,7 @@ It has long been felt that an evil has arisen from a large number of ordinary se
 
 
 
-```{admonition} Movements of Her Majesty's Ships.
+```{admonition} Movements of Her Majesty's Ships. - Wednesday, October 3rd, 1877
 :class: note dropdown
 
 [Naval & Military Gazette and Weekly Chronicle of the United Service](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18771003/009/0005), 1877-10-03, p. 5
@@ -83,7 +83,7 @@ Eurydice. 6, training ship, Captain Marcus A. S. Hare, came into Portsmouth Harb
 
 
 
-```{admonition} Naval and Military Intelligence
+```{admonition} Naval and Military Intelligence - Wednesday, October 17th, 1877
 :class: note dropdown
 
 [London Evening Standard](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000183/18771017/006/0002), 1877-10-17, p. 2
@@ -96,7 +96,7 @@ Eurydice, Captain Hare, is having defects made good at Portsmouth before startin
 ## Maiden Voyage as a Training Vessel, October, 1877
 
 
-```{admonition} The Eurydice, training ship, Captain M. A. S. Hare, was to go out of the ship basin at Portsmouth on Wednesday.
+```{admonition} The Eurydice, training ship, Captain M. A. S. Hare, was to go out of the ship basin at Portsmouth on Wednesday. - Saturday, October 27th, 1877
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18771027/017/0004), 1877-10-27, p. 4
@@ -107,7 +107,7 @@ Eurydice, Captain Hare, is having defects made good at Portsmouth before startin
 
 
 
-```{admonition} NAVAL AND MILITARY - THE ROYAL NAVY
+```{admonition} NAVAL AND MILITARY - THE ROYAL NAVY - Wednesday, October 31st, 1877
 :class: note dropdown
 
 [Shipping and Mercantile Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18771031/063/0006), 1877-10-31, p. 6
@@ -118,7 +118,7 @@ Portsmouth, Oct. 30.—The Eurydice, training ship for seamen, sailed to-day for
 
 
 
-```{admonition} Devonport, Thursday, Nov. 8
+```{admonition} Devonport, Thursday, Nov. 8 - Saturday, November 10th, 1877
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18771110/066/0008), 1877-11-10, p. 8
@@ -153,7 +153,7 @@ https://www.rct.uk/collection/2580515/hms-eurydice-at-st-lucia-before-her-last-v
 Rumour had it that a calamity had befallen the ship, but a telegram reported in the *Naval & Military Gazette and Weekly Chronicle of the United Service* of Wednesday 21 November 1877, received 17th of November and dated November 16th, 1877, revealed that all was well.
 
 
-```{admonition} Movements of Her Majesty's Ships
+```{admonition} Movements of Her Majesty's Ships - Wednesday, November 21st, 1877
 :class: note dropdown
 
 [Naval & Military Gazette and Weekly Chronicle of the United Service](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18771121/038/0004), 1877-11-21, p. 4

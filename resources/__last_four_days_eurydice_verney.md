@@ -7,7 +7,7 @@ The book was written following the loss of the Eurydice, with profits going to t
 The first part of the book reviews what daily life would have been like in the last few days of the Eurydice's voyage back from the West Indies leading up to Sunday, March 24th, 1878.
 
 
-```{admonition} THE LAST FOUR DAYS OF THE " EURYDICE."
+```{admonition} THE LAST FOUR DAYS OF THE " EURYDICE." - Tuesday, April 23rd, 1878
 :class: note dropdown
 
 [THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-23, p. ?
@@ -224,7 +224,7 @@ To the danger of such squalls the Captain was alive, for both he and his First L
 The book then describes what happened on the afternoon of Sunday, March 24th, 1878. If you would like to read the tale as it unfurled in the press, hold off reading this until you have read the next couple of chapters.
 
 
-```{admonition} THE SQUALL.
+```{admonition} THE SQUALL. - Tuesday, April 23rd, 1878
 :class: note dropdown
 
 [THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-23, p. ?
@@ -275,7 +275,7 @@ Benjamin Cuddiford was saved by a life-buoy which he found floating in the water
 The work also includes a list of the crew, and republishes a poem that was ascribed in certain places to the captain of the Eurydice, Captain M. Hare, but which appears *not* to have been written by him at all.
 
 
-```{admonition} Appendix - THE CREW.
+```{admonition} Appendix - THE CREW. - Tuesday, April 23rd, 1878
 :class: note dropdown
 
 [THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-23, p. ?
@@ -302,7 +302,7 @@ Peter Mason, ordinary, 1st class ; John Scanlan, ordinary, 1st class; M. Varcoe,
 
 
 
-```{admonition} Appendix - "SORROW ON THE SEA."
+```{admonition} Appendix - "SORROW ON THE SEA." - Tuesday, April 23rd, 1878
 :class: note dropdown
 
 [THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-23, p. ?

@@ -188,6 +188,11 @@ TEXT
 
 ## The (Royal) Isle of Wight Golf Club
 
+
+Back to last search results WILLS CIGARETTE CARD- GOLFING (1924)
+
+![](wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg)
+
 ![](../images/iw-golf-cigarette-card.jpg)
 
 
@@ -352,7 +357,7 @@ Royal patronage was granted to the hotel in the following year, 1883
 The Royal Isle of Wight Golf Club, on the sand dunes across the harbour, was established by visitors to the hotel, the hotel was also popular with visitors to nearby Bembridge Sailing Club.
 The hotel was demolished in 1989 and the site redeveloped.
 
-## The Temperance Debate Continues
+## The Temperance Debate Continues
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790710/110/0005

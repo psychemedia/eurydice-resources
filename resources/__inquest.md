@@ -56,7 +56,7 @@ With the ship being a training ship, it was initially assumed that the majority 
 This first report includes the statement Cuddiford made to the Admiralty authorities, as well as a direct report of the inquest.
 
 
-```{admonition} OFF THE ISLE OF WIGHT. 300 OR 400 LIVES LOST.
+```{admonition} OFF THE ISLE OF WIGHT. 300 OR 400 LIVES LOST. - Thursday, March 28th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780328/107/0005), 1878-03-28, p. 5
@@ -143,7 +143,7 @@ Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, 
 The next report adds a little more colour regarding the setting of the inquest, describing how larger premises had to be found for the inquiry given the large number of people who were keen to attend it.
 
 
-```{admonition} THE INQUEST.
+```{admonition} THE INQUEST. - Saturday, March 30th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006), 1878-03-30, p. 6

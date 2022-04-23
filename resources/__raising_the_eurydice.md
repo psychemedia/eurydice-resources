@@ -1,7 +1,7 @@
 # The Raising of the Eurydice
 
 
-```{admonition} THE RAISING OF THE EURYDICE.
+```{admonition} THE RAISING OF THE EURYDICE. - Saturday, July 20th, 1878
 :class: note dropdown
 
 [Cumberland & Westmorland Herald](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002271/18780720/051/0007), 1878-07-20, p. 7
@@ -12,7 +12,7 @@ Attempts to raise her Majesty's ship Eurydice, lying in the English Channel, off
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Saturday, June 29th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780629/018/0004), 1878-06-29, p. 4-5
@@ -23,7 +23,7 @@ There is to be a final effort made to-day to raise the Eurydice, and if that fai
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Saturday, June 29th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780629/034/0006), 1878-06-29, p. 6
@@ -38,7 +38,7 @@ In the House of Commons, on Monday, Mr. Baillie Cochrane asked the First Lord of
 
 
 
-```{admonition} THE EURYDICE FAILURE TO LIFT THE SHIP.
+```{admonition} THE EURYDICE FAILURE TO LIFT THE SHIP. - Thursday, July 4th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780704/089/0005), 1878-07-04, p. 5
@@ -55,7 +55,7 @@ Another body was picked up at the wreck on Tuesday morning.
 
 
 
-```{admonition} ATTEMPT TO RAISE THE EURYDICE.
+```{admonition} ATTEMPT TO RAISE THE EURYDICE. - Saturday, July 6th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780706/037/0008), 1878-07-06, p. 8
@@ -66,7 +66,7 @@ It was hoped that, with fine weather, the programme arranged by Admiral Superint
 
 
 
-```{admonition} THE EURYDICE
+```{admonition} THE EURYDICE - Thursday, July 18th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780718/072/0005), 1878-07-18, p. 5
@@ -98,7 +98,7 @@ Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy
 
 
 
-```{admonition} THE EURYDICE. THE VESSEL SUCCESSFULLY LIFTED.
+```{admonition} THE EURYDICE. THE VESSEL SUCCESSFULLY LIFTED. - Saturday, July 20th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780720/031/0006), 1878-07-20, p. 6
@@ -121,7 +121,7 @@ The present position of the wreck is in a direct line from the Culvers, leaning 
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, July 25th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780725/057/0005), 1878-07-25, p. 5
@@ -167,7 +167,7 @@ Carisbrooke Castle Museum
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, August 1st, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780801/064/0005), 1878-08-01, p. 5
@@ -206,7 +206,7 @@ Sandown, looking back towards Luccombe
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, August 8th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/114/0005), 1878-08-08, p. 5
@@ -224,7 +224,7 @@ As might be expected thousands of visitors and residents in various parts of the
 
 
 
-```{admonition} THE OPERATIONS AT THE EURYDICE.
+```{admonition} THE OPERATIONS AT THE EURYDICE. - Saturday, August 10th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780810/030/0008), 1878-08-10, p. 8
@@ -237,7 +237,7 @@ On Wednesday, operations were continued at the wreck of the Eurydice, and the re
 
 
 
-```{admonition} THE EURYDICE
+```{admonition} THE EURYDICE - Saturday, August 10th, 1878
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780810/016/0005), 1878-08-10, p. 5
@@ -254,7 +254,7 @@ In the House of Lords last night, in reply to Lord Sidmouth, Lord Elphinstone st
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, August 8th, 1878
 :class: note dropdown
 
 [Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18780808/020/0005), 1878-08-08, p. 5
@@ -287,7 +287,7 @@ https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, August 15th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780815/106/0004), 1878-08-15, p. 4
@@ -304,7 +304,7 @@ After a few words from Colonel Beresford and Mr. Muntz, Mr. A. Egerton said he t
 
 
 
-```{admonition} VISITORS TO THE EURYDICE.
+```{admonition} VISITORS TO THE EURYDICE. - Thursday, August 15th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780815/118/0005), 1878-08-15, p. 5
@@ -315,7 +315,7 @@ Among the many who have paid a visit to the wreck of the Eurydice, were the Sund
 
 
 
-```{admonition} THE EURYDICE.
+```{admonition} THE EURYDICE. - Thursday, August 15th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780815/105/0004), 1878-08-15, p. 4
@@ -336,7 +336,7 @@ Illustrated London News — Visit of the Prince of Wales to the wreck of H.M.S. 
 
 
 
-```{admonition} A PADDLE BY NIGHT TO THE EURYDICE.
+```{admonition} A PADDLE BY NIGHT TO THE EURYDICE. - Saturday, August 17th, 1878
 :class: note dropdown
 
 [Illustrated Sporting and Dramatic News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001857/18780817/011/0003), 1878-08-17, p. 3
@@ -356,7 +356,7 @@ E. L.
 
 
 
-```{admonition} The Eurydice.
+```{admonition} The Eurydice. - Saturday, August 24th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780824/008/0005), 1878-08-24, p. 5
@@ -367,7 +367,7 @@ It is now believed that the last body has been recovered from the ship, and Admi
 
 
 
-```{admonition} ROYAL VISIT TO THE EURYDICE.
+```{admonition} ROYAL VISIT TO THE EURYDICE. - Monday, August 26th, 1878
 :class: note dropdown
 
 [London Evening Standard](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000183/18780826/017/0003), 1878-08-26, p. 3
@@ -378,7 +378,7 @@ The wreck of the ill-fated Eurydice, which lies within a cable's length of the f
 
 
 
-```{admonition} His Royal Highness the Prince of Wales and the King of Denmark paid a visit to the wreck of the Eurydice, at Bembridge, on Saturday evening, spending about half-au-hour in their inspection.
+```{admonition} His Royal Highness the Prince of Wales and the King of Denmark paid a visit to the wreck of the Eurydice, at Bembridge, on Saturday evening, spending about half-au-hour in their inspection. - Friday, August 30th, 1878
 :class: note dropdown
 
 [Exeter and Plymouth Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000229/18780830/009/0003), 1878-08-30, p. 3
@@ -389,7 +389,7 @@ The wreck of the ill-fated Eurydice, which lies within a cable's length of the f
 
 
 
-```{admonition} In view of the Eurydice disaster, the Admiralty have issued stringent orders to the effect that trai
+```{admonition} In view of the Eurydice disaster, the Admiralty have issued stringent orders to the effect that trai - Wednesday, August 28th, 1878
 :class: note dropdown
 
 [Dundee Courier](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18780828/071/0004), 1878-08-28, p. 4
@@ -400,7 +400,7 @@ ning ships for seamen shall in future undergo a careful and special inspection b
 
 
 
-```{admonition} Why Was The Eurydice Not Raised Sooner?
+```{admonition} Why Was The Eurydice Not Raised Sooner? - Thursday, August 29th, 1878
 :class: note dropdown
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780829/128/0008), 1878-08-29, p. 8
@@ -413,7 +413,7 @@ Referring to the cause of the disaster, Lord Heresford remarks :— "One word ab
 
 
 
-```{admonition} The Operations at the Wreck of the Eurydice
+```{admonition} The Operations at the Wreck of the Eurydice - Saturday, August 31st, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780831/007/0005), 1878-08-31, p. 5
@@ -424,7 +424,7 @@ The operations for heeling the wreck were resumed on Tuesday, and attended with 
 
 
 
-```{admonition} The Eurydice.
+```{admonition} The Eurydice. - Saturday, August 31st, 1878
 :class: note dropdown
 
 [Reading Mercury](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000369/18780831/101/0008), 1878-08-31, p. 8

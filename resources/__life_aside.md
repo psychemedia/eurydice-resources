@@ -7,7 +7,7 @@ Aside from the Eurydice disaster, what would life have been like on the Isle of 
 Whilst Ventor was the original fashionable holiday destination on the island, with its favourable microcolimate, Sandown was also developing as a holiday destination. Its notable visitors included a certain Rev. C. L. Dodgson, better known as Lewis Carroll, author of *Alice in Wonderland*.
 
 
-```{admonition} [The Life and Letters of Lewis Carroll]
+```{admonition} [The Life and Letters of Lewis Carroll] - Saturday, April 23rd, 1898
 :class: note dropdown
 
 [The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)](https://www.gutenberg.org/files/11483/11483-h/11483-h.htm), 1898-04-23, p. ?
@@ -69,7 +69,7 @@ Sandown Pier
 The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
 
 
-```{admonition} SANDOWN, May 22. The Pier.—
+```{admonition} SANDOWN, May 22. The Pier.— - Wednesday, May 22nd, 1878
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780522/025/0004), 1878-05-22, p. 4
@@ -90,7 +90,7 @@ Sandown Pier
 
 
 
-```{admonition} OPENING OF THE NEW PIER.
+```{admonition} OPENING OF THE NEW PIER. - Saturday, June 1st, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005), 1878-06-01, p. 5
@@ -141,7 +141,7 @@ Date Created/Published: [between ca. 1890 and ca. 1900].
 As well as reporting on the opening ceremony, an account of banquet to honour the opening also appeared:
 
 
-```{admonition} A BANQUET,
+```{admonition} A BANQUET, - Saturday, June 1st, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005), 1878-06-01, p. 5
@@ -212,7 +212,7 @@ TO DO
 1878 War threatening:  Tension between Russia and Britain in Europe ended with the June 1878 Congress of Berlin  https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878) Under pressure from the British, Russia accepted the truce offered by the Ottoman Empire on 31 January 1878, but continued to move towards Constantinople. The British sent a fleet of battleships to intimidate Russia from entering the city, and Russian forces stopped at San Stefano. Eventually Russia entered into a settlement under the Treaty of San Stefano on 3 March 1878, by which the Ottoman Empire would recognize the independence of Romania, Serbia, and Montenegro, and the autonomy of Bulgaria. https://en.wikipedia.org/wiki/Congress_of_Berlin
 
 
-```{admonition} THE EASTERN QUESTION.
+```{admonition} THE EASTERN QUESTION. - Saturday, May 4th, 1878
 :class: note dropdown
 
 [Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780504/033/0006), 1878-05-04, p. 6
@@ -235,7 +235,7 @@ A party of Russian engineers and other officers, bound on some secret service, h
 
 
 
-```{admonition} THE EASTERN QUESTION
+```{admonition} THE EASTERN QUESTION - Saturday, May 11th, 1878
 :class: note dropdown
 
 [Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780511/037/0006), 1878-05-11, p. 6
@@ -258,7 +258,7 @@ The Cabinet of Vienna has opened negotiations with the Porte respect to the occu
 
 
 
-```{admonition} THE EASTERN QUESTION.
+```{admonition} THE EASTERN QUESTION. - Saturday, May 18th, 1878
 :class: note dropdown
 
 [Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780518/021/0006), 1878-05-18, p. 6
@@ -275,7 +275,7 @@ In Greece much uneasiness is felt lest the suspension of hostilities in Thessaly
 
 
 
-```{admonition} THE EASTERN QUESTION.
+```{admonition} THE EASTERN QUESTION. - Saturday, May 25th, 1878
 :class: note dropdown
 
 [Illustrated London News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780525/041/0007), 1878-05-25, p. 7
@@ -294,7 +294,7 @@ The transport of British Indian troops through the Suez Canal, on their way to M
 
 
 
-```{admonition} LOCAL AND DISTRICT INTELLIGENCE.
+```{admonition} LOCAL AND DISTRICT INTELLIGENCE. - Saturday, May 23rd, 1868
 :class: note dropdown
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18680523/013/0004), 1868-05-23, p. 4
@@ -307,7 +307,7 @@ The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the wh
 ## Temperance Movement
 
 
-```{admonition} Liberal Party Truckelling to Teetotallers.
+```{admonition} Liberal Party Truckelling to Teetotallers. - Saturday, February 15th, 1879
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790215/017/0008), 1879-02-15, p. 8
@@ -318,7 +318,7 @@ The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the wh
 
 
 
-```{admonition} TO DO
+```{admonition} TO DO - Wednesday, April 23rd, 1879
 :class: note dropdown
 
 [The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878](https://archive.org/details/cihm_04713), 1879-04-23, p. ?
@@ -329,7 +329,7 @@ The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the wh
 
 
 
-```{admonition} Temperance
+```{admonition} Temperance - Wednesday, April 23rd, 1879
 :class: note dropdown
 
 [Wikipedia](https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton), 1879-04-23, p. ?
@@ -342,7 +342,7 @@ Although Lawson did not enter the House of Commons on behalf of the  movement he
 
 
 
-```{admonition} THE LIBERAL PARTY TRUCKLING TO TEETOTALLERS.
+```{admonition} THE LIBERAL PARTY TRUCKLING TO TEETOTALLERS. - Saturday, March 22nd, 1879
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790322/011/0006), 1879-03-22, p. 6
