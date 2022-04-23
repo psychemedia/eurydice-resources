@@ -179,7 +179,7 @@ Sudden as ligutning's strike, from Culver's brow
 Swoops the fierce squall, 'midst blinding sleet and snow,  
 And, like a tiger springing on its prey,  
 Bore down that gallant vessel to her doom.  
-One moment saw her proudly ride thi waves  
+One moment saw her proudly ride the waves  
 Exultant in her beauty and her strength ;  
 The next, behind that curtain-cloud of storm.  
 Hopelessly stricken, crushed, and settling down.  
@@ -196,7 +196,7 @@ She rounds the Wight, and there before her lies
 The hoped-for haven— Portsmouth — full in sight,  
 With home and kindling holding welcome out,  
 Almost within the sea-worn wanderor's grasp.  
-God! wnat a moment that to be struck down ;  
+God! what a moment that to be struck down ;  
 To change home's welcome for a watery grave ;  
 To strew three hundred corses on the shore  
 Where stalwart tonus, full of high hope and life,  
@@ -212,7 +212,7 @@ In full discharge of duty — even so,
 As though they fell in battle, face to face  
 With England's direst foe. Above their grave  
 The sea lies calm, and golden-tinted clouds  
-Look down witn a mild pity on the spot  
+Look down with a mild pity on the spot  
 Where lies the Eurydice ahd her brave crew.
 
 Thomas Maton. Sandown, March 26th, 1878.

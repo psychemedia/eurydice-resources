@@ -25,7 +25,7 @@ On Monday morning the newspapers spoke of the foundering of a man-of-war, H.M.S.
 
 Londoners as well as others were deeply distressed at this terrible calamity. Excursions were run from London at 2s. 6d. return on Sundays. I had to meet friends on the Royal Pier from London. Boats were there to take us on our way to the spot where the Eurydice was sunk. We took our seats in a rowing-boat like many others to cruise round. It was not far from land. Two vessels were there, one on each side of the wreck. All at once something must have given way as orders were given for all boats to clear out. I was glad in one sense, for our small craft was letting in water.
 
-On landing I found a peice of the wreck, which I have now as a relic. A gentleman living in one of the houses facing the wreck was watching the Eurydice passing along when the blizzard came on. When it had passed over no boat was to be seen.
+On landing I found a piece of the wreck, which I have now as a relic. A gentleman living in one of the houses facing the wreck was watching the Eurydice passing along when the blizzard came on. When it had passed over no boat was to be seen.
 
 (The date of the wreck of the Eurydice was March 24th, 1878. Ed., "Hampshire Advertiser.")
 
