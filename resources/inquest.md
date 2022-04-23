@@ -126,7 +126,7 @@ TEXT
 ![](../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg)
 Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878
 
-The next report adds a little more colour reagrding the setting of the inquest, describing how larger premises had to be found for the inquiry given the large number of people who were keen to attend it.
+The next report adds a little more colour regarding the setting of the inquest, describing how larger premises had to be found for the inquiry given the large number of people who were keen to attend it.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006
@@ -260,4 +260,4 @@ The jury then retired, and, after an absence of half-an-hour, returned with the 
 
 TEXT
 
-*`It might be useful to compare this reports to see if there are any major differences between them and try to generate a more complete and closer to verbatim report.`*
+*`It might be useful to compare these reports, as well as other reports of the inquest, to see if there are any major differences between them and try to generate a more complete and closer to verbatim report.`*

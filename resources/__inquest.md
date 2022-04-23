@@ -6,8 +6,15 @@ Originally planned to be held in the Queen's Hotel, the Coroner asked if a large
 
 The aim of the inquest was two-fold: to identify the bodies, and to ascertain how the deaths had occurred. The key witnesses were the two survivors, Benjamin Cuddiford and Sydney Flectcher, and W. L. Jenkin, master the schooner "Emma" of Padstow.
 
-![Eurydice survivors](../images/eurydice-survivors.jpg)
+
+```{figure} ../images/eurydice-survivors.jpg
+---
+---
+
 The two survivors
+```
+
+
 
 ```{admonition} Benjamin Cuddiford
 :class: dropdown
@@ -34,8 +41,15 @@ As and when other bodies were discovered and landed, additional coroners' courts
 
 To help understand the commentary provided by the two survivors, the following drawing shows how to identify the various parts of a similar vessel.
 
-![](../images/sail_names.jpg)
+
+```{figure} ../images/sail_names.jpg
+---
+---
+
 Example of sail names for a three masted sailing ship
+```
+
+
 
 With the ship being a training ship, it was initially assumed that the majority of the men, officers aside, would be unmarried. Along with the crew and several men making passage back to England from service overseas, several prisoners had also been aboard, one of whom was believed to have been held in chains.
 
@@ -116,10 +130,17 @@ There is something of a personal sorrow which must affect every Englishman when 
 ```
 
 
-![](../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg)
-Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878
 
-The next report adds a little more colour reagrding the setting of the inquest, describing how larger premises had to be found for the inquiry given the large number of people who were keen to attend it.
+```{figure} ../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg
+---
+---
+
+Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878
+```
+
+
+
+The next report adds a little more colour regarding the setting of the inquest, describing how larger premises had to be found for the inquiry given the large number of people who were keen to attend it.
 
 
 ```{admonition} THE INQUEST.
@@ -250,4 +271,4 @@ The jury then retired, and, after an absence of half-an-hour, returned with the 
 ```
 
 
-*`It might be useful to compare this reports to see if there are any major differences between them and try to generate a more complete and closer to verbatim report.`*
+*`It might be useful to compare these reports, as well as other reports of the inquest, to see if there are any major differences between them and try to generate a more complete and closer to verbatim report.`*

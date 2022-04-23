@@ -144,6 +144,12 @@ Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle
 ![](../images/52015295425_b61281d18e_o.jpg)
 Sandown, looking towards the red cliff and white cliff, Yaverland
 
+![](../images/UK_CCM_1_P.1986.1470X.png)
+Wreck of HMS Eurydice
+1878
+R. Cadogan-Rothery
+Carisbrooke Castle Museum
+
 
 ---
 

@@ -1,47 +1,64 @@
 # The Foundering of the Eurydice
 
-What then of the terrible calamity that was to strike the Eurydice that fateful afternon of Sunday, March 24th, 1878?
+What then of the terrible calamity that was to strike the Eurydice that fateful afternon of Sunday, March 24th, 1878, having departed Bermuda just three weeks earlier, on March 6th, 1878?
 
 With Portsmouth almost in sight, the Eurydice rounded the southernmost point of the Isle of Wight, St. Catherine's point, and made for Ventnor.
 
-![](../images/004956958-SVC2.jpg)
-The Isle of Wight, AW Fowles, 1897
-http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
+
+```{figure} ../images/004956958-SVC2.jpg
+---
+---
+
+The Isle of Wight, AW Fowles, 1897 [via](http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html)
+```
+
+
 
 All that would then remain of her voyage would be to round Dunnose Point, cross Sandown Bay, pass by Yaverland and Culver Cliff, round the Eastern most point of the Island at Bembridge, pass by Brading Haven and St Helen's, then into the Spithead and across the Solent, before reaching home and Portsmouth harbour.
 
 They had so nearly made it...
 
-![](../images/003KTOP00000015U02700000_SVC2.jpg)
+
+```{figure} ../images/003KTOP00000015U02700000_SVC2.jpg
+---
+---
+
 View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight
 http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html
 View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is located in an area known as the Undercliff. This area is protected by the peaks of the Downs and has a notably milder climate than much of the rest of the island. Dunnose is one of the highest points on the island with some peaks reaching a height of 792 feet. The rocks around Dunnose Point are extremely dangerous and it was here that in 1878 the HMS Eurydice sank claiming over 350 lives.
 Medium: Aquatint, coloured
 Date: 1800
+```
+
+
 
 As they passed Dunnose Point, the crew perhaps looked to each other as if they were already home...
 
+
+```{figure} ../images/map-maps_nls_uk-view-101169209.png
+---
+---
+
 https://maps.nls.uk/view/101169209
 OS  
-Sheet 345 - Ventnor (Hills)
-Publication date:  1895
-Size: map 31 x 46 cm (ca. 12 x 18 inches) on sheet ca. 43 x 56 cm (ca. 17 x 22 inches) 
-![](../images/map-maps_nls_uk-view-101169209.png)
+Sheet 345 - Ventnor (Hills), 1895; map 31 x 46 cm (ca. 12 x 18 inches) on sheet ca. 43 x 56 cm (ca. 17 x 22 inches)
+```
+
+
 
 But then a sudden and mighty squall hit...
 
-![](../images/NH_61069.jpg)
+
+```{figure} ../images/NH_61069.jpg
+---
+---
+
 Title: HMS EURYDICE British Frigate, 1843
 Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
-Description:
-Catalog #: NH 61069
-Copyright Owner: Naval History and Heritage Command
-Original Creator:
-Original Date: Wed, Mar 27, 1878
-After this Year: 1870
-Before this Year: 1879
-Original Medium: BW Photo
-- https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html
+Copyright Owner: Naval History and Heritage Command, [NH 61069](https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html)
+```
+
+
 
 The initial reports described how, around 4 o'clock in the afternoon, a snowy squally  suddenly hit. The Eurydice was lost, and another ship, the Emma, assumed she had progressed on her way; but then the sight and sound of men in the sea corrected their misapprehension. Five men were saved but three of them were to die before the Emma reached the shore. The two who survived,  Benjamin Cuddiford and Sydney Fletcher were then taken to the Cottage Hospital at Bonchurch.
 
@@ -68,7 +85,14 @@ Since the memorable day in September, 1870, when H.M.S. Captain foundered off Ca
 ```
 
 
-![Illustrated London News - Loss of HMS Eurydice with 300 seamen, March 30, 1878](../images/ILN_1878_loss_of_euridyce_mar_30_002.jpg)
+
+```{figure} ../images/ILN_1878_loss_of_euridyce_mar_30_002.jpg
+---
+---
+
+```
+
+
 
 The Palace was quick to respond:
 
@@ -84,6 +108,8 @@ The Queen is deeply grieved to hear of the loss the Eurydice. Her Majesty anxiou
 
 ```
 
+
+Not surprisingly, a large crowd gathered at the Dockyard gates as the news of the loss started to spread around Porstmouth. The kernel of the story was also starting to find its form, although the number of people lost was still uncertain. Divers had also been sent out to survey the wreck, if the weather would allow:
 
 
 ```{admonition} SCENE AT THE DOCKYARD GATES.
@@ -149,22 +175,33 @@ Commissioned at Portsmouth, Feb. 7, 1877.
 ```
 
 
+The disaster was also mentioned in Parliament:
+
 
 ```{admonition} THE LOSS OF H.M.S. "EURYDICE."
 :class: note dropdown
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/014/0003), 1878-03-25, p. 3
 
-Mr. Goschen asked if the First Lord the Admiralty had any further information in reference to the sad disaster—the loss of the Eurydice– which had spread through the country such deep and universal sorrow. (Hear, hear.)
+Mr. Goschen asked if the First Lord of the Admiralty had any further information in reference to the sad disaster—the loss of the Eurydice– which had spread through the country such deep and universal sorrow. (Hear, hear.)
 
 Mr. Smith was sorry he had not much information beyond what had already appeared in the Press. The disaster was a most mournful one, for the ship was returning after a successful and useful cruise, and the squall by which she was overtaken was so sudden and violent that she went down without notice. Admiral Fanshawe, in a late telegram, reported that everything bad drifted towards the French coast, and no bodies had been recovered. It appeared that when the disaster occurred the men were in the act of shortening sail. The two men recovered were in Bonchurch Cottage Hospital, and it was hoped they would be well enough to be in London, to-morrow. The officers on board the Eurydice were specially selected for efficiency. He expressed the deep sorrow the Admiralty felt at the disaster— the greatest since the loss of the Captain. (Hear, hear.)  
 [Left sitting.]
 
+tag: Parliament
+
 ```
 
 
-![](../images/P.1986.44-Copy.jpg)
+
+```{figure} ../images/P.1986.44-Copy.jpg
+---
+---
+
 http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg
+```
+
+
 
 Further communications from the Palace also followed:
 
@@ -188,7 +225,11 @@ Windsor Castle, Monday.
 ```
 
 
-![](../images/NH_61070.jpg)
+
+```{figure} ../images/NH_61070.jpg
+---
+---
+
 Title: HMS EURYDICE British Frigate, 1843
 Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
 Description:
@@ -200,6 +241,9 @@ After this Year: 1870
 Before this Year: 1879
 Original Medium: BW Photo
 - https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html
+```
+
+
 
 
 ```{admonition} FOUNDERING OF H.M.S. EURYDICE.
@@ -216,7 +260,7 @@ VENTNOR, Sunday Evening.
 Her Majesty’s training-ship Eurydice capsized in a sudden squall off Dunnose, Isle of Wight, at half-post 4 o’clock this afternoon, and went down at once. The schooner Emma, which was passing, picked up five men. but some of these have since died. Cuddicombe, a First-class Boy, and Fletcher were saved, and Tabor, the First Lieutenant, but it is very doubtful whether he will recover. The military Engineer officer was drowned. The ship was commissioned at Portsmouth on the of February, 1877, and was ordered to the West Indies. She was now bound for Spithead, and was observed passing Ventnor few minutes before the catastrophe with all sail set. A snowstorm then came on very suddenly with very heavy gusts of wind. Probably no more men have been saved than those picked up by the schooner, as a strong ebb tide was running. The sun came out brilliantly directly after the squall, but nothing could be seen from the shore Ventnor except a few large boxes being swept down the Channel, and certainly no boats. The schooner has been detained by Captain Roche, R.N., Inspecting Commander, St. Catherine's Division of the Coastguard, who went on board immediately with Ventnor doctors, and has telegraphed to the Admiral at Portsmouth to send round a steamer.
 
 Later.  
-Lieutenant Tabor is dead, and his body has been brought ashore, so that the only survivors, so far as known, are Benjamin Cuddicombe, of Plymouth, and Sydney Fletcher, of Bristol, First-class Boy, aged 19. Cuddicombe states that the ship capsized in a squall and snowstorm five miles of Dunnose, about 4 o’clock. More than 300 men were on board, all of whom, he believes, are lost except himself and Fletcher. Cuddicombe was among the last on the ship. Captain Hare was near him when the ship went down, suclkng many with it. Cuddicombe and man near him said that vessel was close by when the squall came on, and, therefore, they would be sure to picked up. He was over an hour the water. Being a first-rate swimmer, every one called out to him for help. He tried to assist two or three, but last four clung to him, and he was obliged to kick them off. Was well taken care of the Master of the schooner and Crew. The ship left Bermuda three weeks ago, passed the Lizard yesterday, and expected to anchor at Spithead about 5 o’clock.
+Lieutenant Tabor is dead, and his body has been brought ashore, so that the only survivors, so far as known, are Benjamin Cuddicombe, of Plymouth, and Sydney Fletcher, of Bristol, First-class Boy, aged 19. Cuddicombe states that the ship capsized in a squall and snowstorm five miles of Dunnose, about 4 o'clock. More than 300 men were on board, all of whom, he believes, are lost except himself and Fletcher. Cuddicombe was among the last on the ship. Captain Hare was near him when the ship went down, sucking many with it. Cuddicombe and man near him said that vessel was close by when the squall came on, and, therefore, they would be sure to picked up. He was over an hour the water. Being a first-rate swimmer, every one called out to him for help. He tried to assist two or three, but last four clung to him, and he was obliged to kick them off. Was well taken care of the Master of the schooner and Crew. The ship left Bermuda three weeks ago, passed the Lizard yesterday, and expected to anchor at Spithead about 5 o’clock.
 
 These two men are well provided for at the Cottage Hospital, Bonchurch, and are under the care of Dr. Williamson, of Ventnor, who considers them to be doing fairly well.
 
@@ -233,12 +277,25 @@ Three bodies have come ashore; two identified as those of Colonel Ferrol, RE. (?
 
 The sudden squall that hit the Eurydice was part of a weather front that had been making its way down the country that Sunday, starting in Scotland and hitting points to the West, in Wales, and the East, such as London, as well as the Isle of Wight.
 
-![](../images/BL_0001702_18780323_078_0008_pdf__1_page_.png)
+
+```{figure} ../images/BL_0001702_18780323_078_0008_pdf__1_page_.png
+---
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008 Shipping and Mercantile Gazette - Saturday 23 March 1878 - weather chart
+```
 
 
-![](../images/BL_0000057_18780330_027_0021_pdf__1_page_.png)
+
+
+```{figure} ../images/BL_0000057_18780330_027_0021_pdf__1_page_.png
+---
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true Weather chart for week March 21st - March 27th (inclusive) Graphic - Weather chart for the week- Saturday 30 March 1878
+```
+
+
 
 
 ```{admonition} THE GALE AND SNOW STORM
@@ -263,14 +320,23 @@ On Sunday evening, during a heavy gale from the north, accompanied by snow showe
 ```
 
 
-![](../images/ILN_1878_loss_of_euridyce_apr_06_03x.png)
+
+```{figure} ../images/ILN_1878_loss_of_euridyce_apr_06_03x.png
+---
+---
+
 Illustrated London News — H.M.S. Eurydice as she lay at eight a.m. on March 25 off Dunnose Point, Isle of Wight, April 6, 1878
+```
+
+
+
+By this point, further information was starting to trickle out about who was thought to have been on-board the Eurydice, along with biographies of the senior officers:
 
 
 ```{admonition} THE LOSS OF THE EURYDICE.
 :class: note dropdown
 
-[Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005), 1878-03-26, p. 5
+[Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005), 1878-03-26, p. 5-6
 
 From Our Own Correspondent, Ventnor, Monday
 
@@ -286,13 +352,13 @@ There is as yet very little to add to the sad account of the loss of life in the
 
 The master of the schooner Emma, who picked up the survivors, states that he was proceeding down Channel, and being below in his berth he was hurriedly called on deck by the mate in charge and told there were signs of a heavy gale coming on. On reaching the deck he immediately gave orders to guard against the evidently impending danger by taking in all the sail he had set. The mate then told the master that a short time previous he saw a man of war ahead, but new she was nowhere to be seen, and on nearing the spot where she was last seen he saw the men he had picked up floating about, but did not see any other bodies. He states that the gale and snowstorm was the most violent he ever witnessased, as it came to its height almost suddennly.
 
-The schoomer and her crew have been detained by order of the Commander-in-Chief, in case the eNvdence of the men should be required at any court of inquiry that may hereafter be hold. The sad calamity has caused a heavy gloom to spread over the place and neighbourhood, where so many of the relatives of the unfortunate officers and crew reside.
+The schooner and her crew have been detained by order of the Commander-in-Chief, in case the evidence of the men should be required at any court of inquiry that may hereafter be hold. The sad calamity has caused a heavy gloom to spread over the place and neighbourhood, where so many of the relatives of the unfortunate officers and crew reside.
 
 Her Majesty sent a telegram to-day to the Commander-in-Chief for all particulars, and to express her grief at the sad occurrence.
 
 PORTSMOUTH, MONDAY EVENING
 
-A steamer has just come in from the scene of the wreck, but no bodies have been found. Divers have been down, but they could not penetrate to the lower deck. All the sails are set. Thy wreck is not more than a mile and a half from the shore.
+A steamer has just come in from the scene of the wreck, but no bodies have been found. Divers have been down, but they could not penetrate to the lower deck. All the sails are set. The wreck is not more than a mile and a half from the shore.
 
 TELEGRAMS FROM THE QUEEN.
 
@@ -308,7 +374,7 @@ The following telegram from the Queen to the First Lord of the Admiralty. dated 
 
 The subjoined particulars of the deplorable event are gleaned from various sources :—
 
-Captain Somerset, the senior officer at Bermuda, in a letter of the 6th inst., reports that the Eurydice arrived on 25th February from Antigua, and sailed 6th March for Portsmouth. She had on board, besides her own otficera and crew, one ship's corporal, nine marines and time-expired men, six military time-expired men, two naval invalids, and three court-martial prisoners. The names of these men are not yet known.
+Captain Somerset, the senior officer at Bermuda, in a letter of the 6th inst., reports that the Eurydice arrived on 25th February from Antigua, and sailed 6th March for Portsmouth. She had on board, besides her own officers and crew, one ship's corporal, nine marines and time-expired men, six military time-expired men, two naval invalids, and three court-martial prisoners. The names of these men are not yet known.
 
 Captain Hare, who commanded the Eurydice, and Lieutenant Tabor, the first lieutenant, were first-rate seamen and were selected by the late Mr. Ward Hunt especially for their good qualities in this respect. The cruise had been a most successful one.
 
@@ -324,10 +390,112 @@ A telegram from Portsmouth at noon yesterday says: —"The excitement here is in
 
 The indications are that her sails were not blown away by the squall, and the consequently she was laid on her beam-ends, and it is surmised that the ports being open she immediately filled and sank. The Eurydice being a fine statch ship, it is believed there will be no difficulty in raising her. She was a fully rigged ship. She was a wooden ship of 921 tons. She is thus described in the Navy List:-
 
-MORE COLUMNS WITH NO RELIABLE OCR POSSIBLE - LIST OF NAMES AND BIOGRAPHIES
+Eurydice, four guns, sixth rate.
+
+Captain— Marcus A. S. Hare, February 7, 1877  
+Lieutenants— Francis H. Tabor,, February 7, 1877; Charles V. Sttrange, October 10, 1877; William E. Black, February 7, 1877; Stanley A. B. Barney, February 7, 1877.  
+Staff-Surgeon— James L. Whitney, February 9, 1877.  
+Paaymaster— Frank Pittnam, February 7, 1877.  
+Sub-Lieutenants— Hon. Edward R. Gifford, February 7, 1877; Herbert S. Edmunds, February 7, 1877; Walter S. Smith, March 1, 1877; Sydney G. Randolph, Ocotober 26, 1877.  
+Surgeon— Robert Murdoch, M.B., February 20, 1877.  
+Gunner— Frederick Allen, February 20, 1877.  
+Boatswains— William Brewer, February 9, 1877; Joseph Warren, February 20, 1877.  
+Assistant Clerk— William Lamont, February 20, 1877.
+
+The following is an epitome of the services of some of the principal offciers of this ship:— Captain Marcus Augustus Stanely Hare was born in 1836, and entered the navy in 1849, and previous to his promotopn to lieutenant, which took place January 14, 1857, served for some time in the Valorous, 16,, Captain Claude H. M. Buckle, C.B., in the Mediterranean. As lieutenant he served in the Calcutta, 84, on the East India and China station, from February, 1858, until trasnferred in 1859 to the Chesapeake, 51, on the same station, where he remained until the close of 1861. From December, 1861, until November, 1862, he servedin the Chanticleer, 17, attached to the Channel Squadron, and in the latter month removed into the Trafalgar, 70, in the Mediterranean, where he remained until March 24, 1864, when he was transferred to the St. Goerge, 72, coastguard ship at Portland, from which he was promoted to the rank of commander, January 1, 1867. He was second captain in the Royal Oak, 24, in the Mediterranean from December, 1867, until paid off in Jauary, 1872, and commanded to the Boscawen, 20, training ship for boys at Portland from March, 1872, until posted February 13, 1873. He has commanded the Eurydice, training ship for ordinary seamen, since the 7th of February, 1877. Captain Hare had received four medals for his services.
+
+Lieutenant Francis Hope Tabor served as sub-lieutenant in the Minotaur, 34, Cpatain James G. Goodenough, flagship successively of Rear-Admral Frederick Warden, C.B., and Vice-Admiral Sir Thomas M. C. Symonds, K.C>B., wih the Channel Squadron from September 18, 1867, until promoted to lieutenant May 19, 1870. As lieutenant he served in the Narcissus, 28, Captain William Codrington, flag-ship successively of Rear-Admirals F. Beauchamp P. Seymour, C.B., and Frederick A. Campbell, with the detached squadron from December 1, 1870, until paid off in October, 1872, and in the following month was appointed to the Cruizer, 5, COmmander ALfred T. Dale, fitting for the Mediterranean, where he remained until July, 1876. He was appointed to the Eurydice February 7, 1877.
+
+Lieutenant Charles Vernon Strange served in the Narcissus, 35, on the Southern-Eastern Coast of America, as flag-lieutenant to Rear-Admiral Goerge Ramsay, C.B., from December 2, 1868 until paid off in August 1869., having previously served in the same ship as one of her sub-lieutenants and acting sub-lieutenant. From Novemeber, 1869, until appointed, June 29, 1870, to the royal yacht Albert and Victoria, he served in the Valorous, 12, Captains Francis S. Tremlett and Edward Hardinge, on the North American and Indian stations, and obtained his commission as lieutenant August 18, 1870. As lieutenant he served in the Cadmus, 17, Captain William H. Whyte, with the detached squadron, and at China from July 1, 1871, until April, 1874, when he was appointed to the Duke of Wellington, and remained until April, 1875. He afterwards studied for some time at the Royal Naval College, and from November, 1876, until appointed to the Eurydice, in October, 1877, was navigating officer in charge of the Emerald, 12, composite corvette, at Pembroke and Devonport.
+
+Dunnose, the point off which the unfortunate ship was lost, is well known to visitors to the Isle of Wight. It is situated at a short distance south of Shanklin Chine, and is about midway from that point to the Black Gang Chine.
 
 ```
 
+
+The same edition of the Morning Post also provided more information regarding who had been on board that final, fateful voyage with the publication of a list of the crew as provided by the Admiralty:
+
+
+```{admonition} THE LIST OF OFFICERS AND CREW.
+:class: note dropdown
+
+[Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005), 1878-03-26, p. 6
+
+We have received fron the Secretary of the Admiralty the following list of officers and others borne on the Eurydice. It has been made out of the latest returns which have been received, but its strict accuracy cannot at the present time be certified:—
+
+OFFICERS.
+
+Francis H. Tabor, senior lieutenant; Frank Pittman, paymaster; Stanley A. B. Burney, lieutenant; M. A. S. Hare, captain; Hon. E. R. Clifford, sub-lieutenant; Herbert S. Edmunds, sub-lieutenant; Frederick Allen, gunner; William E. Black, lieutenant; William Lamont, assistant clerk; Joseph Warren, boatswain; William Brewer, boatswain (instructor); James L. Witney, staff surgeon; Robert Murdoch, surgeon; Walter S. Smith, sub-lieutenant; Charles V. Strange, lieutenant.
+
+SHIP'S COMPANY.
+
+Charles Newberry, Charles Pack, Daniel Harley, Cornelius Chamberlain, and John Mitchell,  Alexander Robertson, Henry Petty, James C. Hoare, David Walsh, Alfred Arnell, Henry Clark, Edrward Slater, Edward Norris, James E. Magin, Benjamin Cuddiford, George Perring, John Gillard, Samuel Cotton, William Sparrow, Thomas Rhynheart, Walter Miller, Frederick Barnes John Sparrow, John F. Pitman,  Charles Hucklesby,  Thomas H. Henshaw, Edward J. Stockwell, John J. Lee, Thomas Nicholas, Charles Lewis, Frederick W. Morris, Lima J. Bence, Joseph Symons, George Jennett, John S. Coombes,  Thomas Gordon, Reuben Shears, Thomas Hayes, William D. Owen, James Harding, James Scarr, William Hardy, Robert Perry, William S. Saunders, John Purches, Arthur Cockrell, Samuel Haine, William J. Wilmshurst,  G.J. Seidenstücker, Richard Hooper, Charles Welch, George A. Bennett, John Carbon, William Cottier, John Wreford, shipwright; Thomas Weaire, William R. Bryans, Robert Harrison, Thomas Haver, Charles Champion, James K. Waugh, David Bennett, John W. Thompson, William Gray, William Jennings, John Hayes, William Uglow, Elias Whitfield, John G. Cock, and Joseph Dorothy, James Long.
+
+MARINES.
+
+George Wood, Stephen Taylor, Joseph Curtis, John Elson, Robert Crickmer. John Cowen, George Falconer, George Ledger, James P. Tomlinson, Isaac Wheeler, Charles Baker, James Madden, Henry Gould, Thomas Hellier, James Turner.
+
+SUPERNUMARIES.
+
+Peter Mason, John Scanlan, Melehk Varcoe, William Davey, John M'Donnell,  Samuel T. Board, John Broad, Charles Clements, Arthur Radford, John Curd, Alfred Parker, John G. Abraham, George Slade, Charles J. Blake,Albert J. Brown, William R. Allen, Edward Horne, Henry Duncan, William E. Sandy, Henry Gilham, Wm. H. Sibthorpe, William Begg, Daniel J. Devitt, John Matlock, Alexander W. Vassie, Charles F. Butler,(run 3d January, 1878, recaptured, sent to prison) ; Alma Taylor, R. A. G. Albone, John H. Mooney, John Winter, Peter Lamond, Samuel Hounsell, W. J. R. Coombes, James Pearce, Charles Wilkins, Simeon R. Armstrong, William Stewart, George Bexhall, William Snell, James W. Farrar, Henry Underwood, John Woodgates, Eugene A. A. Horswell,(discharged to Military Prison, Barbadoes, for 28 days, on the 22nd December, 1877; not known whether he returned to ship before leaving station) ; Edward J. Parker, W. R. Adams, John Bowman, Frederick E. Austin, W. R. Pitt, W. H. Shuker, William C. Goff, Charles F. Read, ordinary ; Alfred Seymour, Charles M'Dermott,  Harry Taylor, William Frampton, Thomas Parker, Alma J. Drury, William Chamberlin, John H. Brookes, Charles Day, Alexander Crerar, Albert G. Newland, William Council, James H. Millie, John Ransome, S. Fair, Lawrence Feherty, George Gray, Henry Fielder, George Smith, Charles Adams, Charles Claringbold, Britton Cranstone, William R. French, William Russell, (run 7th January, 1878, recaptured, qy. in prison); Joseph G. F. B. Butler, William Brewer, Charles Clarke, Samuel Hunt, Edward Lockett, Thomas Bailey,Henry Chapple, ordinary, 2nd class; W. J. Duff, John Havern, James Kelly, Thomas B. Smith, James Knight, Adam Storey, John Craig, John Smith, Charles Dunn, John Williams, Richard Watts, David Bowden, John Adams, John Galbraith, George J. Smith, Martin Mooney, Christopher Kiely, James Goggin, William J. Wilmot, John Appledore, Henry Veals, Charles Mellish, Joseph Gibbs, Thomas Cleverley, Thomas Esling, Henry Scull, William J. Trotman, Patrick Keating, Samuel Emmett, Robert A. Cozens, William Smith, E. W. Drayton, A. W. Batchelor, Thomas Dally, James Linforth,  Archibald D. Hillier, Albert C. Doogood, Stephen Dale, ordinary, (discharged to gaol, Barbadoes, December 22nd, 1877, for 28 days, not known whether he returned to ship before she left station) ; Robert Fitzsimmons, William Plank, James Dowdal, Andrew Philip, William Shorrock, George Ward, James J. Richards, James H. Chew, William J. Arnold, George Symons, Charles Mutton, Alfred Barnes, Thomas Keast, George Lambe, Alfred G. Glass, William Martin, Henry Wands, Alfred Walker, Albert L. Pead, Samuel Brown, (discharged to hospital 24th of November, 1877, and not returned, 31.12.77), Arthur W. Leggs, Charles F. Bradfield, David Harvey, Frederick Channon, Charles Howard, William J. Logan, Ernest Hill, William James Badcock, Thomas Grigg, Sydney Fletcher,Frank Targett, James Riley, John W. Poole, Francis Dawes, Charles Allen, William Blight, Ward Lister, Albert Adams, Albert Curtis, Thomas Wardlow, John S. March, John Marney, (discharged to Military Gaol, Barbadoes, for 28 days, on December 22nd, 1877; not known whether he returned to ship before she left station) ; Aquila Paver, Henry Sandham, Patrick Grannon, William J. Desver, Thomas Calnau, Charles Lawrence, Philip Baker,James Rose, Richard Farndell, Charles A. Wentworth, Matthew Aitken, George W. Rolls, Alfred W, Walker, (run January 7th, 1878, at Grenada, re-captured per return for February, 1878: qy. sent to prison), Edward Burnside, Walter J. Baker, Walter Swindells, J. Garrett, George W. Ambridge, ordinary, 2nd class; Samual R. A. Mitchell, Sim. W. List, Thomas Brophy, George W. Lee, Charles E. Fry, Charles Jackson, Thomas Spriddle, William H. Mildon, Charles Bloomfield, William A. Brooke, John Gordon, James Chandler, John Robertson, John Galvin, Alfred J. Gale, James M'Dermott, Edward Turner,
+
+```
+
+
+Another column provided details of the construction of the Eurydice, as well as the number and types of additional boats she was carrying:
+
+
+```{admonition} THE BUILD OF THE EURYDICE
+:class: note dropdown
+
+[Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0005), 1878-03-26, p. 6
+
+The Eurydice, designed by the late Admiral the Hon. George Elliot, and originally intended as a 26 gun frigate, was built at Portsmouth yeard, and launched in May 1843. Her dimensions are as follows:— Length between perpendiculars, 141ft. 3in.; length of keel for tonnage, 117ft. 11 in.; extremee breadth, 38ft. 10 in.; breadth for tonnage, 38ft. 4in.; breadth moulded, 37ft. 10 in.; depth in hold, 8ft. 9in.; and tonnage, 921 tons. Her internal arrangements are preceisely similar to those of sailing ships of her date. The form of her bottom is somewhat peculiar, approching the peg-top type of ships designed by the late Sir W. Symonds. She carried six 64-pounders on the main deck, but no guns on the upper deck, which was formerly opened in the waist. She is a square rigged ship, and had a good free board, her top sides being railed the entire length and her waist nettings done away with. Her depth of draught of water forward is 16ft. and aft 17ft., and the vessel was fitted for a nominal crew of 284, including officers, seamen, marines, and biys, but accommodation was provided for supernumeraries. Extreme lengths of masts— Foremast, 80ft. 10in.; mainmast, 80ft. 7in.; and mizen, 67ft. 2in.; top foremast, 44ft. 6in.;maintopmast, 50ft. 6in.; mizentopmast, 37ft. 6in.; top gallantmast, 21ft.; maintopgallant, 23ft. 6in.; mizen, 18ft.; bowsprint, 34ft. The Eurydice carried two pinaces, one cutter, one gig, one whale-boat and a dingy.
+
+```
+
+
+With the first Coroner's court over, mutterings were afoot about the need for a fuller inquiry:
+
+
+```{admonition} THE LOSS OF THE EURYDICE.
+:class: note dropdown
+
+[Evening Mail](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006), 1878-03-29, p. 6
+
+[EXCERPTED - FUNDRAISING]
+
+Although the Coroner's jury has agreed in finding a verdict exonerating the captain, officers, and crew of the Eurydice from any culpability as regards the loss of the ship, it has been noticed that they expressly do so from the evidence that was adduced before them, and as this consisted necessarily of the statements of the able seaman Cuddiford, and the ordinary seamen Fletcher, a mere lad, who was below at the time the ship was struck, it is thought that further investigation into the circumstances of the wreck is called for. A Naval Court of Inquiry will be held on board the Duke of Wellington, at Portsmouth, under the presidency of Admiral Fanshawe and Admiral Hall. The Secretary of the Admiralty has already visited the port for the purpose of making the necessary arrangements. The great difficulty is to account for Captain Hare crowding his vessel with canvas at a time when the falling of the barometer showed that bad weather was at hand, and after other ships had shortened sail. There has been no rumours of panic, but it is thought that the efforts of the officers at the supreme moment of being struck may have been partly arrested by the fact that the ship was manned by ordinary seamen who were comparatively inexperienced. It is also regarded as unusual that a ship with all ger canvas spread and cutting through the water at about nine knots should have had her lee ports open. Had the ports been closed, or had they been closed as soon as the squall was noticed, it is thought that the ship would have righted herself after being struck, even had there been no time to lower the balliards and shorten sail. The body of Lieutenant Tabor, the First Lieutenant, was conveyed to the relatives of the deceased at Cheam by the last train on Tuesday night, and yesterday the body of Captain Ferrier was removed to Edinburgh for interment, the men-of-war in harbour lowering their ensigns sa it was brought on shore. It is known that no bodies are on the weather deck, and it is not believed that many of the bodies of the port watch will be recovered as they would most probably be carried out to sea with the ebb tide, assisted by the wind. It is, however, thought that the starboard watch will all be found between decks. One hundred and twenty coffins have been ordered to be forwarded to Haslar Hospital in readiness for the reception of the bodies. 
+
+The riggers and divers went out again on Wednesday, to the wreck, but the weather was too boisterous to enable them to get near. The weather having moderated, they went out again in the afternoon, and succeeded in getting of the fore royal and letting go her fore tack and sheet. They very nearly succeeded in clearing the foresail, but as the tide was coming up strong, they were obliged to desist for the night. Only the fore, main and mizen yards remain and when these, the slack rops, and the anchor gear have been cleared, the ship will be ready for slinging. Until the yards are removed itis dangerous for the divers to go between decks, and it is doubtful whether the bodies will be reached until the ship is afloat.
+
+Nothing further has occurred with reference to the Eurydice. The tugs went out of Portsmouth harbour yesterday meorning to continue operations on the wreck, but when they reached Southsea pier they encountered so heavy a sea that it was deemed useless to proceed further, and they returned to harbour. The Pearl, corvette and the Rinaldo, sloop, which latter was formerly prepared to lift the Oberon off the shoal at the mouth of Portsmouth harbour, are being fitted to assist in lifting the Eurydice and floating her in Sandown bay. A number of purchases will be required, and a couple of weeks will probably elapse before operations will be commenced. A light ship has been moored near the wreck.
+
+Orders have been given by the Admiralty for the widows of the petty officers and seamen to be paid a sum of money equally to one year's pay of their deceased husbands. This is the customary dole.
+
+The Lord Mayor has intimated to the naval authorities at Portsmouth his willingness to receive subscriptions at the Mission House in aid of the fund now being raised for the relief of the widows, orphans, and dependent relatives of the men lost.
+
+Lieutenant-General Price Edward of Saxe-Weimar, the Duke of Tesk, and Admiral Sir Spencer Robinson, K.C.B. have joined the Eurydice Fund Ciommittee, of which Lord Henry Lennox is hon. secretary.
+
+"Visitor" writes to us from Mitcham:
+
+"On Sunday last I was walking with my son from Epsom Downs to Dorking via Headley Common, one of the most exposed pieces of table land in Surrey. About a quarter past 4 we observed an enormous black cloud like a monster balloon. It seemed to burst in a moment and for two minutes at least here was a regular tornado, which very nearly knocked us down. THe sno which followed lasted about three quarters of an hour, and on reaching a roadside inn we found that what appeared to be snow on our clothes was hard-frozen ice."
+
+TO THE EDITOR
+
+Sir, in the accounts which have appeared of the loss of the Eurydice and in the articles of which this sad catastrophe has furnished the text, I have seen no remark made on the coincidence that a somewhat similar fate, under somewhat similar circumstances,— for it was almost within sight of her destination — befell her ill-fated consort ship 15 years ago. COnsort ship I say, for the ship alluded to is the Orpheus. The loss of the Orpheus, as it happened on the other side of the world, has perhaps been forgotten here. Her Majesty's ship Orpheus, carrying the pendant of the Commodore of the Australia station, was entering the Manukau harbout, near Auckland, on her voyage to New Zealand. It was a fine Saturday afternoon in February or March, 1863. Mistaking the channel she struck on the bar; Commodore, officers and men took the the rigging, but were swept awy by the surf, the paymaster, two mid-dhipmen, and some 40 men being the only ones saved out of a large ship's company. I am speaking from memory only, but I saw the survivors brought on shore, and this, I think, was the number. The coincidence that two ships so connected by their names should be lost when their wished for havens were all but reached seems worthy of remark.  
+I am your obedient servant,  
+H. Stratton Bates.  
+The Cranhams, Cirencester, March 25.  
+
+TH: letter noteable eg for Eurydice myth, but also is:
+
+> "The appalling accident to Her Majesty's ship Eurydice, whereby numerous families are rendered comparatively destitute through loss of the bread-winner, calls for the sympathy of all who hold that England should ever maintain her supremacy on the ocean, and this meeting pledges itself to use every endeavour to alleviate, as far as possible, the grievous loss sustained by the widows, orphans and relatives of those who, within sight of their homes, perished in the execution of their duty to their country."
+
+```
+
+
+By the time the weekly local press appeared almost a week after the disaster, little further information had appeared and the news was essentially a recap of news that had been printed elsewhere:
 
 
 ```{admonition} CAPSIZING OF H.M.S. "EURYDICE"  
@@ -368,45 +536,14 @@ In another telegram to Mr Smith the Queen said the telegrams had caused us the g
 ```
 
 
-![](../images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg)
+
+```{figure} ../images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg
+---
+---
+
 Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich
-
-
-```{admonition} THE LOSS OF THE EURYDICE.
-:class: note dropdown
-
-[Evening Mail](https://www.britishnewspaperarchive.co.uk/viewer/bl/0003187/18780329/051/0006), 1878-03-29, p. 6
-
-[EXCERPTED - FUNDRAISING]
-
-Although the Coroner's jury has agreed in finding a verdict exonerating the captain, officers, and crew of the Eurydice from any culpability as regards the loss of the ship, it has been noticed that they expressly do so from the evidence that was adduced before them, and as this consisted necessarily of the statements of the able seaman Cuddiford, and the ordinary seamen Fletcher, a mere lad, who was below at the time the ship was struck, it is thought that further investigation into the circumstances of the wreck is called for. A Naval Court of Inquiry will be held on board the Duke of Wellington, at Portsmouth, under the presidency of Admiral Fanshawe and Admiral Hall. The Secretary of the Admiralty has already visited the port for the purpose of making the necessary arrangements. The great difficulty is to account for Captain Hare crowding his vessel with canvas at a time when the falling of the barometer showed that bad weather was at hand, and after other ships had shortened sail. There has been no rumours of panic, but it is thought that the efforts of the officers at the supreme moment of being struck may have been partly arrested by the fact that the ship was manned by ordinary seamen who were comparatively inexperienced. It is also regarded as unusual that a ship with all ger canvas spread and cutting through the water at about nine knots should have had her lee ports open. Had the ports been closed, or had they been closed as soon as the squall was noticed, it is thought that the ship would have righted herself after being struck, even had there been no time to lower the balliards and shorten sail. The body of Lieutenant Tabor, the IFrst Lietenant, was conveyed to the relatives of the deceased at Cheam by the last train on Tuesday night, and yesterday the body of Captain Ferrier was removed to Edinburgh for interment, the men-of-war in harbour lowering their ensigns sa it was brought on shore. It is known that no bodies are on the weather deck, and it is not believed that many of the bodies of the port watch will be recovered as they would most probably be carried out to sea with the ebb tide, assisted by the wind. It is, however, thought that the starboard watch will all be found between decks. One hundred and twenty coffins have been ordered to be forwarded to Haslar Hospital in readiness for the reception of the bodies. 
-
-The riggers and divers went out again on Wednesday, to the wreck, but the weather was too boisterous to enable them to get near. The weather having moderated, they went out again in the afternoon, and succeeded in getting of the fore royal and letting go her fore tack and sheet. They very nearly succeeded in clearing the foresail, but as the tide was coming up strong, they were obliged to desist for the night. Only the fore, main and mizen yards remain and when these, the slack rops, and the anchor gear have been cleared, the ship will be ready for slinging. Until the yards are removed itis dangerous for the divers to go between decks, and it is doubtful whether the bodies will be reached until the ship is afloat.
-
-Nothing further has occurred with reference to the Eurydice. The tugs went out of Portsmouth harbour yesterday meorning to continue operations on the wreck, but when they reached Southsea pier they encountered so heavy a sea that it was deemed useless to proceed further, and they returned to harbour. The Pearl, corvette and the Rinaldo, sloop, which latter was formerly prepared to lift the Oberon off the shoal at the mouth of Portsmouth harbour, are being fitted to assist in lifting the Eurydice and floating her in Sandown bay. A number of purchases will be required, and a couple of weeks will probably elapse before operations will be commenced. A light ship has been moored near the wreck.
-
-Orders have been given by the Admiralty for the widows of the petty officers and seamen to be paid a sum of money equally to one year's pay of their deceased husbands. This is the customary dole.
-
-The Lord Mayor has intimated to the naval authorities at Portsmouth his willingness to receive subscriptions at the Mission House in aid of the fund now being raised for the relief of the widows, orphans, and dependent relatives of the men lost.
-
-Lieutenant-General Price Edward of Saxe-Weimar, the Duke of Tesk, and Admiral Sir Spencer Robinson, K.C.B. have joined the Eurydice Fund Ciommittee, of which Lord Henry Lennox is hon. secretary.
-
-"Visitor" writes to us from Mitcham:
-
-"On Sunday last I was walking with my son from Epsom Downs to Dorking via Headley Common, one of the most exposed pieces of table land in Surrey. About a quarter past 4 we observed an enormous black cloud like a monster balloon. It seemed to burst in a moment and for two minutes at least here was a regular tornado, which very nearly knocked us down. THe sno which followed lasted about three quarters of an hour, and on reaching a roadside inn we found that what appeared to be snow on our clothes was hard-frozen ice."
-
-TO THE EDITOR
-
-Sir, in the accounts which have appeared of the loss of the Eurydice and in the articles of which this sad catastrophe has furnished the text, I have seen no remark made on the coincidence that a somewhat similar fate, under somewhat similar circumstances,— for it was almost within sight of her destination — befell her ill-fated consort ship 15 years ago. COnsort ship I say, for the ship alluded to is the Orpheus. The loss of the Orpheus, as it happened on the other side of the world, has perhaps been forgotten here. Her Majesty's ship Orpheus, carrying the pendant of the Commodore of the Australia station, was entering the Manukau harbout, near Auckland, on her voyage to New Zealand. It was a fine Saturday afternoon in February or March, 1863. Mistaking the channel she struck on the bar; Commodore, officers and men took the the rigging, but were swept awy by the surf, the paymaster, two mid-dhipmen, and some 40 men being the only ones saved out of a large ship's company. I am speaking from memory only, but I saw the survivors brought on shore, and this, I think, was the number. The coincidence that two ships so connected by their names should be lost when their wished for havens were all but reached seems worthy of remark.  
-I am your obedient servant,  
-H. Stratton Bates.  
-The Cranhams, Cirencester, March 25.  
-
-TH: letter noteable eg for Eurydice myth, but also is:
-
-> "The appalling accident to Her Majesty's ship Eurydice, whereby numerous families are rendered comparatively destitute through loss of the bread-winner, calls for the sympathy of all who hold that England should ever maintain her supremacy on the ocean, and this meeting pledges itself to use every endeavour to alleviate, as far as possible, the grievous loss sustained by the widows, orphans and relatives of those who, within sight of their homes, perished in the execution of their duty to their country."
-
 ```
+
 
 
 
@@ -427,6 +564,8 @@ See also image: BL_0000057_18780330_027_0021_pdf__1_page_.png
 
 ```
 
+
+The weekly local press around the country were also keeping their readers informed about the story has it had unfurled so far, including very similar, and equally comprehensive, reports of the coroner's inquiry to those that had appeared elsewhere:
 
 
 ```{admonition} CAPSIZING OF THE EURYDICE. LIVES LOST
@@ -518,8 +657,12 @@ VERDICT.
 
 The jury retired, and after an absence of half hour, returned with the following verdict:— "The jury unanimously find that the three deceased were accidentally drowned owing to the capsizing of her Majesty's ship Eurydice, by a sudden squall, at Dunnose, on Sunday, the 24th inst., and the jury consider that, from the evidence adduced, no blame whatever can attach to the captain, officers, and men of the ship."
 
+tags: inquest
+
 ```
 
+
+Summaries of the events of that first week after the disaster also appeared in the London press:
 
 
 ```{admonition} LOSS OF H.M.S. EURYDICE, WITH THREE HUNDRED MEN

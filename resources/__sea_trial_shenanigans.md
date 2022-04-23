@@ -2,13 +2,27 @@
 
 Once launched, the H.M.S. Eurydice took part in a sea-trial to compare her perfrmance against that of other ships, specifically the *Warspite* and the *Grecian* in September 1843 and the *Inconstant* and *Spartan* in Spring, 1844.
 
-![](../images/Hms-warspite-1884.jpg)
+
+```{figure} ../images/Hms-warspite-1884.jpg
+---
+---
+
 HMS Warspite
+```
+
+
 
 From the reports of the trials, it seems that sea trials resembled a cavalier "motor sport" ethic, with every opportunity taken to cheat and malign the competition!
 
-![](../images/lastfourdaysofeu00vern_bw_pdf__page_6_of_90_.png)
+
+```{figure} ../images/lastfourdaysofeu00vern_bw_pdf__page_6_of_90_.png
+---
+---
+
 H.M.S. Eurydice, in The Last Four Days of the "Eurydice", by Captain E. H. Verney, R.N.
+```
+
+
 
 ## Sea Trials, Autumn, 1843
 

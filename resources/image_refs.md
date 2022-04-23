@@ -46,6 +46,12 @@ Example of sail names for a three masted sailing ship
 
 
 
+![](../images/hall_map_iw.jpg)
+Hall map IW ~1850?
+
+![](../images/wight-map-1885ish.png)
+WIght map 1885ish?
+
 ![](../images/004956958-SVC2.jpg)
 The Isle of Wight, AW Fowles, 1897
 http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
@@ -272,7 +278,7 @@ Sandown, looking back towards Luccombe
 Henry Robins - Wreck of HMS 'Eurydice' Towed into Portsmouth Harbour, 1 September 1878 HMP PORMG 1974 517 , Portmsouth City Museum
 
 
-???
+![](../images/UK_CCM_1_P.1986.1470X.png)
 Wreck of HMS Eurydice
 1878
 R. Cadogan-Rothery
@@ -323,6 +329,9 @@ Bathing machines, Sandown
 ![](../images/sandown_pier.jpeg)
 Sandown Pier
 
+![](../images/sandown-pier.jpg)
+Sandown Pier
+
 ![](../images/Sandown-pier-c.1900-c-Richard-T-Riding-640px.jpg)
 
 
@@ -357,6 +366,14 @@ Island Queen at Bembridge Pier
 ---
 
 
+
+IW maps - https://www.islandeye.co.uk/history/
+
 oral history 
 Memories of the Sea
 https://memoriesofthesea.uk/
+
+https://www.islandeye.co.uk/history/piers-and-jetties/ventnor-royal-victoria-pier-historic.html
+Ventnor Royal Victoria Pier (Historic)
+REF NR: 556
+The third attempt to build a Ventnor pier was proposed by the Ventnor Local Board and accepted in July 1884.  Although it had its local dissenters, the pier's build began in 1885 and was completed in July 1887 with a length of 650 feet, sporting a horseshoe pierhead shape.

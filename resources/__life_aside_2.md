@@ -4,8 +4,6 @@ Bembridge and St Helens
 
 Golf course
 
-Reclamation 
-
 jabez balfour
 
 holy stones
@@ -14,24 +12,369 @@ lost wolverton
 
 
 
+```{figure} ../images/3512272457_8784bc5a44_b.jpg
+---
+---
 
-![](../images/004956958-SVC2_jpg_annotated.png)
-The Isle of Wight, AW Fowles, 1897 annotated
-
-
-
-![](../images/3512272457_8784bc5a44_b.jpg)
 Isle of Wight : Bembridge from St.Helens . Harbour section of Victorian Print c.1850s.
 Isle of Wight : A finely detailed print view titled " Bembridge from St.Helens " : a Victorian Print c.1850s.
 https://www.flickr.com/photos/lenton_sands/3512272457/
+```
 
 
-![](../images/st_helens_duver_links_l.jpg)
+
+
+```{figure} ../images/st_helens_duver_links_l.jpg
+---
+---
+
 (Golf course opened 1882)
 St Helens Duver Golf Links
+```
 
-![](../images/Paddle-steamer-Island-Queen-and-the-Spithead-hotel-before-the-addtion-of-the-upper-windows-c.1880-Copy-1024x762.jpg)
+
+
+
+```{figure} ../images/Paddle-steamer-Island-Queen-and-the-Spithead-hotel-before-the-addtion-of-the-upper-windows-c.1880-Copy-1024x762.jpg
+---
+---
+
 Island Queen at Bembridge Pier
+```
+
+
+
+## Land Reclamation Around Brading Having
+
+
+```{admonition} New Local Steam Service.—
+:class: note dropdown
+
+[Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18820914/003/0002), 1882-09-14, p. 2
+
+Owing to the enterprise of some local gentlemen aud others connected with the Bembridge Harbour Works Improvement Company, a new and most attractive steam service has just been successfully added to the attractions of tbe Solent, and one, moreover, which opens up some of the loveliest and least known bits of the scenery of the Isle of Wight. The service is at present worked by a new, comfortable, and rapid little vessel, built in Scotland, and appropriately named the Island Queen. She makes trips daily each way, leaving Bembridge Harbour at haif-past eight, half-past one, and a quarter-past four each day, and calling the Chain Pier, Sea View, the South Parade Pier at East Southsea. the Clarence Esplanade Pier, and Portsmouth Harbour. The charges are exceedingly moderate, return tickets being issued at 9d. and 1s 6d. for respectively second and first-class passages; and as the trip is as novel as it is really enjoyable, the steamer will doubtless become very popular. Yesterday a party consisting of the journalists of Portsmouth, bank managers, and other gentlemen who are interested in the development of the trade and prosperity of Portsmouth and Southsea, went over by invitation of the company and were much struck with the evidence that met their eyes of the enormous sum of money that is now being spent in the improvement of the east end of the island. Leaving out of question the symmetrical pier and other works at and around that beautiful spot, Sea View, we will confine ourselves chiefly to the marvellous transformation which has been wrought at Bembridge the Harbour Works and Improvement Company, under the supervision of Mr. Spencer Balfour, M. P., Mr. Freeman (who, regret to say, breathed his last a few days ago), and Mr. Walker, the very clever resident engineer of the company. Here, where all few months ago was waste of mud and sand and water, are now 700 acres of land reclaimed to the plough, a railway along which runs a well-appointed train to meet the main liae traffic Brading, and which calls at St. Helens en route; an exceedingly commodious and well arranged quay, where most of the cargoes of coal, timber, ami general merchandise for Ryde, Shanklin, Ventnor, and Brading are landed. The works also include the deepening of Bembridge Harbour, and the construction through the reclaimed land of a channel for the river Yar, a stream that drains about a third of the Island. The whole of these great works have been constructed in the most solid and efficient manner and they do infinite credit the engineer, Mr Walter. Close to the pier where the Island Queen lands her passengers, and close also to the new railway station, a commodious and elegantly fitted hotel has been erected and opened under the management Mr. Scadden, whose name as a successful caterer and careful host is so well known in Portsmouth and its neighbouring towns. A golf club has also been formed here, which already numbers fifty members, and no effort will be spared to render Bembridge one of the favourite resorts of the Isle of Wight. An idea of the value of much of the land that has been reclaimed may be formed from the fact that au expert in the employ of the Messrs. Sutton, the well-known seedsmen, estimates that it will require no manure for twenty years. A first crop of oats has just been threshed out with a surprisingly satisfactory result. Some large and well-arranged oyster beds have been established and other portions of the newly-created estate are gigantic beds of such choice vegetables as asparagus and seakale. It will thus be gathered that an exceedingly valuable property is being rapidly created, and people are already beginning to ask themselves how so very promising a field has been permitted to lie fallow for so long, but it seems that an unsuccessful effort to do what has now been accomplished was made two hundred and fifty years ago by Sir Hugh Middleton, who made the New River Waterworks in London. Under his direction a number of Dutch labourers were brought oyer from Holland on the supposition that they would prove to be especially qualified for the work, but they failed, and the failure seems to have deterred others from the undertaking until the successful effort which we now announce. In addition to the railway from Brading to Bembridge a carriage drive 35ft. wide has been constructed between the same points. After viewing the works, which we have attempted thus hastily to describe, and also a pretty acacia avenue for which the place is celebrated, and other points of interest, the party were hospitably entertained by Scadden at the Royal Spithead Hotel, and returned to Portsmouth delighted and impressed by successful effort thus been made to add to theattractiveness of the locality. Full particulars as to the sailing of the Island Queen may be obtained on the Portsmouth side at either of the piers.
+
+```
+
+
+
+```{admonition} Sale of Land at Bembridge.
+:class: note dropdown
+
+[Morning Post](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000174/18980921/013/0002), 1898-09-21, p. 2
+
+The reclamation of land from the sea has always been more or less an enterprise of a difficult character, though it has frequently proved successful. As far back as 1678 the expanse of Brading Harbour, Isle of Wight, was first reclaimed but the sea twice made inroads through the banks. Later an attempt was made by Sir Hugh Myddleton, but again the force of water proved too much for the barrier which was built to check it. About twenty years ago Jabez Balfour secured the estate and built a strong sea wall, formed a harbour constructed a railway, built gas and waterworks, and erected a fine hotel on the sea front. Since that time , about five hundred and twenty acres of land have been gradually brought under a state of cultivation, and this land, together with a building estate of some twenty-eight acres, was sold by auction by Messrs. Douglas Young and Co. yesterday. Over three hundred persons were conveyed by special train and steamer to Bembridge, and the whole of the lots offered were disposed of, the total sale amounting to £13,890, a result which was apparently considered highly satisfactory by the vendors.
+
+??Jabez Spencer Balfour?
+https://www.spectator.co.uk/article/a-very-different-sort-of-balfour
+
+```
+
+
+https://bembridgeharbourtrust.org/local-history/
+
+The major closure of Brading Haven to form what is now known as Bembridge Harbour was started in 1874 and finally finished, after several abortive attempts, in 1880. After this work was completed the ownership of the Harbour passed into the hands of the local railway company. It passed to the Southern Railway after the First World War and then British Railways following nationalisation. It eventually passed back into private hands in 1968.
+
+
+In 1864, the Bembridge Railway, Tramway and Pier Act was passed by Parliament, authorising the construction of land-reclamation works and the building of a pier. By 1878 over 800 acres of land were reclaimed, and a pier built. Bembridge Harbour Pier was only 250ft long, and quite narrow too. Despite this, it was used by ships such as the 46 tonnes Tynemouth, and after the harbour had been dredged to allow larger ships, such as the 125ft. Island Queen in 1878 and in 1892 the 104 tonnes, 137ft paddle steamer Princess of Wales, which was re-named the Bembridge. This was run by the Southsea and Ventnor Steamship Company. This later merged with the Southsea, Ventnor, Shanklin and Sandown Steamship Company to become the Bembridge and Seaview Steamship Company in 1912. Ships which called at Bembridge regularly on a passenger service included the Sandringham, Prince, Duke of York, Carrier and the 130ft Lord Kitchener. The largest ferry was the Alexandra in 1913, which was a 235-tonne ship and 171ft long.
+
+Jabez Balfour scandal - https://en.wikipedia.org/wiki/Jabez_Balfour
+
+http://www.historicrydesociety.co.uk/hear-jabez-balfours-unfulfilled-plans-bembridge/
+
+1864 (27 & 28 Vict.) chapters clxxviii-cccxxix inclusive
+
+https://www.legislation.gov.uk/changes/chron-tables/local/55
+c.cccxxvii
+Bembridge Railway, Tramway and Pier.
+
+https://books.google.co.uk/books?id=UKFUAAAAcAAJ&pg=PT14&dq=27+%26+28+Vict.+bembridge&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjVk86zlKX3AhUYgFwKHXOGBxYQ6AF6BAgHEAI#v=onepage&q=%20bembridge&f=false
+
+The Statutes of the United Kingdom of Great Britain and Ireland, Volume 27
+
+1864
+
+p 1018
+
+Cap. cccxxviii.
+"The Bembridge Railway, Tramway, and Pier Act, 1864." [29th July 1864.]
+
+Recites that the making of a Railiway from the authorised Line of Railway from Ryde to Lower Shanklin, near Yar Bridge, to Bembridge Point, with a Pier or Landing Place there, and a Tramway from the said intended Railway to Bembridge Down, all in the Parish of Brading in the Isle of Wight and County of Southampton, would be of great public and local Advantage; that cerrtain flooded and uninclosed and Waste Lands on the Shore of the Sea in Brading Harbour, and adjoining or near the proposed Railway, which are in the present State incapable of Cultivation, may, by reason of the Works of the Railway, be conveniently reclaimed, and it is expedient that Powers should be given for the Reclamation and Improvement of the same; and that the Company and the Isle of Wight Railway Company should be empowered to enter into Contracts and Arrangements as herin-after provided.
+
+...
+
+
+```{admonition} BEMBRIDGE, March 14.
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18770314/028/0003), 1877-03-14, p. 3
+
+" Improvements."
+
+— Anyone who haa visited this part of the Island, and noticed the beautiful sandy beach, the picturesque asa and land views, and the healthy climate, must have felt aome little surprise that it haa not been so well frequented as other places. Its beauties and advantages have at last been discovered, however, and, as with the rest of the Island, things are looking up here. The chief reason whioh has prevented Bembridge from being oftener visited has been the fact of it being rather difficult of access. Although only a short distance from Ryde there is no getting a carriage there, unless one goes round the harbour, which adds several miles to the journey. If a carriage is taken to St. Helen's, it has to be left there, and passengers are ferried over in small boats for 1d. The harbour here is of considerable width, and the channel of some depth, but an unfortunate bar across ita month has prevented it being useful to large vessels, though yachts, barges, &c., find no difficulty in navigating it, and no less than 655 coasting craft, carrying coal, timber, &c., entered the harbour in 1876, and 600 discharged cargoes at Brading. This being the case, the inhabitants naturally wish to preserve the harbour, though desirous, at the same time, of seeing as many improvements carried out as possible. The great improvement is a projected railway, and, while welcoming it on one account as likely to benefit them, they are strongly opposed to the company, who have obtained powers to improve the harbour aas well as make a railway, and they propose a scale of tolls, at which the inhabitants are highly indignant. No vessels could come in without a toll, and all the old rights and privileges of the fishermen will be gone for ever. Although the Act of the company has actually passed, Captain McDonald, R.N., has taken an active part in calling attention to its provisions, and haa written to the Lords Commissioners of the Admiralty and the Board of Trade, but hitherto without a favourable reply. This gentleman was instrumental in calling a public meeting of the inhabitants last week, when it was clearly shown that the company had trenched conaiderably upon their original plans, and that the harbour would no longer be free if they carried out all that was intended. A committee, consisting of the following gentleman, was appointed to do what they could to preserve the rights of the inhabitants : — Captain McDonald Capt Clayton, Messrs. T. E. Osborn, Searl, W. Osborn, Mursell, Weaver, Damp, and Jones.
+
+```
+
+
+
+```{admonition} BRADING, Oct. 24.  
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18771024/031/0004), 1877-10-24, p. 4
+
+Reclamation of Mudlands at Brading Harbour.
+
+Brading Harbour, although a pretty sheet of water at high tide, presents nothing but a vast expanse of mud flats when tbe water is out, and the channel, which runs between them to Brading quay, is very intricate. Nowhere does the water flow over the mud flats more than two or three feet, and nothing is easier tban for a vessel to get aground in making her way up the harbour. The celebrated Hugh Middleton, the engineer who did so much for the water supply of London, as long ago as the 17th century, is said to have conceived the idea of reclaiming these mud flats, and converting them into arable land, but owing to tbe defective engineering appliances of those days, he did net succeed, and old inhabitants of St. Helen's say that wood work aid other relics of his attempt existed till quite recently, A company bas been formed with much the same object in view as Hugh Middleton, with the addition of a railway. They are now actively at work, and have already reclaimed a plot of land at Bembridge, which will be converted into a railway station. An embankment is now being constructed across tbe harbour to shut out the sea, and thus reclaim about 800 acres of land. A large quay will be made at St. Helen's Mill, where goods will be landed and carried by railway to Brading. instead of being taken by boats. The entrance to the harbour will also be improved, so that vessels of larger burden cau enter. A railway is now in course of construction for the conveyance of passengers to Bembridge and St. Helen's. As both these are pretty places, and possess a good beach, there seems every probability that they will, ere long, become watering places of importance.
+
+```
+
+
+
+```{figure} ../images/hall_map_iw.jpg
+---
+---
+
+Hall map IW ~1850?
+```
+
+
+
+
+```{figure} ../images/004956958-SVC2.jpg
+---
+---
+
+The Isle of Wight, AW Fowles, 1897
+http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
+```
+
+
+
+
+
+```{figure} ../images/004956958-SVC2_jpg_annotated.png
+---
+---
+
+The Isle of Wight, AW Fowles, 1897 annotated
+```
+
+
+
+
+```{admonition} THE RECLAMATION OP BRADING HAVEN.
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18771103/004/0002), 1877-11-03, p. 1
+
+It may not be uninteresring to many of our Isle of Wight readers, now that the reclamation of Brading Harbour is a work in progress, to know that such a work was attempted so far back as 1616, by Sir Hugh Myddleton, whose successful enterprise in connection with the New River Company has given him enduring fame. Smiles, in his " Lives of Engineers," refers to this work, and says that it is probable " that, at some early period, neither swamp nor lake existed at Brading Haven, but a green and fertile valley, for in the course of tbe works undertaken by Sir Hugh for its recovery from the sea, a well, strongly cased with stone, was discovered near the middle of the Haven, indicating tbe existence of a former settled pppulation on the soil. The sea must, however, have burst in and destroyed the settlement, layiug the whole valley under water. In King James's reign, when the recovering of drowned lands began to receive an unusual degree of attention, the project of reclaiming Brading Haven was again revived; and in the year 1616 a grant was made of the drowned lands to one John Gibb, the King reserving to himself a rental of £20 per annum •• • It appears that Gibb sold his right to one Sir Bevis Thelwall, who at once invited Sir Hugh Myddleton to join him in undertaking the work. • • • A satisfactory arrangement having been made with the King, Myddleton began tne work of reclaiming the Haven in the course of tbe same year (1620). He sent to Holland for Dutch workmen, familiar with such undertakings, and it is obvious that be mainly followed the Dutch method of reclamation, although it would also appear that be also employed some invention of his own. No description is given of the paiticular method a opted by Sir Hugh in forming his embankment, but it would appear that he proceeded by driving piles into the bottom oi the Haven, near Bembridge Point, where it is about the narrowest, and thus formed a strong embankment at its junction with the sea, but, as would appear, without making adequate provision for the egress of the inland waters."
+
+A very curious contemporary manuscript by Sir John Oglander, is still preserved amongst the archives of the Oglander family, who hold a great part of the ueighbounng land, from which it would appear that after the ground was recovered, it was not of much value. The best portion was that nearest Brading ; 200 acres were worth about 6s 8d the acre, and all the rest about 2s 6d the acre (!). Wheat, barley, cabbage, and oats, all failed to grow on it ; but rape succeeded best ; all the others came to nothing. At last, on the 8th of May, 1630, there came a very high spring tide, when the sea made a breach, and, not being attended to soon euougb, got worse and worse, till at last it was all covered again with the sea. The total amount lost in the attempt is said to be about £7000. The manuscript referred to further says that though the country people were much against the reclamation of the harbour, yet it " caused a great deal more health in tbese parts than was ever known before." The gates whioh served for a sluice were dug up some years ago near the boatbouse on St. Helen's, " Duvver."
+
+```
+
+
+
+```{admonition} BRADING, July 9.  
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790709/028/0004), 1879-07-09, p. 4
+
+Brading Haven Reclamation Scheme.
+
+— During the few years the works in connection with the above scheme have been in progress, there have not been wanting those ready to express a doubt as to Mr. Seymour or anyone else having the power of bringing such a work to a successful termination. In the annals of engineering, however, there is no such word as " fail," and when we look at the vast works carried out by men like Lesseps, Stephenson, Brunei], and many others, there is no need for doubt as to the ultimate success of the reclamation of Brading harbour. The idea of reclaiming the extensive mudflats, which for years hare only been haunted by the " winkle picker," originated with Mr. E J. H. Saunders, C.E., who succeeded in forming a company to provide the requisite capital, and this company included in its programme not merely the reclamation of the harbour, but the construction of a railway to the pretty little village of Bembridge, hitherto cut off from free communication with other parts of the Island. That the capital required was no trifle may be gathered from the fact that already £80,000 have been expnnded, but no doubt in a few years the company will find the seven hundred acres of land they have now succeeded in preventing the sea from covering very remunerative. At the head of the harbour is a tract of marshy land which at one time was evidently submerged and reclaimed by means of an embankment. This is said to be one of the best bits of grazing gronnd in the Island ; the salt which still remains in tbe gronnd exactly suits the cattle, who thrive on it extremely well, and we see no reason why the land now reclaimed should not be in a few years equally suitable for grazing purposes. The railway to Bembridge also will open up one of the most lovely, though hitherto neglected, spots in the Island. A few years will probably convert this little village into a town, and then the company who have displayed so muoh enternrise will receive a fitting reward.
+
+```
+
+
+
+```{admonition} Important Engineering Work.
+:class: note dropdown
+
+[Dundee Courier](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000162/18790902/111/0008), 1879-09-02, p. 8
+
+—Between the Bembridge and St. Helen's Cliffs, at the Isle Wight, the sea entered and formed a lake known Brading Harbour, covering area of about 900 acres. A company has been formed for the purpose of constructing a railway from the Isle of Wight Railway Company's main line to St Helen's and across the mouth of the harbour to Bembridge. The work is being carried out by Mr Seymour, contractor, and after a number attempts the tide has been completely shut out of the harbour by a thick embankment taken across from St. Helen's to Bembridge, and the land reclaimed is bo used for farming, and building purposes.
+
+```
+
+
+
+```{admonition} Brading  
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18791101/025/0006), 1879-11-01, p. 6
+
+The Reclamation Works.—
+
+We last Monday paid a visit to the reclamation works at Brading Harbour, and found that the damage which had been done there was quite as great as had been reported. There was one part of the embankment, near the Bembridge side, which had to bear the brunt of the heavy sea which rolls in here. The embankment was sound enough, but nothing had been placed on its sides to keep the sand down in its place. The result was that the extraordinary high tide of a fortnight since washed over it, wetted the sand, which flowed away from the embankment like so much water. In a very short time a breach was made, and the sea had such a hold that it was impossible to stop it. The breach has since reached some 70 yards in width, and the sea has covered the whole of the harbour just the same as it did before the embankment was made. Vessels now come up and down the harbour to Brading Quay for chalk as if nothing had ever happened to check them. On walking down the side of the harbour we noticed that in several places the sea had covered the railway, and that the seaweed had washed over the rails, while the sand and shingle had silted up round them. It is, of course, of the utmost importance that the work should be put right, and a number of men are now at work re-making the embankment, which, we believe, will cross the harbour at a different point than it did before. Mr. Seymour has entered into a fresh contract to complete the work, and it is rumoured that his estimate of the cost of the new work required is £10,000. Mr. R. J. H. Saunders, the engineer of the company, writing to a contemporary, thus explains the cause of the accident : " You will, no doubt, have heard that the extraordinary tide of last Friday night passed over the unfinished work at Bembridge, and within a very few hours a breach was made in the embankment so that the sea now flows again over the land reclaimed in June last. This is, of course, very disappointing, as the work was nearly completed along the whole length, and was everywhere considerably higher than the previous extraordinary tide. There was, therefore, no apprehension or thought of danger, and consequently no precautions were taken. This will, however, be a warning in the future to make assurance doubly sure, and to leave no point undefended. You will be pleased to learn that the work of restoration has already been put in hand. The directors were over the works yesterday with Mr. Grantham, the consulting engineer of the company, when, after very careful consideration of the whole question, it was unhesitatingly decided to prosecute the work vigorously, and an agreement was entered into for carrying it out at once with Mr. F. Seymour, the contractor, and I have every reason to believe I shall within two or three months have the satisfaction of informing you that the sea has been effectually shut out."
+
+```
+
+
+## The (Royal) Isle of Wight Golf Club
+
+
+```{figure} ../images/iw-golf-cigarette-card.jpg
+---
+---
+
+```
+
+
+
+
+The following is found on https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html 
+
+> A Short History of The Royal Isle of Wight Golf Club
+> Published by the club, circa 1922 - with some small changes for ease of reading. This account is of the early days of the club and formed the main part of a pamphlet which set out its history.
+>
+> The Royal Isle of Wight Golf Club can be said to have originated at a luncheon party held at the Royal Spithead Hotel in the spring of 1882, when to the assembled company that popular sportsman, Captain Jack Eaton R.N. suddenly proposed: "What was the Duver meant for?"
+>
+> The party hazarded various suggestions, but Jack Easton would accept none of them crying out himself “It was made on purpose for golf". So across the harbour the party went and had explained to them the intricacies of a game which was at that time unknown in England, save to a few enthusiasts who played at Blackheath, Wimbledon and Westward Ho!
+>
+> Jack Eaton’s enthusiasm quickly spread to his hearers, and almost before the tour of the Duver was over, they had promised one and all to become members of the new club, which it was decided to call the Isle of Wight Golf Club.
+>
+> A man of action, this commander of the eastern division of the Isle of Wight Coastguards very soon obtained a lease of the ground from the Brading Harbour Company, and it was not long after the date of the luncheon party that men were set to work under the supervision of experts “with strong Gaelic dialects“ to root up and cut down the gorse bushes, level the ground and transport freshly cut turf from the downs to the projected greens.
+> Naturally, the interest of the islanders was evoked in this new and wonderful game, and the preparations being made for the playing of it. Speculation as to the nature of the game ran high, some thinking it would be a sort of new kind of croquet, others that it would reveal itself as a form of dignified hockey with a touch of polo on foot. Both conceptions were about as far from the truth as that of an engineer of a steam yacht at that time in the harbour who "knowed it was worked somehow by steam, ‘cos he heard ‘em a talking’ about the best drive, and where the bunkers were to be."
+>
+> The list of members slowly but steadily increased, and no inconsiderable gathering of people was present at the opening ceremony. The honour of driving the first ball fell to a Mrs Hambrough, wife of the club’s first captain, Dudley A. Hambrough, and she acquitted herself well in what must have been something of a trying ordeal. In strict truthfulness it must be recorded that at the first match the interest of many spectators was directed not so much at the players as at one of the caddies , who was a very pretty barmaid from the Royal Spithead Hotel.
+
+
+```{admonition} ISLE WIGHT GOLF CLUB.—
+:class: note dropdown
+
+[Field](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002446/18820805/228/0020), 1882-08-05, p. 20
+
+At a meeting held at the Marine Hotel, Ventnor, on July 31, a golf club was formed for the island, to be called the Isle of Wight Golf Club. The club have secured an excellent ground at St. Helens, where a beautiful course of nine holes will be made. The course will he very spirting, and similar in nature to Hoylake, North Berwick, &c. It is situated close to Bembridge, where a first-rate hotel has recently opened. The scenery in the neighbourhood is romantic in the extreme, commanding extensive views of the sea. Spithead, &c. It is hoped to arrange an opening day at an early date, of which due notice will be given. The hon. sec.. Mr J. S. Eaton, Mountheld, Bonchurch, Isle of Wight, will be glad to forward all requisite information.
+
+```
+
+
+
+```{admonition} ISLE OF WIGHT GOLF CLUB.
+:class: note dropdown
+
+[Field](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002446/18820916/240/0038), 1882-09-16, p. 38
+
+THIS club was formally opened for play in the Dover, at St. Helens, on Monday, the 11th inst. A considerable number of the members and their friends lunched at the Royal Spithead Hotel at Bembridge, where an excellent repast was prepared by the manager. The hon. sec. (Commander Eaton, R.N.) made an interesting statement of the origin and ries of the club up to the present time, showing that since its formation on July 31 its members had increased to fifty, and hardly a day passes without bringing new and important additions to their number. An excellent professional (Mr James Beveridge, late of North Berwick) has been appointed, and has taken up his quarters on the ground. Through the extreme liberality of one of the patrons (Mr C. Tottenham). who has also become a life member, a beautiful gold medal by Meseta Phillips Brothers and Son, of Cockspur—street, has been designed, to be called "The Tottenham Medal." This medal and other prizes will be competed for at the autumn meeting. appointed to be held on Thursday, Oct. 28; and it is hoped that on that day most of the leading golf clubs will be represented on this charming ground.
+
+After luncheon a numerous gathering proceeded to the golf grounds, where Mrs D. A. Hambrough, the gifted wife of the captain, performed the ceremony of opening by gracefully driving a gilded ball, and, amidst the cheers of the assembled multitude, declared the club opened. After this Capt. Eaton played a round of the green against James Beveridge, the professional, a large number of ladies and gentlemen following with much interest a game almost entirely new in the isle. In this round the gallant captain was defeated by three holes. Afterwards some fifty ladies and gentlemen dined together at the Spithead Hotel, and spent a most enjoyable evening.
+
+```
+
+
+
+```{admonition} THE HAMPSHIRE INDEPENDENT, WEDNESDAY. SEPTEMBER 20, 1882.
+:class: note dropdown
+
+[Hampshire Independent](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18820920/041/0004), 1882-09-20, p. 4
+
+BEMBRIDGE.
+
+ISLE OF WIGHT GOLF CLUB— we learn from the *Field*, was formally opened for play in the Dover, at St. Helens', on Monday, the 11th inst. A considerable number of the members and their friends lunched at the Royal Spithead Hotel at Bembridge, where an excellent repast was prepared by the manager. The hon. sec. (Commander Eaton, R.N.) made an interesting statement of the origin and rise of the club up to the present time, showing that since its formation on July 31st its members had increased to fifty, and hardly a day passes without bringing new and important additions to their number. An excellent professional (Mr. James Beveridge, late of North Berwick) has been appointed, and has taken up his quarters on the ground. Through the extreme liberality of one of the patrons (Mr. C. Tottenham), who has also become a life member, a beautiful gold medal by Messrs. Phillips Brothers and Son, of Cockspur-street, has been designed, to be called "The Tottenham Medal." This medal and other prizes will be competed for at the autumn meeting, and it is hoped most of the leading golf clubs will be represented on this charming ground. After luncheon a numerous gathering proceeded to the golf grounds, wnere Mrs. D. A. Hambrough, the gifted wife of the captain, performed the ceremony of opening by gracefully driving a gilded ball, and, amidst the cheers of the assembled multitude, declared the club opened. After this Capt. Eaton played a round of the green against James Beveridge, the professional, a large number of ladies and gentlemen following with much interest a game almost entirely new in the Isle. In this round the gallant captain was defeated by three holes. Afterwards some fifty ladies and gentlemen dined together at the Spithead Hotel, and spent a most enjoyable evening.
+
+```
+
+
+
+```{admonition} BEMBRIDGE. The Isle of "Wight Golf Club. —
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18821104/016/0006), 1882-11-04, p. 6
+
+This club, which has been estalished in connection with the Royal Spithead Hotel here, held its first autumn meeting on Thursday. Unfortunately the weather was totally against good scoring. Eight couples started to compete for the prizes, consisting of a gold medal, presented by Mr C. Tottenham ; a claret jug, presented by Mrs Henley Grose Smith ; and a set of gold clubs and one dozen balls presented by the club. On examining the cards it was found there was a tie between Captain Corse Scott and Mr R. B. Molesworth at 95 strokes for the Tottenham gold medal, and, on playing off the tie, Mr Molesworth won, doing the round in 88 strokes. Captain C. Scott, with a gross score of 95, reduced by an allowance of 8 to 87, carried off Mrs H. Grose Smith's much coveted prize. The set of clubs was won by Captain Eaton, R.N., with a score of 99 reduced by an allowance of 2 to 97, and the prize of golf balls was won by Mr A. J. Duncan, with a score of 111, reduced by an allowance of 26 to 115, The scores were :
+
+| |Score.| Handicap. | Net.|
+|===|===|===|
+| R. B. Molesworth, Esq | 95 | scratch | 95 |
+| Captain C. Scott | 95 | 8 | 95 |
+| Captain J. S. Eaton | 99 | 2 | 97 |
+| A. J.  Duncan, Esq | 141 | 26 | 115 |
+| R. W. E. Crant, Esq | 155 | 26 | 129 |
+| M. Tabateau, Esq | 157 | 45 | 121 |
+| G Le Marchant. Esq | 176 |35|151 |
+
+Remainder no return.
+
+Subsequently to the meeting a dinner took place at the Royal Spithead Hotel. The chair was taken by- Mr C. Tottenham, the vice-chair by Captain Eaton, and the company present includ-d Mr Marriott, Mr Molesworth, Captain Scott, Mr Duncan, Mr D. Watkins, Mr Richards, Mr Grant, Colonel Morton, the Rev J. N. Palmer, Mr Tab iteau, Mr Sumner, Mr Walker, Captain Clayton, Mr Gaspard Le Marchant, and 1 1 ltdies.
+
+```
+
+
+
+```{admonition} BEMBRIDGE.
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18821111/014/0006), 1882-11-11, p. 6
+
+To the Editor of the Isle of Wight Observer.
+Sir, — I observe in your issue of last Saturday, in reference to the Isle of Wight Golf Club, that it is stated that the club is in connection with the Royal Spithead Hotel, Bembridge. As this is in no way the case, I shall be much obliged by your correcting the statement in your next issue. The Golf Club merely holds its dinners, &c, there, and of course it is the natural place for members from a distance to stay at when visiting the Island for golf. Yours faithfully, J. P. EATON, Hon. Sec. November 6th, 1882.
+
+```
+
+
+
+```{admonition} ISLE OF WIGHT. BEMBRIDGE.
+:class: note dropdown
+
+[Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18830814/008/0002), 1883-08-14, p. 2
+
+—His Royal Highness the Prince of Wales has consented to become Patron, while His Serene Highness Prince Edward of Saxe-Weimar has agreed to become President of the Isle of Wight Golf Club at Bembridge.
+
+[TH: then became known as the Royal Isle of Wight Golf Club]
+
+```
+
+
+
+```{admonition} ST. HELEN'S. Royal Isle of Wight Golf Club.
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18830825/013/0005), 1883-08-25, p. 5
+
+— H.R.H. the Prince of Wales has graciously consented to become the patron of this club, and H.S.H. Prince Edward of Saxe-Weimar has been pleased to accept the presidency. The distinguished honour thus conferred upon the club comes most opportunely when we are celebrating the anniversary of its creation. On July 31st of last year the club was formed, on September llth the club was opened for play, and up to the present time over 120 members have been elected. The ground steadily improves under the able direction of J. Beveridge, the custodian, and his brother Daniel, who are at the same time second to none in the art of club making. His Royal Highness' s early departure from the Island has precluded the possibility of a visit to Bembridge, but it is hoped that at no distant date the club may be honourod by a visit, when Their Royal and Serene Highnesses will receive a true golfer's welcome.
+
+```
+
+
+```{admonition} RULES FOR THE GAME OF GOLF, 1886
+
+http://ruleshistory.com/rules1886.html
+
+12 MARCH 1886.
+RULES FOR THE GAME OF GOLF
+THE ROYAL ISLE OF WIGHT GOLF CLUB
+
+[Commentary: An early attempt at a universal rules code ("...shall suit all greens alike.") from the now defunct Royal Isle of Wight Golf Club.
+A remarkable document; well laid out, well written and more comprehensive than any other code of the time.
+This code introduced definitions, out of bounds, hole size (albeit at 4 inches) and other concepts later incorporated in the R&A codes.]
+
+```
+
+https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html
+The Royal Isle of Wight Golf Club can be said to have originated at a luncheon party held at the Royal Spithead Hotel in the spring of 1882, when to the assembled company that popular sportsman, Captain Jack Eaton R.N. suddenly proposed: “What was the Duver meant for?”
+The party hazarded various suggestions, but Jack Easton would accept none of them crying out himself “It was made on purpose for golf". So across the harbour the party went and had explained to them the intricacies of a game which was at that time unknown in England, save to a few enthusiasts who played at Blackheath, Wimbledon and Westward Ho!
+Jack Eaton’s enthusiasm quickly spread to his hearers, and almost before the tour of the Duver was over, they had promised one and all to become members of the new club, which it was decided to call the Isle of Wight Golf Club.
+A man of action, this commander of the eastern division of the Isle of Wight Coastguards very soon obtained a lease of the ground from the Brading Harbour Company, and it was not long after the date of the luncheon party that men were set to work under the supervision of experts “with strong Gaelic dialects“ to root up and cut down the gorse bushes, level the ground and transport freshly cut turf from the downs to the projected greens.
+Naturally, the interest of the islanders was evoked in this new and wonderful game, and the preparations being made for the playing of it. Speculation as to the nature of the game ran high, some thinking it would be a sort of new kind of croquet, others that it would reveal itself as a form of dignified hockey with a touch of polo on foot. Both conceptions were about as far from the truth as that of an engineer of a steam yacht at that time in the harbour who “knowed it was worked somehow by steam, ‘cos he heard ‘em a talking’ about the best drive, and where the bunkers were to be.”
+The list of members slowly but steadily increased, and no inconsiderable gathering of people was present at the opening ceremony. The honour of driving the first ball fell to a Mrs Hambrough, wife of the club’s first captain, Dudley A. Hambrough, and she acquitted herself well in what must have been something of a trying ordeal. In strict truthfulness it must be recorded that at the first match the interest of many spectators was directed not so much at the players as at one of the caddies , who was a very pretty barmaid from the Royal Spithead Hotel.
+These were but interludes in the development of the club, which each month added to its membership and on September 18th 1883 a letter was received from the Secretary of State intimating he had “had the honour to submit to the Queen you (the Secretary’s) request that the Isle of Wight Golf Club may be permitted to assume the title of ‘Royal ‘and that Her Majesty has been graciously please to accede to your request and to command that the Club be styled the ‘Royal Isle of Wight Golf Club’.”
+With the bestowal of this royal patronage, the reputation of the club was still further enhanced and so many more members enrolled, that a special private room at the hotel had to be reserved for their special use. It may be remarked that this patronage has been extended by the royal family until the present day. The late King Edward was patron of the club until his death and our present King has been patron since his ascension in 1910. H.R.H. Prince Henry of Battenburg was captain for the years 1894-1895, and his two sons, Prince Leopold and Prince Maurice, are both Hon. Members at the present time.
+The yearly crowdings at the two hotels resulted in the roof of the Royal Spithead Hotel being raised and another storey added, and this accommodation was further supplemented by a new private room which was built at a later date for the club members.
+The plan shows how well and naturally the holes are laid out, giving a good length (2891 yards) width, and variety of holes, on such a relatively small area of ground. In fact it is doubtful if there is to be found anywhere, nine more attractive and varied holes in such a small compass; and yet despite its size, it will be found in playing (with a bogey of 37) to be a most enjoyable and difficult test of golf.
+The natural hazards are sand dunes and hillocks, gorse, sea boundaries, and a public road, which round diagonally across the links, coming into prominence at 4 holes 1, 5, 6 and 9, and in a minor ways at the 8th, off a poorly played shot.
+The three long holes, 1st, 8th and 9th are good three shot ones, in anything but calm, dry weather! The 3rd and 4th and 6th are superlative “fours” and would be hard to beat by comparison anywhere. The 2nd, 5th and 7th are very good and varied one shot holes, and of different length and difficulty and the 7th being a particularly clever punchbowl shot. Altogether the course is one of the most interesting nine hole in existence, and is full of character and individuality throughout, with the possible exception of the 5th, which is perhaps rather insipid and weak, but necessary, to keep up the proper sequence of play. This hole however together with the 6th are the only two remaining holes of the original course, as laid in 1892. That is to say they have been in constant play with little alterations for 47 years. 
+The links and clubhouse are situated on The Duver, St Helens, Isle of Wight, 4 minutes by ferry boat to Bembridge Station, Southern Railway, 10 minutes to St Helen’s Station via the Mill Pond Walk and Harbour Yards; 20 minutes by a good “bus service to Ryde and Sea View from St Helen’s Village.
+https://www.islandeye.co.uk/history/historic-parks/royal-isle-of-wight-ladies-golf-course-and-pavillion.html
+The ladies course had 18 short holes with natural bunkers. The pavillion acted as the clubhouse as well. Gentlemen were allowed to play the course, so long as they were accompanied by a lady.
+
+https://www.wightpedia.org.uk/detail2.php?id=royal-spithead-hotel-bembridge
+The Spithead Hotel opened in 1882. In the same year the railway was extended to Bembridge, (the station was on the opposite side of the road) and with a new pier for steamers, the hotel was well positioned for visitors.q
+Royal patronage was granted to the hotel in the following year, 1883
+The Royal Isle of Wight Golf Club, on the sand dunes across the harbour, was established by visitors to the hotel, the hotel was also popular with visitors to nearby Bembridge Sailing Club.
+The hotel was demolished in 1989 and the site redeveloped.
+
+## The Temperance Debate Continues
 
 
 ```{admonition} CLOSING PUBLIC-HOUSES ON SUNDAY.
@@ -92,7 +435,6 @@ He put the resolution to the meeting. Councillors Ellery, Gunn, and Newbold left
 
 A meeting of the Council was held on Tuesday afternoon, when there were present the Mayor (Alderman B. Barrow) ; Aldermen, Wallis, Colenutt, Futcher, Harrington, and Dashwood ; Councillors Newbald, Riddett, Whittington, Allen, James, Spencer, Ellery, Barton, Dixon, Purnell, Comden, Sweetman, and Marvin.
 
-
 ...
 
 CLOSING OF PUBLIC HOUSES ON SUNDAYS.
@@ -131,7 +473,7 @@ Mr. Newbald did not see why they should attempt to close publichouses. Why not a
 
 Alderman Colenutt `[misattributed; corrected a week later to Alderman Harringotn]` did not see how this could be called a question of imperial politics ; it was rather a social one. He should think that the social condition of the people was to some extent of interest to municipal authorities, and if Parliament gave municipal authorities power to deal with drunkenness, it was quite legitimate for a Town Council to interfere as regards the vending of an article which did so much damage. It might be said that he had trafficked himself in the article, but he never sold any on a Sunday, and was not aware that his business ever profited by Sunday trading. One speaker had called drink a luxury. All he could say was that it would be a good thing if the luxury did not bring so much poverty and misery in its train. He had been acquainted with many working men, and in almost every instance where you found distress and that the family of children were not cared for, you could trace it to drink. There was a greater temptation for men to drink on Sunday than any other day, and he considered the closing of publichouses therefore would be productive of social benefit.
 
-Alderman Harrington also supported in a lengthy speech, in the course of which he said that this question of temperance ought to be made a religious question, and he believed the clergy and ministers of England were largely to blame for the amount of crime we had ("question," and Mr. Newbald walked out in an abrupt and suggestive manner). In the course of some lengthy remarks, Mr. Harrington referred to the temperance of the Mahometans, said Scotland was the most drunken country to be found (" question"), aud gave some valuable statistical information as to exports and imports. We had been descending rather than rising with regard to our general state of prosperity, and one serious cause of this he believed to be drink. He was not a teetotaller. [Mr. Spencer : Then you ought to be.] He thought there was too much freedom now. Every one was free to go to the devil his own way, but for himself he should like to see that liberty curtailed.
+Alderman Harrington also supported in a lengthy speech, in the course of which he said that this question of temperance ought to be made a religious question, and he believed the clergy and ministers of England were largely to blame for the amount of crime we had ("question," and Mr. Newbald walked out in an abrupt and suggestive manner). In the course of some lengthy remarks, Mr. Harrington referred to the temperance of the Mahometans, said Scotland was the most drunken country to be found (" question"), and gave some valuable statistical information as to exports and imports. We had been descending rather than rising with regard to our general state of prosperity, and one serious cause of this he believed to be drink. He was not a teetotaller. [Mr. Spencer : Then you ought to be.] He thought there was too much freedom now. Every one was free to go to the devil his own way, but for himself he should like to see that liberty curtailed.
 
 Mr. Riddett said that viewing the extent of ground over which the last speaker travelled showed the danger they ran in wasting their time by the discus- sion of such questions. [Alderman Harrington (indignantly). — Be careful what you are talking about !] He did not specially refer to the last speaker.
 

@@ -7,12 +7,12 @@ Aside from the Eurydice disaster, what would life have been like on the Isle of 
 Whilst Ventor was the original fashionable holiday destination on the island, with its favourable microcolimate, Sandown was also developing as a holiday destination. Its notable visitors included a certain Rev. C. L. Dodgson, better known as Lewis Carroll, author of *Alice in Wonderland*.
 
 
-```{admonition} Lewis Carroll during the last fifteen years of his life always spent the Long Vacation at Eastbourne
+```{admonition} [The Life and Letters of Lewis Carroll]
 :class: note dropdown
 
 [The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)](https://www.gutenberg.org/files/11483/11483-h/11483-h.htm), 1898-04-23, p. ?
 
-; in earlier times, Sandown, a pleasant little seaside resort in the Isle of Wight, was his summer abode. He loved the sea both for its own sake and because of the number of children whom he met at seaside places. Here is another "first meeting"; this time it is at Sandown, and Miss Gertrude Chataway [to whom The Hunting of the Snark was dedicated] is the narrator:—
+Lewis Carroll during the last fifteen years of his life always spent the Long Vacation at Eastbourne; in earlier times, Sandown, a pleasant little seaside resort in the Isle of Wight, was his summer abode. He loved the sea both for its own sake and because of the number of children whom he met at seaside places. Here is another "first meeting"; this time it is at Sandown, and Miss Gertrude Chataway [to whom The Hunting of the Snark was dedicated] is the narrator:—
 
 I first met Mr. Lewis Carroll on the sea-shore at Sandown in the Isle of Wight, in the summer of 1875, when I was quite a little child.
 
@@ -42,18 +42,29 @@ A sentiment open to doubt.
 
 Such things were a common sight in Sandown at the time.
 
-![](../images/uo_1532958638-16959-69.jpg)
+
+```{figure} ../images/uo_1532958638-16959-69.jpg
+---
+---
+
 Bathing machines, Sandown
+```
+
+
 
 ## The Opening of Sandown Pier
 
 Whilst attempts were being made to raise the Eurydice, other activity had been going on in Sandown Bay, in particular the construction of a pleasure pier. The first part of the pier was opened by a local dignitary of a noble family line, Lady Oglander.
 
 
-![](../images/service-pnp-ppmsc-08900-08995r.jpg)
-Library of Congress
-Title: [Sandown Bay, Isle of Wight, England]
-Date Created/Published: [between ca. 1890 and ca. 1900].
+```{figure} ../images/sandown-pier.jpg
+---
+---
+
+Sandown Pier
+```
+
+
 
 The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
 
@@ -68,8 +79,15 @@ The new pier is almost completed, and, although in appearance it is slight, the 
 ```
 
 
-![](../images/sandown_pier.jpeg)
+
+```{figure} ../images/sandown_pier.jpeg
+---
+---
+
 Sandown Pier
+```
+
+
 
 
 ```{admonition} OPENING OF THE NEW PIER.
@@ -105,7 +123,28 @@ The seal of the Sandown Pier Company (Limited) was affixed this 28th day of May,
 
 This portion of the ceremony concluded, Miss Brandt stepped forward, and, on behalf of the directors presented her ladyship with a very handsome bouquet. Her ladyship briefly replied as follows; "Mr , Chairman and gentleman of the Sandown Local Board and gentlemen of the Sandown Pier Company -I thank you very much for the kind and gratifying reception you have given me. It affords me at all times siccere pleasure to assist im any way in promoting the prosperity of Sandown, and I trust the undertakimg you have so successfully curried out and inaugurated this day may prove one of the many means of adding to the attractions of the place, and an additional source of health and enjoyment to visitors and inhabitants alike. " Hearty cheers were then given for hey ladyship, and a number of the gemtlement present having been introduced to her, the procession again went up the pier; her ladyship and Major Leeds re-entered their carringe, and drove off amidst the loud cheers of the assembled spectators. This concluded the ceremony, which was followed by
 
-A BANQUET,
+```
+
+
+
+```{figure} ../images/service-pnp-ppmsc-08900-08995r.jpg
+---
+---
+
+Library of Congress
+Title: [Sandown Bay, Isle of Wight, England]
+Date Created/Published: [between ca. 1890 and ca. 1900].
+```
+
+
+
+As well as reporting on the opening ceremony, an account of banquet to honour the opening also appeared:
+
+
+```{admonition} A BANQUET,
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005), 1878-06-01, p. 5
 
 which took place at half-past 5, in the Town Hall, where about 70 gnntlemen sat down to the excellent repast provided. The chair was taken by Mr. Jon. Jolliffe, and the vice-chair by Mr. Walter Mew; : there being also present Capt. Brook Leeds, Lieut. Pound, Col. Currie, Rev. W. M. Harrison, Mr. W. H. Wooldridge, Col. Brandt, Mr. F. Pittis, Mr. F. Pittis, jun., Mr. T. H. Urry, Mr. W. H. Barton, Mr. C. G. Vincent, Dr. Meeres, Mr. Binns (engineer), Mr. D. Mitchell, Mr. Linfield, Mr. J. K. Hollis, Mr. L. H. Saunders, Mr. Theodore Saunders, &c. After the removal of the cloth,
 
@@ -154,10 +193,17 @@ The toasts of "The Ladies" and "The Press" brought the proceedings to a close.
 ```
 
 
-![](../images/service-pnp-ppmsc-08900-08996r.jpg)
+
+```{figure} ../images/service-pnp-ppmsc-08900-08996r.jpg
+---
+---
+
 Library of Congress
 Title: [Sandown from pier, Isle of Wight, England]
 Date Created/Published: [between ca. 1890 and ca. 1900].
+```
+
+
 
 ## Looming War
 

@@ -15,8 +15,15 @@ The Eurydice has at last been safely brought to the surface, the floating operat
 ```
 
 
-![](../images/henry-robins-wreck-of-hms-eurydice-towed-into-portsmouth-harbour-1-september-db6eb8.jpg)
+
+```{figure} ../images/henry-robins-wreck-of-hms-eurydice-towed-into-portsmouth-harbour-1-september-db6eb8.jpg
+---
+---
+
 Henry Robins - Wreck of HMS 'Eurydice' Towed into Portsmouth Harbour, 1 September 1878 HMP PORMG 1974 517 , Portmsouth City Museum
+```
+
+
 
 
 ```{admonition} THE EURYDICE TAKEN TO PORTSMOUTH.
@@ -53,9 +60,16 @@ The Eurydice, laid up alongside the old hulk Laurel in Porchester Creek, a conti
 ```
 
 
-![](../images/BL_9000057_18780914_020_0008.png)
+
+```{figure} ../images/BL_9000057_18780914_020_0008.png
+---
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/BL/9000057/18780914/014/0006?browse=true
 The Graphic - TOWING THE WRECK OF H.M.S. EURYDICE INTO PORTSMOUTH HARBOUR  - Saturday 14 September 1878, p8
+```
+
+
 
 
 ```{admonition} THE EURYDICE IN PORT.

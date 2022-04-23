@@ -86,9 +86,16 @@ TH note: Japanese diver
 ```
 
 
-![](../images/The-Raising-of-HMS-Eurydice-Richard-Henry-Nibbs-oil-painting.jpg)
+
+```{figure} ../images/The-Raising-of-HMS-Eurydice-Richard-Henry-Nibbs-oil-painting.jpg
+---
+---
+
 The Raising of HMS Eurydice
 Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy
+```
+
+
 
 
 ```{admonition} THE EURYDICE. THE VESSEL SUCCESSFULLY LIFTED.
@@ -126,11 +133,38 @@ We had hoped to have been able to record the fact that the Eurydice was safe in 
 ```
 
 
-![](../images/ILN_1878_loss_of_euridyce_jul_27_005.jpg)
-Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle of Wight, July 27, 1878
 
-![](../images/52015295425_b61281d18e_o.jpg)
+```{figure} ../images/ILN_1878_loss_of_euridyce_jul_27_005.jpg
+---
+---
+
+Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle of Wight, July 27, 1878
+```
+
+
+
+
+```{figure} ../images/52015295425_b61281d18e_o.jpg
+---
+---
+
 Sandown, looking towards the red cliff and white cliff, Yaverland
+```
+
+
+
+
+```{figure} ../images/UK_CCM_1_P.1986.1470X.png
+---
+---
+
+Wreck of HMS Eurydice
+1878
+R. Cadogan-Rothery
+Carisbrooke Castle Museum
+```
+
+
 
 
 ```{admonition} THE EURYDICE.
@@ -161,8 +195,15 @@ Among the otfieers on board the Eurydice at the time she foundered was Mr. Charl
 ```
 
 
-![](../images/52015030324_42a5559933_o.jpg)
+
+```{figure} ../images/52015030324_42a5559933_o.jpg
+---
+---
+
 Sandown, looking back towards Luccombe
+```
+
+
 
 
 ```{admonition} THE EURYDICE.
@@ -227,7 +268,11 @@ Telegrams were seat to the Qaeen and the Prince of Wales this evening informing 
 ```
 
 
-![](../images/808750-1534236882.jpg)
+
+```{figure} ../images/808750-1534236882.jpg
+---
+---
+
 HENRY ROBINS (1820-92)
 The Wreck of the "Eurydice" Signed and dated 1878
 Oil on canvas | 60.2 x 123.1 cm (support, canvas/panel/str external) | RCIN 406265
@@ -237,6 +282,9 @@ Signed and dated: H. Robins / Augt 9th 1878.
 Provenance
 Painted for Queen Victoria (See also QV Journal, 22 August 1878)
 https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice
+```
+
+
 
 
 ```{admonition} THE EURYDICE.
@@ -277,8 +325,15 @@ Since our last issue the wreck of the Eurydice has been removed from the exposed
 ```
 
 
-![](../images/ILN_1878_loss_of_euridyce_aug_17_004.jpg)
+
+```{figure} ../images/ILN_1878_loss_of_euridyce_aug_17_004.jpg
+---
+---
+
 Illustrated London News — Visit of the Prince of Wales to the wreck of H.M.S. Eurydice in Sandown Bay, August 17, 1878
+```
+
+
 
 
 ```{admonition} A PADDLE BY NIGHT TO THE EURYDICE.

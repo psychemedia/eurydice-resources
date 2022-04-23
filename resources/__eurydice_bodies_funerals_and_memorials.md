@@ -132,7 +132,7 @@ THE LATE CAPTAIN FERRIER, R.E.-The following General Order was issued by Major-G
 
 FUNERAL OF LIEUT. BURNEY.
 
-Yesterday afternoon the remains of Lieut. Stanley Alfred Brooke Burney, the only officer whose body has been recovered from the wreck, were interred in the pretty little cemetery at Haslar with every demonstration of respect and esteem for the deceased officer's memory. The weather was exceedingly squally, and a heavy shower fell during the progress of the cortege to the burial ground. The late Lieut. Burney was one of the most promising officers of the Service, and his geniality of disposition, added to his kindliness of manner to all those with whom he was associated, made him a most popular officer. Under these circumstances therefore, it was but natural that a large number of both officers and men belonging to the Service should attend his funeral obsequies. The deceased, who was only 23 years of age, passed his eamination with honours (technically speaking he passed in the three ones) and thus gained his commission as a Lieutenant. He was the soon of Commander Charles Burney, the Superintendent of Greenwich Hospital School, by whom, on attaining his commission, he was presented with a watch, the inscription on which proved the means of identifying the body when it was recovered. The deceased was educated at the scholastic establishment of the Rev. Edward Burney, and well known in the neighbourhood. A younger brother is now studying at the same academy, a second is at the Royal Naval College, Portsmouth, and a third is at Sandhurst. The late Lieut. Burney was specially chosen for his attainments as one of the officers of the ill-fated Eurydice.Soon after half-past two the funeral cortege left Haslar Hospital, the way being led by a firing party of 100 privates, 5 sergeants, 5 corporals, and 2 buglers of tRoyal Marines, drawn from the Duke of Wellington, Asia, and Excellent, under the command of Captain Hugh W. Bamber of H.M.S. Asia.  Next came the band of the St. Vincent, playing the Dead March in Saul, and behind the band the corpse was conveyed on a gun carriage drawn by 16 blue-jackets. A Union Jack covered the coffin, and the pall bearers were: Staff-Commander George A. MacFarlane,of H. M. S. Hercules; Commander Edward G. Hulton, of H M.S. Narcissus, and a Lieutenant from the Duke of Wellington, Monarch, Asia and Excellent. Immediately behinf the corpse the following gentlemen walkeda as mourners:— Captain Charles Burney (father of the deceased); Messrs. Cecil, Ernest, and Percy Burney (brothers); Staff-Captain Alfred Balliston, Royal yacht Alberta; Col. Longmore, Capt. Colclough, and Mr. R. Wilkinson. Next followed about 160 blue jackets, under the command of Lientenant-Edgar R. Mathias, the rear being brought up by about fifty officers, including Lieutenants, Sub-Lieutenants, Midshipman, oofficers of the Royal Marine Light Infantry and Royal Marine Artillery, the  party being made up of representatives from all the ships in harbour. The Port Admiral, who was absent from the town, was represented by Flag-Lieutenant Hugh G. Gough. Inspector-General W. T. Domville, C.B., M.D., was also present, and Captain the Hon. Walter C. Carpenter, of the flag-ship Duke of Wellington. Amongst those who followed to show their respect to the deceased officer's memory, were a number of his old shipmates; among these were Commander Harry T. Grenfell, who was formerly Flag-Lietenant to Admiral Cochrane, in the Pacific; the Rev. George M. Sutton, B.A.. of H.M.S. Warrior, who was formerly in the Repulse, with the deceased, and also Lieutenants Edward J. Sanderson, H.M.S. Crocodile, Spencer B. Hesketh, and Robert C. Sparkes; Sub-Lieutenants Lionel G. Tufnell and Ingram. There were also present Colour-Sergeant James Murphy, Royal Marine Light Infantry, of H.M.S. Crocodile, who formerly served on board the same ship as the deceased,  and a numbe of petty officeris and seamen who had also served with him. On the procession arriving at the Cemetery the firing party formed up on either side of the road, and allowed the corpse to pass into the grounds, where it wast met by the Rev. Frederick W. Nickokll, M.A., Chaplain to Haslar Hospital, who preceded the body into the mortuary chapel, repeating the introductory sentences of the Burial Service. After the religious ceremony in the chapel, the procession re-formed, and proceeded to the grave, which is one of the centre ones in the plot of ground marked out for the reception of the bodies recovered from the wreck. Here the Burial Service was proceeded with, and concluded, and at the close the customary three volleys were fired over the grave, and the funeral party re-formed and returned to their respective ships. The coffin was of polished oak, with Mediaeval mountings, and was supplied by Mr. Miller, undertaker, of High-street, who had charge of the funeral arrangements. A number of metropolitan police, under the command of Mr. Inspector Coppin, were present to keep the ground.
+Yesterday afternoon the remains of Lieut. Stanley Alfred Brooke Burney, the only officer whose body has been recovered from the wreck, were interred in the pretty little cemetery at Haslar with every demonstration of respect and esteem for the deceased officer's memory. The weather was exceedingly squally, and a heavy shower fell during the progress of the cortege to the burial ground. The late Lieut. Burney was one of the most promising officers of the Service, and his geniality of disposition, added to his kindliness of manner to all those with whom he was associated, made him a most popular officer. Under these circumstances therefore, it was but natural that a large number of both officers and men belonging to the Service should attend his funeral obsequies. The deceased, who was only 23 years of age, passed his eamination with honours (technically speaking he passed in the three ones) and thus gained his commission as a Lieutenant. He was the soon of Commander Charles Burney, the Superintendent of Greenwich Hospital School, by whom, on attaining his commission, he was presented with a watch, the inscription on which proved the means of identifying the body when it was recovered. The deceased was educated at the scholastic establishment of the Rev. Edward Burney, and well known in the neighbourhood. A younger brother is now studying at the same academy, a second is at the Royal Naval College, Portsmouth, and a third is at Sandhurst. The late Lieut. Burney was specially chosen for his attainments as one of the officers of the ill-fated Eurydice.Soon after half-past two the funeral cortege left Haslar Hospital, the way being led by a firing party of 100 privates, 5 sergeants, 5 corporals, and 2 buglers of tRoyal Marines, drawn from the Duke of Wellington, Asia, and Excellent, under the command of Captain Hugh W. Bamber of H.M.S. Asia.  Next came the band of the St. Vincent, playing the Dead March in Saul, and behind the band the corpse was conveyed on a gun carriage drawn by 16 blue-jackets. A Union Jack covered the coffin, and the pall bearers were: Staff-Commander George A. MacFarlane,of H. M. S. Hercules; Commander Edward G. Hulton, of H M.S. Narcissus, and a Lieutenant from the Duke of Wellington, Monarch, Asia and Excellent. Immediately behinf the corpse the following gentlemen walkeda as mourners:— Captain Charles Burney (father of the deceased); Messrs. Cecil, Ernest, and Percy Burney (brothers); Staff-Captain Alfred Balliston, Royal yacht Alberta; Col. Longmore, Capt. Colclough, and Mr. R. Wilkinson. Next followed about 160 blue jackets, under the command of Lientenant-Edgar R. Mathias, the rear being brought up by about fifty officers, including Lieutenants, Sub-Lieutenants, Midshipman, oofficers of the Royal Marine Light Infantry and Royal Marine Artillery, the  party being made up of representatives from all the ships in harbour. The Port Admiral, who was absent from the town, was represented by Flag-Lieutenant Hugh G. Gough. Inspector-General W. T. Domville, C.B., M.D., was also present, and Captain the Hon. Walter C. Carpenter, of the flag-ship Duke of Wellington. Amongst those who followed to show their respect to the deceased officer's memory, were a number of his old shipmates; among these were Commander Harry T. Grenfell, who was formerly Flag-Lieutenant to Admiral Cochrane, in the Pacific; the Rev. George M. Sutton, B.A.. of H.M.S. Warrior, who was formerly in the Repulse, with the deceased, and also Lieutenants Edward J. Sanderson, H.M.S. Crocodile, Spencer B. Hesketh, and Robert C. Sparkes; Sub-Lieutenants Lionel G. Tufnell and Ingram. There were also present Colour-Sergeant James Murphy, Royal Marine Light Infantry, of H.M.S. Crocodile, who formerly served on board the same ship as the deceased,  and a numbe of petty officeris and seamen who had also served with him. On the procession arriving at the Cemetery the firing party formed up on either side of the road, and allowed the corpse to pass into the grounds, where it wast met by the Rev. Frederick W. Nickokll, M.A., Chaplain to Haslar Hospital, who preceded the body into the mortuary chapel, repeating the introductory sentences of the Burial Service. After the religious ceremony in the chapel, the procession re-formed, and proceeded to the grave, which is one of the centre ones in the plot of ground marked out for the reception of the bodies recovered from the wreck. Here the Burial Service was proceeded with, and concluded, and at the close the customary three volleys were fired over the grave, and the funeral party re-formed and returned to their respective ships. The coffin was of polished oak, with Mediaeval mountings, and was supplied by Mr. Miller, undertaker, of High-street, who had charge of the funeral arrangements. A number of metropolitan police, under the command of Mr. Inspector Coppin, were present to keep the ground.
 
 tag: funeral bodies
 
@@ -241,12 +241,33 @@ On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near
 ```
 
 
-![](../images/52019996761_b67da681c2_o.jpg)
+
+```{figure} ../images/52019996761_b67da681c2_o.jpg
+---
+---
+
 Memorial Christ Church, Sandown
+```
 
-![](../images/52019997011_d6ccbdb70a_o.jpg)
 
-![](../images/52019997311_65401508de_o.jpg)
+
+
+```{figure} ../images/52019997011_d6ccbdb70a_o.jpg
+---
+---
+
+```
+
+
+
+
+```{figure} ../images/52019997311_65401508de_o.jpg
+---
+---
+
+```
+
+
 
 
 ```{admonition} SANDOWN, April 12.
@@ -362,9 +383,16 @@ A memorial to the officers and men lost in the Eurydice is now in course of erec
 ```
 
 
-![](../images/BL_9000057_18800710_046_0021.png)
+
+```{figure} ../images/BL_9000057_18800710_046_0021.png
+---
+---
+
 The Graphic - UNVEILING THE MONUMENT TO THE OFFICERS AND CREW OF H.M.S. EURYDICE IN SHANKLIN CEMETERY, ISLE OF WIGHT  -  Saturday 10 July 1880
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/046/0021
+```
+
+
 
 
 ```{admonition} THE EURYDICE MEMORIAL
@@ -377,8 +405,15 @@ Lady Isabel Atherley yesterday unveiled a monument in Shanklin Cemetery erected 
 ```
 
 
-![](../images/52012675554_6773617d89_o.jpg)
+
+```{figure} ../images/52012675554_6773617d89_o.jpg
+---
+---
+
 Shanklin memorial
+```
+
+
 
 
 ```{admonition} MEMORIAL OF H.M.S. EURYDICE.
@@ -391,8 +426,15 @@ On Wednesday afternoon, in the presence of a numerous crowd of spectators, a mon
 ```
 
 
-![](../images/52011404897_3891bd2bea_o.jpg)
+
+```{figure} ../images/52011404897_3891bd2bea_o.jpg
+---
+---
+
 Shanklin memorial
+```
+
+
 
 
 ```{admonition} HER MAJESTY'S SHIP " EURYDICE."
@@ -405,8 +447,15 @@ In the pretty cemetery of Shanklin, Isle of Wight, on Wednesday afternoon, Lady 
 ```
 
 
-![](../images/52012947425_583b978292_o.jpg)
+
+```{figure} ../images/52012947425_583b978292_o.jpg
+---
+---
+
 Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isable Atherley, June 23rd 1880
+```
+
+
 
 
 ```{admonition} UNVEILING OF THE "EURYDICE" MEMORIAL AT SHANKLIN.
@@ -451,8 +500,15 @@ TH: noteable
 ```
 
 
-![](../images/52012674049_b63a65f7c2_o.jpg)
+
+```{figure} ../images/52012674049_b63a65f7c2_o.jpg
+---
+---
+
 Shanklin memorial inscription - To the memory of the officers and men of H.M.S. Eurydice which foundered off Shanklin March 24th 1878 seven of whom are buried here
+```
+
+
 
 
 ```{admonition} THE EURYDICE MONUMENT AT SHANKLIN
@@ -509,9 +565,16 @@ A very handsome memorial to the memory of those who foundered in H.M.S. Eurydice
 ```
 
 
-![](../images/BL_9000057_18811119_027_0011.png)
+
+```{figure} ../images/BL_9000057_18811119_027_0011.png
+---
+---
+
 The Graphic -  THE EURYDICE MEMORIAL AT HASLAR It will be remembered that the bodies of the unfortunate officers and seamen which were recovered from the wreck of the Eurydice were laid to rest in Haslar Cemetery, near Gosport, each grave being marked with a simple headstone. A more imposing memorial, as represented in our engraving, has now been erected on the spot. It was designed by Colonel Parley, R.E., C.B., and erected by Mr. Carruthers, the Assistant Civil Engineer for Gosport, and Messrs. Bramble, the contractors for the work. The base, of bright granite, bears upon its sloping ledge the 316 names of those who went down with the" ill-fated vessel on Sunday, March 24th, 1878, and above this is a moulding of Portland stone, each side of which contains an appropriate quotation from Scripture. This again is surmounted by a huge rocky superstructure, on the summit of which is the real anchor, shackle, and part of the ship's cable which was recovered from the scene of the disaster. The measurement at the base is 23 feet by 17 feet, and the height is 10 feet. Our engraving is from a photograph by G. West and Son, Gosport, copies of which have been purchased by Her Majesty the Queen.  - Saturday 19 November 1881, p11
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18811119/027/0011
+```
+
+
 
 
 ```{admonition} THE EURYDICE MEMORIAL AT HASLAR

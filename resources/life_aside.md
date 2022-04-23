@@ -16,6 +16,8 @@ by Stuart Dodgson Collingwood
 
 p?
 
+[The Life and Letters of Lewis Carroll]
+
 Lewis Carroll during the last fifteen years of his life always spent the Long Vacation at Eastbourne; in earlier times, Sandown, a pleasant little seaside resort in the Isle of Wight, was his summer abode. He loved the sea both for its own sake and because of the number of children whom he met at seaside places. Here is another "first meeting"; this time it is at Sandown, and Miss Gertrude Chataway [to whom The Hunting of the Snark was dedicated] is the narrator:—
 
 I first met Mr. Lewis Carroll on the sea-shore at Sandown in the Isle of Wight, in the summer of 1875, when I was quite a little child.
@@ -54,11 +56,8 @@ Bathing machines, Sandown
 
 Whilst attempts were being made to raise the Eurydice, other activity had been going on in Sandown Bay, in particular the construction of a pleasure pier. The first part of the pier was opened by a local dignitary of a noble family line, Lady Oglander.
 
-
-![](../images/service-pnp-ppmsc-08900-08995r.jpg)
-Library of Congress
-Title: [Sandown Bay, Isle of Wight, England]
-Date Created/Published: [between ca. 1890 and ca. 1900].
+![](../images/sandown-pier.jpg)
+Sandown Pier
 
 The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
 
@@ -117,6 +116,25 @@ James Kennington.
 The seal of the Sandown Pier Company (Limited) was affixed this 28th day of May, 1878, in pursuance of a resolution duly passed at a meeting of the directors im the presence of W. H. Wooldridge, secretary.
 
 This portion of the ceremony concluded, Miss Brandt stepped forward, and, on behalf of the directors presented her ladyship with a very handsome bouquet. Her ladyship briefly replied as follows; "Mr , Chairman and gentleman of the Sandown Local Board and gentlemen of the Sandown Pier Company -I thank you very much for the kind and gratifying reception you have given me. It affords me at all times siccere pleasure to assist im any way in promoting the prosperity of Sandown, and I trust the undertakimg you have so successfully curried out and inaugurated this day may prove one of the many means of adding to the attractions of the place, and an additional source of health and enjoyment to visitors and inhabitants alike. " Hearty cheers were then given for hey ladyship, and a number of the gemtlement present having been introduced to her, the procession again went up the pier; her ladyship and Major Leeds re-entered their carringe, and drove off amidst the loud cheers of the assembled spectators. This concluded the ceremony, which was followed by
+
+
+---
+
+TEXT
+
+![](../images/service-pnp-ppmsc-08900-08995r.jpg)
+Library of Congress
+Title: [Sandown Bay, Isle of Wight, England]
+Date Created/Published: [between ca. 1890 and ca. 1900].
+
+As well as reporting on the opening ceremony, an account of banquet to honour the opening also appeared:
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005
+Isle of Wight Observer
+Saturday 01 June 1878
+p5
 
 A BANQUET,
 

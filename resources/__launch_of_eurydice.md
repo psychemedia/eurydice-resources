@@ -8,8 +8,15 @@ In 1843, various newspaper reports started appearing announcing the upcoming lau
 https://en.wikipedia.org/wiki/George_Elliot_(Royal_Navy_officer,_born_1784)
 ```
 
-![](../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg)
+
+```{figure} ../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg
+---
+---
+
 William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
+```
+
+
 
 H.M.S. Eurydice was officially launched by one of his daughters, and the ship was commissioned by his eldest son, Captain George Elliot.
 
@@ -34,7 +41,11 @@ The Eurydice, 26, building at Portsmouth upon the plan laid down by Admiral Elli
 ```
 
 
-![](../images/eurydice-model-bonhams.jpeg)
+
+```{figure} ../images/eurydice-model-bonhams.jpeg
+---
+---
+
 https://www.bonhams.com/auction/27248/lot/13/a-model-of-the-frigate-hms-eurydice-40in-x-195in-x-315in-102cm-x-50cm-x-80cm/
 Bonhams Auctioneers
 A Model of the Frigate HMS 'Eurydice', English,
@@ -43,6 +54,9 @@ THE MARINE SALE
 27 April 2022, 14:00 BST
 London, Knightsbridge
 £800 - £1,200
+```
+
+
 
 
 ```{admonition} The Portsmouth, Portsea and Gosport Herald, PORTSMOUTH, MAY 20.
