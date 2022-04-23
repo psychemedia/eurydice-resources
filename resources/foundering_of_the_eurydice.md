@@ -1,6 +1,6 @@
 # The Foundering of the Eurydice
 
-What then of the teerrible calamity that was to strike the Eurydice that fateful afternon of Sunday, March 24th, 1878?
+What then of the terrible calamity that was to strike the Eurydice that fateful afternon of Sunday, March 24th, 1878?
 
 With Portsmouth almost in sight, the Eurydice rounded the southernmost point of the Isle of Wight, St. Catherine's point, and made for Ventnor.
 
@@ -268,6 +268,8 @@ Three bodies have come ashore; two identified as those of Colonel Ferrol, RE. (?
 ---
 TEXT
 
+The sudden squall that hit the Eurydice was part of a weather front that had been making its way down the country that Sunday, starting in Scotland and hitting points to the West, in Wales, and the East, such as London, as well as the Isle of Wight.
+
 ![](../images/BL_0001702_18780323_078_0008_pdf__1_page_.png)
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008 Shipping and Mercantile Gazette - Saturday 23 March 1878 - weather chart
 
@@ -289,11 +291,11 @@ During the gale which passed over the metropolis so suddenly on Sunday afternoon
 
 The weather in South Shropshire is intensely cold, and the hilly district has been visited with fitful storms of snow. Thee tops of the lofty eminences of the Loag-mynd, the Carodoc Range, and the Clee Hills, are all capped with snow.
 
-During a snowstorm which raged off the Scotch cosst at Stranraer on Sunday the schooner Ellipse, with coals, from Greenock for Isly, was totally lost about ten miles from Stranraer. Two of the crew, by name M'Millan and M'Neill, were drowned.
+During a snowstorm which raged off the Scotch coast at Stranraer on Sunday the schooner Ellipse, with coals, from Greenock for Isly, was totally lost about ten miles from Stranraer. Two of the crew, by name M'Millan and M'Neill, were drowned.
 
 On Sunday afternoon, while the wind was blowing hard from the north, a schooner, which afterwards proved to be the Heroine, of Dartmouth, bound from Lydney to Fremington with a cargo of coals, was seen running for the harbour at Appledore, in Devon, when sha was caught by some dense snow squalls which completely enveloped her. On their clearing away she was found to have been driven on the South Tail Bank, where she was surrounded by broken water. The Appledore No. 1 life-boat of the National Life-boat Institution was launched with all despatch, and was fortunately enabled to save the crew of the vessel, which is likely to become a total wreck.
 
-The screw-steamer Eagle, of Neath, while making for Hayle Harbour, in Cornwall, on Sunday, during a stroug N.E. wind, grounded on the bar, and the heavy seas breaking over her carried away her screw, rudder, and stern poet. The Oxford University life-boat Isis, belonging to the National Life-boat Institution, and stationed at this place, promptly proceeded to her and remained by her for an hour, until it was considered the lives of the crew were no longer in danger.
+The screw-steamer Eagle, of Neath, while making for Hayle Harbour, in Cornwall, on Sunday, during a strong N.E. wind, grounded on the bar, and the heavy seas breaking over her carried away her screw, rudder, and stern poet. The Oxford University life-boat Isis, belonging to the National Life-boat Institution, and stationed at this place, promptly proceeded to her and remained by her for an hour, until it was considered the lives of the crew were no longer in danger.
 
 On Sunday morning, during a strong wind from the north, a vessel ran ashore on the Goodwin Sands. The Broadstairs life-boat of the National Life-boat Institution and the Ramsgate Harbour steamer Vulcan and life-boat Bradford proceeded to her assistance, and after some hours' exertion they were successful in getting the disabled vessel off the sands and into harbour. She was the brigantine Florida, of Christiania, bound from Frederikstadt to Granville, with a cargo of coal, and had on board a crew of seven men.
 
@@ -410,10 +412,8 @@ The second was transmitted to the First Lord of the Admiralty, and was to the fo
 
 In another telegram to Mr Smith the Queen said the telegrams had caused us the greatest grief. These telegrams, having been forwarded to Admiral Fanshawe, were promptly posted at the dockyard gates, where they were eagerly read by sympathetic crowds.
 
-
 ---
 TEXT
-
 
 ![](../images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg)
 Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich
@@ -453,12 +453,9 @@ I am your obedient servant,
 H. Stratton Bates.  
 The Cranhams, Cirencester, March 25.  
 
-
-
 TH: letter noteable eg for Eurydice myth, but also is:
 
 > "The appalling accident to Her Majesty's ship Eurydice, whereby numerous families are rendered comparatively destitute through loss of the bread-winner, calls for the sympathy of all who hold that England should ever maintain her supremacy on the ocean, and this meeting pledges itself to use every endeavour to alleviate, as far as possible, the grievous loss sustained by the widows, orphans and relatives of those who, within sight of their homes, perished in the execution of their duty to their country."
-
 
 ---
 
@@ -480,17 +477,6 @@ This week has been marked by a very sudden change from the mild dry weather rece
 *Temperatures in degrees Fahrenheit. A ' is used in place of a decimal point.*
 
 See also image: BL_0000057_18780330_027_0021_pdf__1_page_.png
----
-
-
-
-TEXT
-
-
-![](../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg)
-Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878
-
-
 ---
 
 

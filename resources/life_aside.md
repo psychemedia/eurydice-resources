@@ -1,11 +1,10 @@
 # Life Goes On
 
-Whilst attempts were being made to raise the Eurydice, other activity had been going on in Sandown Bay, in particular the construction of a pleasure pier. The first part of the pier was opened by a local dignitary of a noble family line,  Lady Oglander.
+Aside from the Eurydice disaster, what would life have been like on the Isle of Wight at the time, particularly around Ventnor and Sandown, and what were the major issues of the day that the Islanders might have had on their minds?
 
-The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
+## Sandown, Up and Coming Holiday Town
 
-![](../images/uo_1532958638-16959-69.jpg)
-Bathing machines, Sandown
+Whilst Ventor was the original fashionable holiday destination on the island, with its favourable microcolimate, Sandown was also developing as a holiday destination. Its notable visitors included a certain Rev. C. L. Dodgson, better known as Lewis Carroll, author of *Alice in Wonderland*.
 
 ---
 https://www.gutenberg.org/files/11483/11483-h/11483-h.htm
@@ -35,66 +34,8 @@ He used to write to me and I to him after that summer, and the friendship, thus 
 
 I don't think that he ever really understood that we, whom he had known as children, could not always remain such. I stayed with him only a few years ago, at Eastbourne, and felt for the time that I was once more a child. He never appeared to realise that I had grown up, except when I reminded him of the fact, and then he only said, "Never mind: you will always be a child to me, even when your hair is grey."
 
-
----
-TEXT
-
-## Temperance Movement
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790215/017/0008
-
-Isle of Wight Observer
-Saturday 15 February 1879
-
-p8
-
-Liberal Party Truckelling to Teetotallers.
-
-— A public meeting was held at the Queen's Rooms on Thursday evening, in support of Sir Wilfred Lawson's resolution to be submitted to the House of Commons on the 11th proximo: "-That in the granting and renewing of licenses for tho public sale of intoxicating drinks, it is both expedient and just that the will of the ratepayers should be consulted." Mr. Councillor H. J. Orchard was in the chair, supported by the Rev. Canon Connon, vicar, the Rev. B. L Green (Unitarian minister), the Rev. W. B. Lark (Bible Christian minister), and Messrs. W. Denness, R. Bullen, John Pierce, W.C, W. H. Day, and C. Jolliffe. Evidently all were intent upon making political capital at the next election for Mr. C. C. Clifford, who has promised to support Sir Wilfred' resolution. It appears that the Liberal party here, in view of the general election, finding that it would be inexpedient to make teetotallism a plank in the Liberal platform, have determined on truckling to the teetotallers in an underhand way, so as to avoid giving offence to the many Liberals who are strongly opposed to restrictive class legislation as to inns. There was tho recent *sudden* conversion of the Liberal Unitarian minister to teetotalism, and the organ of the Pinuock section of Liberals rejoicing over him as one " who would be a great acquisition to the Island teetotal platform." Mr. Green was at once hand and glove with the Vicar in the teetotal agitation, under the patronage of the Liberal Bishop of tho diocese. The Vicar, having cut his connection with the Constitutional Working Men's Association, who were holding a meeting at the same time, was enabled to attend this Liberal teetotal meeting, and propose a resolution to the effect, that it is expedient and just to take the power of granting and renewing inn licenses out of the hands of the magistrates. He proposed this, because he thought the ratepayers should have a direct voice in these Licensing matters, and that there should be power to refuse renewal of licenses to some houses, in order to lessen the number—the mere presence of so many publichouses offering, as they did, irrcsistable temptations to the masses of the people. — Mr. Bullen having seconded the resolution, a ratepayer, addressing the meeting, pointed out that this resolution, on tho face of it, implied present mal-administration in licensing matters on the part of the county aud borough magistrates. The proposer had advanced nothing in proof of mal-administration, for the simple reason that there was nothing, and therefore his position was untenable. As to the bare assertion that a large number of publichouses in a town was more irresistible to the masses than a small number, statistics showed that it was not so. And the reason of this was not far to seek. Amongst the masses who use publichouses, more or less, the number of those who are so besotted as to be allured to drink on nearing a publichouse was happily very inconsiderable. Perhaps no clearer proof of this could be offered than the marked absence of anything like a "run" upon houses having on occasions of dinner parties, license to keep open an hour or two after the usual time for closing. Here in Newport the experience of the last six years showed that a "run" upon a house having extension of time for inn business was unknown. Recently the chief constable of a county, at quarter sessions, said the same thing of his county. It was manifest that the teototal party agitators had all along rested their claims on the public for countenance and support, on this gross misrepresentation, that the masses, not merely the scum, were so besotted as to need " more restrictive class legislation for protection against themselves." As to the manner in which the magistrates as licensing authorities were discharging their duties, there was the fact that the teetotal party had not ventured to bring evidence to make out a plausible case for taking tho power from their hands. Lord Aberdare, the author of "Bruce's " Act, of 1872, had recently administered to the Permissivites a severe rebuke for their want of common honesty in systematically hiding from view the manner in which the law as it stands is operating against anything like looseness in granting uew licenses. So far from looseness in the matter were the licensing authorities carrying it, that it was most difficult to obtain a license in cases where the requirements of the public were most palpable. Every part of the country furnished instances where the licensing authority at quarter sessions again and again refused to confirm the grant of such licenses at couuty petty sessions.
-
 ---
 
-https://archive.org/details/cihm_04713
-The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878
-Ishmael
-1879
-
-p?
-
-TO DO
-
-
----
-https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton
-
-Wikipedia
-Sir Wilfrid Lawson, 2nd Baronet, of Brayton - Temperance
-
-1879
-
-p?
-
-Temperance
-
-Sir Wilfrid Lawson, 2nd Baronet (4 September 1829 – 1 July 1906) was an English temperance campaigner and radical, anti-imperialist Liberal Party politician who sat in the House of Commons variously between 1859 and 1906. He was recognised as the leading humourist in the House of Commons.
-
-Although Lawson did not enter the House of Commons on behalf of the Temperance movement he became their chief parliamentary spokesman. In 1863 he spoke in favour of a Bill to introduce the Sunday closing of public houses.[67] Later that year he proposed that "the Laws under which Licences are granted for the sale of Intoxicating Liquors are eminently unsatisfactory and deficient in power to protect the public, and therefore require immediate alteration."[68] After the resolution was heavily defeated he was encouraged to introduce his Permissive Bill. On 8 June, Lawson rose in front of a packed House of Commons to deliver a speech of great ability that filled four pages of Hansard, to move the second reading of the first of several Permissive Bills. A policy that later became known as Local Option and eventually Local Veto, The Bill was fashioned to embody the convictions but not the policy of the United Kingdom Alliance. he did not propose to prohibit the sale of liquor by enactment. The Bill provided that on application of any district, be that parish, town or borough, the votes of the ratepayers should be cast on the question of whether the trade in alcoholic beverages should exist in that district or not; where a majority of two-thirds of the ratepayers would be required to decide the outcome.[69] The Bill was heavily defeated by a majority of 257. He reintroduced the bill again in 1869,[70] 1870,[71] 1871,[72] 1873,[73] 1874,[74] 1876,[75] 1878,[76] In 1879, he varied his attack on the drink trade by proposing a Resolution in place of the Permissive Bill. Taking the words from a recommendation of the Convocation of the Province of Canterbury, he asked that inhabitants of districts, being the persons most interested in the licensing of Public Houses, should themselves have the power of stopping such licensing, if they objected to having the trade forced upon them.[77] In the following year he moved his resolution on two occasions, In the first he was defeated by a majority of 114 votes,[78] whereas on the second occasion he carried his motion by 26 votes.[79] Although he carried the motion again in 1881 and 1883 with majorities of 42 and 87, Gladstone's government failed to enact the policy.
-
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790322/011/0006
-
-Isle of Wight Observer
-Saturday 22 March 1879
-p6
-
-THE LIBERAL PARTY TRUCKLING TO TEETOTALLERS.
-
-The division list on Sir Wilfrid Lawson's resolution shows that both Mr. C. C. Clifford, the Liberal member for Newport, who intends to offer himself for re-election here, and tho Hon. Evelyn Ashley, M.P. for Poole, who is pledged iv the Liberal interest to contest the seat for the county of the Isle of Wight, voted for the resolution, which was in favour of taking out of the hands of the magistrates the power of granting aud renewing inn licenses. Mr. Evelyn Ashley's leaning in favour of more restrictive class legislation as to inn businesses, subversive of the personal freedom of the artisans aud labourers, and the class next above them, was well known. But who would have thought of Mr. Clifford truckling to the teetotallers at last ? Sir Wilfrid's resolution, like his Permissive Bill, was based on the bare assumption to teetotal agitators, that the masses (and not merely the scum which has been so much reduced as to be scarcely perceptible to casual observers in large public holiday gatherings of artisans and labourers) are so besotted that every publichouse they come near proves an irresistible temptation to drink. And on this assumption, in the face of the clearest evidence to the contrary, we are asked to believe that "more restrictive legislation as to inns is needed to protect the masses against themselves ." There is growing a feeling of righteous indignation throughout the Island against the unseemly clamorous and mischievous teetotal agitation ; and, doubtless, a large majority of the electors of the Island at the hustings will bear in mind this truckling of the two Liberal candidates to the teetotallers. During the last six years the country has been flooded with temperance leaflets, setting forth this purely ideal want of self-restraint, and consequent deep degradation of the masses of artisans and labourers, and also the many other teetotal fallacies. And, for truth's sake, it is much to be deplored that the two Defence Leagues of Licensed Victualler- (the only organisations for resisting infringement of the personal liberty of the subj ct. in tho incessant teetotal attacks on the trade) have, through poverty, as we understand, entirely omitted from" their programme the issue of leaflets exposing these teetotal fallacies, and disabusing the minds of the public. We have it on good authority, that a "leading bishop," untainted with the teetotal heresy, aud honestly seeking the truth of the matter, having gone about amongst the masses, carefully noting everything at large gatherings of artisans and labourers on pleasure bent, with abundant means and facilities for indulgence in excessive drinking, fell in with a very intemperate temperance agitator, and ventured to ask him, " Where is all this intemperance you are speaking about for I really do not see the drunken men about." And the reply to the right, rev. prelate's question of fact was, " My lord, because you won't see, and not because you can't see. There are hundreds of people born blind to it!" Take the facts noted by this good bishop, together with statistics—see Mr. W. T. Wilson's pamphlet, *Law and Liquor*, published by Weldon and Co., Fleet-street showing that in the eastern counties, where publichouses are most numerous ia proportion to population, drunkenness is less than in counties where the houses are much fewer in proportion to population. And take also the marked absence of anything like a " run " upon publichouses in towns, large or small, having, on occasion of late dinner parties, license to keep open to the public an hour or two after the usual time for closing; and we have clear, undisputablo evidence that the maligned masses of artisans and labourers of this country are sober and orderly men, possessing manly self-control in respect of strong drink ; and that they no more stand in need of restrictive legislation as to inns, for " protection against themselves," than the aristocracy. If the masses had not this self-control, their large gatherings would present the inevitable outcomes— disgraceful scenes of drunkenness and tumult ; and magistrates throughout the country would have long since ceased to grant licenses for extension of time for inn businesses, on account of the " run " upon inns having such licenses. Our Army is recruited by tin- labourers and artisans, and where are the evidences of their want of pluck and endurance ? It is noteworthy, as showing that very few of our senators have endeavoured to grasp the subject, that in the debates of the House of Commons on the numerous teetotal nostrums, which have troubled the House of late years, Sir Wilfrid Lawson and his followers have never been met with this argument, which, we submit, is most conclusive, and completely cuts the ground from under them. " The teetotaller at large," clamouring to fasten the legislative muzzle of restraint on his neighbours at every turn, rests his cane wholly on his bare assertion that the masses of our people have sunk so low as to be utterly incapable of self-control. And he insists that benefit society meetings, Army and Navy pensioners' pay meetings, and coroners' courts ought *not* to be held at publichouses, *because there is the temptation to drink*. Ihe long-experienced managers of benefit societies; the sober, steady pensioners; and men who have served as coroners' jurors in town and country, in " respectable" parts of the city, and in the slums, hundreds of times, and know more on this point than coroners, who are present *only* during the enquiry, in vain relate their experience, and show clearly that he is altogether wrong in his assumption that this attendance at a publichouse is unharmful. Good, easy, well-meaning folks take the teetotal statements for granted, and readily part with their money in aid of Bands of Hope and other teetotal societies, with their marked attendant worse evils than immoderate indulgence in strong drinks ; and thus they help to perpetuate those evils, some of which are pointed out in the saying of Dr. Wordsworth, Bishop of Lincoln : " The pledge is unscriptural and heretical, and it is a deadly sin for Christians to sign it, inasmuch as it leads to lying and disregard of truth, and tends to raise a generation of hypocrites." *— Communicated.*
-
----
 TEXT
 
 In *Fit the Second, The Bellman's Speech* of the *Hunting of the Snark*, Carroll describes the various marks by which a genuine Snark may be known:
@@ -106,10 +47,20 @@ A sentiment open to doubt.
 
 Such things were a common sight in Sandown at the time.
 
-
-links would open round culver at st helens duver.
+![](../images/uo_1532958638-16959-69.jpg)
+Bathing machines, Sandown
 
 ## The Opening of Sandown Pier
+
+Whilst attempts were being made to raise the Eurydice, other activity had been going on in Sandown Bay, in particular the construction of a pleasure pier. The first part of the pier was opened by a local dignitary of a noble family line, Lady Oglander.
+
+
+![](../images/service-pnp-ppmsc-08900-08995r.jpg)
+Library of Congress
+Title: [Sandown Bay, Isle of Wight, England]
+Date Created/Published: [between ca. 1890 and ca. 1900].
+
+The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780522/025/0004
@@ -126,21 +77,8 @@ The new pier is almost completed, and, although in appearance it is slight, the 
 ---
 TEXT
 
-![](../images/service-pnp-ppmsc-08900-08995r.jpg)
-Library of Congress
-Title: [Sandown Bay, Isle of Wight, England]
-Date Created/Published: [between ca. 1890 and ca. 1900].
-
-
 ![](../images/sandown_pier.jpeg)
 Sandown Pier
-
-![](../images/service-pnp-ppmsc-08900-08996r.jpg)
-Library of Congress
-Title: [Sandown from pier, Isle of Wight, England]
-Date Created/Published: [between ca. 1890 and ca. 1900].
-
-
 
 ---
 
@@ -226,11 +164,14 @@ Mr. Wooldridge, in acknowledging the warm manner in which the toast had been rec
 
 The toasts of "The Ladies" and "The Press" brought the proceedings to a close.
 
-
-
 ---
 
 TEXT
+
+![](../images/service-pnp-ppmsc-08900-08996r.jpg)
+Library of Congress
+Title: [Sandown from pier, Isle of Wight, England]
+Date Created/Published: [between ca. 1890 and ca. 1900].
 
 ## Looming War
 
@@ -283,7 +224,6 @@ The Servians have established a strong military post at Kustendil, oil the Mitro
 
 The Cabinet of Vienna has opened negotiations with the Porte respect to the occupation the Austro-Hungarian troops of the fortress of Ada Kaleh, which will shortly be evacuated the Turkish garrison conformably with the Treaty of San Stefano. The Austrians reckon on the consent of the Porte, so that the free navigation of the Danube may be secured, and that Servia may be prevented from taking possession of this fortress. Meanwhile, a contradiction is given to the reports of a concentration of Austrian troops on the Bosnian frontier, and it is declared that Austria will not occupy that province without the consent of the Porte.
 
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18780518/021/0006
 Illustrated London News
@@ -330,3 +270,58 @@ LOCAL AND DISTRICT INTELLIGENCE.
 
 The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the whole of the men have been discharged, with the exception of the master ropemaker and a writer. The master ropemaker is appointed to the ropery in Devonport yard, to supersede the officer of That rank at that establishment. The cause of this particular feature in the dockyard discharge has been brought about in consequence of a determination to manufacture for the future the Government rope in the yards at Chatham and Devonport, where complete arrangements are made for the employment of female labour. These women, we hear, earn from 8s. to 12s. weekly, and every possible care has been taken to provide suitable and becoming accommodation for those who are so engaged. In addition to the number of workmen who have already been discharged from Portsmouth dockyard about 50 joiners and labourers will leave next week; and this batch, according to present arrangements, will bring to a close the extraordinary exodus of artifieers which has recently taken place from this establishment. We inadvertently omitted from the list of members of the Town Council who accompanied the Mayor to London, in support of the appeal on behalf of the discharged ropemakers, the name of Mr. W. H. Dore. The omission was the more to be regretted because Mr. Dore has been from the first one of the most active of those who are interesting themselves in the dockyard discharge.
 
+---
+TEXT
+
+## Temperance Movement
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790215/017/0008
+
+Isle of Wight Observer
+Saturday 15 February 1879
+
+p8
+
+Liberal Party Truckelling to Teetotallers.
+
+— A public meeting was held at the Queen's Rooms on Thursday evening, in support of Sir Wilfred Lawson's resolution to be submitted to the House of Commons on the 11th proximo: "-That in the granting and renewing of licenses for tho public sale of intoxicating drinks, it is both expedient and just that the will of the ratepayers should be consulted." Mr. Councillor H. J. Orchard was in the chair, supported by the Rev. Canon Connon, vicar, the Rev. B. L Green (Unitarian minister), the Rev. W. B. Lark (Bible Christian minister), and Messrs. W. Denness, R. Bullen, John Pierce, W.C, W. H. Day, and C. Jolliffe. Evidently all were intent upon making political capital at the next election for Mr. C. C. Clifford, who has promised to support Sir Wilfred' resolution. It appears that the Liberal party here, in view of the general election, finding that it would be inexpedient to make teetotallism a plank in the Liberal platform, have determined on truckling to the teetotallers in an underhand way, so as to avoid giving offence to the many Liberals who are strongly opposed to restrictive class legislation as to inns. There was tho recent *sudden* conversion of the Liberal Unitarian minister to teetotalism, and the organ of the Pinnock section of Liberals rejoicing over him as one " who would be a great acquisition to the Island teetotal platform." Mr. Green was at once hand and glove with the Vicar in the teetotal agitation, under the patronage of the Liberal Bishop of tho diocese. The Vicar, having cut his connection with the Constitutional Working Men's Association, who were holding a meeting at the same time, was enabled to attend this Liberal teetotal meeting, and propose a resolution to the effect, that it is expedient and just to take the power of granting and renewing inn licenses out of the hands of the magistrates. He proposed this, because he thought the ratepayers should have a direct voice in these Licensing matters, and that there should be power to refuse renewal of licenses to some houses, in order to lessen the number—the mere presence of so many publichouses offering, as they did, irrcsistable temptations to the masses of the people. — Mr. Bullen having seconded the resolution, a ratepayer, addressing the meeting, pointed out that this resolution, on tho face of it, implied present mal-administration in licensing matters on the part of the county aud borough magistrates. The proposer had advanced nothing in proof of mal-administration, for the simple reason that there was nothing, and therefore his position was untenable. As to the bare assertion that a large number of publichouses in a town was more irresistible to the masses than a small number, statistics showed that it was not so. And the reason of this was not far to seek. Amongst the masses who use publichouses, more or less, the number of those who are so besotted as to be allured to drink on nearing a publichouse was happily very inconsiderable. Perhaps no clearer proof of this could be offered than the marked absence of anything like a "run" upon houses having on occasions of dinner parties, license to keep open an hour or two after the usual time for closing. Here in Newport the experience of the last six years showed that a "run" upon a house having extension of time for inn business was unknown. Recently the chief constable of a county, at quarter sessions, said the same thing of his county. It was manifest that the teototal party agitators had all along rested their claims on the public for countenance and support, on this gross misrepresentation, that the masses, not merely the scum, were so besotted as to need " more restrictive class legislation for protection against themselves." As to the manner in which the magistrates as licensing authorities were discharging their duties, there was the fact that the teetotal party had not ventured to bring evidence to make out a plausible case for taking tho power from their hands. Lord Aberdare, the author of "Bruce's " Act, of 1872, had recently administered to the Permissivites a severe rebuke for their want of common honesty in systematically hiding from view the manner in which the law as it stands is operating against anything like looseness in granting uew licenses. So far from looseness in the matter were the licensing authorities carrying it, that it was most difficult to obtain a license in cases where the requirements of the public were most palpable. Every part of the country furnished instances where the licensing authority at quarter sessions again and again refused to confirm the grant of such licenses at couuty petty sessions.
+
+---
+
+https://archive.org/details/cihm_04713
+The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878
+Ishmael
+1879
+
+p?
+
+TO DO
+
+---
+https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton
+
+Wikipedia
+Sir Wilfrid Lawson, 2nd Baronet, of Brayton - Temperance
+
+1879
+
+p?
+
+Temperance
+
+Sir Wilfrid Lawson, 2nd Baronet (4 September 1829 – 1 July 1906) was an English temperance campaigner and radical, anti-imperialist Liberal Party politician who sat in the House of Commons variously between 1859 and 1906. He was recognised as the leading humourist in the House of Commons.
+
+Although Lawson did not enter the House of Commons on behalf of the Temperance movement he became their chief parliamentary spokesman. In 1863 he spoke in favour of a Bill to introduce the Sunday closing of public houses.[67] Later that year he proposed that "the Laws under which Licences are granted for the sale of Intoxicating Liquors are eminently unsatisfactory and deficient in power to protect the public, and therefore require immediate alteration."[68] After the resolution was heavily defeated he was encouraged to introduce his Permissive Bill. On 8 June, Lawson rose in front of a packed House of Commons to deliver a speech of great ability that filled four pages of Hansard, to move the second reading of the first of several Permissive Bills. A policy that later became known as Local Option and eventually Local Veto, The Bill was fashioned to embody the convictions but not the policy of the United Kingdom Alliance. he did not propose to prohibit the sale of liquor by enactment. The Bill provided that on application of any district, be that parish, town or borough, the votes of the ratepayers should be cast on the question of whether the trade in alcoholic beverages should exist in that district or not; where a majority of two-thirds of the ratepayers would be required to decide the outcome.[69] The Bill was heavily defeated by a majority of 257. He reintroduced the bill again in 1869,[70] 1870,[71] 1871,[72] 1873,[73] 1874,[74] 1876,[75] 1878,[76] In 1879, he varied his attack on the drink trade by proposing a Resolution in place of the Permissive Bill. Taking the words from a recommendation of the Convocation of the Province of Canterbury, he asked that inhabitants of districts, being the persons most interested in the licensing of Public Houses, should themselves have the power of stopping such licensing, if they objected to having the trade forced upon them.[77] In the following year he moved his resolution on two occasions, In the first he was defeated by a majority of 114 votes,[78] whereas on the second occasion he carried his motion by 26 votes.[79] Although he carried the motion again in 1881 and 1883 with majorities of 42 and 87, Gladstone's government failed to enact the policy.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790322/011/0006
+
+Isle of Wight Observer
+Saturday 22 March 1879
+p6
+
+THE LIBERAL PARTY TRUCKLING TO TEETOTALLERS.
+
+The division list on Sir Wilfrid Lawson's resolution shows that both Mr. C. C. Clifford, the Liberal member for Newport, who intends to offer himself for re-election here, and tho Hon. Evelyn Ashley, M.P. for Poole, who is pledged iv the Liberal interest to contest the seat for the county of the Isle of Wight, voted for the resolution, which was in favour of taking out of the hands of the magistrates the power of granting aud renewing inn licenses. Mr. Evelyn Ashley's leaning in favour of more restrictive class legislation as to inn businesses, subversive of the personal freedom of the artisans aud labourers, and the class next above them, was well known. But who would have thought of Mr. Clifford truckling to the teetotallers at last ? Sir Wilfrid's resolution, like his Permissive Bill, was based on the bare assumption to teetotal agitators, that the masses (and not merely the scum which has been so much reduced as to be scarcely perceptible to casual observers in large public holiday gatherings of artisans and labourers) are so besotted that every publichouse they come near proves an irresistible temptation to drink. And on this assumption, in the face of the clearest evidence to the contrary, we are asked to believe that "more restrictive legislation as to inns is needed to protect the masses against themselves ." There is growing a feeling of righteous indignation throughout the Island against the unseemly clamorous and mischievous teetotal agitation ; and, doubtless, a large majority of the electors of the Island at the hustings will bear in mind this truckling of the two Liberal candidates to the teetotallers. During the last six years the country has been flooded with temperance leaflets, setting forth this purely ideal want of self-restraint, and consequent deep degradation of the masses of artisans and labourers, and also the many other teetotal fallacies. And, for truth's sake, it is much to be deplored that the two Defence Leagues of Licensed Victualler- (the only organisations for resisting infringement of the personal liberty of the subj ct. in tho incessant teetotal attacks on the trade) have, through poverty, as we understand, entirely omitted from" their programme the issue of leaflets exposing these teetotal fallacies, and disabusing the minds of the public. We have it on good authority, that a "leading bishop," untainted with the teetotal heresy, aud honestly seeking the truth of the matter, having gone about amongst the masses, carefully noting everything at large gatherings of artisans and labourers on pleasure bent, with abundant means and facilities for indulgence in excessive drinking, fell in with a very intemperate temperance agitator, and ventured to ask him, " Where is all this intemperance you are speaking about for I really do not see the drunken men about." And the reply to the right, rev. prelate's question of fact was, " My lord, because you won't see, and not because you can't see. There are hundreds of people born blind to it!" Take the facts noted by this good bishop, together with statistics—see Mr. W. T. Wilson's pamphlet, *Law and Liquor*, published by Weldon and Co., Fleet-street showing that in the eastern counties, where publichouses are most numerous ia proportion to population, drunkenness is less than in counties where the houses are much fewer in proportion to population. And take also the marked absence of anything like a " run " upon publichouses in towns, large or small, having, on occasion of late dinner parties, license to keep open to the public an hour or two after the usual time for closing; and we have clear, undisputablo evidence that the maligned masses of artisans and labourers of this country are sober and orderly men, possessing manly self-control in respect of strong drink ; and that they no more stand in need of restrictive legislation as to inns, for " protection against themselves," than the aristocracy. If the masses had not this self-control, their large gatherings would present the inevitable outcomes— disgraceful scenes of drunkenness and tumult ; and magistrates throughout the country would have long since ceased to grant licenses for extension of time for inn businesses, on account of the " run " upon inns having such licenses. Our Army is recruited by tin- labourers and artisans, and where are the evidences of their want of pluck and endurance ? It is noteworthy, as showing that very few of our senators have endeavoured to grasp the subject, that in the debates of the House of Commons on the numerous teetotal nostrums, which have troubled the House of late years, Sir Wilfrid Lawson and his followers have never been met with this argument, which, we submit, is most conclusive, and completely cuts the ground from under them. " The teetotaller at large," clamouring to fasten the legislative muzzle of restraint on his neighbours at every turn, rests his cane wholly on his bare assertion that the masses of our people have sunk so low as to be utterly incapable of self-control. And he insists that benefit society meetings, Army and Navy pensioners' pay meetings, and coroners' courts ought *not* to be held at publichouses, *because there is the temptation to drink*. Ihe long-experienced managers of benefit societies; the sober, steady pensioners; and men who have served as coroners' jurors in town and country, in " respectable" parts of the city, and in the slums, hundreds of times, and know more on this point than coroners, who are present *only* during the enquiry, in vain relate their experience, and show clearly that he is altogether wrong in his assumption that this attendance at a publichouse is unharmful. Good, easy, well-meaning folks take the teetotal statements for granted, and readily part with their money in aid of Bands of Hope and other teetotal societies, with their marked attendant worse evils than immoderate indulgence in strong drinks ; and thus they help to perpetuate those evils, some of which are pointed out in the saying of Dr. Wordsworth, Bishop of Lincoln : " The pledge is unscriptural and heretical, and it is a deadly sin for Christians to sign it, inasmuch as it leads to lying and disregard of truth, and tends to raise a generation of hypocrites." *— Communicated.*

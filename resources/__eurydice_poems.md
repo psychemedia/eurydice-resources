@@ -30,77 +30,6 @@ https://clok.uclan.ac.uk/11418/1/45.4.hobbs.pdf
 *Pers. comm.*, Andrew Hobbs, 20/4/2022, it is interesting "that so many people turn to poetry in times of disaster, and also most of the poems you've found are published in places on or near the coast - Dundee, Liverpool, Montrose, Ulverston, Berwick, Drogheda - where geography meant more empathy?"
 
 
-```{admonition} title=The_Home-Coming_of_the_Eurydice
-:class: note dropdown
-
-[Sir Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-04-22, p. ?
-
-Sir Arthur Conan Doyle
-
-1894
-
-?
-
-Conan Doyle was a resident of Southsea at the time of the disaster.  The poem was originally published in *The Speaker: The Liberal Review* dated March 24th, 1894, as "The Ballad of the Eurydice". It was later collected as "The Home-Coming of the Eurydice".
-
-Poetry - The Home-Coming of the Eurydice
-
-[Lost, with her crew of three hundred boys, on the last day of her voyage, March 23, 1878. She foundered off Portsmouth, from which town many of the boys came.]
-
-Up with the royals that top the white spread of her!  
-Press her and dress her, and drive through the foam;  
-The Island's to port, and the mainland ahead of her,  
-Hey for the Warner and Hayling and Home!
-
-"Bo'sun, O Bo'sun, just look at the green of it!  
-Look at the red cattle down by the hedge!  
-Look at the farmsteading—all that is seen of it,  
-One little gable end over the edge!"
-
-"Lord! the tongues of them clattering, clattering,  
-All growing wild at a peep of the Wight;  
-Aye, sir, aye, it has set them all chattering,  
-Thinking of home and their mothers to-night."
-
-Spread the topgallants — oh, lay them out lustily!  
-What though it darken o'er Netherby Combe?  
-'Tis but the valley wind, puffing so gustily—  
-On for the Warner and Hayling and Home!
-
-"Bo'sun, O Bo'sun, just see the long slope of it!  
-Culver is there, with the cliff and the light.  
-Tell us, oh tell us, now is there a hope of it?  
-Shall we have leave for our homes for to-night?"
-
-"Tut, the clack of them! Steadily! Steadily!  
-Aye, as you say, sir, they're little ones still;  
-One long reach should open it readily,  
-Round by St. Helens and under the hill.
-
-"The Spit and the Nab are the gates of the promise,  
-Their mothers to them—and to us it's our wives.  
-I've sailed forty years, and—By God it's upon us!  
-Down royals, Down top'sles, down, down, for your lives!"
-
-A grey swirl of snow with the squall at the back of it,  
-Heeling her, reeling her, beating her down!  
-A gleam of her bends in the thick of the wrack of it,  
-A flutter of white in the eddies of brown.
-
-It broke in one moment of blizzard and blindness;  
-The next, like a foul bat, it flapped on its way.  
-But our ship and our boys! Gracious Lord, in your kindness,  
-Give help to the mothers who need it to-day!
-
-Give help to the women who wait by the water,  
-Who stand on the Hard with their eyes past the Wight.  
-Ah! whisper it gently, you sister or daughter,  
-"Our boys are all gathered at home for to-night."
-
-```
-
-
-
 ```{admonition} POETRY - THE LAST OF THE EURYDICE.
 :class: note dropdown
 
@@ -240,7 +169,7 @@ Sudden as ligutning's strike, from Culver's brow
 Swoops the fierce squall, 'midst blinding sleet and snow,  
 And, like a tiger springing on its prey,  
 Bore down that gallant vessel to her doom.  
-One moment saw her proudly ride thi waves  
+One moment saw her proudly ride the waves  
 Exultant in her beauty and her strength ;  
 The next, behind that curtain-cloud of storm.  
 Hopelessly stricken, crushed, and settling down.  
@@ -257,7 +186,7 @@ She rounds the Wight, and there before her lies
 The hoped-for haven— Portsmouth — full in sight,  
 With home and kindling holding welcome out,  
 Almost within the sea-worn wanderor's grasp.  
-God! wnat a moment that to be struck down ;  
+God! what a moment that to be struck down ;  
 To change home's welcome for a watery grave ;  
 To strew three hundred corses on the shore  
 Where stalwart tonus, full of high hope and life,  
@@ -273,7 +202,7 @@ In full discharge of duty — even so,
 As though they fell in battle, face to face  
 With England's direst foe. Above their grave  
 The sea lies calm, and golden-tinted clouds  
-Look down witn a mild pity on the spot  
+Look down with a mild pity on the spot  
 Where lies the Eurydice ahd her brave crew.
 
 Thomas Maton. Sandown, March 26th, 1878.
@@ -892,10 +821,83 @@ tag: poem
 
 
 
+```{admonition} title=The_Home-Coming_of_the_Eurydice
+:class: note dropdown
+
+[Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-04-23, p. ?
+
+Arthur Conan Doyle
+
+1894
+
+?
+
+Conan Doyle, The Home-Coming of the Eurydice
+
+Conan Doyle was a resident of Southsea at the time of the disaster.  The poem was originally published in *The Speaker: The Liberal Review* dated March 24th, 1894, as "The Ballad of the Eurydice". It was later collected as "The Home-Coming of the Eurydice".
+
+Poetry - The Home-Coming of the Eurydice
+
+[Lost, with her crew of three hundred boys, on the last day of her voyage, March 23, 1878. She foundered off Portsmouth, from which town many of the boys came.]
+
+Up with the royals that top the white spread of her!  
+Press her and dress her, and drive through the foam;  
+The Island's to port, and the mainland ahead of her,  
+Hey for the Warner and Hayling and Home!
+
+"Bo'sun, O Bo'sun, just look at the green of it!  
+Look at the red cattle down by the hedge!  
+Look at the farmsteading—all that is seen of it,  
+One little gable end over the edge!"
+
+"Lord! the tongues of them clattering, clattering,  
+All growing wild at a peep of the Wight;  
+Aye, sir, aye, it has set them all chattering,  
+Thinking of home and their mothers to-night."
+
+Spread the topgallants — oh, lay them out lustily!  
+What though it darken o'er Netherby Combe?  
+'Tis but the valley wind, puffing so gustily—  
+On for the Warner and Hayling and Home!
+
+"Bo'sun, O Bo'sun, just see the long slope of it!  
+Culver is there, with the cliff and the light.  
+Tell us, oh tell us, now is there a hope of it?  
+Shall we have leave for our homes for to-night?"
+
+"Tut, the clack of them! Steadily! Steadily!  
+Aye, as you say, sir, they're little ones still;  
+One long reach should open it readily,  
+Round by St. Helens and under the hill.
+
+"The Spit and the Nab are the gates of the promise,  
+Their mothers to them—and to us it's our wives.  
+I've sailed forty years, and—By God it's upon us!  
+Down royals, Down top'sles, down, down, for your lives!"
+
+A grey swirl of snow with the squall at the back of it,  
+Heeling her, reeling her, beating her down!  
+A gleam of her bends in the thick of the wrack of it,  
+A flutter of white in the eddies of brown.
+
+It broke in one moment of blizzard and blindness;  
+The next, like a foul bat, it flapped on its way.  
+But our ship and our boys! Gracious Lord, in your kindness,  
+Give help to the mothers who need it to-day!
+
+Give help to the women who wait by the water,  
+Who stand on the Hard with their eyes past the Wight.  
+Ah! whisper it gently, you sister or daughter,  
+"Our boys are all gathered at home for to-night."
+
+```
+
+
+
 ```{admonition} The Loss of the Eurydice  
 :class: note dropdown
 
-[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-04-22, p. ?
+[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-04-23, p. ?
 
 Foundered March 1878.
 

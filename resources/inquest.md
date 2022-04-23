@@ -2,7 +2,9 @@
 
 The first inquest surrounding the tragedy was held in Ventnor on Tuesday, March 26th, 1878, for the three deceased sailors returned by the Emma, Lieutenant Francis Hope Tabor and Captain Louis Ferrier, R.E., who both died on board the Emma, and David Bennett, ordinary seaman, who was already dead when his body was retrieved from the sea.
 
-The aim of the inquest was two-fold: to identify the bodies, and to ascertain how the deaths had occurred. The key witnesses were the two survivors, Benjamin Cuddiford and Sydney Flectcher, and W. L. Jenkin, master the schooner "Emma " of Padstow.
+Originally planned to be held in the Queen's Hotel, the Coroner asked if a larger room was available. The Freemasons Tavern was suggested as an alternative but eventually a large room in the Royal Hotel was offered for use by the Coroner.
+
+The aim of the inquest was two-fold: to identify the bodies, and to ascertain how the deaths had occurred. The key witnesses were the two survivors, Benjamin Cuddiford and Sydney Flectcher, and W. L. Jenkin, master the schooner "Emma" of Padstow.
 
 ![Eurydice survivors](../images/eurydice-survivors.jpg)
 The two survivors
@@ -36,6 +38,8 @@ To help understand the commentary provided by the two survivors, the following d
 Example of sail names for a three masted sailing ship
 
 With the ship being a training ship, it was initially assumed that the majority of the men, officers aside, would be unmarried. Along with the crew and several men making passage back to England from service overseas, several prisoners had also been aboard, one of whom was believed to have been held in chains.
+
+This first report includes the statement Cuddiford made to the Admiralty authorities, as well as a direct report of the inquest.
 
 ----
 
@@ -119,7 +123,10 @@ There is something of a personal sorrow which must affect every Englishman when 
 
 TEXT
 
-The next report adds a little more colour, describing how larger premises had to be found for the inquiry given the large number of people who were keen to attend it.
+![](../images/ILN_1878_loss_of_euridyce_apr_06_010.jpg)
+Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878
+
+The next report adds a little more colour reagrding the setting of the inquest, describing how larger premises had to be found for the inquiry given the large number of people who were keen to attend it.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/016/0006
@@ -129,7 +136,7 @@ p6
 
 THE INQUEST.
 
-The inquest upon the bodies of Lieutenant Francis Hope Tabor, Captain Louis Ferrier, R E , and David Bennett, ordinary seaman, was held on Tuesday afternoon by F. Blake, Esq. coroner, who commenced the proceedings at the Queen's Hotel, Esplanade, Ventnor. The bodies were in a little outhouse near the hotel, and had already been coffined. That of Captain Ferrier especially bore a calm and peaceful expression, betokening that death had been sudden and painless. The white cloths with which they had been covered were sprinkled with beautiful fiowers. As soon as the Coroner, jury, and representatives of the Press had assembled at the Queen's Hotel it was at once perceived that the room placed at their disposal was a great deal too small, and the Coroner asked if a larger room could not be procured. The Freemasons' Tavern was at first suggested, but eventually the proprietor of the Royal Hotel offered the use of a larger room there, and after the jury, of whom Mr. W. M Judd was foreman, had been sworn and had viewed the body, they adjourned to the Royal Hotel. In opening the proceedings,
+The inquest upon the bodies of Lieutenant Francis Hope Tabor, Captain Louis Ferrier, R E , and David Bennett, ordinary seaman, was held on Tuesday afternoon by F. Blake, Esq. coroner, who commenced the proceedings at the Queen's Hotel, Esplanade, Ventnor. The bodies were in a little outhouse near the hotel, and had already been coffined. That of Captain Ferrier especially bore a calm and peaceful expression, betokening that death had been sudden and painless. The white cloths with which they had been covered were sprinkled with beautiful flowers. As soon as the Coroner, jury, and representatives of the Press had assembled at the Queen's Hotel it was at once perceived that the room placed at their disposal was a great deal too small, and the Coroner asked if a larger room could not be procured. The Freemasons' Tavern was at first suggested, but eventually the proprietor of the Royal Hotel offered the use of a larger room there, and after the jury, of whom Mr. W. M Judd was foreman, had been sworn and had viewed the body, they adjourned to the Royal Hotel. In opening the proceedings,
 
 The Coroner said he could not forbear expressing his deep concern, which he was sure everybody must share, at the cause which had called them together — an accident which had resulted in the loss of so many valuable lives when they had almost arrived at their destination. This was a most important enquiry, for, though the present inquest was nominally only as to the death of three persons, a hundred times that number had died from the same accident. He asked them to give this evidence their best attention.
 
@@ -248,3 +255,9 @@ This being all the evidence, the coroner proceeded to sum up. He said the first 
 The jury then retired, and, after an absence of half-an-hour, returned with the following verdict:
 
 "The jury unanimously find that the three deceased were accidentally drowned, owing to the capsizing of Her Majesty's ship Eurydice by a sudden squall, at Dunnose, on Suuday, the 24th inst., and the jury consider that from the evidence adduced no blame whatever can attach to the captain, officers, and men of the ship."
+
+---
+
+TEXT
+
+*`It might be useful to compare this reports to see if there are any major differences between them and try to generate a more complete and closer to verbatim report.`*
