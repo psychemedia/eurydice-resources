@@ -7,10 +7,10 @@ Aside from the Eurydice disaster, what would life have been like on the Isle of 
 Whilst Ventor was the original fashionable holiday destination on the island, with its favourable microcolimate, Sandown was also developing as a holiday destination. Its notable visitors included a certain Rev. C. L. Dodgson, better known as Lewis Carroll, author of *Alice in Wonderland*.
 
 
-```{admonition} [The Life and Letters of Lewis Carroll] - Saturday, April 23rd, 1898
+```{admonition} [The Life and Letters of Lewis Carroll] - Sunday, April 24th, 1898
 :class: note dropdown
 
-[The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)](https://www.gutenberg.org/files/11483/11483-h/11483-h.htm), 1898-04-23, p. ?
+[The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)](https://www.gutenberg.org/files/11483/11483-h/11483-h.htm), 1898-04-24, p. ?
 
 Lewis Carroll during the last fifteen years of his life always spent the Long Vacation at Eastbourne; in earlier times, Sandown, a pleasant little seaside resort in the Isle of Wight, was his summer abode. He loved the sea both for its own sake and because of the number of children whom he met at seaside places. Here is another "first meeting"; this time it is at Sandown, and Miss Gertrude Chataway [to whom The Hunting of the Snark was dedicated] is the narrator:—
 
@@ -318,10 +318,10 @@ The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the wh
 
 
 
-```{admonition} TO DO - Wednesday, April 23rd, 1879
+```{admonition} TO DO - Thursday, April 24th, 1879
 :class: note dropdown
 
-[The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878](https://archive.org/details/cihm_04713), 1879-04-23, p. ?
+[The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878](https://archive.org/details/cihm_04713), 1879-04-24, p. ?
 
 
 
@@ -329,10 +329,10 @@ The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the wh
 
 
 
-```{admonition} Temperance - Wednesday, April 23rd, 1879
+```{admonition} Temperance - Thursday, April 24th, 1879
 :class: note dropdown
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton), 1879-04-23, p. ?
+[Wikipedia](https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton), 1879-04-24, p. ?
 
 Sir Wilfrid Lawson, 2nd Baronet (4 September 1829 – 1 July 1906) was an English temperance campaigner and radical, anti-imperialist Liberal Party politician who sat in the House of Commons variously between 1859 and 1906. He was recognised as the leading humourist in the House of Commons.
 

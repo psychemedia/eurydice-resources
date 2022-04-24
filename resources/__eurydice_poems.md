@@ -821,10 +821,10 @@ tag: poem
 
 
 
-```{admonition} title=The_Home-Coming_of_the_Eurydice - Monday, April 23rd, 1894
+```{admonition} title=The_Home-Coming_of_the_Eurydice - Tuesday, April 24th, 1894
 :class: note dropdown
 
-[Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-04-23, p. ?
+[Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-04-24, p. ?
 
 Arthur Conan Doyle
 
@@ -894,10 +894,10 @@ Ah! whisper it gently, you sister or daughter,
 
 
 
-```{admonition} The Loss of the Eurydice   - Tuesday, April 23rd, 1918
+```{admonition} The Loss of the Eurydice   - Wednesday, April 24th, 1918
 :class: note dropdown
 
-[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-04-23, p. ?
+[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-04-24, p. ?
 
 Foundered March 1878.
 

@@ -131,12 +131,9 @@ The lifting operations were suspended on Friday for the re-arrangement of the pl
 
 We had hoped to have been able to record the fact that the Eurydice was safe in Portsmouth Harbour at the time of going to press with our present issue, but it seems that a little more delay is necessary. On Monday evening the shipwirght department of Portsmouth Dockyard finished their part of the work of adapting the Pearl, Rinaldo, Wave, and Swan to the new place of lifting the wreck from the sides, 100 men having been engaged upon these vessels throughout Sunday. Much, however, remains to be done in the way of strengthening the sides of the craft with wooden balks, and it is not expected that the necessary preliminaries can be completed before Friday or miturday. The Pearl will be located on the port side of the Eurydice, and alongside her, for the purpose of increasing her stability, will be the Swan ; whilst the Rinaldo and the Wave will be similarly platted on the starboard side. The wreck will not, as heretofore, be swept with hawsers, the lift having to be effected entirely by means of 16 toggles, eight being fixed in position on each side, secured by 7in. wire hawsers, each capable of standing a strain equivalent to a hundred tons. Though not altogether out of the tide, the Eurydice is in water that is less in the run of the tide, and this will be highly advantageous in rendering the lifting vessels more manageable than has hitherto been the came. It is intended to lift the Eurydice with successive tides as high tie may be found practicable, then to close up her ports and hatchways, and afterwards to pump her dry, when she will float to the surface by virtue of her own bouyancy. With this result attained the salvage operations will be completed and the wreck will undergo a thorough fumigation before being brought into harbour. On Monday the Manly tug brought a body into harbour, and a chest of drawers and a cashbox were also recovered from the unfortunate frigate.
 
-
 ---
 
 TEXT
-
-
 
 ![](../images/ILN_1878_loss_of_euridyce_jul_27_005.jpg)
 Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle of Wight, July 27, 1878
@@ -149,7 +146,6 @@ Wreck of HMS Eurydice
 1878
 R. Cadogan-Rothery
 Carisbrooke Castle Museum
-
 
 ---
 
@@ -179,17 +175,14 @@ A CURIOUS INCIDENT
 
 Among the otfieers on board the Eurydice at the time she foundered was Mr. Charles V. Strange, a lieutenant who is said to be the owner of part of the Epsom Racecourse. His will has been in the posesasion of his friends, but it was believed that there was also a codicil which, though diligent search has been made, could not be found. Yesterday the codicil was discovered on board.
 
-
 ---
 
 TEXT
-
 
 ![](../images/52015030324_42a5559933_o.jpg)
 Sandown, looking back towards Luccombe
 
 ---
-
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/114/0005
 Isle of Wight Times
@@ -250,8 +243,7 @@ Ventnor, Wednesday
 
 Although the morning looked unpromising, with fresh south-west breeze, it was determined if possible to move the Euryice to-day. Accordingly at low water, about 10 a.m., the Pearl and Rinaldo were again hove down as before, and the requisite quantity of water ballast pumped into the Wave and Swan to enable them to act as counterpoises. The only thing to do next was to wait for the tide, and a few minutes after three the wreck began to lift a little. As the wreck and lifting ships were lying with their bows towards shore, the tugs were necessarily placed with towing-ropes made fast to the sterns of the Pearl and Rinaldo to draw them into deeper water. At half-past three the four tugs were ordered to steam easily ahead. There was great suspense for a few minutes, every eye watching the flagstaff of Sandown Fort in line with a tall elm tree in the upper part of Sandown. Presently the flagstaff was seen to slowly walk away from the tree, proving that the wreck was fairly afloat and moving seawards. After steaming a short distance the tugs cast off the tow-ropes and went round to the bows of the flotilla, swung then round towards sea, and were soon going ahead at full speed. By 20 minutes after four the ships were off the point of Culver Ciiffs, about two miles from the starting point. The course was now directed between Princess Bar and shoal water off Bembridge, leaving the black and white chequered buoy of Bembridge Ledge on the port side. After going about three knots an hour weathering the easternmost point of the Isle of Wight, a large excursion steamer, the Heather Bell, of Portsmouth, passed crowdsd with passenegers, who vociferously cheered Admiral Foley end other officers on their grand success. The width amidships across the decks of the whole flotilla of seven ships was then measured, and it was found to be 250 feet. A consultation between the officers was held, and it was determined to beach the Eurydice on St. Helen's sands. The mouth of Portsmouth harbour would be amply wide enough, but it would be quite impossible to tow the combined craft of such enormous breadth of beam through the channels inside the harbour and between all other ships and buoys. Brading harbour soon opened up to view, and a course was steered for St. Helen's Point, which is on the western side of the haven. There being still half an hour of flood tide left, the tugs were kept forging ahead towards the shore to get the wreck into as shallow water as practicable. Soundings were continually taken from the tugs and called, showing a gradual decrease of water, until at a quarter to six o'clock the Eurydice grounded in 22 feet forward and 24 feet aft, near Bembridge Fort and about half a mile from the beach at St. Helen's. At low tide the depth will probably be 14 feet forward and 16 feet aft ; but even this is too deep for closing the ports and hatches, and there-fore the lifting ships will be again pinned down to the wreck at low water to-night about twelve o'clock, and the Eurydice will be once more lifted as the tide rises and towed, if possible, into five feet less water by high tide, about 7 a.m., the object being to get her main deck shelf dry, as until this has been accomplished the pumping out cannot be commenced. Admiral Fanahawe, port admiral of Portsmouth, visited the wreck this morning, remaining on the Pearl until the flotilla had steamed a good distance.
 
-Telegrams were seat to the Qaeen and the Prince of Wales this evening informing them of the success achieved.
-
+Telegrams were seat to the Queen and the Prince of Wales this evening informing them of the success achieved.
 
 ---
 TEXT

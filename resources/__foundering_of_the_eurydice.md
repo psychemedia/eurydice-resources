@@ -455,6 +455,29 @@ The Eurydice, designed by the late Admiral the Hon. George Elliot, and originall
 ```
 
 
+As a committee met to establish a relief fund, questiosns were also asked in the House of Commons wha support would be forthcoming to relieve the families of the deceased.
+
+The owner of the Emma was also happy to waive any charges for delays to her sailing in the aftermath of the accident.
+
+Hopes were also high that the recovery of the wreck, and the bodies contained within her, would shortly begin, although their was also concern about what might happen if bad weather hit before the recovery could be effected.
+
+
+```{admonition} THE LOSS OF THE EURYDICE. - Thursday, March 28th, 1878
+:class: note dropdown
+
+[Dundee Courier](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000269/18780328/023/0003), 1878-03-28, p. 3
+
+The body of Bennett, able seaman, was yesterday identified by his wife. Divers were at work yesterday on the wreck, not so much with the view of recovering bodies as to clear the ship preparatory to its being raised.
+
+Admiral Fanshaw presided yesterday afternoon over a meeting held in Portsmouth Dockyard, when it was resolved to open a fund for the relief of the relatives of the victims of the accident. Nearly £1000 has been collected. A widespread appeal is to be made.
+
+To-day, in accordance with notice given at the rising of the House of Commons last night, Mr O'Clery, M.P., will ask the Chancellor of the Exchequer if he will ask for a grant of public money from Parliament for the relief of the families of the persons who were lost in the Eurydice. It was rumoured in the House last night that the subject was under the consideration of the Government.
+
+The preparations for raising the Eurydice are still being proceeded with at Portsmouth. A court-martial will be held on board the flagship at Portsmouth very shortly, and the scientific evidence which will then be given will doubtlessly clear up several points at present involved. Investigation after the vessel is raised can alone determine whether she was sufficiently ballasted. Yesterday morning additional divers were engaged in stripping the ship preparatory to going between decks for the recovery of the bodies. The schooner Emma is still lying off Portsmouth. In reply to a request for instructions as to a charge for delay, the owner has telegraphed as follows to the captain :— " Make no charge. I am only glad you were able to save life. I wish there were more lives saved." It is to be hoped that the Eurydice will soon be raised, as her position will be most perilous should an in-shore gale spring up.
+
+```
+
+
 With the first Coroner's court over, mutterings were afoot about the need for a fuller inquiry:
 
 

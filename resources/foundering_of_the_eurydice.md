@@ -435,6 +435,32 @@ THE BUILD OF THE EURYDICE
 The Eurydice, designed by the late Admiral the Hon. George Elliot, and originally intended as a 26 gun frigate, was built at Portsmouth yeard, and launched in May 1843. Her dimensions are as follows:— Length between perpendiculars, 141ft. 3in.; length of keel for tonnage, 117ft. 11 in.; extremee breadth, 38ft. 10 in.; breadth for tonnage, 38ft. 4in.; breadth moulded, 37ft. 10 in.; depth in hold, 8ft. 9in.; and tonnage, 921 tons. Her internal arrangements are preceisely similar to those of sailing ships of her date. The form of her bottom is somewhat peculiar, approching the peg-top type of ships designed by the late Sir W. Symonds. She carried six 64-pounders on the main deck, but no guns on the upper deck, which was formerly opened in the waist. She is a square rigged ship, and had a good free board, her top sides being railed the entire length and her waist nettings done away with. Her depth of draught of water forward is 16ft. and aft 17ft., and the vessel was fitted for a nominal crew of 284, including officers, seamen, marines, and biys, but accommodation was provided for supernumeraries. Extreme lengths of masts— Foremast, 80ft. 10in.; mainmast, 80ft. 7in.; and mizen, 67ft. 2in.; top foremast, 44ft. 6in.;maintopmast, 50ft. 6in.; mizentopmast, 37ft. 6in.; top gallantmast, 21ft.; maintopgallant, 23ft. 6in.; mizen, 18ft.; bowsprint, 34ft. The Eurydice carried two pinaces, one cutter, one gig, one whale-boat and a dingy.
 
 ---
+TEXT
+
+As a committee met to establish a relief fund, questiosns were also asked in the House of Commons wha support would be forthcoming to relieve the families of the deceased.
+
+The owner of the Emma was also happy to waive any charges for delays to her sailing in the aftermath of the accident.
+
+Hopes were also high that the recovery of the wreck, and the bodies contained within her, would shortly begin, although their was also concern about what might happen if bad weather hit before the recovery could be effected.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000269/18780328/023/0003
+Dundee Courier
+
+Thursday 28 March 1878
+p3
+
+THE LOSS OF THE EURYDICE.
+
+The body of Bennett, able seaman, was yesterday identified by his wife. Divers were at work yesterday on the wreck, not so much with the view of recovering bodies as to clear the ship preparatory to its being raised.
+
+Admiral Fanshaw presided yesterday afternoon over a meeting held in Portsmouth Dockyard, when it was resolved to open a fund for the relief of the relatives of the victims of the accident. Nearly £1000 has been collected. A widespread appeal is to be made.
+
+To-day, in accordance with notice given at the rising of the House of Commons last night, Mr O'Clery, M.P., will ask the Chancellor of the Exchequer if he will ask for a grant of public money from Parliament for the relief of the families of the persons who were lost in the Eurydice. It was rumoured in the House last night that the subject was under the consideration of the Government.
+
+The preparations for raising the Eurydice are still being proceeded with at Portsmouth. A court-martial will be held on board the flagship at Portsmouth very shortly, and the scientific evidence which will then be given will doubtlessly clear up several points at present involved. Investigation after the vessel is raised can alone determine whether she was sufficiently ballasted. Yesterday morning additional divers were engaged in stripping the ship preparatory to going between decks for the recovery of the bodies. The schooner Emma is still lying off Portsmouth. In reply to a request for instructions as to a charge for delay, the owner has telegraphed as follows to the captain :— " Make no charge. I am only glad you were able to save life. I wish there were more lives saved." It is to be hoped that the Eurydice will soon be raised, as her position will be most perilous should an in-shore gale spring up.
+
+---
 
 TEXT
 

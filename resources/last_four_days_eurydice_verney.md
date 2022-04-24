@@ -4,6 +4,13 @@ An insight into what life was like on the the Eurydice is described in a short w
 
 The book was written following the loss of the Eurydice, with profits going to the relief fund.
 
+An advert for the book appeared in the Hampshire Telegraph of Saturday [25th May, 1878, p4](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780525/009/0004), under the "New Books" heading:
+
+> Now ready, Cr. 8vo., Cloth; Price 2s. 6., with Portrain of H.M.S. Eurydice,
+> The LAST FOUR DAYS OF THE EURYDICE,"
+> by Captain E. H. Erney, R.N.
+> The probable events of that sad Sunday, March 24th, 1878, and of the three preceding days are here briefly sketched.
+
 The first part of the book reviews what daily life would have been like in the last few days of the Eurydice's voyage back from the West Indies leading up to Sunday, March 24th, 1878.
 
 ---

@@ -62,7 +62,16 @@ The remains of Lieutenaut Tabor, which, after the inquest at Ventnor, were conve
 The remains of George Arthur Bennett were interred in the cemetery at Haslar, close by the spot at which the victims of the explosion on board the Thunderer were buried. The fuueral was a very quiet affair. No band attended, but a firing party of Marines, and a number of blue-jackets who had volunteered from the various ships in harbour, were present. The spectators were very few. The servioe was conducted by the Rev. Mr. Nickolby, chaplain to the hospital.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780515/037/0003
+Sheffield Daily Telegraph
+Wednesday 15 May 1878
+p3
 
+RECOVERY OF MORE BODIES FROM THE EURYDICE WRECK.
+
+Yesterday three more bodies belonging to the Eurydice were picked up off the Isle of Wight, and taken two to Haslar and one to Portsmouth. They were disfigured beyond all recognition so far as their features were concerned. The hands were eaten off, and the skull picked perfectly clean of all flesh by the fishes. The two taken to Haslar Hospital were identified by their clothing as the bodies of Edward Lockett and Wm. Sandy, ordinary 2nd class seamen. The third body has not yet been identified, but from the appearance of the clothing it is that of an officer's servant or steward. The jury were hastily called together last night to view the two bodies at the Haslar Hospital, and the inquiry was adjourned to the date originally fixed when the jury first met. Falconer, the Marine who was picked and taken to Ventnor, was buried yesterday. His remains were followed to the grave by all the Coastguard on the station, the local Volunteers, and numbers of the inhabitants. The weather has been much too boisterous for anything like successful operations in connection with raising the wreck.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780515/013/0003
 
@@ -83,7 +92,6 @@ Mr. B. J. Physick, sculptor, has been commissioned to execute the monument in me
 
 tag: funeral memorial
 
-
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780516/078/0005
@@ -102,7 +110,28 @@ Five bodies (or rather portions) have been recovered during the week. One was a 
 [EXCERPT]
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780516/019/0003
 
+Sheffield Daily Telegraph
+Thursday 16 May 1878
+p3
+
+BODIES FROM THE EURYDICE WRECK.
+
+Yesterday another body, that of a marine, one, of the crew the Eurydice, was picked up. The three bodies recovered Tuesday were buried with military honours yesterday. Numbers of other bodies are reported to have been seen floating off the Isle of Wight during the gale.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780517/013/0003
+
+Sheffield Daily Telegraph
+Friday 17 May 1878
+p3
+
+BODIES FROM THE EURYDICE WRECK.
+
+Yesterday inquest was held on two other bodies picked up from the Eurydioe, they being identified the clothing A. Phillips. seamen, and Wm. Hull, marine. Another corpse was brought yesterday afternoon which has not yet been recognised. No doubt most poor fellows clutched at some object their death agonies, and as the hands all the bodies recovered are missing there is every probability that that is the sequel of so many being washed from the wreck just now.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780518/025/0006
 
@@ -124,7 +153,33 @@ Mr. E. J. Physick, sculptor, has been commissioned to execute the monument in me
 [EXCERPT]
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780518/069/0011
 
+Sheffield Daily Telegraph
+Saturday 18 May 1878
+
+p11
+
+RECOVERY OF MORE BODIES FROM THE EURYDICE WRECK.
+
+On Monday, three more bodies belonging to the Eurydice were picked up off the Isle of Wight, and taken two to Haslar and one to Portsmouth. They were disfigured beyond all recognition so far as their features were concerned. The hands were eaten off, and the skull picked perfectly clean of all flesh by the fishes. The two taken to Haslar Hospital were identified their clothing as the bodies of Edward Lockett and Wm. Sandy, ordinary 2nd class seamen. The third body has not yet been identified, but from the appearance of the clothing is that of an officer's servant or steward. The jury were hastily called together last night to view the two bodies at the Haslar Hospital, and the inquiry was adjourned to the date originally fixed when the jury first met. Falconer, the Marine who was picked and taken to Ventnor, was buried on Tuesday. His remains were followed to the grave by all Coastguard on the station, the local Volunteers, and numbers of inhabitants. The weather has been much too boisterous for anything like successful operations in connection with raising the wreck.
+
+On Wednesday another body, that of a marine of the crew of the Eurydice, was picked up. The three bodies recovered on Tuesday were buried with military honours next day. Numbers of other bodies are reported to have been seen floating off the Isle of Wight during the gale of Wednesday.
+
+On Thursday an inquest was held on two other bodies picked from the Eurydice, they being identified by the clothing as A. Phillips, seamen, and Wm. Hull, marine. Another corpse was brought yesterday afternoon which has not yet been recognised. No doubt most the poor fellows clutched at some object their death agonies, and as the hands all the bodies recovered are missing there is every probability that that is the sequel so many being washed from the wreck just now.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000081/18780520/016/0007
+
+Liverpool Mercury
+Monday 20 May 1878
+p7
+
+THE EURYDICE DISASTER.
+
+In connection with the Eurydice disaster, three other bodies have been recovered. They are, of course, too decomposed to identify by their features, but the clothes supply the needful evidence. They were John Card, ordinary seaman; John Mitchell, captain of the forecastle of the starboard watch; and Lieutenant Stanley A. B. Barney, son of the captain-superintendent of the Greenwich Hospital. The latter was identified by his uniform, and a watch on which his uame was engraved. Mitchell was buried yesterday with full naval honours.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780522/006/0002
 
 Hampshire Telegraph
@@ -149,6 +204,17 @@ Yesterday afternoon the remains of Lieut. Stanley Alfred Brooke Burney, the only
 tag: funeral bodies
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000686/18780523/074/0003
+
+Yorkshire Post and Leeds Intelligencer
+Thursday 23 May 1878
+p3
+
+The Eurydice.
+
+The late Lieutenant Stanley Alfred Brook Burney, the only officer whose body has been recovered from the wreck of tho Eurydice, was buried Tuesday at Haslar. Officers representing the Admiralty, all the ships in Portsmouth harbour, and Government establishments, attended the funeral. The deceased was specially selected for the Eurydice on account of his qualifications, he having been presented with his commission on account of the proficiency which he displayed in passing his examination.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780523/092/0005
 
@@ -160,7 +226,19 @@ THE EURYDICE.
 
 The inclement weather of the last few days has kept the operations of the wreck in complete obeyance. It is now hoped that the tides will sufficiently answer *within a fortnight* to enable the attempt to be made to lift the Eurydice ! A waterman has succeeded in up Captain Hare's writing desk, and handed it over to the Coastguard at Bembridge, by whom it was forwarded to the Commander-in-Chief. The gales have disturbed the banks of sand and freed many bodies – several of which have been recovered.
 
-On Saturday two more bodies which were decomposed beyond recognition, picked up near the wreck, were, brought into Portsmouth harbour by the steam tug Grinder and conveyed to Haslar Hospital One is evidently a seaman, thother is believed to be a marine. The Rinaldo reports that the body of an officer passed her as she lay anchored near the wreck on Friday night, but the sea was too rough for a boat to be lowered. The body subsequently washed ashore off Sea View, and has been identified as that of Lieutenant Barry. The south cone was hoisted at the semaphore on Saturday evening, and the gale which sprang up during the night prevented the tugs from proceeding out of harbour during Sunday. The squally weather and the heavy gale from the W.S.W. will, it is expected, tend to ease the position of the the wreck, and lead to large numbers of bodies floating through the ports.
+On Saturday two more bodies which were decomposed beyond recognition, picked up near the wreck, were, brought into Portsmouth harbour by the steam tug Grinder and conveyed to Haslar Hospital One is evidently a seaman, the other is believed to be a marine. The Rinaldo reports that the body of an officer passed her as she lay anchored near the wreck on Friday night, but the sea was too rough for a boat to be lowered. The body subsequently washed ashore off Sea View, and has been identified as that of Lieutenant Barry. The south cone was hoisted at the semaphore on Saturday evening, and the gale which sprang up during the night prevented the tugs from proceeding out of harbour during Sunday. The squally weather and the heavy gale from the W.S.W. will, it is expected, tend to ease the position of the the wreck, and lead to large numbers of bodies floating through the ports.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780524/003/0002
+
+Portsmouth Evening News
+Friday 24 May 1878
+
+p2
+
+The Eurydice.
+
+The inquest on the bodies recovered from the wreck of the Eurydice was resumed yesterday morning, at Haslar Hospital, before Mr. Goble, the coroner for South Hants. Inspector-General Domville, and Mr. E. J. Harvey law agent, were present to represent the Admiralty and the hospital authorities. The proceedings were merley formal, the Coroner announcing that during the fortnight which had intervened since the last meeting no progress had been made in the raising of the ship, he proposed to again adjourn the inquiry for three weeks. He would, however, that day call evidence to prove that the bodies of the men which had been recovered, and, so far as they concerned that inquest, were on board the Eurydice at the time of the foundering. Mr. Coots, the foreman, reading from paper, said—"The jury wish me to ask if you will now receive their verdict, which they are now ready to give, touching the death of the several bodies we have seen in this inquiry ; for, Sir, we think that will be most unlikely that this jury will be got together to sit upon all the bodies which may yet come to this hospital, especially as no one can say how many weeks may yet pass by before the Eurydice may be raised. We also consider that we are available for any future inquiries so far relates to the bodies which we have received." The Coroner said that they had no evidence before them to the loss of the ship, they were not a position to say how the deceased came by their deaths. He could not, therefore, close the inquest. Evidence was then given by the two survivors, Benjamin Cuddeford and Sydney Fletcher, to prove that Harry Taylor, an able seaman; Edward Lockett, ordinary seaman ; William E. Sandy, ordinary seaman John Hayes, wardroom domestic; Andrew Philips, ordinary seaman ; Frank Targett, ordinary seaman and John Curd, ordinary seaman, were on board the Eurydice at the time of the foundering. The inquest was then adjourned until Wednesday, the 12th June. The body of Albert C. Doogood, which was landed at Sea View on Wednesday and which was intended to have conveyed to Haslar, was found in such state of decomposition that it was deemed advisable to bury it where it was landed.
 
 ---
 
@@ -184,9 +262,6 @@ Clyde Villa, Sea View, Isle of Wight
 May 22nd, 1873.
 
 tag: bodies funeral
-
-
-
 
 ---
 
@@ -252,6 +327,53 @@ Inspector-General Domville handed in the card from the Admiralty, stating that C
 [EXCERPT]
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000329/18780624/079/0003
+Western Morning News
+Monday 24 June 1878
+p3
+
+THE EURYDICE. MORE BODIES RECOVERED.
+
+[CENTRAL NEWS TELEGRAM]  
+Portsmouth, Sunday.
+
+On Saturday another inquest was held at Haslar Hospital on two bodies recovered from the Eurydice. The coroner had decided not to reopen matters, but the registrar refused a certificate, and the bodies could not be interred without this or a warrant from coroner, who could not give one without holding an inquest; consequently an inquest was necessary to allow of a Christian burial being accorded the deceased. The matter was discussed, and upon the coroner pointing out that a clergyman could bury without certificate or warrant provided it was not a suspicious case, and report within seven days to the registrar, the Admiralty solicitor said no doubt instructions to that effect would given to hospital chaplain. A verdict of drowned through capsizing of the Eurydice was returned.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000289/18780725/027/0004
+
+Sunderland Daily Echo and Shipping Gazette
+Thursday 25 July 1878
+
+p4
+
+A body was towed ashore at Ventnor (I.W.) on Tuesday, supposed to be from the Eurydice.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000272/18780802/037/0004
+Manchester Evening News
+Friday 02 August 1878
+p4
+
+RECOVERING BODIES FROM THE EURYDICE.
+
+Through the divers breaking a sick bay on the lee side of tho main-deck of the Eurydice, many corpses have been liberated, and were yesterday floating about, but could not be picked up by reason of boisterous weather, which also prevented any work being done at the wreck. A diver states that he came across a large number of bodiesin  a hatchway going towards the lower deck, and additional corpses were yesterday seen floating out to the open sea. A day's calm weather would enable the vessel to be floated, and from eighty to hundred bodies, believed to be on her lower deck, recovered.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0003067/18780803/060/0004
+Liverpool Weekly Courier
+Saturday 03 August 1878
+
+p4
+
+RECOVERING BODIES FROM THE EURYDICE.
+
+The Eurydice was on Monday brought close under shore, to the east of Sandown Bay, and directly under Redcliffe, a sandy formation which commences just before the culvers. The deck and sides were left dry. The ghastly work of removing a large number of the dead bodies from the vessel and placing them in coffins occupied a long time. The next work will be to pump the vessel dry and close her ports. It is expected that she will then right herself and float. It will be necessary to thoroughly fumigate her.
+
+Through the divers breaking a sick-bay on the lee side of the maindeck of the Eurydice, many corpses have been liberated, and were on Thursday floating about, but could not be picked up by reason of boisterous weather, which also prevented any work being at the wreck. A diver states that he came across a large number of bodies in a hatchway going towards the lower deck, and additional corpses were on Thursday seen floating out to the open sea. A day's calm weather would enable the vessel to be floated, and from eighty to a hundred bodies, believed to be on her lower deck, recovered.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/107/0004
 Isle of Wight Times
@@ -263,6 +385,38 @@ TWO BODIES FOUND.
 On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near to Sir William Hutt's pier at Apley ; one of the bodies was headless, but a human head was found floating near the spot. The bodies were in a very advanced state of decomposition, and almost nude, so that there were no means of identification ; but there is little doubt that they were from the ill-fated Eurydice. Coffins were procured, and the bodies conveyed by the Coastguard to the mortuary at the Cemetery. At half-past 5 in the afternoon the funeral took place at the north side of the Cemetery. Palls were thrown over the coffins, which were carried, shoulder high, by eight Coastguardsmen, under the superintendence of Mr. Jefferys, the chief officer. They were met at the grave (both being interred in one) by Mr. Westhall, a gentleman residing in Ryde, who read portions of Scripture. and afterwards addressed the large concourse of people, remarking that it was a very solemn occasion, and took their thoughts back to the 24th March, when about 300 poor men and boys were drowned by the capsizing of the Eurydice; the bodies of two of them were in the coffins before them ; there were no names on the coffins, but the men were known to God. He nothing of their history, and he did not know whether they were Christians, and he had nothing to do with that. They were surrounded by mysteries ; even their own existence was a mystery, and it was a most mysterious thing that the poor creatures who were drowned would have been on land in about an hour, and would have boon welcomed by loving friends; but it was not to be. They could not understand it, but the light of eternity would interpret all mysteries, and all they had to do was to bow to the will of God, for would not the Judge of the whole earth do right? The lesson for all of them to learn was the uncertainty of human life. Those who were drowned were in good health and spirits a few minutes before, and then were called to their final account. There were these present who evidently had sympathy for those who had been thus taken suddenly away. Although they were taken thus suddenly, it was possible they might have been able to give one look to the Saviour, and there was life in a look. It did not take long to save the thief on the cross, and they might hope that many in the Eurydice were saved, and he was glad to believe that many on board loved the Saviour. Mr. Westhall concluded the simple, but very impressive, service by offering prayer and pronouncing the benediction. There was something exceedingly affecting in witnessing the two plain, nameless coffins placed in the grave, and no friends or relatives near to pay the last tribute of affection ; and also in the thought that until the morning of the resurrection it must remain a profound secret as to who was interred in Ryde Cemetery on Saturday afternoon.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18780815/078/0004
+Edinburgh Evening News
+
+Thursday 15 August 1878
+p4
+
+RECOVERY OF BODIES FROM THE EURYDICE.
+
+Yesterday the divers were engaged the wreck the Eurydice, now lying on St Helen's Sands, and succeeded in recovering thirteen bodies from the after part of the lower deck. The bodies were taken into Portsmouth Harbour last evening by a Government tug. Ten bodies were picked on Tuesday, and nine on Monday. In consequence of the damaged state of the keel preparations are being made to get the wreck to even keel, for which iron ballast will placed the port side, and the Rinaldo and Pearl her starboard side. The bilge is repaired, and it is believed that she will then float.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780815/021/0002
+Dundee Evening Telegraph
+Thursday 15 August 1878
+p2
+
+RECOVERY OF BODIES FROM THE EURYDICE.
+
+Thirty-three bodies have this week been recovered from the wreck the Eurydice. It has been decided to cant the hull over from the starboard side, caulk it, and pump out the water before taking the vessel to Portsmouth.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000272/18780817/009/0002
+Manchester Evening News
+Saturday 17 August 1878
+p2
+
+RECOVERY OF BODIES FROM THE EURYDICE.
+
+The Eurydice was cleared esterday of all bodies. Upwards of 120 have now been recovered, including half-a dozen officers. A cell was entered, and tho body of a man found therein, but not in irons. All the doors, with the exception of the cabins on the port side, have been torn away to facilitate the search by divers and workmen. All the lower deck planking is also torn away.
+
+---
+
 TEXT
 
 "The sea gave up the dead which were in it"  Rev 20 13  
@@ -365,7 +519,7 @@ p4
 
 Sandown
 
-A CURIOUS INClDENT.—connected with the loss of H.M.S. Eurydice has just occurred at Brighton. Amongst those who were reported as having perished in that ill-fated vessle was a lad named Merchant, and, a lad of the same same having left his home in Brighton a long time previously in order to join that ship, his friends, who had not heard from him since he left home, mourned for him as dead, believing, as the name and initial were the same, and as the descriptions corresponded, that it was their son who was lost. Nearly twenty months had elapsed since the disaster, when greatly to their surprise, the lad who was regarded as dead long since walked into his home alive and well, having travelled 65,000 miles since he had set forth. It appeared that, instead of joining the Eurydice, he had joined another ship, and finally had reached England in the Shah, after having visited the four continents. He had not written home either from want of opportunity or indifference.
+A CURIOUS INCIDENT.—connected with the loss of H.M.S. Eurydice has just occurred at Brighton. Amongst those who were reported as having perished in that ill-fated vessle was a lad named Merchant, and, a lad of the same same having left his home in Brighton a long time previously in order to join that ship, his friends, who had not heard from him since he left home, mourned for him as dead, believing, as the name and initial were the same, and as the descriptions corresponded, that it was their son who was lost. Nearly twenty months had elapsed since the disaster, when greatly to their surprise, the lad who was regarded as dead long since walked into his home alive and well, having travelled 65,000 miles since he had set forth. It appeared that, instead of joining the Eurydice, he had joined another ship, and finally had reached England in the Shah, after having visited the four continents. He had not written home either from want of opportunity or indifference.
 
 ---
 
@@ -441,7 +595,6 @@ Lady Isabel Atherley yesterday unveiled a monument in Shanklin Cemetery erected 
 
 ---TEXT
 
-
 ![](../images/52012675554_6773617d89_o.jpg)
 Shanklin memorial
 
@@ -458,16 +611,12 @@ MEMORIAL OF H.M.S. EURYDICE.
 On Wednesday afternoon, in the presence of a numerous crowd of spectators, a monument to the memory of the officers and crew of tho ill-fated training ship, the Eurydice, which foundered, with the loss of over 300 officers, seamen, and boys, on March 24, 1878, was unveiled in Shanklin Cemetery, Isle of Wight, by Lady Isabel Atherley. The monument, which is the result of public subscription, was sculptured by Mr. F. J. Moyniham, of London, and consists of a naval trophy, wrought in Portland stone, and surmounted and partly shrouded in a canopy of naval flags. It is built so as to face Sandown Bay, the mouth of the cannon being pointed to the spot where the ill-fated vessel sank. On the front is a tablet, with the inscription, "To the memory of the officers and men of H.M.S. Eurydice, which foundered off Shanklin, March 24, 1878," and above it is a ribbon with raised letters, indicative of the ribbon on the caps of the crew of the vessel. Lieut. Langley, of H.M.S. Excellent, and other officers of the Navy, with petty officers, sailors, and marines of her Majesty's ships Orontes, St. Vincent, and Asia, represented her Majesty's Service, and the coastguards of the Isle of Wight, under their officers, also took part in the ceremony. The vicar of St. Saviour's, Shanklin (the Rev. C. J. Burland), delivered an address prior to the unveiling of the monument. He paid a high tribute to the memory of the brave men who lost their lives in the performance of their duty on the memorable 24th of March, and it was incidentally intimated that an impression was current that one of the seven unknown bodies which had been washed ashore at Shanklin, and over which this monument had been erected, was that of the gallant captain of the ill-fated ship. Colonel Atherley, Lieutenant Langley, and others also addressed the assembly, and the proceedings were of a deeply interesting character.
 
 ---
-TEXT 
+TEXT
 
 ![](../images/52011404897_3891bd2bea_o.jpg)
 Shanklin memorial
 
-
-
 ---
-
-
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0003437/18800626/101/0006
 
@@ -483,10 +632,8 @@ In the pretty cemetery of Shanklin, Isle of Wight, on Wednesday afternoon, Lady 
 ---
 TEXT
 
-
 ![](../images/52012947425_583b978292_o.jpg)
 Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isable Atherley, June 23rd 1880
-
 
 ---
 
@@ -565,8 +712,6 @@ EURYDICE MEMORIAL AND PORTLAND STONE
 
 A memorial to those who lost their lives in the training brig Eurydice is being placed in the grounds of Hasler Hospital, Gosport. It is composed of granite and Portland stone, the base meable (which has been prepared by the convicts at Chatham Prison), and the next tier is of worked Portland stone, bearing the names of the deceased. The capstone is also of "Portland," carved to imitate rockwork and irosweed, and it is to be surmounted by the actual cable and anchor of the ill-fated brig. It is to be a very handsome structure, 17 feet across at the base. Two pieces of the carved rockwork were in the Portland railway station yard this week.
 
-
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000269/18810914/041/0003
 Dundee Courier
@@ -590,9 +735,7 @@ p2
 
 A very handsome memorial to the memory of those who foundered in H.M.S. Eurydice has just been completed in Hasiar Cemetery, over the spot where the bodies were buried, and facing a similar monument erected to the memory of the officers and men who were killed by the explosion on board the Thunderer. The memorial is very attractive, and somewhat novel in its design. The base is ao formed of about 12 inches of polished granite, is 23ft. by 11ft., and 10ft. high. It is four sided. Above the first portion of the base, the monument slopes upward and inward with a moulding of Portland stone. Above that rises the obelisk, which is intended to represent a rugged rock with the sea running over it in parts. The action of the water has rubbed it smooth in some parts, and in other places there is carving in imitation of sea weed. The top is surmounted by the anchor of the Eurydice, in a position nautically known as " fouled." The granite is of a dull grey kind, and has been prepared by convict labour at Chatham, and the Portland stone has been similarly dressed by the same means. On one side are the names of the officers in the centre of two rows of men's names. On one corner are the words " H.M.S. Eurydice," and on another side "Foundered March 24th, 1878." Just above the moulding of the obelisk are the texts: ": My God is the rock of my refuge," " I will bring my people again from the depths of the sea," "Which hope we have as an anchor of the soul," and "A And the sea gave up the dead which were in it." Altogether the monument is 10ft. in height. On one side are 75 names, another 108; a third 71; and the fourth 62. The design is that of General Pasley. The monument has been erected under the direction of Mr. Carruthers, Assistant Civil Engineer attached to the Gosport works, and the builders were Messrs. Bramble Bros., Government contractors.
 
-
 ---
-
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000206/18810916/029/0006
 
