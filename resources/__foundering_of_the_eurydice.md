@@ -588,7 +588,9 @@ See also image: BL_0000057_18780330_027_0021_pdf__1_page_.png
 ```
 
 
-The weekly local press around the country were also keeping their readers informed about the story has it had unfurled so far, including very similar, and equally comprehensive, reports of the coroner's inquiry to those that had appeared elsewhere:
+The weekly local press around the country were also keeping their readers informed about the story has it had unfurled so far, including very similar, and equally comprehensive, reports of the coroner's inquiry to those that had appeared elsewhere.
+
+The time of the accident was also ascertained from a watch found on the body of Captain Ferrier, R.E.: it had stopped at eight minutes to four.
 
 
 ```{admonition} CAPSIZING OF THE EURYDICE. LIVES LOST - Saturday, March 30th, 1878

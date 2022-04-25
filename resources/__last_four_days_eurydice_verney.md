@@ -82,7 +82,14 @@ During the summer of 1877 the Eurydice was constantly seen cruising in the Briti
 
 In November she was sent on a cruise all round the West Indies, and on March 6th left Bermuda to return home with her now well-trained crew, all in their early prime, the choicest flower of the British Navy. Eurydice was to them a name of hope and promise : who could have imagined that, (like her classic namesake) she was to be lost when at the point of being restored to home and country ?
 
-__THURSDAY.__
+```
+
+
+
+```{admonition} __THURSDAY.__ - Thursday, April 25th, 1878
+:class: note dropdown
+
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-25, p. ?
 
 "Oh ! what can sanitify the joys of home  
 Like Hope's gay glance from ocean's troubled form?"—  
@@ -116,7 +123,14 @@ Thursday afternoon is the first lieutenant's holiday, but he would very likely u
 
 Thursday is the guest-night in a ward room mess ; one or two of the junior ofticers were dining there ; the steward was a trifle reckless with his good things, for there was a fair wind, and the voyage was nearly over, and there was plenty more to be had at Portsmouth. The ward-room servants were getting ready the lists of clothes to be sent to the wash as soon as the anchor should be let go. The captain added another paragraph to his report of proceedings, and thanked God that no accident or mishap had marred the success of this lengthened cruise so nearly ended.
 
-__FRIDAY.__
+```
+
+
+
+```{admonition} __FRIDAY.__ - Thursday, April 25th, 1878
+:class: note dropdown
+
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-25, p. ?
 
 "Reef topsails, reef ! the master calls again,  
 The halyards and top-bow-lines soon are gone,  
@@ -145,7 +159,14 @@ __Efficiency in Sail Drill.__
 
 If the Eurydice had one strong point, it there was one respect in which she was pre-eminently efficient, it was her sail-drill. If there was one captain in the navy more than another who would be justified in carrying a press of sail it was the Captain of the Eurydice.
 
-__SATURDAY.__
+```
+
+
+
+```{admonition} __SATURDAY.__ - Thursday, April 25th, 1878
+:class: note dropdown
+
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-25, p. ?
 
 Three wives sat up in the Lighthouse Tower,  
 They trimmed the lamps as the sun went down,  
@@ -187,7 +208,14 @@ __The Hands of God.__
 
 Perhaps the deep-sea lead-line was got ready, the sail reduced, and a cast taken of the lead to fix accurately the position of the ship. One light is very much like another at night, yet the paymaster, and the doctor and others whose duties do not call them on deck, sleep all the better if they go up and have a look before they retire to their cabins. And many a sea-man of the Watch-below, too, must have a look at the Start Light before he turns in to his hammock. " Thank God " is in many a heart, if not on every lip, — as one of the lads before leaving home, had said, " Mother, rough as we are, we never turn in without giving ourselves into the hands of God !"
 
-__SUNDAY.__
+```
+
+
+
+```{admonition} __SUNDAY.__ - Thursday, April 25th, 1878
+:class: note dropdown
+
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-25, p. ?
 
 "The powerful sails, with steady breezes swelled,  
 Swift and more swift the yielding bark impelled ;  
