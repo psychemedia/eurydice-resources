@@ -277,11 +277,22 @@ THE LOSS OF THE EURYDICE.
 Writing from Portsmouth on Saturday, a says:—
 
 Within the last ten days no fewer than sixteen bodies from the Eurydice have been picked up. Eight had been recovered up to Thursday. On Friday six were found in the neighbourhood of Chichester, and on Saturday two were brought in to Portsmouth Harbour. One of three was the body of George Curd, an ordinary seaman, which was identified by the name on the jacket; and the other was the body of John Mitchell, a chief petty officer and seaman gunner which was identified by his widow by some tattoo marks on his arm.
- 
 
 [The article that appeared in the Hampshire Advertiser of Saturday 25 May 1878 was also republished without any attribution. ]
 
+---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0004565/18780527/032/0002
+Magnet (London)
+
+Monday 27 May 1878
+
+p2
+THE "EURYDICE" FATALITY.
+
+*Republishes the Hampshire Advertiser article of Saturday 25 May 1878, but ends short and slightly differently:*
+
+During the recent gales the Eurydice has sunk two feet and a half further into the mud, and the misgivings as to the possibility of her being raised are now materially strengthened.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780530/078/0005
@@ -338,6 +349,18 @@ THE EURYDICE. MORE BODIES RECOVERED.
 Portsmouth, Sunday.
 
 On Saturday another inquest was held at Haslar Hospital on two bodies recovered from the Eurydice. The coroner had decided not to reopen matters, but the registrar refused a certificate, and the bodies could not be interred without this or a warrant from coroner, who could not give one without holding an inquest; consequently an inquest was necessary to allow of a Christian burial being accorded the deceased. The matter was discussed, and upon the coroner pointing out that a clergyman could bury without certificate or warrant provided it was not a suspicious case, and report within seven days to the registrar, the Admiralty solicitor said no doubt instructions to that effect would given to hospital chaplain. A verdict of drowned through capsizing of the Eurydice was returned.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780629/034/0006
+
+Isle of Wight Observer
+Saturday 29 June 1878
+p6
+
+On Saturday the County Coroner held an inquest at Haslar Naval Hospital on the bodies of Charles Newbury, gunnery instructor, and Joseph Curtis, corporal of Marines, both of Gosport. Mr. E. J. Harvey, Admiralty Law Agent at Portsmouth, watched the proceedings on behalf of the Admiralty. The bodies were in a terribly advanced state of decomposition.— The Coroner explained that he had decided not to re-open the matter, but the Registrar had refused a certificate, and the bodies could not be interred without this or a warrant from himself, and he could not give one without holding an inquisition. Consequently an inquiry was necessary to allow Christian burial to be accorded to the deceased. He pointed out that a clergyman could bury without a certificate or a warrant, provided it was not a suspicious death, and was reported within seven days to the Registrar.— Mr. Harvey said that he had no doubt instructions to that effect would be given to the Hospital Chaplain.— Two witnesses were then examined, George Carter, labourer, proving the arrival of the bodies at Haslar, and giving a description of the clothes they had on, and Benjamin Cud-diford, able-bodied seaman, one of the survivors, identifying the deceased. — The jury returned a verdict to the effect that the deceased were drowned by the capsizing of H.M.S. Eurydice, and the interment took place in the afternoon. — We understand that as more bodies are recovered from the wreck, they will be identified after being brought ashore, under the direction of an officer appointed by the Admiralty, and will be buried without any further investigation.
+
+[EXCERPT]
 
 ---
 

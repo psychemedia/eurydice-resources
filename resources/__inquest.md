@@ -4,7 +4,7 @@ The first inquest surrounding the tragedy was held in Ventnor on Tuesday, March 
 
 Originally planned to be held in the Queen's Hotel, the Coroner asked if a larger room was available. The Freemasons Tavern was suggested as an alternative but eventually a large room in the Royal Hotel was offered for use by the Coroner.
 
-The aim of the inquest was two-fold: to identify the bodies, and to ascertain how the deaths had occurred. The key witnesses were the two survivors, Benjamin Cuddiford and Sydney Flectcher, and W. L. Jenkin, master the schooner "Emma" of Padstow.
+The aim of the inquest was two-fold: to identify the bodies, and to ascertain how the deaths had occurred. The key witnesses were the two survivors, Benjamin Cuddiford and Sydney Fletcher, and W. L. Jenkin, master the schooner "Emma" of Padstow.
 
 
 ```{figure} ../images/eurydice-survivors.jpg

@@ -6,6 +6,20 @@ Aside from the Eurydice disaster, what would life have been like on the Isle of 
 
 Whilst Ventor was the original fashionable holiday destination on the island, with its favourable microcolimate, Sandown was also developing as a holiday destination. Its notable visitors included a certain Rev. C. L. Dodgson, better known as Lewis Carroll, author of *Alice in Wonderland*.
 
+From announcements in the Hampshire Advertiser, it seems that Dodgson visited Sandown over many years. For example, in the issue dated [Saturday 04 October 1873](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18731004/051/0008), p8:
+
+> SANDOWN Oct. 4. FASHIONABLE INTELLIGENCE. The Rev. C. Dodgson and Miss Dodgson, and Mr. and Mrs. Coop and family have arrived at the King's Head Hotel.
+
+On [Saturday 29 August 1874](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18740829/062/0008), p8:
+
+> SANDOWN, Aug. 29. FASHIONABLE INTELLIGENCE. ... The Rev. C. Dodgson, the Rev. — Soames, and Mr. and Mrs. Christmas are among the visitors at the King's Head Hotel.
+
+And on [Saturday 02 July 1881](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18810702/079/0008), p8:
+
+> SANDOWN, July 2. Arrivals at the Sandown Hotel.— The fashionable arrivals here include the following visitors : — Mr. and Mrs. Grevais, Mrs. Bennett and Miss Bennett, Rev. C. L. Dodgson, Rev. E. P. Sampson, Mr. and Mrs. T. W. Marchant, Mr. and Mrs. H. Burroughs and family, Mr. and Mrs. J. Sutton and family, Mr. and Mrs. A. Crabbe, Mr. and Mrs. Kronim, &c.
+
+It was whilst staying in Sandown in 1875 that he worked to finish his nonesense poem *The Hunting of the Snark*, first published on March 29th, 1876, that he had started in 1874. During that visit, he met the young  Gertrude Chataway, to who the *Snark* was dedicated in the form of an acrostic.
+
 ---
 https://www.gutenberg.org/files/11483/11483-h/11483-h.htm
 
@@ -72,7 +86,6 @@ SANDOWN, May 22. The Pier.—
 
 The new pier is almost completed, and, although in appearance it is slight, the testing which has taken place this week has been satisfactory Thirty-five tons of sand were placed on the second bay (from one column to another), and there was no deflection of the iron work.
 
-
 ---
 TEXT
 
@@ -116,7 +129,6 @@ James Kennington.
 The seal of the Sandown Pier Company (Limited) was affixed this 28th day of May, 1878, in pursuance of a resolution duly passed at a meeting of the directors im the presence of W. H. Wooldridge, secretary.
 
 This portion of the ceremony concluded, Miss Brandt stepped forward, and, on behalf of the directors presented her ladyship with a very handsome bouquet. Her ladyship briefly replied as follows; "Mr , Chairman and gentleman of the Sandown Local Board and gentlemen of the Sandown Pier Company -I thank you very much for the kind and gratifying reception you have given me. It affords me at all times siccere pleasure to assist im any way in promoting the prosperity of Sandown, and I trust the undertakimg you have so successfully curried out and inaugurated this day may prove one of the many means of adding to the attractions of the place, and an additional source of health and enjoyment to visitors and inhabitants alike. " Hearty cheers were then given for hey ladyship, and a number of the gemtlement present having been introduced to her, the procession again went up the pier; her ladyship and Major Leeds re-entered their carringe, and drove off amidst the loud cheers of the assembled spectators. This concluded the ceremony, which was followed by
-
 
 ---
 
@@ -292,6 +304,9 @@ The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the wh
 TEXT
 
 ## Temperance Movement
+
+From evidence we have already seen, the temperance movement appears to have formed part of the background of daily life in 1878. The Emma, the ship that rescued Cuddiford and Fletcher, was a "temperance craft", and a lodge of the Good Templars, a fraternal temperance society, had been lost on the Eurydice.
+
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790215/017/0008

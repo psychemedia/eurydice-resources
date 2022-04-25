@@ -14,10 +14,10 @@ An advert for the book appeared in the Hampshire Telegraph of Saturday [25th May
 The first part of the book reviews what daily life would have been like in the last few days of the Eurydice's voyage back from the West Indies leading up to Sunday, March 24th, 1878.
 
 
-```{admonition} THE LAST FOUR DAYS OF THE " EURYDICE." - Wednesday, April 24th, 1878
+```{admonition} THE LAST FOUR DAYS OF THE " EURYDICE." - Thursday, April 25th, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-24, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-25, p. ?
 
 By CAPTAIN E. H. VERNEY, R.N.
 
@@ -231,10 +231,10 @@ To the danger of such squalls the Captain was alive, for both he and his First L
 The book then describes what happened on the afternoon of Sunday, March 24th, 1878. If you would like to read the tale as it unfurled in the press, hold off reading this until you have read the next couple of chapters.
 
 
-```{admonition} THE SQUALL. - Wednesday, April 24th, 1878
+```{admonition} THE SQUALL. - Thursday, April 25th, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-24, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-25, p. ?
 
 The wind blew fresh again : as it grew late  
 A squall came on. anil while some guns broke loose,  
@@ -282,10 +282,10 @@ Benjamin Cuddiford was saved by a life-buoy which he found floating in the water
 The work also includes a list of the crew, and republishes a poem that was ascribed in certain places to the captain of the Eurydice, Captain M. Hare, but which appears *not* to have been written by him at all.
 
 
-```{admonition} Appendix - THE CREW. - Wednesday, April 24th, 1878
+```{admonition} Appendix - THE CREW. - Thursday, April 25th, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-24, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-25, p. ?
 
 OFFICERS AND CREW OF H.M.S. "EURYDICE."
 
@@ -309,10 +309,10 @@ Peter Mason, ordinary, 1st class ; John Scanlan, ordinary, 1st class; M. Varcoe,
 
 
 
-```{admonition} Appendix - "SORROW ON THE SEA." - Wednesday, April 24th, 1878
+```{admonition} Appendix - "SORROW ON THE SEA." - Thursday, April 25th, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-24, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-04-25, p. ?
 
 "There is sorrow on the sea — it cannot be quiet." — Jer. xlix. 23.
 

@@ -2,6 +2,11 @@
 
 In the days and weeks following the loss of the Eurydice, testimonial and memorial poems appeared in newspapers across Britain.
 
+As Natalie Houston describes in [*Newspaper Poems: Material Texts in the Public Sphere*](https://www.jstor.org/stable/40060322?seq=1), Victorian Studies, Vol. 50, No. 2, 2008, pp. 233-242:
+
+> The inclusion of poems within the Victorian newspaper resists a simple definition of the page's contents as purely informational. In considering the reception history of newspaper poems, we have to wonder who actually read these pages and with what kind of attention. Perhaps a humorous poem served as a kind of relaxation for the mind wearied by data or by more letters to the editor about the price of meat
+(a recurring concern at mid-century). The meter and alternating rhyme typical of Victorian light verse make reading the poem a rapid and easy process, unlike the information that fills the rest of the page. Certainly, the indenting of poetic lines makes even short poems like sonnets visually stand out among the paper's six tightly packed columns. The white space around the poems (and around the tables of racing results) possibly, even probably, caused some readers to look more closely at the text; it is just as likely that others immediately turned away, to information of immediate, practical advantage.
+
 ```{admonition} Vicorian Newspaper Poetry
 :class: seealso dropdown
 
@@ -293,7 +298,7 @@ The following lines (signed "F. G.") on the loss  of the Eurydice, appears in th
 
 'Twas on a bright and breezy day  
 A noble ship came sailing home,  
-Dashing from either bow the spray,
+Dashing from either bow the spray,  
 And ploughs up the milk white foam.
 
 For the last time the gallant band,  
@@ -302,7 +307,7 @@ Had said their prayers for those on land
 Who asked God's aid for those at sea.
 
 The sun is sinking towards the west,  
-Tinging with gold the belying sail;
+Tinging with gold the belying sail;  
 The sailors take their Sabbath rest,  
 And laugh and tell the oft-told tale.
 
@@ -317,12 +322,12 @@ Around– whose prayers are in the sails
 Which waft her towards the friendly strand.
 
 No wonder that the captain thought  
-With honest hope and pride of soul,
+With honest hope and pride of soul,  
 To bring the good ship, "smart and taut,"  
-Like a swifr racehorse to the goal.
+Like a swift racehorse to the goal.
 
 Mid life and hope the thick black clouds  
-Snow-filled that put the ship from view;
+Snow-filled that put the ship from view;  
 The fierce tornado strikes her shrouds,  
 She's gone ! with all her home-bound crew.
 
@@ -332,7 +337,7 @@ And  paints what *was* the vessel's track,
 As if in empty mockery
 
 Alas ! for skill of human mind!  
-He from whom good and evil come,
+He from whom good and evil come,  
 Who rides upon the stormy wind,  
 Took the three hundred wanderers Home.
 
@@ -821,12 +826,12 @@ tag: poem
 
 
 
-```{admonition} title=The_Home-Coming_of_the_Eurydice - Tuesday, April 24th, 1894
+```{admonition} title=The_Home-Coming_of_the_Eurydice - Wednesday, April 25th, 1894
 :class: note dropdown
 
-[Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-04-24, p. ?
+[The Home-Coming of the Eurydice, Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-04-25, p. ?
 
-Arthur Conan Doyle
+The Home-Coming of the Eurydice, Arthur Conan Doyle
 
 1894
 
@@ -894,10 +899,10 @@ Ah! whisper it gently, you sister or daughter,
 
 
 
-```{admonition} The Loss of the Eurydice   - Wednesday, April 24th, 1918
+```{admonition} The Loss of the Eurydice   - Thursday, April 25th, 1918
 :class: note dropdown
 
-[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-04-24, p. ?
+[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-04-25, p. ?
 
 Foundered March 1878.
 

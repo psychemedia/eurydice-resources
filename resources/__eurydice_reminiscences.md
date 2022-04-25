@@ -1,5 +1,9 @@
 # Memories of the Eurydice Disaster
 
+Although news reports at the time of a major incident such as the loss of the Eurydice capture various pieces of "background" testimony, and published correspondence of the time may add additional colour, another way of getting a sense of how events were seen at the time is to look at them through the lens of memory, such as in the form of reminiscences.
+
+Misquoting something I have otherwise forgotten, "a story is what's left when the facts have been forgotten", what then is the story of that fateful day in March, 1878, as remembered decades later in "reminiscence" columns of the local press.
+
 
 ```{admonition} LOSS OF THE EURYDICE. - Saturday, April 9th, 1927
 :class: note dropdown
@@ -19,10 +23,6 @@ Londoners as well as others were deeply distressed at this terrible calamity. Ex
 On landing I found a piece of the wreck, which I have now as a relic. A gentleman living in one of the houses facing the wreck was watching the Eurydice passing along when the blizzard came on. When it had passed over no boat was to be seen.
 
 (The date of the wreck of the Eurydice was March 24th, 1878. Ed., "Hampshire Advertiser.")
-
-
-
-
 
 [Includes photo of the two survivors BL_0003142_19270409_028_0002_pdf__1_page_.png ]
 

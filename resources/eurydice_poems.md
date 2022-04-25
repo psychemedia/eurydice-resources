@@ -2,6 +2,11 @@
 
 In the days and weeks following the loss of the Eurydice, testimonial and memorial poems appeared in newspapers across Britain.
 
+As Natalie Houston describes in [*Newspaper Poems: Material Texts in the Public Sphere*](https://www.jstor.org/stable/40060322?seq=1), Victorian Studies, Vol. 50, No. 2, 2008, pp. 233-242:
+
+> The inclusion of poems within the Victorian newspaper resists a simple definition of the page's contents as purely informational. In considering the reception history of newspaper poems, we have to wonder who actually read these pages and with what kind of attention. Perhaps a humorous poem served as a kind of relaxation for the mind wearied by data or by more letters to the editor about the price of meat
+(a recurring concern at mid-century). The meter and alternating rhyme typical of Victorian light verse make reading the poem a rapid and easy process, unlike the information that fills the rest of the page. Certainly, the indenting of poetic lines makes even short poems like sonnets visually stand out among the paper's six tightly packed columns. The white space around the poems (and around the tables of racing results) possibly, even probably, caused some readers to look more closely at the text; it is just as likely that others immediately turned away, to information of immediate, practical advantage.
+
 ```{admonition} Vicorian Newspaper Poetry
 :class: seealso dropdown
 
@@ -104,7 +109,6 @@ tag: poem
 
 ---
 
-
 https://www.britishnewspaperarchive.co.uk/viewer/BL/0000170/18780330/018/0008?browse=true#
 
 Isle of Wight Observer
@@ -148,7 +152,6 @@ Ryde, March 25th, 1878.
 tag: poem
 
 ---
-
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780330/024/0008
 
@@ -220,7 +223,6 @@ Thomas Maton. Sandown, March 26th, 1878.
 tag: poem
 
 ---
-
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002751/18780329/071/0006
 
@@ -300,14 +302,13 @@ Isle of Wight Observer
 Saturday 13 April 1878
 p6
 
-
 [In an article - can we find the original?]
 
 The following lines (signed "F. G.") on the loss  of the Eurydice, appears in the *Baily's Magazine* for this month :
 
 'Twas on a bright and breezy day  
 A noble ship came sailing home,  
-Dashing from either bow the spray,
+Dashing from either bow the spray,  
 And ploughs up the milk white foam.
 
 For the last time the gallant band,  
@@ -316,7 +317,7 @@ Had said their prayers for those on land
 Who asked God's aid for those at sea.
 
 The sun is sinking towards the west,  
-Tinging with gold the belying sail;
+Tinging with gold the belying sail;  
 The sailors take their Sabbath rest,  
 And laugh and tell the oft-told tale.
 
@@ -331,12 +332,12 @@ Around– whose prayers are in the sails
 Which waft her towards the friendly strand.
 
 No wonder that the captain thought  
-With honest hope and pride of soul,
+With honest hope and pride of soul,  
 To bring the good ship, "smart and taut,"  
-Like a swifr racehorse to the goal.
+Like a swift racehorse to the goal.
 
 Mid life and hope the thick black clouds  
-Snow-filled that put the ship from view;
+Snow-filled that put the ship from view;  
 The fierce tornado strikes her shrouds,  
 She's gone ! with all her home-bound crew.
 
@@ -346,7 +347,7 @@ And  paints what *was* the vessel's track,
 As if in empty mockery
 
 Alas ! for skill of human mind!  
-He from whom good and evil come,
+He from whom good and evil come,  
 Who rides upon the stormy wind,  
 Took the three hundred wanderers Home.
 
@@ -406,9 +407,6 @@ Remember 'tis for us their hearts are torn!
 – *Liverpool Mercury. *
 
 tag: poem
-
----
-
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000453/18780405/083/0004
@@ -488,7 +486,6 @@ J. G. M.
 tag: poem
 
 ---
-
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002703/18780403/064/0004
 
@@ -594,7 +591,6 @@ Where gallant ship shall pass by nevermore.
 M. J. K. — *Graphic*, April 6.
 
 tag: poem
-
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000472/18780424/057/0004
@@ -849,7 +845,7 @@ tag: poem
 
 https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice
 
-Arthur Conan Doyle
+The Home-Coming of the Eurydice, Arthur Conan Doyle
 
 1894
 
@@ -913,9 +909,7 @@ Who stand on the Hard with their eyes past the Wight.
 Ah! whisper it gently, you sister or daughter,  
 "Our boys are all gathered at home for to-night."
 
-
 ---
-
 
 https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/
 
@@ -1078,4 +1072,3 @@ Not that hell knows redeeming,
 But for souls sunk in seeming  
 Fresh, till doomfire burn all,  
 Prayer shall fetch pity eternal.
-

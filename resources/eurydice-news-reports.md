@@ -80,6 +80,16 @@ WIT AND HUMOUR (from Punch.)
 
 BY THE ADMIRALTY. – WANTED, an Orpheus to go down and try to raise the Eurydice.
 
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18780710/004/0001
+Naval & Military Gazette and Weekly Chronicle of the United Service
+Wednesday 10 July 1878
+
+p1
+
+LOSS OF H.M.S. EURYDICE off Dunnose, Isle of Wight, and over 300 officers and men.—A very fine Photograph of this Ship may be had (size 6in, by 6in. at 2s qnd 11in. by 9in. at 3s. each) post free... —Address, Symonds and Co , Photographers, Portsmouth. 
+
 ---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780801/060/0005

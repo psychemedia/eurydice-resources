@@ -67,7 +67,7 @@ The remains of George Arthur Bennett were interred in the cemetery at Haslar, cl
 
 [Sheffield Daily Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780515/037/0003), 1878-05-15, p. 3
 
-Yesterday three more bodies belonging to the Eurydice were picked up off the Isle of Wight, and taken two to Haslar and one to Portsmouth. They were disfigured beyond all recognition so far as their features were concerned. The hands were eaten off, and the skull picked perfectly clean of all flesh by the fishes. The two taken to Haslar Hospital were identified by their clothing as the bodies of Edward Lockett and Wm. Sandy, ordinary 2nd class seamen. The third body has not yet been identified, but from the appearance of the clothing it is that of an officer's servant or steward. The jury were hastily called together last night to view the two bodies at the Haslar Hospital, and the inquiry was adjourned to the date originally fixed when tbe jury first met. Falconer, the Marine who was picked and taken to Ventnor, was buried yesterday. His remains were followed to the grave by all the Coastguard on the station, the local Volunteers, and numbers of the inhabitants. The weather has been much too boisterous for anything like successful operations in connection with raising the wreck.
+Yesterday three more bodies belonging to the Eurydice were picked up off the Isle of Wight, and taken two to Haslar and one to Portsmouth. They were disfigured beyond all recognition so far as their features were concerned. The hands were eaten off, and the skull picked perfectly clean of all flesh by the fishes. The two taken to Haslar Hospital were identified by their clothing as the bodies of Edward Lockett and Wm. Sandy, ordinary 2nd class seamen. The third body has not yet been identified, but from the appearance of the clothing it is that of an officer's servant or steward. The jury were hastily called together last night to view the two bodies at the Haslar Hospital, and the inquiry was adjourned to the date originally fixed when the jury first met. Falconer, the Marine who was picked and taken to Ventnor, was buried yesterday. His remains were followed to the grave by all the Coastguard on the station, the local Volunteers, and numbers of the inhabitants. The weather has been much too boisterous for anything like successful operations in connection with raising the wreck.
 
 ```
 
@@ -155,9 +155,9 @@ Mr. E. J. Physick, sculptor, has been commissioned to execute the monument in me
 
 [Sheffield Daily Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780518/069/0011), 1878-05-18, p. 11
 
-On Monday, three more bodies belonging to the Eurydice were picked up off the Isle of Wight, and taken two to Haslar and one to Portsmouth. They were disfigured beyond all recognition so far as their features were concerned. The hands were eaten off, and the skull picked perfectly clean of all flesh by the fishes. The two taken to Haslar Hospital were identified their clothing as the bodies of Edward Lockett and Wm. Sandy, ordinary 2nd class seamen. The third body has not yet been identified, but from the appearance of the clothing is that of an officer's servant or steward. The jury were hastily called together last night to view the two bodies at the Haslar Hospital, and the inquiry was adjourned to the date originally fixed when the jury first met. Falconer, the Marine who was picked and taken to Ventnor, was buried on Tuesday. His remains were followed to the grave by all Coastguard on the station, the local Volunteers, and numbers of inhabitants. Tbe weather has been much too boisterous for anything like successful operations in connection with raising the wreck.
+On Monday, three more bodies belonging to the Eurydice were picked up off the Isle of Wight, and taken two to Haslar and one to Portsmouth. They were disfigured beyond all recognition so far as their features were concerned. The hands were eaten off, and the skull picked perfectly clean of all flesh by the fishes. The two taken to Haslar Hospital were identified their clothing as the bodies of Edward Lockett and Wm. Sandy, ordinary 2nd class seamen. The third body has not yet been identified, but from the appearance of the clothing is that of an officer's servant or steward. The jury were hastily called together last night to view the two bodies at the Haslar Hospital, and the inquiry was adjourned to the date originally fixed when the jury first met. Falconer, the Marine who was picked and taken to Ventnor, was buried on Tuesday. His remains were followed to the grave by all Coastguard on the station, the local Volunteers, and numbers of inhabitants. The weather has been much too boisterous for anything like successful operations in connection with raising the wreck.
 
-On Wednesday another body, that of a marine of the crew of the Eurydice, was picked up. The three bodies recovered on Tuesday were buried with military honours next day. Numbers of other bodies are reported to have been seen floating off tbe Isle of Wight during the gale of Wednesday.
+On Wednesday another body, that of a marine of the crew of the Eurydice, was picked up. The three bodies recovered on Tuesday were buried with military honours next day. Numbers of other bodies are reported to have been seen floating off the Isle of Wight during the gale of Wednesday.
 
 On Thursday an inquest was held on two other bodies picked from the Eurydice, they being identified by the clothing as A. Phillips, seamen, and Wm. Hull, marine. Another corpse was brought yesterday afternoon which has not yet been recognised. No doubt most the poor fellows clutched at some object their death agonies, and as the hands all the bodies recovered are missing there is every probability that that is the sequel so many being washed from the wreck just now.
 
@@ -263,9 +263,21 @@ tag: bodies funeral
 Writing from Portsmouth on Saturday, a says:—
 
 Within the last ten days no fewer than sixteen bodies from the Eurydice have been picked up. Eight had been recovered up to Thursday. On Friday six were found in the neighbourhood of Chichester, and on Saturday two were brought in to Portsmouth Harbour. One of three was the body of George Curd, an ordinary seaman, which was identified by the name on the jacket; and the other was the body of John Mitchell, a chief petty officer and seaman gunner which was identified by his widow by some tattoo marks on his arm.
- 
 
 [The article that appeared in the Hampshire Advertiser of Saturday 25 May 1878 was also republished without any attribution. ]
+
+```
+
+
+
+```{admonition} THE "EURYDICE" FATALITY. - Monday, May 27th, 1878
+:class: note dropdown
+
+[Magnet (London)](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004565/18780527/032/0002), 1878-05-27, p. 2
+
+*Republishes the Hampshire Advertiser article of Saturday 25 May 1878, but ends short and slightly differently:*
+
+During the recent gales the Eurydice has sunk two feet and a half further into the mud, and the misgivings as to the possibility of her being raised are now materially strengthened.
 
 ```
 
@@ -326,6 +338,19 @@ On Saturday another inquest was held at Haslar Hospital on two bodies recovered 
 
 
 
+```{admonition} On Saturday the County Coroner held an inquest at Haslar Naval Hospital on the bodies of Charles New - Saturday, June 29th, 1878
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780629/034/0006), 1878-06-29, p. 6
+
+bury, gunnery instructor, and Joseph Curtis, corporal of Marines, both of Gosport. Mr. E. J. Harvey, Admiralty Law Agent at Portsmouth, watched the proceedings on behalf of the Admiralty. The bodies were in a terribly advanced state of decomposition.— The Coroner explained that he had decided not to re-open the matter, but the Registrar had refused a certificate, and the bodies could not be interred without this or a warrant from himself, and he could not give one without holding an inquisition. Consequently an inquiry was necessary to allow Christian burial to be accorded to the deceased. He pointed out that a clergyman could bury without a certificate or a warrant, provided it was not a suspicious death, and was reported within seven days to the Registrar.— Mr. Harvey said that he had no doubt instructions to that effect would be given to the Hospital Chaplain.— Two witnesses were then examined, George Carter, labourer, proving the arrival of the bodies at Haslar, and giving a description of the clothes they had on, and Benjamin Cud-diford, able-bodied seaman, one of the survivors, identifying the deceased. — The jury returned a verdict to the effect that the deceased were drowned by the capsizing of H.M.S. Eurydice, and the interment took place in the afternoon. — We understand that as more bodies are recovered from the wreck, they will be identified after being brought ashore, under the direction of an officer appointed by the Admiralty, and will be buried without any further investigation.
+
+[EXCERPT]
+
+```
+
+
+
 ```{admonition} A body was towed ashore at Ventnor (I.W.) on Tuesday, supposed to be from the Eurydice. - Thursday, July 25th, 1878
 :class: note dropdown
 
@@ -377,7 +402,7 @@ On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near
 
 [Edinburgh Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18780815/078/0004), 1878-08-15, p. 4
 
-Yesterday the divers were engaged the wreck the Eurydice, now lying on St Helen's Sands, and succeeded in recovering thirteen bodies from the after part of the lower deck. The bodies were taken into Portsmouth Harbour last evening by a Government tug. Ten bodies were picked on Tuesday, and nine on Monday. In consequence of the damaged state of tbe keel preparations are being made to get the wreck to even keel, for which iron ballast will placed tbe port side, and the Rinaldo and Pearl her starboard side. The bilge is repaired, and it is believed that she will then float.
+Yesterday the divers were engaged the wreck the Eurydice, now lying on St Helen's Sands, and succeeded in recovering thirteen bodies from the after part of the lower deck. The bodies were taken into Portsmouth Harbour last evening by a Government tug. Ten bodies were picked on Tuesday, and nine on Monday. In consequence of the damaged state of the keel preparations are being made to get the wreck to even keel, for which iron ballast will placed the port side, and the Rinaldo and Pearl her starboard side. The bilge is repaired, and it is believed that she will then float.
 
 ```
 

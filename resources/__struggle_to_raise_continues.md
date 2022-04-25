@@ -4,7 +4,7 @@ Throughout May and June, attempts to float the Eurydice were hampered by the wea
 
 As estimates regarding the lifting power required kept increasing, so too were better estimates being made regarding the number of families that would require support from the relief fund.
 
-The first body to be recovered from the wreck was taken to Haslar hostpital, albeit in an advanced state of decomposition and minus a hand, for identification by its clothing and tattoo markings on the chest.
+The first body to be recovered from the wreck was taken to Haslar hospital, albeit in an advanced state of decomposition and minus a hand, for identification by its clothing and tattoo markings on the chest.
 
 And questions were starting to be asked about how to pronounce "Eurydice", with the answer being supplemented with a reference to the original myth.
 
@@ -40,7 +40,9 @@ Southsea, May 11. A Practical Shipwright.
 ```
 
 
-Over in the Isle of Wight Times, the editor once again had a wry eye in selecting quoted articles from other periodicals.
+In the pages of the Isle of Wight Times, the editor was once again taking a wry stance, this time in his selection of articles quoted from other periodicals.
+
+At the wreck, the toggles had been put in place.
 
 
 ```{admonition} THE EURYDICE. - Thursday, May 16th, 1878
@@ -63,44 +65,24 @@ Operations at the wreck were resumed yesterday (Tuesday). Five toggles have been
 ```
 
 
+With another storm setting in, the Rinaldo returned to harbour. The plan was also found lacking in another in another respect; the iron toggles that had been used rather than wooden ones weren't strong enough, and were bending.
+
+Out at sea, the body of one of the crew was spotted three miles out to sea by coastguardsmen and immediately retrieved.
+
 
 ```{admonition} THE EURYDICE DISASTER. - Saturday, May 18th, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780518/025/0006), 1878-05-18, p. 6
 
-Late on Friday night a storm set in, and the Rinaldo and the Rinaldo and the lumps, which were moored near the wreck of the Eurydice, had to slip their cables and make for port, in tow of the Griuder. The iron toggles wnich the divers succeeded in dropping into the ports will have to be removed, and their places supplied by wooden toggles of greater bearing area, as the former have been found to bend and come cut under the strain of thirteen tons. The Rinaldo was taken back to her moorings on the following day, and the mauly was out at the wreck on Sunday, when two additional toggles were put into position. Shortly after mid-day two coastguardsmen who were on duty at St. Lawrence observed a body floating about three miles out to sea. They at once launched a boat, and succeeded in bringing the body in tow to Ventnor, where it was found to be that of a marine, evidently from the wreck of the Eurydice. The features were beyond identification, but it was found that the body is George Falconer. The body was landed that of on the Isle of Wight, and the Coroner, considering an inquest unnecessary, gave an order for the burial which took place on Tuesday afternoon. The body was interred in Ventnor Cemetery with military honours and a large number of the townspeople attended. The Government tugs and divers resumed operations on Monday, but the boisterous weather prevented much progress being made. On Tuesday morning, however, they again proceeded out of harbour to the wreck. As many as a dozen or 16 toggles will be used if they can be successfully introduced into the ports , the hawsers still remain rouud the Eurydice, with buoys to pick them up. The Pearl was finished for service on Monday, and can be brought into requisition on whatever day it is thought advisable. A telegraphic statement of the exact rise and fall of the tide is daily sent from the wreck to the dockyard authorities, so that they may know when the tide is likely to serve, and they are putting their plans into execution with as much dispatch as is practicable, considering the difficulties which have to be encountered, and the unfavourable turn of the weather. These difficulties are increasing every day, the wreck having within the last week or ten days sunk further in the mud by several feet.
+Late on Friday night a storm set in, and the Rinaldo and the lumps, which were moored near the wreck of the Eurydice, had to slip their cables and make for port, in tow of the Griuder. The iron toggles which the divers succeeded in dropping into the ports will have to be removed, and their places supplied by wooden toggles of greater bearing area, as the former have been found to bend and come cut under the strain of thirteen tons. The Rinaldo was taken back to her moorings on the following day, and the mauly was out at the wreck on Sunday, when two additional toggles were put into position. Shortly after mid-day two coastguardsmen who were on duty at St. Lawrence observed a body floating about three miles out to sea. They at once launched a boat, and succeeded in bringing the body in tow to Ventnor, where it was found to be that of a marine, evidently from the wreck of the Eurydice. The features were beyond identification, but it was found that the body is George Falconer. The body was landed that of on the Isle of Wight, and the Coroner, considering an inquest unnecessary, gave an order for the burial which took place on Tuesday afternoon. The body was interred in Ventnor Cemetery with military honours and a large number of the townspeople attended. The Government tugs and divers resumed operations on Monday, but the boisterous weather prevented much progress being made. On Tuesday morning, however, they again proceeded out of harbour to the wreck. As many as a dozen or 16 toggles will be used if they can be successfully introduced into the ports , the hawsers still remain rouud the Eurydice, with buoys to pick them up. The Pearl was finished for service on Monday, and can be brought into requisition on whatever day it is thought advisable. A telegraphic statement of the exact rise and fall of the tide is daily sent from the wreck to the dockyard authorities, so that they may know when the tide is likely to serve, and they are putting their plans into execution with as much dispatch as is practicable, considering the difficulties which have to be encountered, and the unfavourable turn of the weather. These difficulties are increasing every day, the wreck having within the last week or ten days sunk further in the mud by several feet.
 
 [EXCERPT : BODIES]
 
 ```
 
 
-
-```{admonition} THE "EURYDICE" FATALITY. - Monday, May 27th, 1878
-:class: note dropdown
-
-[Magnet (London)](https://www.britishnewspaperarchive.co.uk/viewer/bl/0004565/18780527/032/0002), 1878-05-27, p. 2
-
-*Republishes the Hampshire Advertiser article of Saturday 25 May 1878, but ends short and slightly differently:*
-
-During the recent gales the Eurydice has sunk two feet and a half further into the mud, and the misgivings as to the possibility of her being raised are now materially strengthened.
-
-```
-
-
-
-```{admonition} THE ROYAL NAVY - Friday, May 31st, 1878
-:class: note dropdown
-
-[Shipping and Mercantile Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780531/103/0006), 1878-05-31, p. 6
-
-PORTSMOUTH, MAY 30.—
-
-The steamers went to the wreck of the Eurydice this morning, taking out an eight-inch steel hawser to be passed round the ship from stem to stern. The weather being more moderate they succeeded in placing a number of toggles in the wreck and recovered two anchors.
-
-```
-
+Two months on, and more bodies were starting to be picked up along both the mainland and Island coast. People were also starting to doubt whether the wreck could ever be raised at all, or would have to be blown up once all the bodies had floated free.
 
 
 ```{admonition} THE EURYDICE - Thursday, May 30th, 1878
@@ -122,6 +104,21 @@ We are inclined to the opinion of many who ought to know something of the matter
 
 
 
+```{admonition} THE ROYAL NAVY - Friday, May 31st, 1878
+:class: note dropdown
+
+[Shipping and Mercantile Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780531/103/0006), 1878-05-31, p. 6
+
+PORTSMOUTH, MAY 30.—
+
+The steamers went to the wreck of the Eurydice this morning, taking out an eight-inch steel hawser to be passed round the ship from stem to stern. The weather being more moderate they succeeded in placing a number of toggles in the wreck and recovered two anchors.
+
+```
+
+
+Yet more bad weather a fortnight later required the divers' boats to be taken back into harbour, but even that operation failed to go smoothly, with the boats suffering damge that would require repair and two men sustaining injuries.
+
+
 ```{admonition} THE EURYDICE. - Thursday, June 13th, 1878
 :class: note dropdown
 
@@ -131,6 +128,8 @@ The gale on Monday night and Tuesday has led to a suspension of the operations a
 
 ```
 
+
+With the weather improving, Eurydice's masts had started being removed. Meanwhile, at least one correspondent felt confident enough to recommend how the vessel might be lifted based on another example he could describe.
 
 
 ```{admonition} THE EURYDICE. - Thursday, June 20th, 1878
@@ -142,12 +141,14 @@ The gale on Monday night and Tuesday has led to a suspension of the operations a
 
 During the last few days of fine weather considerable progress has been made at the wreck, both the mizen and fore masts having been pulled out by the tugs and a space cleared for the attachment of the lifting ships. On Tuesday morning the last of the four lighters was towed out of harbour to the wreck, and should present weather continue, an attempt to raise the Eurydice will be made today.
 
-The loss of the Eurydice has set thousands of pens agoing, and many thousands of tongues. Many and varied are the opinions as to the cause of the melancholy disaster, and it is some satisfaction— mournful it is true— to know that in the opinion of the jury which has enquired into the loss of the Eurydice, the disaster was the result of an accideut and no blame can be attached to the captain or any of the officers or men under him. It was the first thought that the vessel was under too great a press of canvas, seeing what the weather was before the squall came on; but the evidence showed that there were two watches, with at least a hundred men in each, that the watch on the deck at the time was plenty to manage the ship, and that had there been more men they would have been in each other's way. Too often disasters of this kind are caused because "some has blundered," but in this instance everything was done that human foresight and judgment could direct, and the collision must be attributed solely to a meet direful "freak " of Nature, for which the unfortunate victims cannot be held responsible. The only consolation is that no one can be blamed but Nature herself, who cannot he held amenable to the British laws and constitution.
+The loss of the Eurydice has set thousands of pens agoing, and many thousands of tongues. Many and varied are the opinions as to the cause of the melancholy disaster, and it is some satisfaction— mournful it is true— to know that in the opinion of the jury which has enquired into the loss of the Eurydice, the disaster was the result of an accident and no blame can be attached to the captain or any of the officers or men under him. It was the first thought that the vessel was under too great a press of canvas, seeing what the weather was before the squall came on; but the evidence showed that there were two watches, with at least a hundred men in each, that the watch on the deck at the time was plenty to manage the ship, and that had there been more men they would have been in each other's way. Too often disasters of this kind are caused because "some has blundered," but in this instance everything was done that human foresight and judgment could direct, and the collision must be attributed solely to a meet direful "freak " of Nature, for which the unfortunate victims cannot be held responsible. The only consolation is that no one can be blamed but Nature herself, who cannot he held amenable to the British laws and constitution.
 
 HOW TO RAISE SUNKEN VESSELS. — Writing with regard to the unsuccessful attempts to raise the Eurydice, a correspondent says :—A few yours ago, the Workington, a full-rigged ship of 2,000 tons, laden with coals, and on fire, was scuttled in the roads, and settled into soft mud, so that her topsail yards were only visible above the water. She was bought by a French man. He at once secured all her top-hamper for staging on which to erect purchases (and did not strip her, as the Eurydice was stripped) to discharge her cargo with and work his divers' pumps from. He had strong Pampero winds, and three or four knot currents to contend against ; however, by working both day and night, and in as bad and exposed position as though the ship had been off the Isle of Wight, he discharged all the cargo of coals, then commenced to fill the hold with wine casks, which were stored below by six divers. The casks had an inch hole bored in each head, then filled with water and a long spigot placed in the holes, then slung in a chain lowered to the divers (the chains helping to sink the cask) and placed into position by them ; when there they had only to take out both plugs, insert the end of the air nozzle into one hole and blow the water out by the other, then plugg them both up, when the cask would be filled with air. Upon one calm day they thus placed 250 casks. They stuck to the job for nine weeks, and brought the ship out of her bed in which she had settled 13 feet deep into the harbour. The tremendous force of the united efforts of the casks had burst her upper deck and so strained her deck beams that they had to be taken out and repaired. The ship, under the name of Perteno, is now afloat, and has made many profitable voyages for her owner. Now, the divers told no they experienced no difficulty while working in the hold from current or rough water, but were only troubled by the darkness and the slippery settlements left on all footing by the sand delimits, of which the hold had at least fifty tons, and this had to be lifted with the iron hull of the ship, iron lower masts, bowsprit, lower yards, and all deckgear. In another case a wooden brig was cut down by a steamer to the water's edge, and was treated in a like manner, only that the immense hole in her aide had to le planked and covered with canvas. She was succeessfully brought into harbour, although seven miles outside when she went down, and in the channel where the whole force of the river is constantly running at four to four and a-half knots, and not three days without a blow more or less severe.
 
 ```
 
+
+As a body freed from the wreck was picked up, folk were wondering whether the cost of the work so far, without apparent success, was worth it...
 
 
 ```{admonition} The Eurydice. - Saturday, June 22nd, 1878
@@ -155,10 +156,14 @@ HOW TO RAISE SUNKEN VESSELS. — Writing with regard to the unsuccessful attempt
 
 [Somerset County Gazette](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000314/18780622/015/0003), 1878-06-22, p. 3
 
-The Grinder, tug, went into Portsmouth Harbour Thursday morning from the Eurydice with the body of the seaman which had been picked up floating near the wreck. The dockyard authorities are now very sanguine with respect to the ultimate success of the lifting operations, but considerably more money than the value of the ship has been expended in wages and material alone, not to mention the wear and tear of tugs and lighters, very grave doubts are being expressed as to whether the game worth the candle.
+The Grinder, tug, went into Portsmouth Harbour Thursday morning from the Eurydice with the body of the seaman which had been picked up floating near the wreck. The dockyard authorities are now very sanguine with respect to the ultimate success of the lifting operations, but considerably more money than the value of the ship has been expended in wages and material alone, not to mention the wear and tear of tugs and lighters, very grave doubts are being expressed as to whether the game is worth the candle.
 
 ```
 
+
+With the good weather continuing, work progressed on clearing the ship of obstacles that would hamper her raising, as well as items of note, including the Captain's inkstand and several ensigns,
+
+It seemed as if things were now well in place for the Pearl and the Rinaldo to be able to raise the Eurydice when the tides were next most favourable.
 
 
 ```{admonition} THE EURYDICE. - Thursday, June 27th, 1878
@@ -166,7 +171,7 @@ The Grinder, tug, went into Portsmouth Harbour Thursday morning from the Eurydic
 
 [Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780627/088/0005), 1878-06-27, p. 5
 
-[EXCERPT : PARLIAMEMT]
+[EXCERPT : PARLIAMENT]
 
 The salvage operations at the wreck have made considerable progress, favored by a continuance of fine weather, and from Monday till Friday the divers will only be engaged in cutting away such running gear as would be likely to drag on the ground when the ship is raised. The Eurydice has now been swept with four 8-inch steel hawsers, and heavy toggles, with double wire strops, have been introduced into the ports. To these strops 1? inch chain pendants have been shackled on, and when the lift is given the ends of these will be in the mooring lighters. In addition to the 8-inch wire ropes, the bight of an 8-inch wire rope has been dropped before the mainmast into the gangway ports, and the ends poised aft under each quarter have been centred or feilddled under the stern, and will be taken in by the Pearl. In addition to her 8-inch hawsers, the Rinaldo will have the two fore ends of the inch hawser. The Wave and Swan are ready for their work. These two ships will take in as many of the toggle pendants as the ships will ride ever, and all the ships will previously have been sunk three or four feet by allowing that amount of water in them, which will be discharged by powerful steam pumps so soon as the ships have been hove down to the wreck. The Popoff air bag has been placed on the weather side in the gangway and successfully inflated, and the divers have carefully inspected all the toggles and hawsers now they are in position, and report them to be fixed satisfactorily. On Saturday a beautiful inkstand belonging to Captain Hare was recovered by one of the divers, and also a signal log, two white ensigns, and an Italian ensign, all four being unserviceable. On Saturday evening the whole of the divers, riggers and camber men were brought in from the wreck, having succeeded in completing the necessary preliminary arrangements. On Saturday next 400 hands will be taken out to the wreck for the purpose of tightening up the gear and fixing the purchases, and on Monday and Tuesday next, when the tides will have increased upwards of two feet in rise, the first lift will be made. Should the operators succeed in getting the ship out of the hole in which she lies embedded, the lifting vessels, which will be in the first instance placed across the wreck and immersed some two feet, so as to secure an additional rise as the water is pumped out, will then be fastened alongside, and the process repeated until the ports of the Eurydice have been brought above the water level.
 

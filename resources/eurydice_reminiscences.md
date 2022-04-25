@@ -1,9 +1,8 @@
 # Memories of the Eurydice Disaster
 
+Although news reports at the time of a major incident such as the loss of the Eurydice capture various pieces of "background" testimony, and published correspondence of the time may add additional colour, another way of getting a sense of how events were seen at the time is to look at them through the lens of memory, such as in the form of reminiscences.
 
----
-
-
+Misquoting something I have otherwise forgotten, "a story is what's left when the facts have been forgotten", what then is the story of that fateful day in March, 1878, as remembered decades later in "reminiscence" columns of the local press.
 
 ---
 
@@ -29,10 +28,6 @@ On landing I found a piece of the wreck, which I have now as a relic. A gentlema
 
 (The date of the wreck of the Eurydice was March 24th, 1878. Ed., "Hampshire Advertiser.")
 
-
-
-
-
 [Includes photo of the two survivors BL_0003142_19270409_028_0002_pdf__1_page_.png ]
 
 ---
@@ -50,7 +45,6 @@ A Eurydice Memory
 
 A vivid picture arises in my mind of a Sunday in March. 1878. It was one of those brilliant cloudless days, reminding one that winter is over. and giving a foretaste of summer days ahead. I was chorister of 12 then and was attending afternoon service at St. Faith's. Suddenly it grew dark, clouds blotted out the sun, the wind howled in fury round the building, and snow, sleet and hailstones dashed against the windows. Almost as suddenly at is began, the wind dropped, the clouds disappeared, and the sun shone out again. Probably the storm would have been forgotten, but for the catastrophe caused the same blizzard off the Isle of Wight. The Eurydice, a training vessel for young, sailors was caught on its way home Portsmouth after a long voyage. and capsized, every soul on board, except two, being drowned.
 
-
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19320422/283/0014
 
@@ -58,7 +52,6 @@ Hampshire Telegraph
 Friday 22 April 1932
 
 p14
-
 
 LOST IN SIGHT OF HOME
 
