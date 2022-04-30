@@ -17,3 +17,5 @@ This collection represents a gathering together of various elements of that firs
 The found text for each of the articles included here was typically a machine generated OCR (optical character recognition) produced text, but the quality often left a lot to be desired. I have attempted to correct the texts by referencing original scanned newpaper images, but undoubtedly many errors remains. However, as an electronic text, this collection is easily updated; so as and when I find transctription errors, as I, or others, undoubtedly will, I will attempt to correct them.
 
 --Tony Hirst, Isle of Wight, 2022
+
+[__Please support this and other related *Storynotes* initiatives via `Patreon`.__](https://www.patreon.com/bePatron?u=3266916)
