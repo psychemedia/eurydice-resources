@@ -44,7 +44,7 @@ To the Editor of the Evening News.
 
 Sir, —Some three weeks or more ago, it was freely published in various papers throughout the country, that the public were becoming greatly dissatisfied with the fact that the Eurydice, with probably over 150 bodies on board, had not been raised. On Sunday, March 24th, the Eurydice foundered with her living freight off Dunnose, and freely state is a national disgrace that, close proximity to our greatest naval port, the ship should be in far worse state now than when she foundered. Prior to my entering the dockyard service, had some knowledge wrecks, which is thoroughly implanted on my memory. In the present case, there has been employed a Master Attendant, an Assistant Master Attendant, the Chief and Assistant Constructors of Portsmouth Dockyard, and the Master Attendant and Chief Constructor of Chatham Dockyard but with all their superior knowledge (because superior knowledge it must be) the Eurydice still lays where she foundered. What practical man in wrecking, would have thought of employing such vessels as the Pearl, Rinaldo, two dockyard lighters, and now, the Swan and Wave, both old gunboats. I certainly should not have done so. I should have designed certain camels and placed them in such positions that I am certain, barring all casualties, the Eurydice would long ere this have been safe in Portsmouth Harbour. Nearly a fortnight ago I was talking to Capt. Coppin on other matters, when asked my opinion of the Eurydice, which I gave him. The plan of this country is, unfortunately, to take the advice of the man receiving the largest salary.  
 I am, Sir, yours obediently,  
-Southsea, May 11. A Practical Shipwright. 
+Southsea, May 11. A Practical Shipwright.
 
 ---
 

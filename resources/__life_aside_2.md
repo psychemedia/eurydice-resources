@@ -1,15 +1,27 @@
 # More Life Aside
 
+We have already seen how devlopments were taking place in Sandown in 1878, such as the opening of the pier, even as the Eurydice lay in Sandown Bay.
+
+As the hulk of the ship was moved into St. Helen's Roads, we also find that the developments were happening there around the same, works that would change the outline of the Island on a map in an even more significant way than the addition of a pier.
+
 Bembridge and St Helens
 
 Golf course
+
+
+```{figure} ../images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg
+---
+---
+
+```
+
+
 
 jabez balfour
 
 holy stones
 
 lost wolverton
-
 
 
 ```{figure} ../images/3512272457_8784bc5a44_b.jpg
@@ -44,7 +56,7 @@ Island Queen at Bembridge Pier
 
 
 
-## Land Reclamation Around Brading Having
+## Land Reclamation Around Brading Haven
 
 
 ```{admonition} New Local Steam Service.— - Thursday, September 14th, 1882
@@ -74,7 +86,6 @@ https://www.spectator.co.uk/article/a-very-different-sort-of-balfour
 https://bembridgeharbourtrust.org/local-history/
 
 The major closure of Brading Haven to form what is now known as Bembridge Harbour was started in 1874 and finally finished, after several abortive attempts, in 1880. After this work was completed the ownership of the Harbour passed into the hands of the local railway company. It passed to the Southern Railway after the First World War and then British Railways following nationalisation. It eventually passed back into private hands in 1968.
-
 
 In 1864, the Bembridge Railway, Tramway and Pier Act was passed by Parliament, authorising the construction of land-reclamation works and the building of a pier. By 1878 over 800 acres of land were reclaimed, and a pier built. Bembridge Harbour Pier was only 250ft long, and quite narrow too. Despite this, it was used by ships such as the 46 tonnes Tynemouth, and after the harbour had been dredged to allow larger ships, such as the 125ft. Island Queen in 1878 and in 1892 the 104 tonnes, 137ft paddle steamer Princess of Wales, which was re-named the Bembridge. This was run by the Southsea and Ventnor Steamship Company. This later merged with the Southsea, Ventnor, Shanklin and Sandown Steamship Company to become the Bembridge and Seaview Steamship Company in 1912. Ships which called at Bembridge regularly on a passenger service included the Sandringham, Prince, Duke of York, Carrier and the 130ft Lord Kitchener. The largest ferry was the Alexandra in 1913, which was a 235-tonne ship and 171ft long.
 
@@ -129,6 +140,75 @@ Brading Harbour, although a pretty sheet of water at high tide, presents nothing
 ```
 
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002569/18770310/034/0004
+Isle of Wight Journal - Saturday 10 March 1877 p4
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790308/007/0005
+Isle of Wight Observer - Saturday 08 March 1879 p5
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790628/007/0005
+Isle of Wight Observer - Saturday 28 June 1879 p5
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790702/029/0003
+Hampshire Advertiser - Wednesday 02 July 1879 p3
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790709/028/0004
+Hampshire Advertiser - Wednesday 09 July 1879 p4
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790712/012/0006
+Isle of Wight Observer - Saturday 12 July 1879 p6
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001580/18790712/008/0001
+Jersey Independent and Daily Telegraph - Saturday 12 July 1879 p1
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790730/034/0004
+Hampshire Advertiser - Wednesday 30 July 1879 p4
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790830/061/0008
+Hampshire Advertiser - Saturday 30 August 1879 p8
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18790830/017/0006
+Isle of Wight Observer - Saturday 30 August 1879 p6
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18791025/019/0006
+Isle of Wight Observer - Saturday 25 October 1879 p6
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18791101/025/0006
+Isle of Wight Observer - Saturday 01 November 1879 p6
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18791101/066/0008
+Hampshire Advertiser - Saturday 01 November 1879 p8
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002941/18800211/036/0004
+Hampshire Independent - Wednesday 11 February 1880 p4
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18800410/027/0007
+Hampshire Telegraph - Saturday 10 April 1880 p7
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001578/18800417/112/0018
+Illustrated London News - Saturday 17 April 1880 p18
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18800619/008/0005
+Isle of Wight Observer - Saturday 19 June 1880 p5
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18811224/014/0006
+Isle of Wight Observer - Saturday 24 December 1881 p6
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001485/18820630/076/0014
+St James's Gazette - Friday 30 June 1882 p14
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18820722/031/0007
+Hampshire Telegraph - Saturday 22 July 1882 p7
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18860410/010/0006
+Isle of Wight Observer - Saturday 10 April 1886 p6
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18860407/041/0004
+Hampshire Advertiser - Wednesday 07 April 1886 p4
+
+Portsmouth Evening News - Tuesday 21 September 1880 p2
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18800921/008/0002
+
 
 ```{figure} ../images/hall_map_iw.jpg
 ---
@@ -151,7 +231,6 @@ http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
 
 
 
-
 ```{figure} ../images/004956958-SVC2_jpg_annotated.png
 ---
 ---
@@ -162,7 +241,7 @@ The Isle of Wight, AW Fowles, 1897 annotated
 
 
 
-```{admonition} THE RECLAMATION OP BRADING HAVEN. - Saturday, November 3rd, 1877
+```{admonition} THE RECLAMATION OF BRADING HAVEN. - Saturday, November 3rd, 1877
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18771103/004/0002), 1877-11-03, p. 1
@@ -170,6 +249,130 @@ The Isle of Wight, AW Fowles, 1897 annotated
 It may not be uninteresring to many of our Isle of Wight readers, now that the reclamation of Brading Harbour is a work in progress, to know that such a work was attempted so far back as 1616, by Sir Hugh Myddleton, whose successful enterprise in connection with the New River Company has given him enduring fame. Smiles, in his " Lives of Engineers," refers to this work, and says that it is probable " that, at some early period, neither swamp nor lake existed at Brading Haven, but a green and fertile valley, for in the course of tbe works undertaken by Sir Hugh for its recovery from the sea, a well, strongly cased with stone, was discovered near the middle of the Haven, indicating tbe existence of a former settled pppulation on the soil. The sea must, however, have burst in and destroyed the settlement, layiug the whole valley under water. In King James's reign, when the recovering of drowned lands began to receive an unusual degree of attention, the project of reclaiming Brading Haven was again revived; and in the year 1616 a grant was made of the drowned lands to one John Gibb, the King reserving to himself a rental of £20 per annum •• • It appears that Gibb sold his right to one Sir Bevis Thelwall, who at once invited Sir Hugh Myddleton to join him in undertaking the work. • • • A satisfactory arrangement having been made with the King, Myddleton began tne work of reclaiming the Haven in the course of tbe same year (1620). He sent to Holland for Dutch workmen, familiar with such undertakings, and it is obvious that be mainly followed the Dutch method of reclamation, although it would also appear that be also employed some invention of his own. No description is given of the paiticular method a opted by Sir Hugh in forming his embankment, but it would appear that he proceeded by driving piles into the bottom oi the Haven, near Bembridge Point, where it is about the narrowest, and thus formed a strong embankment at its junction with the sea, but, as would appear, without making adequate provision for the egress of the inland waters."
 
 A very curious contemporary manuscript by Sir John Oglander, is still preserved amongst the archives of the Oglander family, who hold a great part of the ueighbounng land, from which it would appear that after the ground was recovered, it was not of much value. The best portion was that nearest Brading ; 200 acres were worth about 6s 8d the acre, and all the rest about 2s 6d the acre (!). Wheat, barley, cabbage, and oats, all failed to grow on it ; but rape succeeded best ; all the others came to nothing. At last, on the 8th of May, 1630, there came a very high spring tide, when the sea made a breach, and, not being attended to soon euougb, got worse and worse, till at last it was all covered again with the sea. The total amount lost in the attempt is said to be about £7000. The manuscript referred to further says that though the country people were much against the reclamation of the harbour, yet it " caused a great deal more health in tbese parts than was ever known before." The gates whioh served for a sluice were dug up some years ago near the boatbouse on St. Helen's, " Duvver."
+
+```
+
+
+
+```{admonition} St. Helen's, Local Board of Health - Saturday, February 23rd, 1878
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780223/036/0006), 1878-02-23, p. 6
+
+An ordinary meeting of this Board was held on Monday afternoon, at the Surveyor's Office, High Park, when there were present — Messrs. Stone (chairman), Brook, sen., J. O. Brook, Caws, Moody, Reed, Callaway, Matthews, and Tutte.
+
+The St. Helen's sewage.
+
+The Clerk read a letter, which had been received from the Secretary of the new company which is now making a roadway aud embankment across Brading Harbour. At the last meeting of the Board it was agreed to write a letter to the company, pointing out that the company, by constructing their works, were interfering with the sewage matter which came from the sewage farm at St. Helen's, aud claiming as good an outlet for it as they had before the works were constructed. The company, in reply, repudiated any liability.  
+their works affected the Board.
+
+The Chairman said that the company seemed to misapprehend the question. They had previously allowed their sewage to drain into what was virtually a tidal harbour, and the company would convert this into an inland lake or fresh-water stream, into which the Board could not carry the sewage. Perhaps what flowed from the sewage farm could not, strictly speaking, be called sewage ; still there could be no doubt it was highly impregnated with sewage matter. The company said they were prepared to allow them to connect the Board sewers with theirs, but this they could only do provided the outfall was unobjectionable, but they were not told where this was to go to. They might drain into the stream for land drainage, but not for sewage. They must know where their outfall was to be before they could go to the Local Government Board. They had a common law right to drain into the harbour ; that had been turned into fresh water, and as the company had altered it he contended they must put things right. The Board were there first.
+
+It was understood that the Clerk should write another letter on the subject.
+
+```
+
+
+
+```{admonition} A HOLIDAY RAMBLE. - Saturday, April 27th, 1878
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/032/0008), 1878-04-27, p. 8
+
+To the Editor of the Isle cf Wight Observer.
+
+Sir,— When any one who has been absent from a locality for some time returns he notes the slowly-made changes which have taken place during his absence with a keener eye yhan those living near the place, who hardly understand wht time has done. So it was with me. ... From Priory Bay I made my way round by the shore to the St. Helen's point. When I first visited the Island, some 20 years ago, the woods used to stretch luxuriantly at this point right down to the waters' edge ; the force of the sea breakers was stayed by a tremendous reef of rocks. Mr. Smith, on obtaining the estate here, thought it would be a good speculation to use the rocks for building. Unfortunate design ! No sooner were they rooted up than the encroachments of the sea on the now unprotected shore caused a succession of landslips, till, in one or two cases, the fringe of woods on the shore seems to have been washed entirely away, and the shore is almost impassable at some places for the blue slipper, into which the foot sinks. At all events, I am told it cost the imprudent Mr. Smith as many thousands to protect his fast-decreasing property by a sea wall as he gained hundreds by the sale of nature's protectors — the rocks. In my waltc, or rather scramble, on the shore, I noticed that this wall had again been washed down in many places, and some parts evidently during the past winter, for fine pine trees had partially fallen with the slip of the earth, aud were drooping their tail tops over the shore, as if lamenting the change. Several were fallen down on the shore, and had been cut off. Altogether it seemed to me at this part of my ramble that the beauty of the shore just beyond Priory Bay had, to a certain extent, departed. A dilapidated wall looks so much worse than a wood gently sloping to the sea. This wall extends right round to the remains of old St. Helen's church, which still stand as a landmark to passing vessels This, too, did not seem to look so nice as in bygone days. There used to be a pretty little wood behind it, full of flowers and wild strawberries. This seems to have partly gone too, and the wall and a fence made it inaccessible. A fence surrounded the old ohuroh ground, which was at one time open, and much used by the villagers for tea parties, &c. I suppose this is done because the land was at one time consecrated and no doubt contains many remains of poor mortality. Some of the villagers could remnember when the headstones were there. A walk across the Duver soon brought me in sight of what I had greatly desired to see— Brading Harbour Improvements. The old Duver was just the same as ever ; but looking over the miilpond I could see that a number of houses had sprung up since my last visit. I passed by the Brading Harbour Oyster Fishery Company's beds, and noticed they were not quite denuded of oysters, although a staring notice as to trespassers, and a reward of £5 for information leading to the apprehension of any one taking the oysters, caused me to " sheer off ". I could not help thinking that the gallant Major who got so large a sum awarded him for the fishery was a very lucky individual. As I passed by the mills, for the first time I had a good view of the much-talked-of harbour improvements, and I must confess to some little disappointment. The work did not look nearly so forward as I had been led to understand, and I believe it will be a long time yet before all the sea is kept out of the harbour and fat kine graze upon the mud flats. Up to the present they have made a railway running down by the side of the harbour nearly as far as the mill, and have heaped up quite a quay nearly opposite. A bank of stones, sand, &c., runs from Bembridge, on the opposite side, and bears some rails, but still there is the deepest anu most difficult part of th© channel to be overcome- before the two lines will meet and passengers conveyed to Bembridge, or the sea be dammed out from the mud flats. There seems to be a considerable amount of work to be done before this is arrived at. St. Helen's Green seems to be gradually awaking to a sennse ot its merits, and the population is increasing at a great rate, to judge by the number of new houses which have sprung up. My walk home was rather a hurrid one in consequence of a wet eveing, but I found time to notice with regret that some one, with hideous taste, had substituted a stone wall for the green hedge that at one time used to encircle the parish church uf St. Helen's, and that the pretty little tollhouse at St John's had been pulled down, to be removed further on I suppose.
+
+I remain, Sir, yours, &c,  
+A WANDERER
+
+```
+
+
+
+```{admonition} WANTED, 200 navvies for the BRADING HARBOUR RECLAMATION WORKS. Pay 5d. per Hour. Apply to George Strickley, Foreman of Works, St, Helen's, Isle of Wight. - Saturday, May 11th, 1878
+:class: note dropdown
+
+[Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780511/014/0004), 1878-05-11, p. 4
+
+
+
+```
+
+
+
+```{admonition} BRADING HARBOUR IMPROVEMENT AND RAILWAY COMPANY. - Wednesday, August 7th, 1878
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780807/002/0001), 1878-08-07, p. 1
+
+NOTICE TO MERCHANTS AND MARINERS.
+
+NOTICE IS HEREBY GIVEN, that the NEW QUAY at St. Helen's, Isle of Wight, at the entrance of Brading Harbour, and the railway therefrom to the Isle of Wight Railway, are now OPEN for traffic, thus saving the delay and difficulties of navigating Brading Harbour.
+
+Notice is further given that, in consequence of such opening as above mentioned, the works for closiug the existing channel are now being proceeded with ; all consignments must therefore be made to St. Helen's Quay.
+
+CHAS SEYMOUR, Secreetary  
+No. 1, Fish-street-hill, London, E.C., 1st August, 1878.
+
+```
+
+
+
+```{admonition} Isle of Wight Petty Sessions - Wednesday, August 28th, 1878
+:class: note dropdown
+
+[Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780828/027/0004), 1878-08-28, p. 4
+
+County Bench
+
+SATYRDAY — The county magistrates in attendance were Mr. F. White-Popham (chairman), Mr. J. Coape, Sir Barrington Simeon, Bart., Major-General the Hon. J. G. Somerset Calthorpe, and Sir Graham Hamond Graeme, Bart.
+
+Alleged Attempt to Defraud.— Frederick Cooper, labourer, was charged with uttering a forged order called a sub-ticket, with intend to defraud. —David Pike, canteen keeper, of the Brading Harbour Company, deposed that prisoner was employed on Brading harbour works, and lived at St. Helen's, where the canteen was kept. The labourers were paid only once a week, on Saturday. The contractor's office was at Bembridge. Most of the labourers lived at St. Helen's. It was the practice for the company to issue tickets to the men for small sums. A sum of money was placed in the hands of witness and he cashed the tickets, which were in his own handwriting. He handed them to the timekeeper, who issued them to the men who required them. On the 21st inst. prisoner came to the canteen with the ticket now produced, and witness handed him 2s for it. Noticed soon after prisoner had left that the ticket was not in due form.— Cecil Raymonf Seymour, timekeeper on the works, living at St. Helen's, explained the issue of the tickets, being deducted from the men's pay at the end of the week. On Wednesday last, when there was 5s due to the prisoner, the witness Pike brought him the ticket in question.He did not issue this ticket to prisoner. Issue of the tickets was a matter of convenience for paying money in advance to save him as timekeeper from carrying about a large amount in silver. The men could purchase anything at the canteen when they received the money for the tickets. Police-constable Goerge, onthe morning of the 22nd inst. apprehended prisoner on the works at St. Helen's, when prisoner said he got a ticket from the timekeeper on the 21st, and the timekeeper, in prisoner's presence, denied it. The Chairman, in dismissing the case, said the magistrates thought that, however convenient the system of tickets for payment of advances, it was a pity the tickets were payable only at the canteen in which the contractor for the work had an interest.
+
+```
+
+
+New Forest Isle of Wight - Cornish 1903
+
+p12
+
+The reclamation of Brading Haven, and the embanking of the eastern river Yar have somewhat altered the former lines. A map of the island, published in 1610, shows the ancient conditions very clearly. The eastern peninsula is there called the Isle of Bembridge, the western the Isle of Freshzvater ; and twelve years later it was proposed to make the latter into a real island by cutting a trench to the sea at Freshwater Gate, and to fortify it as a refuge and citadel in case of an invasion.
+
+p62
+From Brading town to St. Helen's stretched until recently the wide estruary of Brading Haven. Now, with the exception of enough to make a useful harbour at Bembridge, this great estuary, where Sir John Oglander's father would shoot " forty fowl of a night," has been reclaimed by the directors of the " Liberator " Companies.
+The nature of the appeal made by this wild scheme in the first instance to the daring speculators who, seventeen years ago, embarked the resources of the company in an enterprise of which not only the practical difficulty, but the financial worthlessness, had already been proved by actual experiment, as early as the reign of James I., will probably remain among the unknown factors of commercial failure. The belief in the possibility of getting "Something for nothing," due to the notion that land won from the sea is a kind of treasure-trove, may have quieted the first misgivings of shareholders. But the fact that Sir Hugh Myddelton, the engineer of the New River, though a " crafty fox and subtle citizen," as Sir Oglander noted, had ultimately failed, not only to maintain his reclamationofBradingHaven,buttomakeit paywhilethedamlasted, was well known in the history of engineering ; and though the mechanical difficulties might be overcome by modern machinery, the nature of the harbour bottom for the growth or non-growth of crops and grasses could hardlyhavechanged. Briefly,thepasthistoryoftheBradingreclamation was as follows. In 1620 Sir Hugh Myddelton dammed the mouth of the river Yar at Bembridge, opposite Spithead, and on the seven hundred acres of land so reclaimed he "tried all experiments in it ; he sowed wheat, barley, oats, cabbage-seed, and last of all rape-seed, which proved best ; but all the others came to nothing." " The nature of the ground, after it was inned," wrote Sir John Oglander, " was not answerable to what was expected, for almost the moiety of it next to the sea was a light, running sand, and of little worth. The inconvenience was in it, that the sea brought so much sand and ooze and seaweed that these choked up the passage for the water to go out, insomuch that I am of opinion that if the sea had not broke in there would have been no current left for the water to go out, so that in time it would have laid to the sea, or else the sea would have drowned the whole country. Therefore, in my opinion, it is not good meddling with a haven so near the main ocean."
+This experiment had cost in all /^ 7,000, when the sea broke in ten years later, and Sir Hugh Myddelton's fields once more became harbour- bottom, and cockles and winkles once more grew where his meagre crops of oats and rape had struggled for existence. Some years later an offer was made to repair the dam for ^^4,400, but this fell through. No one thought it worth while to spend the money, though small arms and creeks of the harbour were from time to time banked off and reclaimed by adjacent landowners. The attempt which had baffled Sir Hugh Myddelton was suddenly revived by the Liberator directors seventeen years ago. The sea was banked out, almost on the lines of Sir Hugh Myddelton's dam, a straight channel of double the size necessary for the mere drainage of the higher levels was cut for the passage of the river and the holding of its waters during high-tide, when the sluices are automati- cally closed ; and a railway and quay were added, with a hotel at Bembridge. Solid and costly as their embankment was, the sea broke in, steam-engines and machinery were toppled from the dvkes and buried in the mud, workmen were drowned, and the whole enterprise was within an ace of becoming a little Panama. But at last the sea was beaten, 643 acres of weltering mud were left above water, and the reclamation, such as it is, is probably won for ever. But at what a cost !
+thousand pounds are debited to the Brading reclamation, of which vast
+Four hundred and twenty sum we may assume that /" 100,000 were expended on the railway quay and buildings, leaving j^' 3 20,000 as the price of 643 acres of sea-bottom.
+As reclamation of mud-flats and foreshores has lately been much advocated as a means of providing " work and wages," and of adding to the resources of the country, the present state and probable future of the land won from the sea at Brading is a matter of some interest, omitting all considerations of the original cost. We may concede at once that, from the picturesque point of view, the reclaimed harbour is a great improvement on the ancient mud-flats. It has added to the Isle of Wight what seems a piece of Holland, covered with green pasture and grazing cattle. This area is as much withdrawn from the intrusion of man as the old lagoon ; for as on the mud-flats there were no roads, no rights- of-wav, and no footpaths, so the reclamation is a roadless district, secured absolutely to the use of the occupiers, and incidentally to the wild-fowl which swarm by its shallow pools and drains. The broad embanked river runs straight through the centre, and divides into two the level which lies like a green sea between the ring of surrounding hills and the harbour-bank. In this river, the waters of the ancient reclamations higher up the valley collect during high-water, when the pressure from the sea automatically shuts the sluices, and pour out during low-tide, when the pressure of the sea is removed, through the iron gates, near which lie, with the grooves still sound and sharply cut, parts of the sluices made for Sir Hugh Myddelton of English oak in the year 1621. The general shape of the reclamation is an oval, with one of the smaller ends facing the sea and the other abutting on ancient dams near Brading, two miles higher up the valley. The whole of this has been converted into firm, dry land ; neither is its quality so inferior as Sir Hugh Myddelton judged. Possibly the improvement in the seventeen years during which the old sea-bottom has been exposed to sun and rain, has been pro- portionately more rapid than in the ten in which it was exposed to the air after 1620. Then half the area was described as consisting of " light, running sand of little worth," though the upper portion promised to become valuable pasture. Those advocates of reclamation of land from the sea, who propose to " leave it to Nature " when the sea has once been barred out, can see at Brading and Bembridge what it is exactly that Nature does, and how far art can help to make old sea-bottom into pasture for cattle, and even into a playground for men and women, in seventeen years. It must be remembered that in this case Nature has been hurried, and made to do her work before her time. Left to itself, the harbour would have silted up in the course of centuries, and the pastures would have grown of themselves on land already covered with the alluvial mould. As it is, the sea was swept trom the land, which had to take its chance as it was—mud, sand, shingle, or cockle-beds, just as they came. There was not even an earthworm on the whole six hundred acres to move the soil and help the rain to wash the salt out of it. The wonder is not that the change has taken place so slowly, but that the change from a soil supporting marine vegetable growth to a soil largely covered with grass, clover, and trefoil, has matured so quickly. What was once the head of the bay is now good pasture covered with cattle and letting for 30s. an acre—there are one hundred and fifty acres of this good ground. Nature had already prepared it in part—for it was mud washed from the valley above—and still preserves in contour, though covered with grass, the creeks and " fleets " in which the tide rose and fell. All round the fringes of the flat, where it joins the old shore, the
+...
+St. Helen's Roads, off St. Helen's Point, and opposite the mouth of the old Brading Haven, now Bembridge Harbour, was once the favourite anchoring ground of the British fleets when about to leave for foreign service ; and their communications with the island were almost as frequent and important as with Portsmouth itself. The fleets used to leave Spithead and anchor off St. Helen's, sending to Bembridge, at the point where a spring of fresh water runs down from the sloping cliff to the sea, to fill their water casks, and to the little village of Bembridge itself for their fresh meat, so long as they remained, which was taken out daily to the ships in " row-barges." Hence the old inn was originally called the " Row-Barge " and the country people, farmers,
+;
+and village tradesfolk profited greatly by the presence of the fleet. For a time the Isle of Wight held the place for which it seemed naturally suited in those days, of a victualling-ground for the minor needs of the fleet. Sir John Oglander, long before this, had foreseen this possibility, though he did not expect the development which brought the ships to the mouth of the harbour which lay almost in touch with his own park at Nunwell. He proposed that a new port and road should be made at Cowes for a "rendezvous." "If the country would have so much discretion as to make good use of that harbour, as first to have an honest man to be captain there, to build storehouses, to have by a joint store of all provision, and to have that their rendezvous, and to victuall there, they need no other market nor means to make the island happy and fortunate."
+The first account of a British fleet lying for a long period off St. Helen's is preserved in the Fleming Collection at Rydal Hall, and gives the list of ships and " order of array " for an expected battle with the French in 1545. Henry VIII. , only two years before his death, drifted into war with both France and Scotland on the burning question of the betrothal of the baby princess, Mary Oueen of Scots, to Edward the Prince of Wales. Henry was at that time in the position of a tenant for life of a large estate, who has exhausted the savings of his ancestors and his own credit. He had only two more vears to live, but
+the national, or rather the royal, exchequer was drained. All his father's savings were spent. The whole of the Church property had already been sold in the greatest possible hurry at the lowest possible price. The last financial expedient of debasing the coinage till the proportion of base metal was as four to six, had brought nothing in, and destroyed credit
+;
+and Henry, in his old age, found himself threatened with a French invasion, and without means to equip a sufficient fleet.
+ALSO: IMAGE
+ALSO: map p76
+
+https://en.wikipedia.org/wiki/Truck_wages
+
+The British Truck System in the Nineteenth Century
+Author(s): George W. Hilton
+Source: Journal of Political Economy , Jun., 1957, Vol. 65, No. 3 (Jun., 1957), pp. 237-
+256
+Published by: The University of Chicago Press
+Stable URL: https://www.jstor.org/stable/1833293
+
+
+```{admonition} Newport, County Petty Sessions - Saturday, August 31st, 1878
+:class: note dropdown
+
+[Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780831/005/0002), 1878-08-31, p. 2
+
+CHARGE OF UTTERING A FORGED ORDER- Frederick Cooper, navvy, St. Helen's, was charged with uttering a forged order.— Daniel Pyke said he was canteen-keeper at the Brading Harbour Improvement Works, at which the prisoner was employed. At the work they made use of order tickets, each ticket being for 2s. The men were paid by on Saturday, but during the week any workman by going to the timekeeper could get a ticket or tickets, which they brought to him at the canteen, and he gave them money for it. On Wednesday last the prisoner brought him the ticket produced, for which he gave him 2s., but after he left he noticed it was a forged ticket, which he gave over to the time-keeper. By the Chairman : What do you sell at the canteen, and do the workmen make purchaeas there when they receive their money ?- Witnesss: They sell groceries at the canteen, and the men do not make purchases at the time they are paid, but afterwards return and make purchases.— The Chairman : Has the contractor an interest in the profits of the canteen?-Witness; Yes; the contractor has an interest in what is sold at the canteen.—Cecil Reynolds Seymour said he had been timekeeper at the Brading Harbour Works for about a month, and on every Monday he received 35l. worth of order tickets, and sent the same amount in cash to the last witness at the canteen. Each ticker was for 2s. On Monday last the prisoner came to the office and received an order and another on Tuesday, but he did not give him the order on Wednesday. The ticket produced, which he received from the last witness, was a forged order. After giving the prisoner 4s., there was still 5s. due to him.— The Chairman put the same questions to this witness as he did to the last as to the canteen.— The Chairman, in discharging the prisoner, strongly condemned the way in which the men were paid.
 
 ```
 

@@ -19,6 +19,13 @@ The 26-gun, three-masted HMS 'Eurydice' launched on 16 May 1843, sailing the Nor
 The present model faithfully recreates the timber deck with inscribed plank lines, and detailed fittings including anchor & cables, bitts, ship's boats on chocks, capstan, gratings, companionway, wheel, binnacle, and hammocks in place in the nettings.
 
 
+
+![](../images/HMS_Eurydice_deck_plan_rmg-co-uk.png)
+
+![](../images/HMS_Eurydice_lines_plan_rmg-co-uk.png)
+![](../images/HMS_Eurydice_tanks_plan_rmg-co-uk.png)
+
+
 ![](../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg)
 William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
 
@@ -382,3 +389,5 @@ https://www.islandeye.co.uk/history/piers-and-jetties/ventnor-royal-victoria-pie
 Ventnor Royal Victoria Pier (Historic)
 REF NR: 556
 The third attempt to build a Ventnor pier was proposed by the Ventnor Local Board and accepted in July 1884.  Although it had its local dissenters, the pier's build began in 1885 and was completed in July 1887 with a length of 650 feet, sporting a horseshoe pierhead shape.
+
+![](../images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg)

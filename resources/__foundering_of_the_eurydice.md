@@ -455,7 +455,7 @@ The Eurydice, designed by the late Admiral the Hon. George Elliot, and originall
 ```
 
 
-As a committee met to establish a relief fund, questiosns were also asked in the House of Commons wha support would be forthcoming to relieve the families of the deceased.
+As a committee met to establish a relief fund, questions were also asked in the House of Commons what support would be forthcoming to relieve the families of the deceased.
 
 The owner of the Emma was also happy to waive any charges for delays to her sailing in the aftermath of the accident.
 
@@ -478,7 +478,11 @@ The preparations for raising the Eurydice are still being proceeded with at Port
 ```
 
 
-With the first Coroner's court over, mutterings were afoot about the need for a fuller inquiry:
+With the first Coroner's court over, mutterings were afoot about the need for a fuller inquiry.
+
+We might also note the following observation in relation to the original myth (_"within sight of their homes"_):
+
+> "The appalling accident to Her Majesty's ship Eurydice, whereby numerous families are rendered comparatively destitute through loss of the bread-winner, calls for the sympathy of all who hold that England should ever maintain her supremacy on the ocean, and this meeting pledges itself to use every endeavour to alleviate, as far as possible, the grievous loss sustained by the widows, orphans and relatives of those who, within sight of their homes, perished in the execution of their duty to their country."
 
 
 ```{admonition} THE LOSS OF THE EURYDICE. - Friday, March 29th, 1878
@@ -509,11 +513,20 @@ TO THE EDITOR
 Sir, in the accounts which have appeared of the loss of the Eurydice and in the articles of which this sad catastrophe has furnished the text, I have seen no remark made on the coincidence that a somewhat similar fate, under somewhat similar circumstances,— for it was almost within sight of her destination — befell her ill-fated consort ship 15 years ago. COnsort ship I say, for the ship alluded to is the Orpheus. The loss of the Orpheus, as it happened on the other side of the world, has perhaps been forgotten here. Her Majesty's ship Orpheus, carrying the pendant of the Commodore of the Australia station, was entering the Manukau harbout, near Auckland, on her voyage to New Zealand. It was a fine Saturday afternoon in February or March, 1863. Mistaking the channel she struck on the bar; Commodore, officers and men took the the rigging, but were swept awy by the surf, the paymaster, two mid-dhipmen, and some 40 men being the only ones saved out of a large ship's company. I am speaking from memory only, but I saw the survivors brought on shore, and this, I think, was the number. The coincidence that two ships so connected by their names should be lost when their wished for havens were all but reached seems worthy of remark.  
 I am your obedient servant,  
 H. Stratton Bates.  
-The Cranhams, Cirencester, March 25.  
+The Cranhams, Cirencester, March 25.
 
-TH: letter noteable eg for Eurydice myth, but also is:
+```
 
-> "The appalling accident to Her Majesty's ship Eurydice, whereby numerous families are rendered comparatively destitute through loss of the bread-winner, calls for the sympathy of all who hold that England should ever maintain her supremacy on the ocean, and this meeting pledges itself to use every endeavour to alleviate, as far as possible, the grievous loss sustained by the widows, orphans and relatives of those who, within sight of their homes, perished in the execution of their duty to their country."
+
+On making his way back to Bristol, Fletcher appears to have attracted much local interest.
+
+
+```{admonition} THE LOSS OF THE EURYDICE. SYDNEY FLETCHER'S STORY. [SPECIAL TELEGRAM.] - Friday, March 29th, 1878
+:class: note dropdown
+
+[South Wales Daily News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000919/18780329/049/0003), 1878-03-29, p. 3
+
+On Thursday, Sydney Fletcher, one of the two sailors saved from the Eurydice, arrived in Bristol, and a correspondent, who had an interview with him, found him a sturdy young fellow, about 20 years of age. He entered the navy about two years ago, when he joined the Warrior, a first-class frigate, which went for a cruise once a year. He then went on board the Duke of Wellington, the receiving ship, at Portsmouth, where he remained a month, and afterwards went to the Eurydice in Portsmouth Basin. On Wednesday night he left Portsmouth and came to Salisbury, where he remained till the next morning, coming to Bristol by the first train. He has leave of absence for 14 days, and will then go to the Duke of Wellington again. He said when the Eurydice went down he lost a bag of clothes and £8. He believes there were nearly 30 Bristol lads on board the training ship. While passing through Bristol, on Thursday, he attracted much attention, the passers-by observing the name Eurydice on the band of his cap. He is to have an interview with the Mayor of Bristol on Friday.
 
 ```
 

@@ -21,10 +21,10 @@ And on [Saturday 02 July 1881](https://www.britishnewspaperarchive.co.uk/viewer/
 It was whilst staying in Sandown in 1875 that he worked to finish his nonesense poem *The Hunting of the Snark*, first published on March 29th, 1876, that he had started in 1874. During that visit, he met the young  Gertrude Chataway, to who the *Snark* was dedicated in the form of an acrostic.
 
 
-```{admonition} [The Life and Letters of Lewis Carroll] - Monday, April 25th, 1898
+```{admonition} [The Life and Letters of Lewis Carroll] - Saturday, April 30th, 1898
 :class: note dropdown
 
-[The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)](https://www.gutenberg.org/files/11483/11483-h/11483-h.htm), 1898-04-25, p. ?
+[The Life and Letters of Lewis Carroll (Rev. C. L. Dodgson)](https://www.gutenberg.org/files/11483/11483-h/11483-h.htm), 1898-04-30, p. ?
 
 Lewis Carroll during the last fifteen years of his life always spent the Long Vacation at Eastbourne; in earlier times, Sandown, a pleasant little seaside resort in the Isle of Wight, was his summer abode. He loved the sea both for its own sake and because of the number of children whom he met at seaside places. Here is another "first meeting"; this time it is at Sandown, and Miss Gertrude Chataway [to whom The Hunting of the Snark was dedicated] is the narrator:—
 
@@ -334,10 +334,10 @@ From evidence we have already seen, the temperance movement appears to have form
 
 
 
-```{admonition} TO DO - Friday, April 25th, 1879
+```{admonition} TO DO - Wednesday, April 30th, 1879
 :class: note dropdown
 
-[The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878](https://archive.org/details/cihm_04713), 1879-04-25, p. ?
+[The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878](https://archive.org/details/cihm_04713), 1879-04-30, p. ?
 
 
 
@@ -345,10 +345,10 @@ From evidence we have already seen, the temperance movement appears to have form
 
 
 
-```{admonition} Temperance - Friday, April 25th, 1879
+```{admonition} Temperance - Wednesday, April 30th, 1879
 :class: note dropdown
 
-[Wikipedia](https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton), 1879-04-25, p. ?
+[Wikipedia](https://en.wikipedia.org/wiki/Sir_Wilfrid_Lawson,_2nd_Baronet,_of_Brayton), 1879-04-30, p. ?
 
 Sir Wilfrid Lawson, 2nd Baronet (4 September 1829 – 1 July 1906) was an English temperance campaigner and radical, anti-imperialist Liberal Party politician who sat in the House of Commons variously between 1859 and 1906. He was recognised as the leading humourist in the House of Commons.
 
