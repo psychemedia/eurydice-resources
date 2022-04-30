@@ -8,15 +8,6 @@ Bembridge and St Helens
 
 Golf course
 
-
-```{figure} ../images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg
----
----
-
-```
-
-
-
 jabez balfour
 
 holy stones
@@ -420,7 +411,7 @@ We last Monday paid a visit to the reclamation works at Brading Harbour, and fou
 Back to last search results WILLS CIGARETTE CARD- GOLFING (1924)
 
 
-```{figure} wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg
+```{figure} ../images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg
 ---
 ---
 

@@ -1,8 +1,12 @@
 # Fundraising and Relief
 
-Almost immediately following reports of the tragedy, fundraising relief activities sprang into action to raise funds to support the "wives, orphans and relatives" of the lost seamen.
+Almost immediately following reports of the tragedy, fundraising relief activities sprang into action to raise funds to support the "wives, orphans and relatives" of the lost seamen. The committee so convened had in part been involved with another relief effort from another fatal incident at Portsmouth Harbour several years earlier.
+
+```{admonition} The Thunderer Disaster
 
 TO DO - Thunderer boiler explosion 14 July 1876, https://en.wikipedia.org/wiki/HMS_Thunderer_(1872), killing 45 people, 15 instantly, 30 of ~70 othes injured dying later.  proceeded from Portsmouth Harbour to Stokes Bay, overlooking the island.
+
+```
 
 ---
 
@@ -48,14 +52,26 @@ The Lord Mayor has intimated to the naval authorities at Portsmouth his willingn
 [EXCERPT]
 
 ---
+TEXT
+
+At the Mansion House, contributions came in swiftly.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780403/007/0002
 Hampshire Telegraph
 Wednesday 03 April 1878
 p2
 
+[Mansion House Fundraising]
+
 The Lord Mayor received over 400l. at the Mansion House on Monday in aid of the fund now being raised there for the relief of the widows, orphans, and relatives of the crew of her Majesty's ship Eurydice. Of that were 177l. 16s. 1d. was the result of a spontaneous collection made on the previous day by the Rev. Canon Fleming, at St. Michael's, Chester-square. Messrs. Roberts, Lubbock and Co., contributed 25l.; Messrs. Coutts and Co. 25l.; Messrs. Smith, Payne, and Smiths, 251.; Mr. Ernest Hankey, 25l. ; some clerks in the London Joint-Stock Bank, 6l. 11s. 6d.; and at Messrs. Prescott's, 5l. 5s.; and Mr. Lewis Lloyd, 20l. The sum of 23l. 19s. 10d. was dropped into the box outside the Mansion House by passers-by during the day. Including the sum collected on the Stock Exchange, the Mansion House Fund now amounts to about 1000l.
 
 [EXCERPT]
+
+---
+TEXT
+
+Local collections were also being made, whilst at the same time, a national appeal was suggested by a correspondent from the Isle of Wight writing to the editor of the *Times*.
 
 ---
 
@@ -64,11 +80,19 @@ Hampshire Telegraph
 Wednesday 03 April 1878
 p2
 
+[Correspondence from Ventnor]
+
 Writing from Ventnor our correspondent says that the subscriptions to the Eurydice Relief Fund are flowing in rapidly, and a handsome sum will be sent to the Portsmouth Committee. The large amount of 70l. was collected in a few hours by the Chief Officer of the Coastguard in the little village of St. Lawrence, and a very influential committee has been appointed. Mr. J. G. Livesay (honorary secretary) is, working very earnestly in the matter, and his efforts are rewarded with success, the list being headed by two subscriptions of 20 guineas each from Miss Bligh, of Torwood, and J. Snowden-Henry, Esq., respectively. On Sunday special collections were made in the various places of worship in the town in aid of the Fund, which were all crowded by attentive congregations. The sermons generally contained some special reference to the recent catastrophe, and very earnest and eloquent appeals were made for the widows and relatives of the crew. Especially was this the case at the Congregational Church, which was crowded both morning and evening, the Rev. Mr. Davies, the pastor, being the minister who the visited the survivors, Cuddiford and Fletcher, after the capsizing of the frigate. On Sunday a large number of persons visited the neighbourhood of the wreck from all parts of the Island. Two boys on Sunday afternoon picked up a sailor's straw hat bearing the Eurydice's name on the ribbon, and marked inside "G. Field," and this seems to be the only thing which has been picked up on the shore since the disaster, belonging to the vessel. The name of Field, however, does not appear, we believe, in the published list of the crew.
 
-Mr. J. G. Livesay, the Hon. Secretary to the Ventnor Committee, writes to the *Times*:-Will you allow me to make a proposal through the ubiquitous columns of the Times, which, if adopted, will bring a large accession to the fund now being raised for the widows, orphans, and other dependent relatives of the brave men whom the nation has so grievously lost? It is that a simultaneous collection be made on Saturday next by employers throughout the country in their offices, shops, factories, farmyards, workshops, etc. The builders in this town have promised me that they will make such an appeal to their hands, and I am sure that it will meet with a hearty response. I believe there are few working men in the British Isles who would not on such an occasion cheerfully give a quarter or half of a day's pay, according as the circumstances of their own families might permit. The head of every household should ask each of his servants for a trifle, and even our children may give their penny and upwards. A very erroneous impression is abroad, even here on the scene of the catastrophe, as to the probable number of persons who will require relief. Because the Eurydice was a training ship it has been assumed that nearly all her crew would be very young and unmarried But she was a training ship for ordinary seamen, not boys, and I have just been informed on good authority that a much larger proportion of the crew were married than had been supposed. Let no one be afraid of giving too much. Even if there should be a surplus after providing for the present sufferers, it might form a valuable reserve fund for similar cases in the future, just as the large surplus of the Hartley Colliery Explosion Fund has proved so useful for other contingencies of its kind.
+Mr. J. G. Livesay, the Hon. Secretary to the Ventnor Committee, writes to the *Times*:-Will you allow me to make a proposal through the ubiquitous columns of the Times, which, if adopted, will bring a large accession to the fund now being raised for the widows, orphans, and other dependent relatives of the brave men whom the nation has so grievously lost? It is that a simultaneous collection be made on Saturday next by employers throughout the country in their offices, shops, factories, farmyards, workshops, etc. The builders in this town have promised me that they will make such an appeal to their hands, and I am sure that it will meet with a hearty response. I believe there are few working men in the British Isles who would not on such an occasion cheerfully give a quarter or half of a day's pay, according as the circumstances of their own families might permit. The head of every household should ask each of his servants for a trifle, and even our children may give their penny and upwards. A very erroneous impression is abroad, even here on the scene of the catastrophe, as to the probable number of persons who will require relief. Because the Eurydice was a training ship it has been assumed that nearly all her crew would be very young and unmarried. But she was a training ship for ordinary seamen, not boys, and I have just been informed on good authority that a much larger proportion of the crew were married than had been supposed. Let no one be afraid of giving too much. Even if there should be a surplus after providing for the present sufferers, it might form a valuable reserve fund for similar cases in the future, just as the large surplus of the Hartley Colliery Explosion Fund has proved so useful for other contingencies of its kind.
 
 [EXCERPT]
+
+---
+
+TEXT
+
+Following the Lord Mayor of London's offer of supporting the fundraising effort, a letter of thanks was sent from the general committee at Portsmouth.
 
 ---
 
@@ -82,7 +106,7 @@ p6
 
 THE LOSS OF THE EURYDICE.
 
-The Lord Mayor of London has received the following telegram from Captain Wilaon (H.M.S. Thunderer), Portsea:— "Your telegram has been laid before the general committee of this (Enrydice) fund, and I desired to convey to your lordship the expression of their deep sense of your lordship s consideration in proposing to open a fund for the relief of the distressed relatives of those lost in the Enrydiee, and gratefully accept your offer." Accordingly the Lord Mayor will receive subscriptions at the Mansion House. It is not intended to appoint a committee, his lordship promising to forward all the subscriptions which may entrusted to him to the Portsmouth Committee. The box which was placed outside the Mansion House during the Indian Famine Fund, and proved such a prolific source of income to that fund, is again placed in the same position for the Eurydice relief.
+The Lord Mayor of London has received the following telegram from Captain Wilson (H.M.S. Thunderer), Portsea:— "Your telegram has been laid before the general committee of this (Eurydice) fund, and I desired to convey to your lordship the expression of their deep sense of your lordship's consideration in proposing to open a fund for the relief of the distressed relatives of those lost in the Eurydice, and gratefully accept your offer." Accordingly the Lord Mayor will receive subscriptions at the Mansion House. It is not intended to appoint a committee, his lordship promising to forward all the subscriptions which may entrusted to him to the Portsmouth Committee. The box which was placed outside the Mansion House during the Indian Famine Fund, and proved such a prolific source of income to that fund, is again placed in the same position for the Eurydice relief.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780406/019/0006
@@ -101,6 +125,16 @@ On Friday the Lord Mayor received from Captain J. C. Wilson, A.D.C. of the Thund
 [EXCERPT]
 
 ---
+TEXT
+
+At another meering of the general committee in Portsmouth, it was decided that funs should bedisbursed through the already existing machinery of the "Patriotic Fund".
+
+```{admonition} The Patriotic Fund
+
+TO DO: what was the Patriotic fund?
+```
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780420/039/0008
 Isle of Wight Observer
 Saturday 20 April 1878
@@ -117,10 +151,18 @@ A meeting of the Portsmouth General Committee of the Eurydice Relief Fund was he
 
 ---
 
+TEXT
+
+A month on from the disaster, and estimates regarding the size of the relief effort, of the order of £20,000, were starting to appear.
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/020/0005
 Isle of Wight Observer
 Saturday 27 April 1878
 p5
+
+[The extent of relief required...]
 
 ...
 
@@ -129,12 +171,17 @@ Lord Henry Lennox writes to say, regarding the Eurydice fund, that, as far as is
 [EXCERPT]
 
 ---
+
+TEXT
+A local correspondent suggestd that in the matter of the fundraising effort,  credit should be offered where it was due...
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780427/034/0008
 Isle of Wight Observer
 Saturday 27 April 1878
 p8
 
-To the Editor of the hie of Wight Observer.
+To the Editor of the Isle of Wight Observer.
 
 Sir.— I think it would have been but bare justice to Mr. Wiltshire, who was deputed to collect money for the Eurydice Fund, had his name appeared, as having been selected for that office, in the paragraph heading the list of subscriptions published in your last issue. It appears to me that this was the least recognition that could be made of his untiring exertions in this charitable work ; a recognition which the public would certainly not have grudged him. Trusting to your courtesy to allow these few lines to appear in your widely circulated journal, and enclosing my card,
 
@@ -152,6 +199,13 @@ p10
 The Mansion House, Eurydice relief fund to Monday evening had reached the sum of £4,700.
 
 ---
+
+TEXT
+
+As well as subscriptions, the fundraising effort was supported by various fundraising events. 
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780511/028/0006
 Isle of Wight Observer
 Saturday 11 May 1878
@@ -198,6 +252,11 @@ Concluding with the laughable Farce, "THE IRISH TUTOR," or, New Lights.
 Open at 7.30, Commence at 8 o'clock. Carriages at 10.30. Private Boxes £1 1s. Dress Circle, 3s. Stalls, 2s. Pit 1s. Gallery 6d.—Plan can be seen and places secured at Messrs. Mills and Son, Palmerston-road, Southsea.
 
 ---
+TEXT
+
+By the end of the summer, the general committee's fundraising was nearer completion, along with the final sum collected by the Mansion House effort.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780926/002/0002
 Portsmouth Evening News
@@ -205,7 +264,15 @@ Thursday 26 September 1878
 
 p2
 
-NEWS OF THE DAY. The Eurydice Fund. Yesterday Lord Mayor remitted to Admiral Fanshawe the mm of £5,496, that being the amount collected at the Mansion House in aid of the sufferers the Eurydice disaster.
+NEWS OF THE DAY. The Eurydice Fund.
+
+Yesterday Lord Mayor remitted to Admiral Fanshawe the mm of £5,496, that being the amount collected at the Mansion House in aid of the sufferers the Eurydice disaster.
+
+---
+
+TEXT
+
+The next step for the general committee was to finalise the accounts in terms of sums raised, and agree on how the funds for general support should be disbursed.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18781023/020/0008
@@ -229,6 +296,11 @@ EURYDICE
 The Executive Committee of the Eurydice Relief Fund has prepared, for presentation to the General Committee, a scheme, based upon a report of Mr. Finlaison, the actuary, for the distribution of the fund among the widows, children, and other relatives of the officers and seamen lost in that ill fated vessel. The fund somewhat exceeds twenty-two thousand pounds; and the scheme, and the expenses of carrying it out, will absorb all but three thousand. It is proposed that any balance remaining should be handed to the Royal Naval Relief Fund.
 
 ---
+TEXT
+
+Notwithstanding a delay in the handing over of the fund to the Royal Commissioners of the Patriotic Fund, the first of the general support payments were covered.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18781030/005/0002
 
@@ -238,7 +310,14 @@ p2
 
 "EURYDICE" FUND.
 
-At the meeting of the general committee of the Eurydice Relief Fund, held in the Dockyard last week, the 4th of November was fixed as the date of the final meeting. The following announcement has, howvever, been made since by Mr. F. Penfold, the honorary secretary :—In consequence of the absence of the First Lord of the Admiralty and the Secretary of State for War from England, it is not possible to complete the deed of transfer of the funds to the Royal Commissioners of the Patriotic Fund. It will, therefore, be necessary to postpone the final committee meeting ordered for the 4th proximo to a date shortly after the return of the two trustees, of which due notice will be given. I may, however, say that arrangements have been made for the the payments ordered to be made from the 1st October to be carried out, and sufficient funds have been placed to the credit of the Patriotic Fuund.
+At the meeting of the general committee of the Eurydice Relief Fund, held in the Dockyard last week, the 4th of November was fixed as the date of the final meeting. The following announcement has, however, been made since by Mr. F. Penfold, the honorary secretary :—In consequence of the absence of the First Lord of the Admiralty and the Secretary of State for War from England, it is not possible to complete the deed of transfer of the funds to the Royal Commissioners of the Patriotic Fund. It will, therefore, be necessary to postpone the final committee meeting ordered for the 4th proximo to a date shortly after the return of the two trustees, of which due notice will be given. I may, however, say that arrangements have been made for the the payments ordered to be made from the 1st October to be carried out, and sufficient funds have been placed to the credit of the Patriotic Fuund.
+
+---
+TEXT
+
+With the handover rearranged, the Eurydice Relief Committee met for the final time in Portsmouth Dockyard and received their final report.
+
+The committee was then dissolved.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18781211/007/0002
@@ -248,7 +327,7 @@ p2
 
 FINAL MEETING OF THE EURYDICE COMMITTEE.
 
-The final meeting of the Eur} dice Relief Committee was held yesterday afternoon at the College in the Dockyard, Admiral E. G. Fanshawe, C.B., Naval Commander-in-Chief and President of the Committee, in the chair. There was a good attendance of members. The following report was presented by the Executive Commttee, and was unanimously adopted:—
+The final meeting of the Eurydice Relief Committee was held yesterday afternoon at the College in the Dockyard, Admiral E. G. Fanshawe, C.B., Naval Commander-in-Chief and President of the Committee, in the chair. There was a good attendance of members. The following report was presented by the Executive Commttee, and was unanimously adopted:—
 
 The Executive Committee present the final report of their proceedings, which have extended over eight months. In doing so they have acknowledge the very liberal subscriptions from the public generally, amounting to £23,040 2s 6d. Of this sum it is most gratifying abke to state that £4,208 15s. 2d. has been subscribed by the officers and men of the fleet. At a general meeting, held on 10th April, 1878, it was "resolved that the monies collected for the relief of the widows, orphans, and relatives of the officars, seamen, and marines left destitute by the loss of H.M.S. Eurydice should be transferred to the Royal Commissioners of the Patriotic Fund, for distribution, and this was confirmed subsequent meeting held on 24th August, 1878. In accordance with this resolution a deed of transfer has been drawn up, specifying the amount voted to the different classes of recipients, the mode of distribution, and the arrangement for the disposal of the balance. The transfer has been completed, and the deed signed by the Official Trustees. The following are the sources of the amount subscribed : Lord Mayor's Fund, £5,490 16s. 7d. ; London Committee (Lord Henry Lennox, secretary), £4,436 8s. 1d. ; Portsmouth Committee, £12,964 17s. 7d. interest, £142 3s. 3d. ; total £23,040 2s. 6d., which has baen dealt with as shewn in the accompanying balance sheet.
 

@@ -226,7 +226,7 @@ Although Messrs. Siebe and Gorman, the marine engineers, have themselves made no
 ```
 
 
-By mid-October, the Eurydice had been dismantled and her timbers were being sold of as old timber.
+By mid-October, the Eurydice had been dismantled and her timbers were being sold off as old timber.
 
 
 ```{admonition} THE LAST OF THE EURYDICE. - Friday, October 18th, 1878
@@ -250,16 +250,22 @@ The last of the Eurydice was seen yesterday, when the old timbers of the ship we
 ```
 
 
+A few relics from the ship were passed to the Princess(?) of Wales and Captain Hare's widow.
 
-```{admonition} Relics of the ill feted Eurydice have been forwarded from Portsmouth to the Princess of Wales and Mrs. Hare, the widow of the captain of the ill-fated ship. - Saturday, October 26th, 1878
+
+```{admonition} [Relics] - Saturday, October 26th, 1878
 :class: note dropdown
 
 [St. Neots Chronicle and Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002161/18781026/066/0003), 1878-10-26, p. 3
+
+Relics of the ill feted Eurydice have been forwarded from Portsmouth to the Princess of Wales and Mrs. Hare, the widow of the captain of the ill-fated ship.
 
 *[Also included a report about the Eurydice relief fund that appeared in the Southern Times and Dorset County Herald, and presumably elsewhere, on the same date.]*
 
 ```
 
+
+The story ends with the re-rating of the two survivors, Cuddeford and Fletcher's, and the Lord of the Admiralty taking the unusal step of making good their losses from the ship.
 
 
 ```{admonition} NAVAL INTELLIGENCE - Sunday, December 22nd, 1878

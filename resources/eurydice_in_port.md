@@ -231,7 +231,7 @@ Although Messrs. Siebe and Gorman, the marine engineers, have themselves made no
 
 TEXT
 
-By mid-October, the Eurydice had been dismantled and her timbers were being sold of as old timber.
+By mid-October, the Eurydice had been dismantled and her timbers were being sold off as old timber.
 
 ---
 
@@ -257,6 +257,11 @@ THE EURYDICE.
 The last of the Eurydice was seen yesterday, when the old timbers of the ship were sold at Portsmouth Dockyard by public auction. An order from the Admiralty prohibited the remnants of the ship being sold as relics of the Eurydice, so the lots were simply sold as old timber. The prices were about the ordinary prices, as the interest in the wreck has by this time altogether subsided.
 
 ---
+TEXT
+
+A few relics from the ship were passed to the Princess(?) of Wales and Captain Hare's widow.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002161/18781026/066/0003
 
 St. Neots Chronicle and Advertiser
@@ -264,9 +269,16 @@ Saturday 26 October 1878
 
 p3
 
+[Relics]
+
 Relics of the ill feted Eurydice have been forwarded from Portsmouth to the Princess of Wales and Mrs. Hare, the widow of the captain of the ill-fated ship.
 
 *[Also included a report about the Eurydice relief fund that appeared in the Southern Times and Dorset County Herald, and presumably elsewhere, on the same date.]*
+
+---
+TEXT
+
+The story ends with the re-rating of the two survivors, Cuddeford and Fletcher's, and the Lord of the Admiralty taking the unusal step of making good their losses from the ship.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000101/18781222/013/0002

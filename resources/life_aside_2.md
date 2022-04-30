@@ -8,8 +8,6 @@ Bembridge and St Helens
 
 Golf course
 
-![](../images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg)
-
 jabez balfour
 
 holy stones
@@ -391,7 +389,7 @@ TEXT
 
 Back to last search results WILLS CIGARETTE CARD- GOLFING (1924)
 
-![](wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg)
+![](../images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg)
 
 ![](../images/iw-golf-cigarette-card.jpg)
 
