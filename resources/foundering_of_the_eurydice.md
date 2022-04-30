@@ -36,7 +36,7 @@ Copyright Owner: Naval History and Heritage Command, [NH 61069](https://www.hist
 
 TEXT
 
-The initial reports described how, around 4 o'clock in the afternoon, a snowy squally  suddenly hit. The Eurydice was lost, and another ship, the Emma, assumed she had progressed on her way; but then the sight and sound of men in the sea corrected their misapprehension. Five men were saved but three of them were to die before the Emma reached the shore. The two who survived,  Benjamin Cuddiford and Sydney Fletcher were then taken to the Cottage Hospital at Bonchurch.
+The initial reports described how, around 4 o'clock in the afternoon, a snowy squally  suddenly hit. The Eurydice was lost, and another ship, the Emma, assumed she had progressed on her way; but then the sight and sound of men in the sea corrected their misapprehension. Five men were saved but three of them were to die before the Emma reached the shore. The two who survived,  Benjamin Cuddeford and Sydney Fletcher were then taken to the Cottage Hospital at Bonchurch.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780325/007/0002#
