@@ -9,31 +9,6 @@ Some of the detail in the reports of the court-martial may well sound alien to a
 TO DO - glossary  [sheet, clew, halyard, hawser, tack x 2, brails, halued up, line, abaft, before, port, port, starboard, bow, stern, hauled out, let go, spanker, fully set / set full,fearnoughted, leaded, buckler, hoked in, sashes, glass broken, scuttle, wheel, capstan, jigger, rudder, false keel, weather topsail lips, helm, muzzle-lashing, tonkin, tackle, jewels, coarses, fast, out haul, off the the "jack", how far sheets from being home, motacentric height, freeboard]
 
 
-```{figure} ../images/HMS_Eurydice_tanks_plan_rmg-co-uk.png
----
----
-
-```
-
-
-
-
-```{figure} ../images/HMS_Eurydice_deck_plan_rmg-co-uk.png
----
----
-
-```
-
-
-
-
-```{figure} ../images/HMS_Eurydice_lines_plan_rmg-co-uk.png
----
----
-
-```
-
-
 
 `dwebp IMAGE.webp -o IMAGE.png`
 
@@ -172,6 +147,16 @@ At this stage the Court adjourned until morning.
 
 
 
+```{figure} ../images/HMS_Eurydice_tanks_plan_rmg-co-uk.png
+---
+---
+
+HMS Eurydice, 1843, tanks
+```
+
+
+
+
 ```{admonition} THE EURYDICE COURT MARTIAL - Wednesday, August 28th, 1878
 :class: note dropdown
 
@@ -215,7 +200,7 @@ Did you take any stores for conveyance to England? — Yes.
 
 What did the stores comprise?— I saw some wire rigging and oilcans brought on board. I do not know where they stowed. Some were stowed on the lower deck during the passage. They were secured by cleats.
 
-When the water tanks were empty on board the Enrydice were you in the habit of filling them up again with salt water?—No.
+When the water tanks were empty on board the Eurydice were you in the habit of filling them up again with salt water?—No.
 
 Was that ever done?—No.
 
@@ -252,6 +237,16 @@ Admiral Robert Tryon deposed to seeing the Eurydice pass Ventnor on the afternoo
 Mr. James Chappel, Master of the Lord Vivian; Mr. Louttit, Master of the steamship Badger; and Mr. W. L. Jenkins, Master of the schooner Emma, deposed to being at sea on March 24, and struck by the squall which capsized the Eurydice. They were of opinion that those on board the Eurydice could not see the storm approaching they were too does inshore. The inquiry was then adjourned until this day (Wednesday).
 
 ```
+
+
+
+```{figure} ../images/HMS_Eurydice_deck_plan_rmg-co-uk.png
+---
+---
+
+HMS Eurydice, 1843, deck
+```
+
 
 
 In passing, we might note that the reporting of the court-martial extended across the Britain.
@@ -326,6 +321,16 @@ Would you consider it proper in the case of any future sailing ship being fitted
 The court adjourned until this morning, when, after Robinson has been further examined on some points, the members will proceed to consider their judgment.
 
 ```
+
+
+
+```{figure} ../images/HMS_Eurydice_lines_plan_rmg-co-uk.png
+---
+---
+
+HMS Eurydice, 1843
+```
+
 
 
 What are perhaps the most comprehensive reports of the Court continued to be provided by the Hampshire Telegraph.

@@ -8,11 +8,7 @@ Some of the detail in the reports of the court-martial may well sound alien to a
 
 TO DO - glossary  [sheet, clew, halyard, hawser, tack x 2, brails, halued up, line, abaft, before, port, port, starboard, bow, stern, hauled out, let go, spanker, fully set / set full,fearnoughted, leaded, buckler, hoked in, sashes, glass broken, scuttle, wheel, capstan, jigger, rudder, false keel, weather topsail lips, helm, muzzle-lashing, tonkin, tackle, jewels, coarses, fast, out haul, off the the "jack", how far sheets from being home, motacentric height, freeboard]
 
-![](../images/HMS_Eurydice_tanks_plan_rmg-co-uk.png)
 
-![](../images/HMS_Eurydice_deck_plan_rmg-co-uk.png)
-
-![](../images/HMS_Eurydice_lines_plan_rmg-co-uk.png)
 
 `dwebp IMAGE.webp -o IMAGE.png`
 
@@ -39,7 +35,7 @@ The charges were read and the terms of the inquiry desscribed.
 
 The court began with a statement from, and questioning of the survivor Benjamin Cuddeford, focussing on the state of the ship leading up to the storm, the availability of lifesaving equipment, and the ship's general stability. He also observed how the crew wore blue, rather than white, working uniform, to reduce the amount of washing required.
 
-A report from the first man on scence, several eye-witness statements regarding the weather and the sighting of the Eurydice as she passed from Ventnor,  including one from a retired Nautical Assessor of the Board of Trade, and one from an Admiral, and a weather report from the captain of a ship out near the Nab lightship, were provided to the Court. Reports were also heard from the masters of the Emma, and the Badger, which had been passing St Catherine's point at the time of the squall. 
+A report from the first man on scence, several eye-witness statements regarding the weather and the sighting of the Eurydice as she passed from Ventnor,  including one from a retired Nautical Assessor of the Board of Trade, and one from an Admiral, and a weather report from the captain of a ship out near the Nab lightship, were provided to the Court. Reports were also heard from the masters of the Emma, and the Badger, which had been passing St Catherine's point at the time of the squall.
 
 ---
 
@@ -144,6 +140,12 @@ At this stage the Court adjourned until morning.
 [EXTRACT : RAISING]
 
 ---
+TEXT
+
+![](../images/HMS_Eurydice_tanks_plan_rmg-co-uk.png)
+HMS Eurydice, 1843, tanks
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780828/082/0007#
 Shipping and Mercantile Gazette
@@ -191,7 +193,7 @@ Did you take any stores for conveyance to England? — Yes.
 
 What did the stores comprise?— I saw some wire rigging and oilcans brought on board. I do not know where they stowed. Some were stowed on the lower deck during the passage. They were secured by cleats.
 
-When the water tanks were empty on board the Enrydice were you in the habit of filling them up again with salt water?—No.
+When the water tanks were empty on board the Eurydice were you in the habit of filling them up again with salt water?—No.
 
 Was that ever done?—No.
 
@@ -230,6 +232,9 @@ Mr. James Chappel, Master of the Lord Vivian; Mr. Louttit, Master of the steamsh
 ---
 
 TEXT
+
+![](../images/HMS_Eurydice_deck_plan_rmg-co-uk.png)
+HMS Eurydice, 1843, deck
 
 In passing, we might note that the reporting of the court-martial extended across the Britain.
 
@@ -313,6 +318,9 @@ The court adjourned until this morning, when, after Robinson has been further ex
 ---
 
 TEXT
+
+![](../images/HMS_Eurydice_lines_plan_rmg-co-uk.png)
+HMS Eurydice, 1843
 
 What are perhaps the most comprehensive reports of the Court continued to be provided by the Hampshire Telegraph.
 
