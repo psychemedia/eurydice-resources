@@ -213,7 +213,7 @@ Lessee ... Mr H. C. Hughes
 AN AMATEUR PERFORMANCE
 
 In aid of the Eurydice Relief Fund, will be given on THURSDAY EVENING, MAY 30th, 1878, by OFFICERS OF THE ROYAL NAVY & ROYAL MARINE ARTILLERY,  
-Under the distinguished Patronage of The Right Hon. W. H. Smith, M.P., First Lord of the Admiralty, Sir Massey Lopes Bart., M.P., Admiral of the Fleet, Sir George Sartorious, X.C.8., &c., &c, Admiral E. G. Fanshawe, C.B., Commander-in-Chief, General Nugent, General Stotherd, R.E., Rear-Admiral Hon. Fitzgerald A. C. Foley, Capt. F.A. Herbert, Commander Oxley and Officers of H.M.S Excellent, Hon R. Fremantle, C.B., C M.G., Commander St. Clair, aud officers of H.M.S. Lord Warden.
+Under the distinguished Patronage of The Right Hon. W. H. Smith, M.P., First Lord of the Admiralty, Sir Massey Lopes Bart., M.P., Admiral of the Fleet, Sir George Sartorious, X.C.8., &c., &c, Admiral E. G. Fanshawe, C.B., Commander-in-Chief, General Nugent, General Stotherd, R.E., Rear-Admiral Hon. Fitzgerald A. C. Foley, Capt. F.A. Herbert, Commander Oxley and Officers of H.M.S Excellent, Hon R. Fremantle, C.B., C M.G., Commander St. Clair, and officers of H.M.S. Lord Warden.
 
 The Performance will commence with "ROMANCE UNDER DIFFICULTIES."  
 To be followed by a Comic Drama, in two acts,  
