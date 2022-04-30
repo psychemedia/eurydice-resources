@@ -76,19 +76,11 @@ The remains of George Arthur Bennett were interred in the cemetery at Haslar, cl
 
 TEXT
 
-Despite the large number of men on boad, only a few further bodies had started to be recovered.
+Despite the large number of men on board, only a few further bodies had started to be recovered.
 
 Already identification was becoming difficult, and relied on names inside clothes and distinguishing tattoos.
 
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780515/037/0003
-Sheffield Daily Telegraph
-Wednesday 15 May 1878
-p3
-
-RECOVERY OF MORE BODIES FROM THE EURYDICE WRECK.
-
-Yesterday three more bodies belonging to the Eurydice were picked up off the Isle of Wight, and taken two to Haslar and one to Portsmouth. They were disfigured beyond all recognition so far as their features were concerned. The hands were eaten off, and the skull picked perfectly clean of all flesh by the fishes. The two taken to Haslar Hospital were identified by their clothing as the bodies of Edward Lockett and Wm. Sandy, ordinary 2nd class seamen. The third body has not yet been identified, but from the appearance of the clothing it is that of an officer's servant or steward. The jury were hastily called together last night to view the two bodies at the Haslar Hospital, and the inquiry was adjourned to the date originally fixed when the jury first met. Falconer, the Marine who was picked and taken to Ventnor, was buried yesterday. His remains were followed to the grave by all the Coastguard on the station, the local Volunteers, and numbers of the inhabitants. The weather has been much too boisterous for anything like successful operations in connection with raising the wreck.
+The body of a marine, George Falconer, was retrieved just off St. Lawrence, followed by another three bodies found further out to sea. Two of them,  Edward Lockett and William E. Sandy, were identified from their clothes, even as the identification of another body, remained an open question.
 
 ---
 
@@ -101,7 +93,7 @@ p3
 
 FOUNDERING OF H.M.S. EURYDICE.
 
-The prevalence of high winds and strong tides have prevented anything like successful operations being carried out by the authorities engaged in the attempt to raise the Eurydice. The efforts of the party are by no means relaxed, and advantage is taken of every opportunity which presents itself. Four bodies, however, have been recovered since Saturday. The first was that of a marine named George Falconer, which was observed by the Coastguardsmen at St. Lawrence, early on Sunday afternoon. The body was brought ashore by a boat which the Coastguard put off in, and the Isle of Wight Coroner being communimcated with, he did not consider an inquest necessary. Yesterday morning three other bodies were picked up near the Noman Fort and the Warner lightship, by George Connor, fisherman, of Gosport, John Gawn, a boatman, of Portsmouth, and Joseph Briggs. Two of the bodies Were taken to the Gosport shore, and landed at the Coastguard jetty, where they were received by Mr. Stephen George, the Chief Officer of the station.. The officials at Haslar Hospital were communicated with and Inspector-General W.T. Domville, C.B., M.D., had coffins sent down to the jetty, and the bodies were conveyed in them to the dead-house at the Hospital. In order that there should be no delay in the identification of the corpses, Mr. Superintendent Cheyney communicated by telegraph with the County Coroner (Edgar Goble, Esq.), who decided to hold the inquest on the bodies at once. The Jury were, in consequence, hastily summoned, and met at Haslar Hospital last evening. The two bodies were identified by Charles Carter, foreman of labourers at the Hospital, who stripped them, and found the names of the men upon the clothing. The bodies were those of Edward Lockett and William E. Sandy, ordinary seamen, second class. An excellent arrangement has been made for the identification of the bodies. The Inspector-General has had a complete list made of the whole of the crew and passengers of the Eurydice-321 in number. The names marked on the clothing of the bodies recovered are compared with this list, and providing there is no other way of recognizing the corpses, identification can be established by this means. Both bodies were much decomposed, the flesh being entirely removed from the faces, and the hands were also missing. Sandy had on a serge, a flannel, a check shirt, his trousers, &c.; and Lockett had on two flannels and a check shirt and trowsers. The lower jaw of Sandy was a entirely gone. In his trowsers pocket were found one penny piece, three halfpence, and two buttons. Formal evidence of identification was taken, and the inquest was adjourned to the date originally fixed, the 23rd inst. The men who recovered the bodies were bound over to appear then, and also, the two survivors — Benjamin Cuddeford and Sidney Fletcher, the latter being sick, a patient in Haslar Hospital. The funeral of the two men will take place this (Wednesday) afterneon. The third body, which was landed on the Portsmouth side of the harbour, was conveyed in a shell to the dead-house adjoining Portsea police-station. As it had been landed within the jurisdiction of the Borough Coroner, it was thought that an inquest would be held by that gentleman, but it appears that this duplication of depositions is not likely to occur, as the Coroner expressed a desire that if the Chief-Constable were satisfied that the body had come from the Eurydice, it might be conveyed to a Haslar, as he considered it inexpedient that inquiries should be opened in various parts of the county on the same matter. The body, although not identified up to last night, has no doubt come from the ill-fated ship. It has on a pair of laced boots, brown socks, blue cloth trowsers whiteshirt, and drawers, and short blue serge jacket. This latter article leads to the supposition that the body is either that of an officer's servant or steward. At all events he evidently belonged to the non-combatant class. The bones of the head were perfectly bare, and both bands had been eaten off. The flesh had also come off a considerable portion of the right arm, the bones of which were bared for several inches. The corpse will be removed to Haslar, where it will be stripped, and identification will no doubt be established by the marking of the clothing. Nothing was found in the pockets of the deceased.
+The prevalence of high winds and strong tides have prevented anything like successful operations being carried out by the authorities engaged in the attempt to raise the Eurydice. The efforts of the party are by no means relaxed, and advantage is taken of every opportunity which presents itself. Four bodies, however, have been recovered since Saturday. The first was that of a marine named George Falconer, which was observed by the Coastguardsmen at St. Lawrence, early on Sunday afternoon. The body was brought ashore by a boat which the Coastguard put off in, and the Isle of Wight Coroner being communicated with, he did not consider an inquest necessary. Yesterday morning three other bodies were picked up near the Noman Fort and the Warner lightship, by George Connor, fisherman, of Gosport, John Gawn, a boatman, of Portsmouth, and Joseph Briggs. Two of the bodies Were taken to the Gosport shore, and landed at the Coastguard jetty, where they were received by Mr. Stephen George, the Chief Officer of the station.. The officials at Haslar Hospital were communicated with and Inspector-General W.T. Domville, C.B., M.D., had coffins sent down to the jetty, and the bodies were conveyed in them to the dead-house at the Hospital. In order that there should be no delay in the identification of the corpses, Mr. Superintendent Cheyney communicated by telegraph with the County Coroner (Edgar Goble, Esq.), who decided to hold the inquest on the bodies at once. The Jury were, in consequence, hastily summoned, and met at Haslar Hospital last evening. The two bodies were identified by Charles Carter, foreman of labourers at the Hospital, who stripped them, and found the names of the men upon the clothing. The bodies were those of Edward Lockett and William E. Sandy, ordinary seamen, second class. An excellent arrangement has been made for the identification of the bodies. The Inspector-General has had a complete list made of the whole of the crew and passengers of the Eurydice-321 in number. The names marked on the clothing of the bodies recovered are compared with this list, and providing there is no other way of recognizing the corpses, identification can be established by this means. Both bodies were much decomposed, the flesh being entirely removed from the faces, and the hands were also missing. Sandy had on a serge, a flannel, a check shirt, his trousers, &c.; and Lockett had on two flannels and a check shirt and trowsers. The lower jaw of Sandy was a entirely gone. In his trowsers pocket were found one penny piece, three halfpence, and two buttons. Formal evidence of identification was taken, and the inquest was adjourned to the date originally fixed, the 23rd inst. The men who recovered the bodies were bound over to appear then, and also, the two survivors — Benjamin Cuddeford and Sidney Fletcher, the latter being sick, a patient in Haslar Hospital. The funeral of the two men will take place this (Wednesday) afterneon. The third body, which was landed on the Portsmouth side of the harbour, was conveyed in a shell to the dead-house adjoining Portsea police-station. As it had been landed within the jurisdiction of the Borough Coroner, it was thought that an inquest would be held by that gentleman, but it appears that this duplication of depositions is not likely to occur, as the Coroner expressed a desire that if the Chief-Constable were satisfied that the body had come from the Eurydice, it might be conveyed to a Haslar, as he considered it inexpedient that inquiries should be opened in various parts of the county on the same matter. The body, although not identified up to last night, has no doubt come from the ill-fated ship. It has on a pair of laced boots, brown socks, blue cloth trowsers whiteshirt, and drawers, and short blue serge jacket. This latter article leads to the supposition that the body is either that of an officer's servant or steward. At all events he evidently belonged to the non-combatant class. The bones of the head were perfectly bare, and both bands had been eaten off. The flesh had also come off a considerable portion of the right arm, the bones of which were bared for several inches. The corpse will be removed to Haslar, where it will be stripped, and identification will no doubt be established by the marking of the clothing. Nothing was found in the pockets of the deceased.
 
 FUNERAL OF THE MARINE.
 
@@ -112,21 +104,29 @@ Mr. B. J. Physick, sculptor, has been commissioned to execute the monument in me
 tag: funeral memorial
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780515/037/0003
+Sheffield Daily Telegraph
+Wednesday 15 May 1878
+p3
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780516/078/0005
-Isle of Wight Times
+RECOVERY OF MORE BODIES FROM THE EURYDICE WRECK.
+
+Yesterday three more bodies belonging to the Eurydice were picked up off the Isle of Wight, and taken two to Haslar and one to Portsmouth. They were disfigured beyond all recognition so far as their features were concerned. The hands were eaten off, and the skull picked perfectly clean of all flesh by the fishes. The two taken to Haslar Hospital were identified by their clothing as the bodies of Edward Lockett and Wm. Sandy, ordinary 2nd class seamen. The third body has not yet been identified, but from the appearance of the clothing it is that of an officer's servant or steward. The jury were hastily called together last night to view the two bodies at the Haslar Hospital, and the inquiry was adjourned to the date originally fixed when the jury first met. Falconer, the Marine who was picked and taken to Ventnor, was buried yesterday. His remains were followed to the grave by all the Coastguard on the station, the local Volunteers, and numbers of the inhabitants. The weather has been much too boisterous for anything like successful operations in connection with raising the wreck.
+
+---
+TEXT
+
+As the third body retrieved the previous day was identified as John Hayes, another was retrieved and identified as William Hull, even as four other bodies were spotted but then lost again.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000051/18780516/025/0006
+Daily News (London)
 Thursday 16 May 1878
-p5
+p6
 
-THE EURYDICE.
+THE WRECK OF THE EUIRYDICE.
 
-...
-
-Five bodies (or rather portions) have been recovered during the week. One was a seaman named Taylor, and another Lieut. George Falconer, R.M.
-
-...
-
-[EXCERPT]
+PORTSMOUTH, May 15. The third body picked up yesterday was identified at the coroner's inquest at Haslar this morning as that of a third-class domestic on board the Eurydice, named John Hayes, the name appearing on the deceased's shirt. The screw collier Agnes Louise, Captain Hodgman, bound to Shields, left Portsmouth Harbour about eleven this morning, when, as she was in the neighbourhood of the Spithead forts, her crew observed five more bodies in the water. It was blowing hard at the time, but the captain lowered one of his boats with two men, and one of the bodies, that of a marine, was picked up. The linen the body is marked  "William Hull." It is expected that the other bodies, one of which is believed to be that of an officer, will be found near Langstone or Chichester.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780516/019/0003
@@ -140,6 +140,28 @@ BODIES FROM THE EURYDICE WRECK.
 Yesterday another body, that of a marine, one, of the crew the Eurydice, was picked up. The three bodies recovered Tuesday were buried with military honours yesterday. Numbers of other bodies are reported to have been seen floating off the Isle of Wight during the gale.
 
 ---
+
+TEXT
+
+Over the coming days, further bodies were recovered, two seamen, one named Taylor (Harry), the other A. Phillips.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780516/078/0005
+Isle of Wight Times
+Thursday 16 May 1878
+p5
+
+THE EURYDICE.
+
+...
+
+Five bodies (or rather portions) have been recovered during the week. One was a seaman named Taylor and another Lieut. George Falconer, R.M.
+
+...
+
+[EXCERPT]
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780517/013/0003
 
 Sheffield Daily Telegraph
@@ -148,7 +170,13 @@ p3
 
 BODIES FROM THE EURYDICE WRECK.
 
-Yesterday inquest was held on two other bodies picked up from the Eurydioe, they being identified the clothing A. Phillips. seamen, and Wm. Hull, marine. Another corpse was brought yesterday afternoon which has not yet been recognised. No doubt most poor fellows clutched at some object their death agonies, and as the hands all the bodies recovered are missing there is every probability that that is the sequel of so many being washed from the wreck just now.
+Yesterday inquest was held on two other bodies picked up from the Eurydice, they being identified the clothing A. Phillips, seamen, and Wm. Hull, marine. Another corpse was brought yesterday afternoon which has not yet been recognised. No doubt most poor fellows clutched at some object their death agonies, and as the hands all the bodies recovered are missing there is every probability that that is the sequel of so many being washed from the wreck just now.
+
+---
+
+TEXT
+
+By this point, three weeks after the disaster, identification was getting harder. It is not clear how the badly decomposed body of William Hendy was identified.
 
 ---
 
@@ -172,6 +200,11 @@ Mr. E. J. Physick, sculptor, has been commissioned to execute the monument in me
 [EXCERPT]
 
 ---
+TEXT
+
+Around the country, round-ups of the previous week's discoveries in the weekend editions made grim reading.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000250/18780518/069/0011
 
 Sheffield Daily Telegraph
@@ -188,6 +221,11 @@ On Wednesday another body, that of a marine of the crew of the Eurydice, was pic
 On Thursday an inquest was held on two other bodies picked from the Eurydice, they being identified by the clothing as A. Phillips, seamen, and Wm. Hull, marine. Another corpse was brought yesterday afternoon which has not yet been recognised. No doubt most the poor fellows clutched at some object their death agonies, and as the hands all the bodies recovered are missing there is every probability that that is the sequel so many being washed from the wreck just now.
 
 ---
+TEXT
+
+Another day, and another three bodies: John Curd, John Mitchell and Lieutenant Stanley A. B. Barney, identified by his engraved watch, a gift from his father.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000081/18780520/016/0007
 
 Liverpool Mercury
@@ -196,7 +234,14 @@ p7
 
 THE EURYDICE DISASTER.
 
-In connection with the Eurydice disaster, three other bodies have been recovered. They are, of course, too decomposed to identify by their features, but the clothes supply the needful evidence. They were John Card, ordinary seaman; John Mitchell, captain of the forecastle of the starboard watch; and Lieutenant Stanley A. B. Barney, son of the captain-superintendent of the Greenwich Hospital. The latter was identified by his uniform, and a watch on which his uame was engraved. Mitchell was buried yesterday with full naval honours.
+In connection with the Eurydice disaster, three other bodies have been recovered. They are, of course, too decomposed to identify by their features, but the clothes supply the needful evidence. They were John Card `[Curd?]`, ordinary seaman; John Mitchell, captain of the forecastle of the starboard watch; and Lieutenant Stanley A. B. Barney, son of the captain-superintendent of the Greenwich Hospital. The latter was identified by his uniform, and a watch on which his uame was engraved. Mitchell was buried yesterday with full naval honours.
+
+---
+TEXT
+
+As befitted his rank as an officer, Lieutenant Burney's funeral, and a brief bioography of him, were reported, along with a futher favourable testimonial regarding Captain Ferrier.
+
+Noting how grim the task of identifying the bodies must be, one of the juror's hoped that those to whom the task fell would be paid appropriately, a sentiment the Coroner was happy to pass on, if so instructed.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780522/006/0002
@@ -210,15 +255,15 @@ FOUNDERING OF H.M.S EURYDICE.
 
 RECOVERY OF MORE BODIES.
 
-The continued prevalonce of boisterous weather, has militated greatly against the efforts of those engaged in the work of raising the wreck. The working parties go out to the wreck at every favourable opportunity, but up to the preseent there are no new factors of any interest to be recorded in connection with the operations. We understand that several bodies have been washcd ashore at Bosbam, near Chichester, and an inquest has been opened.
+The continued prevalonce of boisterous weather, has militated greatly against the efforts of those engaged in the work of raising the wreck. The working parties go out to the wreck at every favourable opportunity, but up to the preseent there are no new factors of any interest to be recorded in connection with the operations. We understand that several bodies have been washed ashore at Bosham, near Chichester, and an inquest has been opened.
 
-On Saturday, an inquest was held at Hasler on two other bodies which had been picked up. Just before the Jury viewved the two bodies, another one was brought in, viz., that of Lieutenant Stanley A. B. Burney, who was picked up and landed at the Isle of Wight. An inquest, however, was not considered becessary by the Coroner within whose jurisdiction the body was landed, and it was, therefore, conveyed to Haslar. It was identified by Staff-Captain Alfred Balliston, of the Royal yacht Alberta. The recognition was established by means of the deceased's watch, upon which his name was engraved. To identify the bodies by their features is now simply impossible, as nothing but the bare skulls remained. One of the other of bodies proved to be that of John Curd, ordinary seaman, second class. There woer no marks upon the clothing of the other corpse by which it could bea identified but the missing link was supplied by Benjamin Cuddeford, one of the survivors, who identified the body as that of John Mitchell, captain of the forceastle of the starboard watch. The identification was made by means of tattoo marks upon the armns of the deceased. During the inquest on Saturday, whilist one of the hospital men, who have to strip the bodies, was giving evidenc as to the name found on the clothing, a juror, Mr. Jonathan Vincent, said he thought the men engaged in such work were entitled to some extra remuneration, for their task was indeed most unpleasant. The Coroner said the matter had not escaped his notice, and he should be most happy to endorse any observation of the Jury's in that direction to the proper authorities. —On Sunday afternoon the body of John Mitchell was buried with full naval honours, the corpse being drawn to the cemetery on a gun carriage drawn by seamen, behind which the widow and two of her children followed.
+On Saturday, an inquest was held at Haslar on two other bodies which had been picked up. Just before the Jury viewved the two bodies, another one was brought in, viz., that of Lieutenant Stanley A. B. Burney, who was picked up and landed at the Isle of Wight. An inquest, however, was not considered becessary by the Coroner within whose jurisdiction the body was landed, and it was, therefore, conveyed to Haslar. It was identified by Staff-Captain Alfred Balliston, of the Royal yacht Alberta. The recognition was established by means of the deceased's watch, upon which his name was engraved. To identify the bodies by their features is now simply impossible, as nothing but the bare skulls remained. One of the other of bodies proved to be that of John Curd, ordinary seaman, second class. There were no marks upon the clothing of the other corpse by which it could bea identified but the missing link was supplied by Benjamin Cuddeford, one of the survivors, who identified the body as that of John Mitchell, captain of the forceastle of the starboard watch. The identification was made by means of tattoo marks upon the armns of the deceased. During the inquest on Saturday, whilist one of the hospital men, who have to strip the bodies, was giving evidenc as to the name found on the clothing, a juror, Mr. Jonathan Vincent, said he thought the men engaged in such work were entitled to some extra remuneration, for their task was indeed most unpleasant. The Coroner said the matter had not escaped his notice, and he should be most happy to endorse any observation of the Jury's in that direction to the proper authorities. —On Sunday afternoon the body of John Mitchell was buried with full naval honours, the corpse being drawn to the cemetery on a gun carriage drawn by seamen, behind which the widow and two of her children followed.
 
-THE LATE CAPTAIN FERRIER, R.E.-The following General Order was issued by Major-General Sir Robert M. Laffan, Governor of Bermuda, on April 17:-" It is with feelings of great regret that  His Excellency the Major-General Commander-in-Cheif has to announce to this garrison that official intelligence has been received concerning the sad news of the death of Captain LoiusFerrirer, Royal Engineers, who was so lately serving in this command. This officer was drowned off the coast of the Isle of Wight, on the afternoon of Sunday, March 24, 1878, owing to the foundering of H.M.S. Eurydice. His Excellency feels that in Captain Ferrier the Service has loast a very promising officer, whose professional merits were enhanced by an amiability of disposition and geniality of manner which rendered him popular with his men and a favourite with his brother officers."
+THE LATE CAPTAIN FERRIER, R.E.-The following General Order was issued by Major-General Sir Robert M. Laffan, Governor of Bermuda, on April 17:-" It is with feelings of great regret that  His Excellency the Major-General Commander-in-Chief has to announce to this garrison that official intelligence has been received concerning the sad news of the death of Captain LoiusFerrirer, Royal Engineers, who was so lately serving in this command. This officer was drowned off the coast of the Isle of Wight, on the afternoon of Sunday, March 24, 1878, owing to the foundering of H.M.S. Eurydice. His Excellency feels that in Captain Ferrier the Service has lost a very promising officer, whose professional merits were enhanced by an amiability of disposition and geniality of manner which rendered him popular with his men and a favourite with his brother officers."
 
 FUNERAL OF LIEUT. BURNEY.
 
-Yesterday afternoon the remains of Lieut. Stanley Alfred Brooke Burney, the only officer whose body has been recovered from the wreck, were interred in the pretty little cemetery at Haslar with every demonstration of respect and esteem for the deceased officer's memory. The weather was exceedingly squally, and a heavy shower fell during the progress of the cortege to the burial ground. The late Lieut. Burney was one of the most promising officers of the Service, and his geniality of disposition, added to his kindliness of manner to all those with whom he was associated, made him a most popular officer. Under these circumstances therefore, it was but natural that a large number of both officers and men belonging to the Service should attend his funeral obsequies. The deceased, who was only 23 years of age, passed his eamination with honours (technically speaking he passed in the three ones) and thus gained his commission as a Lieutenant. He was the soon of Commander Charles Burney, the Superintendent of Greenwich Hospital School, by whom, on attaining his commission, he was presented with a watch, the inscription on which proved the means of identifying the body when it was recovered. The deceased was educated at the scholastic establishment of the Rev. Edward Burney, and well known in the neighbourhood. A younger brother is now studying at the same academy, a second is at the Royal Naval College, Portsmouth, and a third is at Sandhurst. The late Lieut. Burney was specially chosen for his attainments as one of the officers of the ill-fated Eurydice.Soon after half-past two the funeral cortege left Haslar Hospital, the way being led by a firing party of 100 privates, 5 sergeants, 5 corporals, and 2 buglers of tRoyal Marines, drawn from the Duke of Wellington, Asia, and Excellent, under the command of Captain Hugh W. Bamber of H.M.S. Asia.  Next came the band of the St. Vincent, playing the Dead March in Saul, and behind the band the corpse was conveyed on a gun carriage drawn by 16 blue-jackets. A Union Jack covered the coffin, and the pall bearers were: Staff-Commander George A. MacFarlane,of H. M. S. Hercules; Commander Edward G. Hulton, of H M.S. Narcissus, and a Lieutenant from the Duke of Wellington, Monarch, Asia and Excellent. Immediately behinf the corpse the following gentlemen walkeda as mourners:— Captain Charles Burney (father of the deceased); Messrs. Cecil, Ernest, and Percy Burney (brothers); Staff-Captain Alfred Balliston, Royal yacht Alberta; Col. Longmore, Capt. Colclough, and Mr. R. Wilkinson. Next followed about 160 blue jackets, under the command of Lientenant-Edgar R. Mathias, the rear being brought up by about fifty officers, including Lieutenants, Sub-Lieutenants, Midshipman, oofficers of the Royal Marine Light Infantry and Royal Marine Artillery, the  party being made up of representatives from all the ships in harbour. The Port Admiral, who was absent from the town, was represented by Flag-Lieutenant Hugh G. Gough. Inspector-General W. T. Domville, C.B., M.D., was also present, and Captain the Hon. Walter C. Carpenter, of the flag-ship Duke of Wellington. Amongst those who followed to show their respect to the deceased officer's memory, were a number of his old shipmates; among these were Commander Harry T. Grenfell, who was formerly Flag-Lieutenant to Admiral Cochrane, in the Pacific; the Rev. George M. Sutton, B.A.. of H.M.S. Warrior, who was formerly in the Repulse, with the deceased, and also Lieutenants Edward J. Sanderson, H.M.S. Crocodile, Spencer B. Hesketh, and Robert C. Sparkes; Sub-Lieutenants Lionel G. Tufnell and Ingram. There were also present Colour-Sergeant James Murphy, Royal Marine Light Infantry, of H.M.S. Crocodile, who formerly served on board the same ship as the deceased,  and a numbe of petty officeris and seamen who had also served with him. On the procession arriving at the Cemetery the firing party formed up on either side of the road, and allowed the corpse to pass into the grounds, where it wast met by the Rev. Frederick W. Nickokll, M.A., Chaplain to Haslar Hospital, who preceded the body into the mortuary chapel, repeating the introductory sentences of the Burial Service. After the religious ceremony in the chapel, the procession re-formed, and proceeded to the grave, which is one of the centre ones in the plot of ground marked out for the reception of the bodies recovered from the wreck. Here the Burial Service was proceeded with, and concluded, and at the close the customary three volleys were fired over the grave, and the funeral party re-formed and returned to their respective ships. The coffin was of polished oak, with Mediaeval mountings, and was supplied by Mr. Miller, undertaker, of High-street, who had charge of the funeral arrangements. A number of metropolitan police, under the command of Mr. Inspector Coppin, were present to keep the ground.
+Yesterday afternoon the remains of Lieut. Stanley Alfred Brooke Burney, the only officer whose body has been recovered from the wreck, were interred in the pretty little cemetery at Haslar with every demonstration of respect and esteem for the deceased officer's memory. The weather was exceedingly squally, and a heavy shower fell during the progress of the cortege to the burial ground. The late Lieut. Burney was one of the most promising officers of the Service, and his geniality of disposition, added to his kindliness of manner to all those with whom he was associated, made him a most popular officer. Under these circumstances therefore, it was but natural that a large number of both officers and men belonging to the Service should attend his funeral obsequies. The deceased, who was only 23 years of age, passed his eamination with honours (technically speaking he passed in the three ones) and thus gained his commission as a Lieutenant. He was the son of Commander Charles Burney, the Superintendent of Greenwich Hospital School, by whom, on attaining his commission, he was presented with a watch, the inscription on which proved the means of identifying the body when it was recovered. The deceased was educated at the scholastic establishment of the Rev. Edward Burney, and well known in the neighbourhood. A younger brother is now studying at the same academy, a second is at the Royal Naval College, Portsmouth, and a third is at Sandhurst. The late Lieut. Burney was specially chosen for his attainments as one of the officers of the ill-fated Eurydice.Soon after half-past two the funeral cortege left Haslar Hospital, the way being led by a firing party of 100 privates, 5 sergeants, 5 corporals, and 2 buglers of tRoyal Marines, drawn from the Duke of Wellington, Asia, and Excellent, under the command of Captain Hugh W. Bamber of H.M.S. Asia.  Next came the band of the St. Vincent, playing the Dead March in Saul, and behind the band the corpse was conveyed on a gun carriage drawn by 16 blue-jackets. A Union Jack covered the coffin, and the pall bearers were: Staff-Commander George A. MacFarlane,of H. M. S. Hercules; Commander Edward G. Hulton, of H M.S. Narcissus, and a Lieutenant from the Duke of Wellington, Monarch, Asia and Excellent. Immediately behinf the corpse the following gentlemen walkeda as mourners:— Captain Charles Burney (father of the deceased); Messrs. Cecil, Ernest, and Percy Burney (brothers); Staff-Captain Alfred Balliston, Royal yacht Alberta; Col. Longmore, Capt. Colclough, and Mr. R. Wilkinson. Next followed about 160 blue jackets, under the command of Lientenant-Edgar R. Mathias, the rear being brought up by about fifty officers, including Lieutenants, Sub-Lieutenants, Midshipman, oofficers of the Royal Marine Light Infantry and Royal Marine Artillery, the  party being made up of representatives from all the ships in harbour. The Port Admiral, who was absent from the town, was represented by Flag-Lieutenant Hugh G. Gough. Inspector-General W. T. Domville, C.B., M.D., was also present, and Captain the Hon. Walter C. Carpenter, of the flag-ship Duke of Wellington. Amongst those who followed to show their respect to the deceased officer's memory, were a number of his old shipmates; among these were Commander Harry T. Grenfell, who was formerly Flag-Lieutenant to Admiral Cochrane, in the Pacific; the Rev. George M. Sutton, B.A.. of H.M.S. Warrior, who was formerly in the Repulse, with the deceased, and also Lieutenants Edward J. Sanderson, H.M.S. Crocodile, Spencer B. Hesketh, and Robert C. Sparkes; Sub-Lieutenants Lionel G. Tufnell and Ingram. There were also present Colour-Sergeant James Murphy, Royal Marine Light Infantry, of H.M.S. Crocodile, who formerly served on board the same ship as the deceased,  and a numbe of petty officeris and seamen who had also served with him. On the procession arriving at the Cemetery the firing party formed up on either side of the road, and allowed the corpse to pass into the grounds, where it wast met by the Rev. Frederick W. Nickokll, M.A., Chaplain to Haslar Hospital, who preceded the body into the mortuary chapel, repeating the introductory sentences of the Burial Service. After the religious ceremony in the chapel, the procession re-formed, and proceeded to the grave, which is one of the centre ones in the plot of ground marked out for the reception of the bodies recovered from the wreck. Here the Burial Service was proceeded with, and concluded, and at the close the customary three volleys were fired over the grave, and the funeral party re-formed and returned to their respective ships. The coffin was of polished oak, with Mediaeval mountings, and was supplied by Mr. Miller, undertaker, of High-street, who had charge of the funeral arrangements. A number of metropolitan police, under the command of Mr. Inspector Coppin, were present to keep the ground.
 
 tag: funeral bodies
 
@@ -235,6 +280,14 @@ The late Lieutenant Stanley Alfred Brook Burney, the only officer whose body has
 
 ---
 
+TEXT
+
+With the bad weather, more bodies were released from the wreck, including that of Lieutenant Barry, whose body was washed ashore at Seaview after being spotted in a rough sea from the Rinaldo.
+
+Captain Hare's desk was also recovered.
+
+---
+
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780523/092/0005
 
 Isle of Wight Times
@@ -248,6 +301,11 @@ The inclement weather of the last few days has kept the operations of the wreck 
 On Saturday two more bodies which were decomposed beyond recognition, picked up near the wreck, were, brought into Portsmouth harbour by the steam tug Grinder and conveyed to Haslar Hospital One is evidently a seaman, the other is believed to be a marine. The Rinaldo reports that the body of an officer passed her as she lay anchored near the wreck on Friday night, but the sea was too rough for a boat to be lowered. The body subsequently washed ashore off Sea View, and has been identified as that of Lieutenant Barry. The south cone was hoisted at the semaphore on Saturday evening, and the gale which sprang up during the night prevented the tugs from proceeding out of harbour during Sunday. The squally weather and the heavy gale from the W.S.W. will, it is expected, tend to ease the position of the the wreck, and lead to large numbers of bodies floating through the ports.
 
 ---
+TEXT
+
+Another body given up by the wreck was identified as Albert C. Doogood.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780524/003/0002
 
 Portsmouth Evening News
@@ -257,7 +315,7 @@ p2
 
 The Eurydice.
 
-The inquest on the bodies recovered from the wreck of the Eurydice was resumed yesterday morning, at Haslar Hospital, before Mr. Goble, the coroner for South Hants. Inspector-General Domville, and Mr. E. J. Harvey law agent, were present to represent the Admiralty and the hospital authorities. The proceedings were merley formal, the Coroner announcing that during the fortnight which had intervened since the last meeting no progress had been made in the raising of the ship, he proposed to again adjourn the inquiry for three weeks. He would, however, that day call evidence to prove that the bodies of the men which had been recovered, and, so far as they concerned that inquest, were on board the Eurydice at the time of the foundering. Mr. Coots, the foreman, reading from paper, said—"The jury wish me to ask if you will now receive their verdict, which they are now ready to give, touching the death of the several bodies we have seen in this inquiry ; for, Sir, we think that will be most unlikely that this jury will be got together to sit upon all the bodies which may yet come to this hospital, especially as no one can say how many weeks may yet pass by before the Eurydice may be raised. We also consider that we are available for any future inquiries so far relates to the bodies which we have received." The Coroner said that they had no evidence before them to the loss of the ship, they were not a position to say how the deceased came by their deaths. He could not, therefore, close the inquest. Evidence was then given by the two survivors, Benjamin Cuddeford and Sydney Fletcher, to prove that Harry Taylor, an able seaman; Edward Lockett, ordinary seaman ; William E. Sandy, ordinary seaman John Hayes, wardroom domestic; Andrew Philips, ordinary seaman ; Frank Targett, ordinary seaman and John Curd, ordinary seaman, were on board the Eurydice at the time of the foundering. The inquest was then adjourned until Wednesday, the 12th June. The body of Albert C. Doogood, which was landed at Sea View on Wednesday and which was intended to have conveyed to Haslar, was found in such state of decomposition that it was deemed advisable to bury it where it was landed.
+The inquest on the bodies recovered from the wreck of the Eurydice was resumed yesterday morning, at Haslar Hospital, before Mr. Goble, the coroner for South Hants. Inspector-General Domville, and Mr. E. J. Harvey law agent, were present to represent the Admiralty and the hospital authorities. The proceedings were merely formal, the Coroner announcing that during the fortnight which had intervened since the last meeting no progress had been made in the raising of the ship, he proposed to again adjourn the inquiry for three weeks. He would, however, that day call evidence to prove that the bodies of the men which had been recovered, and, so far as they concerned that inquest, were on board the Eurydice at the time of the foundering. Mr. Coots, the foreman, reading from paper, said—"The jury wish me to ask if you will now receive their verdict, which they are now ready to give, touching the death of the several bodies we have seen in this inquiry ; for, Sir, we think that will be most unlikely that this jury will be got together to sit upon all the bodies which may yet come to this hospital, especially as no one can say how many weeks may yet pass by before the Eurydice may be raised. We also consider that we are available for any future inquiries so far relates to the bodies which we have received." The Coroner said that they had no evidence before them to the loss of the ship, they were not a position to say how the deceased came by their deaths. He could not, therefore, close the inquest. Evidence was then given by the two survivors, Benjamin Cuddeford and Sydney Fletcher, to prove that Harry Taylor, an able seaman; Edward Lockett, ordinary seaman ; William E. Sandy, ordinary seaman John Hayes, wardroom domestic; Andrew Phillips, ordinary seaman ; Frank Targett, ordinary seaman and John Curd, ordinary seaman, were on board the Eurydice at the time of the foundering. The inquest was then adjourned until Wednesday, the 12th June. The body of Albert C. Doogood, which was landed at Sea View on Wednesday and which was intended to have conveyed to Haslar, was found in such state of decomposition that it was deemed advisable to bury it where it was landed.
 
 ---
 
@@ -281,6 +339,12 @@ Clyde Villa, Sea View, Isle of Wight
 May 22nd, 1873.
 
 tag: bodies funeral
+
+---
+
+TEXT
+
+The body of Mitchell, it seems, was identified by his wife from his tattoos.
 
 ---
 
@@ -316,6 +380,14 @@ ESCAPE OF A RYDE MAN FROM THE EURYDICE DISASTER.
 A young man named Hayes, whose mother was a member of the Sivell family of this town, had a very fortunate escape from being lost in the ill-fated ship. About a week before the vessel sailed from the West Indies, Hayes was taken ill, and had to be taken on shore to the hospital. His friends at first thought he was drowned, but a letter has, since the disaster, been received, which announced the gratifying fact that Hayes is alive and restored to health.
 
 ---
+
+TEXT
+
+Two more bodies, both it seems, men who had relatives at least in Ryde, were identified as Lieutenant Randolph and Mr. Frank Pittman.
+
+Another body, that of C. Wilkins, was also recovered and identified from his clothing.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/010/0005
 
 Isle of Wight Observer
@@ -339,7 +411,7 @@ p5
 
 THE EURYDICE.
 
-Conclusion of the Inquests.— On Wednesday last Mr. Edgar Goble, one of the coroners for Hants, concluded the inquiries into the death of the unfortunate men drowned in the Eurydice. The evecvidence was confined to that of the survivors, Cuddiford and the boy Sydney Fletcher. There narratives were subetantially the same as those admitted by them at previous inquiries. Some new facts, however, were advanced. Cuddiford stated that there was not the slightest indication of the sqluall coming on before the Ship was struck, and he did not thnk the wind headed her during the whole time. To the last the captain gave his orders in a clear and distinct voice, and at the time the ship went down all the ports were open except two. They were opened in the forenoon by the orders of the mate of the deck, and the ship at about the time she struck was going at about eight knots. From the time the order was given to shorten sail to the time she heeled over about six minutes elapsed. From the time she heeled over to going down was only a few minutes. The captain was on deck the whole of the afternoon, and in witness's opinion everything was done to save the ship. He believed that none of the four guns broke loose. The ship was more lively than usual from the amount of water and provisions consumed, but if they had consumed all the water the ship would have been properly ballasted. He did not believe that Captain Hare was aware that the ports were open. Considering the state of the weather he was of the opinion that the ship was in a safe condition. She was not under too great a press of sail previous to the storm. Mr. Gifford, a sub-lieutenant, was at the wheel, but there was always a quartermaster there. As a seaman of 21 years experience, he believed that no blame attached to either officers or men for the loss of the ship. The Coroner, in concluding the inquiry, said the Admiralty did not propose to offer any scientific evidence. It would be for the jury to say whether the captain had caused a proper look-out to kept, because if he had not it would amount to a neglect of duty, for which he would have had to answer had he survived. The jury returned a verdict to the effect that the deceased came to their deaths by drowning through the foundering of the Eurydice, but that no blame attached to the captain, officers, or crew.
+Conclusion of the Inquests.— On Wednesday last Mr. Edgar Goble, one of the coroners for Hants, concluded the inquiries into the death of the unfortunate men drowned in the Eurydice. The evidence was confined to that of the survivors, Cuddiford and the boy Sydney Fletcher. There narratives were subetantially the same as those admitted by them at previous inquiries. Some new facts, however, were advanced. Cuddiford stated that there was not the slightest indication of the sqluall coming on before the Ship was struck, and he did not thnk the wind headed her during the whole time. To the last the captain gave his orders in a clear and distinct voice, and at the time the ship went down all the ports were open except two. They were opened in the forenoon by the orders of the mate of the deck, and the ship at about the time she struck was going at about eight knots. From the time the order was given to shorten sail to the time she heeled over about six minutes elapsed. From the time she heeled over to going down was only a few minutes. The captain was on deck the whole of the afternoon, and in witness's opinion everything was done to save the ship. He believed that none of the four guns broke loose. The ship was more lively than usual from the amount of water and provisions consumed, but if they had consumed all the water the ship would have been properly ballasted. He did not believe that Captain Hare was aware that the ports were open. Considering the state of the weather he was of the opinion that the ship was in a safe condition. She was not under too great a press of sail previous to the storm. Mr. Gifford, a sub-lieutenant, was at the wheel, but there was always a quartermaster there. As a seaman of 21 years experience, he believed that no blame attached to either officers or men for the loss of the ship. The Coroner, in concluding the inquiry, said the Admiralty did not propose to offer any scientific evidence. It would be for the jury to say whether the captain had caused a proper look-out to kept, because if he had not it would amount to a neglect of duty, for which he would have had to answer had he survived. The jury returned a verdict to the effect that the deceased came to their deaths by drowning through the foundering of the Eurydice, but that no blame attached to the captain, officers, or crew.
 
 Another body has been recovered from the wreck—that of C. Wilkins, one of the crew, found in the forechains. In opening the enquiry, the Coroner (E. Goble, Esq.) observed that the body upon which evidence would be given was supposed to be one of the crew of the Eurydice, and his clothes were marked "C. Wilkins." It would be the duty of the jury to inquire whether the identity of the deceased had been proved to their satisfaction, and also to ascertain the cause of death. It was not his intention at present to go into any further inquiry. They had received the verdict of two juries with regard to this catastrophe, and therefore all they need now do was to prove the identity of the body and find the cause of death.
 
@@ -348,6 +420,11 @@ George Carter, foreman of the laborers at the Hospital, said the body was brough
 Inspector-General Domville handed in the card from the Admiralty, stating that C. Wilkins was a seaman on board the Eurydice —The inquiry was adjourned.
 
 [EXCERPT]
+
+---
+TEXT
+
+Even as the bodies continued to be discovered, still it was felt that due process had to be followed before the bodies could be lawfully buried.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000329/18780624/079/0003
@@ -411,7 +488,11 @@ The Eurydice was on Monday brought close under shore, to the east of Sandown Bay
 Through the divers breaking a sick-bay on the lee side of the maindeck of the Eurydice, many corpses have been liberated, and were on Thursday floating about, but could not be picked up by reason of boisterous weather, which also prevented any work being at the wreck. A diver states that he came across a large number of bodies in a hatchway going towards the lower deck, and additional corpses were on Thursday seen floating out to the open sea. A day's calm weather would enable the vessel to be floated, and from eighty to a hundred bodies, believed to be on her lower deck, recovered.
 
 ---
+TEXT
 
+Four and a haff months on, bodies were still being washed ashore, although by this time there was not even clothing to help identifiy the bodies. The funerals must have been somber affairs indeed, as the men were buried in unnamed coffins.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/107/0004
 Isle of Wight Times
 Thursday 08 August 1878
@@ -420,6 +501,12 @@ p4
 TWO BODIES FOUND.
 
 On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near to Sir William Hutt's pier at Apley ; one of the bodies was headless, but a human head was found floating near the spot. The bodies were in a very advanced state of decomposition, and almost nude, so that there were no means of identification ; but there is little doubt that they were from the ill-fated Eurydice. Coffins were procured, and the bodies conveyed by the Coastguard to the mortuary at the Cemetery. At half-past 5 in the afternoon the funeral took place at the north side of the Cemetery. Palls were thrown over the coffins, which were carried, shoulder high, by eight Coastguardsmen, under the superintendence of Mr. Jefferys, the chief officer. They were met at the grave (both being interred in one) by Mr. Westhall, a gentleman residing in Ryde, who read portions of Scripture. and afterwards addressed the large concourse of people, remarking that it was a very solemn occasion, and took their thoughts back to the 24th March, when about 300 poor men and boys were drowned by the capsizing of the Eurydice; the bodies of two of them were in the coffins before them ; there were no names on the coffins, but the men were known to God. He nothing of their history, and he did not know whether they were Christians, and he had nothing to do with that. They were surrounded by mysteries ; even their own existence was a mystery, and it was a most mysterious thing that the poor creatures who were drowned would have been on land in about an hour, and would have boon welcomed by loving friends; but it was not to be. They could not understand it, but the light of eternity would interpret all mysteries, and all they had to do was to bow to the will of God, for would not the Judge of the whole earth do right? The lesson for all of them to learn was the uncertainty of human life. Those who were drowned were in good health and spirits a few minutes before, and then were called to their final account. There were these present who evidently had sympathy for those who had been thus taken suddenly away. Although they were taken thus suddenly, it was possible they might have been able to give one look to the Saviour, and there was life in a look. It did not take long to save the thief on the cross, and they might hope that many in the Eurydice were saved, and he was glad to believe that many on board loved the Saviour. Mr. Westhall concluded the simple, but very impressive, service by offering prayer and pronouncing the benediction. There was something exceedingly affecting in witnessing the two plain, nameless coffins placed in the grave, and no friends or relatives near to pay the last tribute of affection ; and also in the thought that until the morning of the resurrection it must remain a profound secret as to who was interred in Ryde Cemetery on Saturday afternoon.
+
+---
+
+TEXT
+
+As ever more bodies started to be retrieved fro the wreck, it seems that the names of the name recovered no londer tended to be recovered, even if they could be identified.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18780815/078/0004
@@ -443,6 +530,12 @@ RECOVERY OF BODIES FROM THE EURYDICE.
 Thirty-three bodies have this week been recovered from the wreck the Eurydice. It has been decided to cant the hull over from the starboard side, caulk it, and pump out the water before taking the vessel to Portsmouth.
 
 ---
+
+TEXT
+
+As the recovery effort progressed, with a hope that the Eurydice would soon be floated, the body of a prisoner was found inside a cell, albeit free from chains.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000272/18780817/009/0002
 Manchester Evening News
 Saturday 17 August 1878
@@ -450,13 +543,17 @@ p2
 
 RECOVERY OF BODIES FROM THE EURYDICE.
 
-The Eurydice was cleared esterday of all bodies. Upwards of 120 have now been recovered, including half-a dozen officers. A cell was entered, and tho body of a man found therein, but not in irons. All the doors, with the exception of the cabins on the port side, have been torn away to facilitate the search by divers and workmen. All the lower deck planking is also torn away.
+The Eurydice was cleared esterday of all bodies. Upwards of 120 have now been recovered, including half-a dozen officers. A cell was entered, and the body of a man found therein, but not in irons. All the doors, with the exception of the cabins on the port side, have been torn away to facilitate the search by divers and workmen. All the lower deck planking is also torn away.
 
 ---
 
 TEXT
+In the years that followed, several memorials would appear to commemorate the Eurydice and the lives of the men who were lost with her.
 
-In Sandown, on the Isle of Wight, a subscription was raised for a memorial to be placed in Christ Church churchyard that remains there to this day.
+Just over a year after the sinking of the Eurydice, a memorial that stands to this day, paid for by subscription, was placed in Christ Church churchyard, Sandown, on the Isle of Wight.
+
+![](../images/52024017203_2c99b3ebc0_o.jpg)
+Memorial Christ Church, Sandown,
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790412/066/0008
@@ -469,6 +566,12 @@ SANDOWN, April 12.
 ...
 
 Eurydice Memorial.— The subscription set on foot for the purpose of erecting a memorial to the seven seamen who were drowned in the Eurydice disaster, and whose bodies were washed on shore at Sandown, has been very successful. Sufficient funds were collected to obtain a very handsome monument, which has just been completed by Mr. J. Ellery, of Ryde, and erected in Sandown Churchyard. It is of Portland stone, and consists of a pedestal 3ft. 6in. high, which stands on a moulded base, with two steps surrounding it. The whole is about 4ft. 6in. high. On the four sides of the pedestal are sunken panels, surmounted with appropriate emblems. On each side of the pedestal is an inscription. That on the east is as follows : — " Sacred to the memory of seven brave seamen of Her Majesty's Navy, who lie buried here, after having first found a watery grave on Sunday, March 24th, 1878, when H.M.S. Eurydice foundered in a terrific squall off Sandown Bay." On the north side the names of those known are stated, viz., D. Harvey, J. T. Smith, W. Shuker, H. Veals. The names of the others buried here are unknown. The other sides of the memorial have appropriate texts of Scripture.
+
+---
+TEXT
+
+![](../images/52019996761_b67da681c2_o.jpg)
+Memorial Christ Church, Sandown
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18790426/022/0011
@@ -485,14 +588,6 @@ A Memorial to those Sailors of the "Eurydice" buried at Sandown, Isle of Wight, 
 ---
 
 TEXT
-
-The memorial can still be seen today in a corner of the Churchyard.
-
-![](../images/52024017203_2c99b3ebc0_o.jpg)
-Memorial Christ Church, Sandown,
-
-![](../images/52019996761_b67da681c2_o.jpg)
-Memorial Christ Church, Sandown
 
 ![](../images/52019997011_d6ccbdb70a_o.jpg)
 Memorial Christ Church, Sandown, Dedication
@@ -539,7 +634,7 @@ A handsome tablet has been placed in the chapel of the dockyard at Portsmouth, b
 
 TEXT
 
-Although having been saved from the wreck, Cuddeford was invalided due to ongoing ill effects from his eposure in the sea,
+Although having been saved from the wreck, Cuddeford was invalided due to ongoing ill effects from his exposure to the cold of the sea.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18790830/066/0008

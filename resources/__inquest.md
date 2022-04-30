@@ -4,7 +4,7 @@ The first inquest surrounding the tragedy was held in Ventnor on Tuesday, March 
 
 Originally planned to be held in the Queen's Hotel, the Coroner asked if a larger room was available. The Freemasons Tavern was suggested as an alternative but eventually a large room in the Royal Hotel was offered for use by the Coroner.
 
-The aim of the inquest was two-fold: to identify the bodies, and to ascertain how the deaths had occurred. The key witnesses were the two survivors, Benjamin Cuddiford and Sydney Fletcher, and W. L. Jenkin, master the schooner "Emma" of Padstow.
+The aim of the inquest was two-fold: to identify the bodies, and to ascertain how the deaths had occurred. The key witnesses were the two survivors, Benjamin Cuddeford and Sydney Fletcher, and W. L. Jenkin, master the schooner "Emma" of Padstow.
 
 
 ```{figure} ../images/eurydice-survivors.jpg
@@ -16,7 +16,7 @@ The two survivors
 
 
 
-```{admonition} Benjamin Cuddiford
+```{admonition} Benjamin Cuddeford
 :class: dropdown
 
 Able seaman, 21 years in the navy.
@@ -25,7 +25,7 @@ Strong Swimmer.
 
 ```
 
-In an earlier statement, Benjamin Cuddiford, who originally tried to save several of his shipmates, revealed he had been forced to push off four others who had clung to him in order to save his own life, although this remark was not repeated in the direct testimony or verbatim report of the inquest proceedings. Having been in the hour for an hour and twenty minutes, he then saw a boat from the schooner, Emma, and a rope was thrown to him. On being rescued, he was overcome by dizziness.
+In an earlier statement, Benjamin Cuddeford, who originally tried to save several of his shipmates, revealed he had been forced to push off four others who had clung to him in order to save his own life, although this remark was not repeated in the direct testimony or verbatim report of the inquest proceedings. Having been in the hour for an hour and twenty minutes, he then saw a boat from the schooner, Emma, and a rope was thrown to him. On being rescued, he was overcome by dizziness.
 
 ```{admonition} Sydney Fletcher
 :class: dropdown
@@ -53,7 +53,7 @@ Example of sail names for a three masted sailing ship
 
 With the ship being a training ship, it was initially assumed that the majority of the men, officers aside, would be unmarried. Along with the crew and several men making passage back to England from service overseas, several prisoners had also been aboard, one of whom was believed to have been held in chains.
 
-This first report includes the statement Cuddiford made to the Admiralty authorities, as well as a direct report of the inquest.
+This first report includes the statement Cuddeford made to the Admiralty authorities, as well as a direct report of the inquest.
 
 
 ```{admonition} OFF THE ISLE OF WIGHT. 300 OR 400 LIVES LOST. - Thursday, March 28th, 1878
