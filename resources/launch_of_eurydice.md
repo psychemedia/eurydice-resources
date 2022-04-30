@@ -11,6 +11,10 @@ https://en.wikipedia.org/wiki/George_Elliot_(Royal_Navy_officer,_born_1784)
 ![](../images/William_Howard_Yorke_-_HMS_Eurydice_at_Sea_-_RMG_BHC3331.jpg)
 William Howard Yorke - HMS 'Eurydice' at Sea - RMG, signed 'W Yorke Lpool 1871'.
 
+Why 278 men for a frigate
+```{youtube} Ynd85xJ7PYU
+```
+
 H.M.S. Eurydice was officially launched by one of his daughters, and the ship was commissioned by his eldest son, Captain George Elliot.
 
 ```{admonition} Captain George Elliot
@@ -19,7 +23,11 @@ H.M.S. Eurydice was officially launched by one of his daughters, and the ship wa
 https://en.wikipedia.org/wiki/George_Elliot_(Royal_Navy_officer,_born_1813)
 ```
 
-## Launch of H.M.S. Eurydice
+Great ships - the frigates
+```{youtube} uSbTt58nodk
+```
+
+## Launch of H.M.S. Eurydice
 
 Several reports provided the dimensions of the vessel, and commented on her likely turn of speed.
 

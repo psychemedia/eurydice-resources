@@ -273,6 +273,6 @@ The story ends with the re-rating of the two survivors, Cuddeford and Fletcher's
 
 [Reynolds's Newspaper](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000101/18781222/013/0002), 1878-12-22, p. 2
 
-The Lords of the Admiralty have departed from the rule laid down in the Adminalty circular on the subject of losses of clothes, &c., on service, and have given directions for Benjamin Cuddiford and Sydney Fletcher, the two survivors of the ill-fated Eurydice, to be paid the amount of cash which they state was in their possession at the time of the disaster. They also approved Sydney Fletcher beihg rated an ordinary seaman from the 1st of January last, he having stated that he was so rated on that day on board the Eurydice. Benjamin Cuddiford hats been rated leading seaman by the captain of the Duke of Wellington.
+The Lords of the Admiralty have departed from the rule laid down in the Adminalty circular on the subject of losses of clothes, &c., on service, and have given directions for Benjamin Cuddiford and Sydney Fletcher, the two survivors of the ill-fated Eurydice, to be paid the amount of cash which they state was in their possession at the time of the disaster. They also approved Sydney Fletcher being rated an ordinary seaman from the 1st of January last, he having stated that he was so rated on that day on board the Eurydice. Benjamin Cuddiford has been rated leading seaman by the captain of the Duke of Wellington.
 
 ```

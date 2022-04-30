@@ -2,32 +2,11 @@
 
 Witht the Eurydice all but recovered, and there having been opportunity to inspect the inside of the wreck as she was beached initially in Sandown Bay and then off St Helen's, the court-martial and the attendant investigation into the original disaster could now take place.
 
-The court martial was held on board the Duke of Wellington flagship, in Portsmouth.
+## Terminology
 
-The charges were read and the terms of the inquiry desscribed.
-
-The court began with a statement from, and questioning of the survivor Benjamin Cuddeford, focussing on the state of the ship leading up to the storm, the availability of lifesaving equipment, and the ship's general stability. He also observed how the crew wore blue, rather than white, working uniform, to reduce the amount of washing required.
-
-A report from the first man on scence, several eye-witness statements regarding the weather and the sighting of the Eurydice as she passed from Ventnor,  including one from a retired Nautical Assessor of the Board of Trade, and one from an Admiral, and a weather report from the captain of a ship out near the Nab lightship, were provided to the Court. Reports were also heard from the masters of the Emma, and the Badger, which had been passing St Catherine's point at the time of the squall. 
-
-
+Some of the detail in the reports of the court-martial may well sound alien to anyone (such as myself!) not at all versed in in the language of sailing, so before we look to the reports, here's an introduction to some of the terminology.
 
 TO DO - glossary  [sheet, clew, halyard, hawser, tack x 2, brails, halued up, line, abaft, before, port, port, starboard, bow, stern, hauled out, let go, spanker, fully set / set full,fearnoughted, leaded, buckler, hoked in, sashes, glass broken, scuttle, wheel, capstan, jigger, rudder, false keel, weather topsail lips, helm, muzzle-lashing, tonkin, tackle, jewels, coarses, fast, out haul, off the the "jack", how far sheets from being home, motacentric height, freeboard]
-
-
-
-```{youtube} uSbTt58nodk
-
-```{youtube} g6OK63I7nxo
-
-```{youtube} Ynd85xJ7PYU
-
-```{youtube} GTKBp0QNxEc
-
-
-```{youtube} B3jU9Xz_GHE
-
-```{youtube} zlRbcTsm2rc
 
 
 ```{figure} ../images/HMS_Eurydice_tanks_plan_rmg-co-uk.png
@@ -70,25 +49,6 @@ how to sail full rigged part 3
 ```{youtube} B3jU9Xz_GHE
 ```
 
-Great ships - the frigates
-```{youtube} uSbTt58nodk
-```
-
-Before the mast - life aboard
-```{youtube} g6OK63I7nxo
-```
-
-Why 278 men for a frigate
-```{youtube} Ynd85xJ7PYU
-```
-
-
-Frigate rigging (model) tutorial
-```{youtube} GTKBp0QNxEc
-```
-
-
-
 
 ```{figure} ../images/sail_names.jpg
 ---
@@ -98,6 +58,16 @@ Example of sail names for a three masted sailing ship
 ```
 
 
+
+## The Court-Martial
+
+The court martial was held on board the Duke of Wellington flagship, in Portsmouth.
+
+The charges were read and the terms of the inquiry desscribed.
+
+The court began with a statement from, and questioning of the survivor Benjamin Cuddeford, focussing on the state of the ship leading up to the storm, the availability of lifesaving equipment, and the ship's general stability. He also observed how the crew wore blue, rather than white, working uniform, to reduce the amount of washing required.
+
+A report from the first man on scence, several eye-witness statements regarding the weather and the sighting of the Eurydice as she passed from Ventnor,  including one from a retired Nautical Assessor of the Board of Trade, and one from an Admiral, and a weather report from the captain of a ship out near the Nab lightship, were provided to the Court. Reports were also heard from the masters of the Emma, and the Badger, which had been passing St Catherine's point at the time of the squall.
 
 
 ```{admonition} THE LOSS OF THE EURYDICE. - Wednesday, August 28th, 1878

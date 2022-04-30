@@ -216,7 +216,7 @@ Do you kuow what the state of the barometer was just nefore the occurrence— I 
 
 Did you hear of any sudden fall having takeii place in the baromoter ? -No. Had there been any fall when the barometer was read at 8 o'clock on Sunday morning I must have known of it, for I was working close by where Dr. Murdoch took the readings. Every day at 2 o'clock the Navigating Lieutenant used to put up a card on the main deck showing the distance we had run, and the latitude and longitude.
 
-William Langworth Jenkin was called and examined. He said he was master of the schooner, Emma, of Padstow. On Suuday afternoon last he was proceeding from Newcastle to Poole. At about ten minutes past 4 o'clock, according to his watch, he encountered a sudden squall when off Dunnose.
+William Langworth Jenkin was called and examined. He said he was master of the schooner, Emma, of Padstow. On Sunday afternoon last he was proceeding from Newcastle to Poole. At about ten minutes past 4 o'clock, according to his watch, he encountered a sudden squall when off Dunnose.
 
 The Coroner : Had you any warning of the squall's approach? -It looked rather bad to windward before it came on.
 

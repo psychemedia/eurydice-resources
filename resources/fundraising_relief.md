@@ -3,6 +3,7 @@
 Almost immediately following reports of the tragedy, fundraising relief activities sprang into action to raise funds to support the "wives, orphans and relatives" of the lost seamen. The committee so convened had in part been involved with another relief effort from another fatal incident at Portsmouth Harbour several years earlier.
 
 ```{admonition} The Thunderer Disaster
+:class: seealso dropdown
 
 TO DO - Thunderer boiler explosion 14 July 1876, https://en.wikipedia.org/wiki/HMS_Thunderer_(1872), killing 45 people, 15 instantly, 30 of ~70 othes injured dying later.  proceeded from Portsmouth Harbour to Stokes Bay, overlooking the island.
 

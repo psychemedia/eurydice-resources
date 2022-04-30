@@ -98,6 +98,21 @@ Late on Friday night a storm set in, and the Rinaldo and the lumps, which were m
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0004565/18780527/032/0002
+Magnet (London)
+
+Monday 27 May 1878
+
+p2
+
+THE "EURYDICE" FATALITY.
+
+*Republishes a Hampshire Advertiser article of Saturday 25 May 1878, describing the number of bodies recovered to date, but ends short and slightly differently:*
+
+During the recent gales the Eurydice has sunk two feet and a half further into the mud, and the misgivings as to the possibility of her being raised are now materially strengthened.
+
+---
+
 TEXT
 
 Two months on, and more bodies were starting to be picked up along both the mainland and Island coast. People were also starting to doubt whether the wreck could ever be raised at all, or would have to be blown up once all the bodies had floated free.

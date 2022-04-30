@@ -13,6 +13,10 @@ An advert for the book appeared in the Hampshire Telegraph of Saturday [25th May
 
 The first part of the book reviews what daily life would have been like in the last few days of the Eurydice's voyage back from the West Indies leading up to Sunday, March 24th, 1878.
 
+Before the mast - life aboard
+```{youtube} g6OK63I7nxo
+```
+
 
 ```{admonition} THE LAST FOUR DAYS OF THE " EURYDICE." - Tuesday, April 30th, 1878
 :class: note dropdown
