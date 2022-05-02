@@ -56,6 +56,9 @@ Example of sail names for a three masted sailing ship
 ![](../images/hall_map_iw.jpg)
 Hall map IW ~1850?
 
+![](../images/Hall_map_Brading_harbour_c1850.png)
+Hall map IW ~1850? Brading harbour
+
 ![](../images/wight-map-1885ish.png)
 WIght map 1885ish?
 

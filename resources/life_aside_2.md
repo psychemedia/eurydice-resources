@@ -14,14 +14,19 @@ An Ordnance Survey map of the Isle of Wight around 1853 shows the full extent of
 OS IW Mudge 1853
 https://archive.org/details/dr_10-isle-of-wight-6916014
 
-A print from around the same time shows the view of Bembridge from St. Helens.
+A close up from Hall's map of c. 1850 shows the extent of the harbour in more detail.
+
+![](../images/Hall_map_Brading_harbour_c1850.png)
+Hall map IW ~1850? Brading harbour
+
+At the shore, a print from around the same time shows the view of Bembridge from St. Helens.
 
 ![](../images/3512272457_8784bc5a44_b.jpg)
 Isle of Wight : Bembridge from St.Helens . Harbour section of Victorian Print c.1850s.
 Isle of Wight : A finely detailed print view titled " Bembridge from St.Helens " : a Victorian Print c.1850s.
 https://www.flickr.com/photos/lenton_sands/3512272457/
 
-The first inklings of what were to come appeared in 1864 with the adoption of *The Bembridge Railway, Tramway, and Pier Act, 1864*.
+The first inklings of what were to come appeared in 1864 with the adoption of *The Bembridge Railway, Tramway, and Pier Act, 1864*, weer ranyone to be paying attention to the matter.
 
 ---
 
@@ -134,6 +139,11 @@ BEMBRIDGE, March 14.
 
 ---
 
+TEXT
+
+As the Hampshire Advertiser observed, access to Bembridge was hampered by the lack of direct access to it from places such as Ryde.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18770314/028/0003
 Hampshire Advertiser
 Wednesday 14 March 1877
@@ -141,7 +151,12 @@ p3
 
 BEMBRIDGE, March 14.
 
-" Improvements." — Anyone who has visited this part of the Island, and noticed the beautiful sandy beach, the picturesque sea and land views, and the healthy climate, must have felt some little surprise that it has not been so well frequented aa other places. Its beauties and advantages have at last been discovered, however, and, as with the rest of the Island, things are looking up here. The chief reason which haa prevented Bembridge from being oftener visited has been the fact of it being rather difficult of access. Although only a short distance from Ryde there is no getting a carriage there, unless one goes round the harbour, whioh adds several miles to the journey. If a carriage is taken to St. Helen's, it has to be left there, and passengers are ferried over in small boats for 1d. The harbour here is of considerable width, and the channel of some depth, but an unfortunate bar across its mouth has prevented it being useful to large vessels, though yachts, barges, &c., find no difficulty in navigating it, and no less than 655 coasting craft, carrying coal, timber, &c., entered the harbour in 1876, and 600 discharged cargoes at Brading. This being the case, the inhabitants naturally wish to preserve the harbour, though desirous, at the same time, of seeing as many improvements carried out as possible. The great improvement ia a projected railway, and, while welcoming it on one account as likely to benefit them, they are strongly opposed to the company, who have obtained powers to improve the harbour as well aa make a railway, and they propose a scale of tolls, at which the inhabitants are highly indignant. No vessels could come in without a toll, aod all the old rights and privileges of the fishermen will be gone for ever. Although the Act of the company has actually passed, Captain McDonald, R.N., has taken an active part in calling attention to its provisions, and has written to the Lords Commissioners of the Admiralty and the Board of Trade, but hitherto without a favourable reply. This gentleman was instrumental in calling a public meeting of the inhabitants last week, when it was clearly shown that the company had trenched coniderably upon their original plans, and that the harbour would no longer be free if they carried out all that was intended. A committee, consisting of the following gentleman, was appointed to do what they could to preserve the rights of the inhabitants : — Captain McDonald, Capt Clayton, Messrs. T. E. Osborn, Searl, W. Osborn, Morsell, Weaver, Damp, and Jones.
+" Improvements." — Anyone who has visited this part of the Island, and noticed the beautiful sandy beach, the picturesque sea and land views, and the healthy climate, must have felt some little surprise that it has not been so well frequented as other places. Its beauties and advantages have at last been discovered, however, and, as with the rest of the Island, things are looking up here. The chief reason which haa prevented Bembridge from being oftener visited has been the fact of it being rather difficult of access. Although only a short distance from Ryde there is no getting a carriage there, unless one goes round the harbour, whioh adds several miles to the journey. If a carriage is taken to St. Helen's, it has to be left there, and passengers are ferried over in small boats for 1d. The harbour here is of considerable width, and the channel of some depth, but an unfortunate bar across its mouth has prevented it being useful to large vessels, though yachts, barges, &c., find no difficulty in navigating it, and no less than 655 coasting craft, carrying coal, timber, &c., entered the harbour in 1876, and 600 discharged cargoes at Brading. This being the case, the inhabitants naturally wish to preserve the harbour, though desirous, at the same time, of seeing as many improvements carried out as possible. The great improvement ia a projected railway, and, while welcoming it on one account as likely to benefit them, they are strongly opposed to the company, who have obtained powers to improve the harbour as well aa make a railway, and they propose a scale of tolls, at which the inhabitants are highly indignant. No vessels could come in without a toll, aod all the old rights and privileges of the fishermen will be gone for ever. Although the Act of the company has actually passed, Captain McDonald, R.N., has taken an active part in calling attention to its provisions, and has written to the Lords Commissioners of the Admiralty and the Board of Trade, but hitherto without a favourable reply. This gentleman was instrumental in calling a public meeting of the inhabitants last week, when it was clearly shown that the company had trenched coniderably upon their original plans, and that the harbour would no longer be free if they carried out all that was intended. A committee, consisting of the following gentleman, was appointed to do what they could to preserve the rights of the inhabitants : — Captain McDonald, Capt Clayton, Messrs. T. E. Osborn, Searl, W. Osborn, Morsell, Weaver, Damp, and Jones.
+
+---
+TEXT
+
+Presumably despite the committee's best efforts, work towards the reclamation was begun, the activity prompting various brief histories of an earlier attempt to reclaim the same land to appear.
 
 ---
 
@@ -156,7 +171,7 @@ BRADING, Oct. 24.
 
 Reclamation of Mudlands at Brading Harbour.
 
-Brading Harbour, although a pretty sheet of water at high tide, presents nothing but a vast expanse of mud flats when tbe water is out, and the channel, which runs between them to Brading quay, is very intricate. Nowhere does the water flow over the mud flats more than two or three feet, and nothing is easier tban for a vessel to get aground in making her way up the harbour. The celebrated Hugh Middleton, the engineer who did so much for the water supply of London, as long ago as the 17th century, is said to have conceived the idea of reclaiming these mud flats, and converting them into arable land, but owing to tbe defective engineering appliances of those days, he did net succeed, and old inhabitants of St. Helen's say that wood work aid other relics of his attempt existed till quite recently, A company bas been formed with much the same object in view as Hugh Middleton, with the addition of a railway. They are now actively at work, and have already reclaimed a plot of land at Bembridge, which will be converted into a railway station. An embankment is now being constructed across tbe harbour to shut out the sea, and thus reclaim about 800 acres of land. A large quay will be made at St. Helen's Mill, where goods will be landed and carried by railway to Brading. instead of being taken by boats. The entrance to the harbour will also be improved, so that vessels of larger burden cau enter. A railway is now in course of construction for the conveyance of passengers to Bembridge and St. Helen's. As both these are pretty places, and possess a good beach, there seems every probability that they will, ere long, become watering places of importance.
+Brading Harbour, although a pretty sheet of water at high tide, presents nothing but a vast expanse of mud flats when tbe water is out, and the channel, which runs between them to Brading quay, is very intricate. Nowhere does the water flow over the mud flats more than two or three feet, and nothing is easier tban for a vessel to get aground in making her way up the harbour. The celebrated Hugh Middleton, the engineer who did so much for the water supply of London, as long ago as the 17th century, is said to have conceived the idea of reclaiming these mud flats, and converting them into arable land, but owing to tbe defective engineering appliances of those days, he did net succeed, and old inhabitants of St. Helen's say that wood work aid other relics of his attempt existed till quite recently. A company has been formed with much the same object in view as Hugh Middleton, with the addition of a railway. They are now actively at work, and have already reclaimed a plot of land at Bembridge, which will be converted into a railway station. An embankment is now being constructed across tbe harbour to shut out the sea, and thus reclaim about 800 acres of land. A large quay will be made at St. Helen's Mill, where goods will be landed and carried by railway to Brading. instead of being taken by boats. The entrance to the harbour will also be improved, so that vessels of larger burden can enter. A railway is now in course of construction for the conveyance of passengers to Bembridge and St. Helen's. As both these are pretty places, and possess a good beach, there seems every probability that they will, ere long, become watering places of importance.
 
 ---
 
@@ -173,7 +188,11 @@ It may not be uninteresting to many of our Isle of Wight readers, now that the r
 A very curious contemporary manuscript by Sir John Oglander, is still preserved amongst the archives of the Oglander family, who hold a great part of the ueighbounng land, from which it would appear that after the ground was recovered, it was not of much value. The best portion was that nearest Brading ; 200 acres were worth about 6s 8d the acre, and all the rest about 2s 6d the acre (!). Wheat, barley, cabbage, and oats, all failed to grow on it ; but rape succeeded best ; all the others came to nothing. At last, on the 8th of May, 1630, there came a very high spring tide, when the sea made a breach, and, not being attended to soon euougb, got worse and worse, till at last it was all covered again with the sea. The total amount lost in the attempt is said to be about £7000. The manuscript referred to further says that though the country people were much against the reclamation of the harbour, yet it " caused a great deal more health in tbese parts than was ever known before." The gates whioh served for a sluice were dug up some years ago near the boatbouse on St. Helen's, " Duvver."
 
 ---
+TEXT
 
+As with many projects, it seems that once thet starts, they take on a life of their own and beget yet further works.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18771124/001/0001
 Hampshire Telegraph
 Saturday 24 November 1877
@@ -205,6 +224,12 @@ Printed copie of the Bill will, on or before the 21st of December, 1877, be depo
 
 WRIGHT, BONNER & WRIGHT,  
 48, King William-street, London, E.C.
+
+---
+
+TEXT
+
+It also seems that the Brading Harbour and Railway Company would also seek other opportunities as to doing business.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002569/18771215/147/0004
