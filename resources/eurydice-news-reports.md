@@ -5,6 +5,27 @@
 
 
 
+TEXT
+
+https://bembridgeharbourtrust.org/local-history/
+
+The major closure of Brading Haven to form what is now known as Bembridge Harbour was started in 1874 and finally finished, after several abortive attempts, in 1880. After this work was completed the ownership of the Harbour passed into the hands of the local railway company. It passed to the Southern Railway after the First World War and then British Railways following nationalisation. It eventually passed back into private hands in 1968.
+
+In 1864, the Bembridge Railway, Tramway and Pier Act was passed by Parliament, authorising the construction of land-reclamation works and the building of a pier. By 1878 over 800 acres of land were reclaimed, and a pier built. Bembridge Harbour Pier was only 250ft long, and quite narrow too. Despite this, it was used by ships such as the 46 tonnes Tynemouth, and after the harbour had been dredged to allow larger ships, such as the 125ft. Island Queen in 1878 and in 1892 the 104 tonnes, 137ft paddle steamer Princess of Wales, which was re-named the Bembridge. This was run by the Southsea and Ventnor Steamship Company. This later merged with the Southsea, Ventnor, Shanklin and Sandown Steamship Company to become the Bembridge and Seaview Steamship Company in 1912. Ships which called at Bembridge regularly on a passenger service included the Sandringham, Prince, Duke of York, Carrier and the 130ft Lord Kitchener. The largest ferry was the Alexandra in 1913, which was a 235-tonne ship and 171ft long.
+
+Jabez Balfour scandal - https://en.wikipedia.org/wiki/Jabez_Balfour
+
+http://www.historicrydesociety.co.uk/hear-jabez-balfours-unfulfilled-plans-bembridge/
+
+1864 (27 & 28 Vict.) chapters clxxviii-cccxxix inclusive
+
+https://www.legislation.gov.uk/changes/chron-tables/local/55
+c.cccxxvii
+Bembridge Railway, Tramway and Pier.
+
+
+...
+
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780420/031/0006
 Isle of Wight Observer

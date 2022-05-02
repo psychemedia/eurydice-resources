@@ -1,6 +1,23 @@
 # H.M.S. Eurydice, Training Ship
 
-In 1877, H.M.S. Eurydice was refitted as a training ship. For many years, the fleet had been moving over to armoured steamships and rigged sailing ships were no longer appropriate for modern naval warfare. However, it was still felt that sailors should still be able to handle traditionally rigged vessels and that training ratings on them would be to their benefit as seamen.
+In 1877, H.M.S. Eurydice was refitted as a training ship. For many years, the fleet had been moving over to armoured steamships and rigged sailing ships were no longer appropriate for modern naval warfare.
+
+One indication of the reduced sailing requirement was the closure of the ropery in Portsmough Dockyard in 1868.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18680523/013/0004
+Hampshire Telegraph
+Saturday 23 May 1868
+p4
+
+LOCAL AND DISTRICT INTELLIGENCE.
+
+The ropery in the Dockyard at Portsmouth was closed on Saturday last, and the whole of the men have been discharged, with the exception of the master ropemaker and a writer. The master ropemaker is appointed to the ropery in Devonport yard, to supersede the officer of That rank at that establishment. The cause of this particular feature in the dockyard discharge has been brought about in consequence of a determination to manufacture for the future the Government rope in the yards at Chatham and Devonport, where complete arrangements are made for the employment of female labour. These women, we hear, earn from 8s. to 12s. weekly, and every possible care has been taken to provide suitable and becoming accommodation for those who are so engaged. In addition to the number of workmen who have already been discharged from Portsmouth dockyard about 50 joiners and labourers will leave next week; and this batch, according to present arrangements, will bring to a close the extraordinary exodus of artifieers which has recently taken place from this establishment. We inadvertently omitted from the list of members of the Town Council who accompanied the Mayor to London, in support of the appeal on behalf of the discharged ropemakers, the name of Mr. W. H. Dore. The omission was the more to be regretted because Mr. Dore has been from the first one of the most active of those who are interesting themselves in the dockyard discharge.
+
+---
+TEXT
+
+However, it was still felt that sailors should still be able to handle traditionally rigged vessels and that training ratings on them would be to their benefit as seamen.
 
 ![](../images/ILN_1878_loss_of_euridyce_apr_06_011.jpg)
 Illustrated London News — H.M.S. Eurydice as she lay in Portsmouth harbour before her last voyage - from a photograph, April 6, 1878
@@ -20,7 +37,6 @@ p5
 SEAMANSHIP OF YOUNG SAILORS.
 
 The Admiralty are about to take practical measures for improving the seamanship of our young sailors. At present a boy having served a certain time on board a training-ship is transferred to a flagship, where he becomes an ordinary seaman. He is then draughted to a sea-going ship, and may, under favourable conditions, become an expert and efficient seaman, knowing the name and use of every rope on board, and capable of turning his hands to anything that may be required in the severest weather. It may happen, however, that he is sent to a ram of Rupert type, or a mastless ship like the Devastation where he can learn little or nothing of his profession; and as vessels of these classes are increasing, and likely to increase, it is necessary that special measures should be taken to bestow a thorough sea training upon young seamen, so that they may find themselves at home, no matter what the character of the ship may be to which they are despatched. A step in the right direction has been taken by the fitting out of the Eurydice, a sixth-rate wooden fripate of the old class as a sea-going training-ship for ordinary seamen. The Eurydice is 140ft. in length between perpendiculars. 78ft. in extreme breadth, and 921 tons burthen, old measurement. When ready for commission she will furnish accommodation for 280 young seamen, in addition to her commander and staff of officers. She will carry six 64-pounder 71cwt. guns, mounted on rear truck carriages, three on each side of the main deck. She will be ship rigged, and will probably have an independent commander's commission. Before being draughted for service in sea-going ships young ordinary seamen will undergo a six months' practical training at sea on board the Eurydice, which is totally guiltless of machinery of any kind and it cannot be doubted that the professional schooling which they will thereby receive will go far to improve the efficiency of our seamen as sailors.
-
 
 [This article seems to have been syndicated widely.]
 
@@ -141,15 +157,10 @@ Provenance
 Album compiled by the Reverend J N Dalton (1839-1931) and presented to King George V
 https://www.rct.uk/collection/2580515/hms-eurydice-at-st-lucia-before-her-last-voyage-home-1878
 
----
-
-TEXT
-
 ## Rumour of Disaster
 
 
 Rumour had it that a calamity had befallen the ship, but a telegram reported in the *Naval & Military Gazette and Weekly Chronicle of the United Service* of Wednesday 21 November 1877, received 17th of November and dated November 16th, 1877, revealed that all was well.
-
 
 ---
 
