@@ -63,6 +63,9 @@ WIght map 1885ish?
 The Isle of Wight, AW Fowles, 1897
 http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
 
+![](../images/os-IW-1853-mudge-archive-org-6916014.jpg)
+IW OS Mudge 1853
+https://archive.org/details/dr_10-isle-of-wight-6916014
 
 ![](../images/004956958-SVC2_jpg_annotated.png)
 The Isle of Wight, AW Fowles, 1897 annotated
