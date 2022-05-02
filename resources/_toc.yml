@@ -28,12 +28,15 @@ parts:
   chapters:
   - file: __fundraising_relief
   - file: __eurydice_bodies_funerals_and_memorials
-
   - file: __eurydice_poems
   - file: __eurydice_reminiscences
 - caption: The Bureaucratic Tale
   chapters:
   - file: __eurydice_tracked_in_parliament
+- caption: Continued Improvements at Bembridge and St Helens
+  chapters:
+  - file: __brading_haven_reclamation
+  - file: __bembridge_improvement
 - caption: Endnotes
   chapters:
   - file: image_refs
