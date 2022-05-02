@@ -383,7 +383,9 @@ Island Queen at Bembridge Pier
 
 ---
 
-
+![](../images/BL_0001578_18800417_120_0021_pdf.png)
+Reclamation of Brading Harbour, Illustrated London News, Saturday 17 April 1880, p21
+https://www.britishnewspaperarchive.co.uk/viewer/BL/0001578/18800417/120/0021?browse=true
 
 IW maps - https://www.islandeye.co.uk/history/
 
