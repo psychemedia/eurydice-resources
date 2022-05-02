@@ -64,7 +64,18 @@ It was hoped that, with fine weather, the programme arranged by Admiral Superint
 ```
 
 
-Nor the next week...
+Nor the next week, which also saw advertisements for the sale of a photograph of the wreck.
+
+
+```{admonition} LOSS OF H.M.S. EURYDICE off Dunnose, Isle of Wight, and over 300 officers and men.—A very fine Photo - Wednesday, July 10th, 1878
+:class: note dropdown
+
+[Naval & Military Gazette and Weekly Chronicle of the United Service](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18780710/004/0001), 1878-07-10, p. 1
+
+graph of this Ship may be had (size 6in, by 6in. at 2s qnd 11in. by 9in. at 3s. each) post free... —Address, Symonds and Co , Photographers, Portsmouth.
+
+```
+
 
 
 ```{admonition} THE RAISING OF THE EURYDICE. - Wednesday, July 10th, 1878
@@ -225,6 +236,17 @@ We had hoped to have been able to record the fact that the Eurydice was safe in 
 ```
 
 
+
+```{admonition} PHOTOGRAPH OF THE EURYDICE - Thursday, August 1st, 1878
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780801/060/0005), 1878-08-01, p. 5
+
+Mr. C. Knight. Union-street, has just published an excellent photograph of the Eurydice.
+
+```
+
+
 With the Eurydice now closer to shore, the wreck provided a spectacle from across the Island, and even further afar.
 
 
@@ -269,6 +291,17 @@ A number of liberty men were sent ashore on Monday evening, under orders to retu
 A CURIOUS INCIDENT
 
 Among the officers on board the Eurydice at the time she foundered was Mr. Charles V. Strange, a lieutenant who is said to be the owner of part of the Epsom Racecourse. His will has been in the possession of his friends, but it was believed that there was also a codicil which, though diligent search has been made, could not be found. Yesterday the codicil was discovered on board.
+
+```
+
+
+
+```{admonition} THE RECOVERY OF THE EURYDICE. - Thursday, August 8th, 1878
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/118/0005), 1878-08-08, p. 5
+
+PHOTOGRAPH of the scene in Sandown Bey may be had of the Booksellers; also of the Photographer. F. N. Broderick, Jun., (by post or otherwise.) Top of West-street, Ryde. Price 6d. and 1s. each.
 
 ```
 
@@ -603,5 +636,16 @@ The operations for heeling the wreck were resumed on Tuesday, and attended with 
 The pumping operations were begun on board the Eurydice at seven o'clock on Wednesday night, but mainly for the purpose of testing the pumps, the actual attempt to pump her out having been fixed for Thursday morning. She soon became buoyant and lively, and as the great weight of thick mud on the port side still retained its positon when the ship was canted over to starboard and thus more than counterbalanced the weight of the guns, she would have toppled over again on her port bilge had measures not been taken to prevent it. For some time the pumps gained upon the water, but soon they pumped out nothing but clean water, from which it appeared that there were still extensive leakages. The operations were then stopped. The holes extend over 30 feet in length on the port bilge, and one fracture covers a space of 8ft. by 6ft. The dash and rush of the be water inside had bulged the stoppings outward, which now require to be straightened and strengthened, besides forcing out the oakum caulking. On Thursday morning there was half-a-gale blowing out beside the ship, which strained her very much, and so darkened the water that the divers could not see below. Eight more bodies have been recovered since the ship was turned over. Caulking operations were continued yesterday.
 
 [EXTRACT]
+
+```
+
+
+
+```{admonition} The Eurydice. - Saturday, August 31st, 1878
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780831/007/0005), 1878-08-31, p. 5
+
+Mr. Jabiz Hughes has obtained some really remarkable views of the wrecked Eurydice as she lies of St. Helen's. The great defect in all the photos hitherto obtained is that they are taken from so great a distance that the wrecked ship bears but an insignificant part in the general view. Mr. Hughes appears to have taken his picture instantaneously from some boat close to the wreck, the position of the ship being accurately shown, as well as the men on her deck searching for the bodies, &c. The photographs are printed by the permanent process.
 
 ```

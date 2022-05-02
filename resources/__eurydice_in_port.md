@@ -250,6 +250,17 @@ The last of the Eurydice was seen yesterday, when the old timbers of the ship we
 ```
 
 
+
+```{admonition} The Diving at the Wreck of the Eurydice. - Saturday, October 19th, 1878
+:class: note dropdown
+
+[Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18781019/011/0005), 1878-10-19, p. 5
+
+With reference to the amount paid to the divers in connection with the raising of the Eurydice, Messrs. Siebe and Gorman, submarine engineers to the Royal Navy, write that they had four men engaged at the wreck, and not three, as stated, and that it was only their foreman diver who received £1 5s. per tide. During the four months that operations were carried on the men were working day and night, and the pay they received was in the aggregate the same as that of the dockyard divers.
+
+```
+
+
 A few relics from the ship were passed to the Princess(?) of Wales and Captain Hare's widow.
 
 

@@ -299,6 +299,42 @@ Took the three hundred wanderers Home.
 
 TEXT
 
+It seems there might be some more sketches out there that I haven't tracked down yet!
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/012/0005
+Isle of Wight Observer
+Saturday 13 April 1878
+p5
+
+The Loss or the " Eurydice."
+
+Several very good sketches of incidents following the loss of the Eurydice appeared in the Pictorial World last week.
+
+---
+
+TEXT
+
+Meanwhile, more information was coming in as to who might have been on the ship, and who might have not.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002865/18780413/090/0006
+
+Brecon County Times 
+Saturday 13 April 1878
+
+p6
+
+H.M.S. EURYDICE.
+
+The following telegram from the Commander-in-Chief, North America, was received yesterday, giving the names of certain men discharged from Eurydice before she sailed for Bermuda, and of men discharged into her for passage to England:— Ships Corporals—Charles J. Saunders. Ordinary seamen— Charles F. Butler, Alfred W. Walker, Peter Lamond, Wm. Russell, Hairy Underwoud, John Scanlen, Charles McDermott, and James Nara, discharged from Eurydice before she left Bermuda. Following discharged into her for passage from Terror Ship's corporal—Henry Nye, Colour-Sergeant, R.N.L.I, Henry Gowler, private. Privates Alfred E. Howe, Alfred Russell, John Saunders, John Graham, John Young, William Hull, Edwin Parker, Frederick Thorne, Frederick Hibbert„ Henry Smith. From Argus—Ordinary seaman, J. Toser; late ship's corporal, F. Derrick; late captain's cook, Private R.N.L.I., James R. Clynes; domestic, H. W. Sapik. From Rover—Ordinary seamen Henry Maxwell and Valentine Wildson. From Bullfinch—Able seaman, William Larkin. From Plover, ordinary seaman, Edward Green ; from Zephyr, stoker, Edward Beale ; from Martin, ordinary seaman, William Shaston. Also following military passengers:— Royal Engineers— Captain Louis Ferrier: Corporals W. J. Curtis, J. Ewer; sappers H. G. Lairg, J. Stone, W. Lucas. 46th Regiment—Private H. Mausbridge.
+
+---
+
+TEXT
+
 As time went on, more details arrived regarding additional men who had been discharged onto the Eurydice in the West Indies.
 
 Another of the smaller boats from the Eurydice also appeared to have been recovered.

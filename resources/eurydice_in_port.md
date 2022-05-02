@@ -257,6 +257,17 @@ THE EURYDICE.
 The last of the Eurydice was seen yesterday, when the old timbers of the ship were sold at Portsmouth Dockyard by public auction. An order from the Admiralty prohibited the remnants of the ship being sold as relics of the Eurydice, so the lots were simply sold as old timber. The prices were about the ordinary prices, as the interest in the wreck has by this time altogether subsided.
 
 ---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18781019/011/0005
+Isle of Wight Observer
+Saturday 19 October 1878
+p5
+
+The Diving at the Wreck of the Eurydice.
+
+With reference to the amount paid to the divers in connection with the raising of the Eurydice, Messrs. Siebe and Gorman, submarine engineers to the Royal Navy, write that they had four men engaged at the wreck, and not three, as stated, and that it was only their foreman diver who received £1 5s. per tide. During the four months that operations were carried on the men were working day and night, and the pay they received was in the aggregate the same as that of the dockyard divers.
+
+---
 TEXT
 
 A few relics from the ship were passed to the Princess(?) of Wales and Captain Hare's widow.

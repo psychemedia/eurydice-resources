@@ -4,25 +4,6 @@
 ## SOURCES
 
 
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002865/18780413/090/0006
-
-Brecon County Times 
-Saturday 13 April 1878
-
-p6
-
-H.M.S. EURYDICE.
-
-The following telegram from the Commander-in-Chief, North America, was received yesterday, giving the names of certain men discharged from Eurydice before she sailed for Bermuda, and of men discharged into here for passage to England:— Ships Corporals—Charles J. Saunders. Ordinary seamen— Charles F. Butler, Alfred W. Walker, Peter Lamond, Wm. Russell, Hairy Underwoud, John Scanlen, Charles McDermott, and James Nara, discharged from Eurydice before she left Bermuda. Following discharged into her for passage from Terror Ship's corporal—Henry Nye, Colour-Sergeant, R.N.L.I, Henry Gowler, private. Privates Alfred E. Howe, Alfred Russell, John Saunders, John Graham, John Young, William Hull, Edwin Parker, Frederick Thorne, Frederick Hibbert„ Henry Smith. From Argus—Ordinary seaman, J. Toser; late ship's corporal, F. Derrick; late captain's cook, Private R.N.L.I., James R. Clynes; domestic, H. W. Sapik. From Rover—Ordinary seamen Henry Maxwell and Valentine Wildson. From Bullfinch—Able seaman, William Larkin. From Plover, ordinary seaman, Edward Green ; from Zephyr, stoker, Edward Beale ; from Martin, ordinary seaman, William Shaston. Also following military passengers:— Royal Engineers— Captain Louis Ferrier: Corporals W. J. Curtis, J. Ewer; sappers H. G. Lairg, J. Stone, W. Lucas. 46th Regiment—Private H. Mausbridge.
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780413/012/0005
-Isle of Wight Observer
-Saturday 13 April 1878
-p5
-
-The Loss or the " Eurydice." — Several very good sketches of incidents following the loss of the Eurydice appeared in the Pictorial World last week.
-
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780420/031/0006
@@ -54,91 +35,6 @@ The following subscriptions on behalf of the same fund has been received by Mr. 
 
 
 
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780530/078/0005
-Isle of Wight Times
-Thursday 30 May 1878
-p5
-
-THE CHIEF CONSTRUCTOR ON THE EURYDICE, &c.—
-
-The chief constructor of the Dockyard (Mr. W. B. Robinson), addressing the members of the Literary and Scientific Society, lat week, said that non-attention to science was sure to lead to failure, and sometimes to catastrophe. The capsising of H.H.S. Captain would have been prevented had the officer in command read an article previously written by the present member for Pembroke. That article would have taught him the folly of carrying sail on the ship under the circumstances it was carried when she went down. There was a more recent catastrophe which he would not discuss, but he very much regretted— and it was common enough to regret— that science had not been called in for more than four weeks to devise the best means of raising the Eurydice. It was essential that a man should know enough of ordinary things in a scientific manner, in order to foresee what was likely to happen. The President (Mr. J. Douglas) remarked that it was a disgrace to engineering men that that vessel should remain unraised, and the scandal was the greater that Captain Coppin, of the Steam Salvage Company, offered to raise the Eurydice immediately afer the disaster, but received no reply for nearly a fortnight, when his offer was declined with thanks. As he understood, Captain Coppin had afterwards offered to bring up the bodies from the ship, but this offer was also declined.
-
-
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780620/125/0008
-Isle of Wight Times
-Thursday 20 June 1878
-
-p8
-
-WIT AND HUMOUR (from Punch.)
-
-BY THE ADMIRALTY. – WANTED, an Orpheus to go down and try to raise the Eurydice.
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18780710/004/0001
-Naval & Military Gazette and Weekly Chronicle of the United Service
-Wednesday 10 July 1878
-
-p1
-
-LOSS OF H.M.S. EURYDICE off Dunnose, Isle of Wight, and over 300 officers and men.—A very fine Photograph of this Ship may be had (size 6in, by 6in. at 2s qnd 11in. by 9in. at 3s. each) post free... —Address, Symonds and Co , Photographers, Portsmouth. 
-
----
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780801/060/0005
-Isle of Wight Times
-Thursday 01 August 1878
-
-p5
-PHOTOGRAPH OF THE EURYDICE
-
-Mr. C. Knight. Union-street, has just published an excellent photograph of the Eurydice.
-
----
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/118/0005
-Isle of Wight Times
-Thursday 08 August 1878
-p5
-
-THE RECOVERY OF THE EURYDICE.
-
-PHOTOGRAPH of the scene in Sandown Bey may be had of the Booksellers; also of the Photographer. F. N. Broderick, Jun., (by post or otherwise.) Top of West-street, Ryde. Price 6d. and 1s. each.
-
-
-
-
----
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780831/007/0005
-Isle of Wight Observer
-Saturday 31 August 1878
-p5
-
-The Eurydice.
-
-Mr. Jabiz Hughes has obtained some really remarkable views of the wrecked Eurydice as she lies of St. Helen's. The great defect in all the photos hitherto obtained is that they are taken from so great a distance that the wrecked ship bears but an insignificant part in the general view. Mr. Hughes appears to have taken his picture instantaneously from some boat close to the wreck, the position of the ship being accurately shown, as well as the men on her deck searching for the bodies, &c. The photographs are printed by the permanent process.
-
-
-
-
-
-https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18781019/011/0005
-Isle of Wight Observer
-Saturday 19 October 1878
-p5
-
-The Diving at the Wreck of the Eurydice.
-
-With reference to the amount paid to the divers in connection with the raising of the Eurydice, Messrs. Siebe and Gorman, submarine engineers to the Royal Navy, write that they had four men engaged at the wreck, and not three, as stated, and that it was only their foreman diver who received £1 5s. per tide. During the four months that operations were carried on the men were working day and night, and the pay they received was in the aggregate the same as that of the dockyard divers.
 
 ---
 

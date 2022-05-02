@@ -137,6 +137,17 @@ Another body was picked up at Selsey on Monday, but identification was impossibl
 We are inclined to the opinion of many who ought to know something of the matter, that the Eurydice will never be raised. She would, doubtless, have been blown up long ago, but for the effect this would have had on the feelings of the relatives of the unfortunate men, for the *attempt* to raise has cost perhaps as much as two or three Eurydices would ; and even if she were got up she would not be worth anything. We believe she will remain till all the bodies have disappeared, and then a charge of dynamite will cause their temporary coffin to disappear also.
 
 ---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780530/078/0005
+Isle of Wight Times
+Thursday 30 May 1878
+p5
+
+THE CHIEF CONSTRUCTOR ON THE EURYDICE, &c.—
+
+The chief constructor of the Dockyard (Mr. W. B. Robinson), addressing the members of the Literary and Scientific Society, lat week, said that non-attention to science was sure to lead to failure, and sometimes to catastrophe. The capsising of H.M.S. Captain would have been prevented had the officer in command read an article previously written by the present member for Pembroke. That article would have taught him the folly of carrying sail on the ship under the circumstances it was carried when she went down. There was a more recent catastrophe which he would not discuss, but he very much regretted— and it was common enough to regret— that science had not been called in for more than four weeks to devise the best means of raising the Eurydice. It was essential that a man should know enough of ordinary things in a scientific manner, in order to foresee what was likely to happen. The President (Mr. J. Douglas) remarked that it was a disgrace to engineering men that that vessel should remain unraised, and the scandal was the greater that Captain Coppin, of the Steam Salvage Company, offered to raise the Eurydice immediately afer the disaster, but received no reply for nearly a fortnight, when his offer was declined with thanks. As he understood, Captain Coppin had afterwards offered to bring up the bodies from the ship, but this offer was also declined.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780531/103/0006
 Shipping and Mercantile Gazette
 Friday 31 May 1878
@@ -168,7 +179,19 @@ The gale on Monday night and Tuesday has led to a suspension of the operations a
 ---
 TEXT
 
-With the weather improving, Eurydice's masts had started being removed. Meanwhile, at least one correspondent felt confident enough to recommend how the vessel might be lifted based on another example he could describe.
+With the weather improving, Eurydice's masts had started being removed. Meanwhile, a satirical take in Punch, and at least one correspondent felt confident enough to recommend how the vessel might be lifted based on another example he could describe.
+
+---
+
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780620/125/0008
+Isle of Wight Times
+Thursday 20 June 1878
+
+p8
+
+WIT AND HUMOUR (from Punch.)
+
+BY THE ADMIRALTY. – WANTED, an Orpheus to go down and try to raise the Eurydice.
 
 ---
 

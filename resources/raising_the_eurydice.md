@@ -80,7 +80,16 @@ It was hoped that, with fine weather, the programme arranged by Admiral Superint
 
 TEXT
 
-Nor the next week...
+Nor the next week, which also saw advertisements for the sale of a photograph of the wreck.
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0001681/18780710/004/0001
+Naval & Military Gazette and Weekly Chronicle of the United Service
+Wednesday 10 July 1878
+
+p1
+
+LOSS OF H.M.S. EURYDICE off Dunnose, Isle of Wight, and over 300 officers and men.—A very fine Photograph of this Ship may be had (size 6in, by 6in. at 2s qnd 11in. by 9in. at 3s. each) post free... —Address, Symonds and Co , Photographers, Portsmouth.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18780710/057/0003
@@ -253,6 +262,17 @@ We had hoped to have been able to record the fact that the Eurydice was safe in 
 
 ---
 
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780801/060/0005
+Isle of Wight Times
+Thursday 01 August 1878
+
+p5
+PHOTOGRAPH OF THE EURYDICE
+
+Mr. C. Knight. Union-street, has just published an excellent photograph of the Eurydice.
+
+---
+
 TEXT
 
 With the Eurydice now closer to shore, the wreck provided a spectacle from across the Island, and even further afar.
@@ -294,6 +314,17 @@ A number of liberty men were sent ashore on Monday evening, under orders to retu
 A CURIOUS INCIDENT
 
 Among the officers on board the Eurydice at the time she foundered was Mr. Charles V. Strange, a lieutenant who is said to be the owner of part of the Epsom Racecourse. His will has been in the possession of his friends, but it was believed that there was also a codicil which, though diligent search has been made, could not be found. Yesterday the codicil was discovered on board.
+
+
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780808/118/0005
+Isle of Wight Times
+Thursday 08 August 1878
+p5
+
+THE RECOVERY OF THE EURYDICE.
+
+PHOTOGRAPH of the scene in Sandown Bey may be had of the Booksellers; also of the Photographer. F. N. Broderick, Jun., (by post or otherwise.) Top of West-street, Ryde. Price 6d. and 1s. each.
 
 ---
 
@@ -658,3 +689,12 @@ The pumping operations were begun on board the Eurydice at seven o'clock on Wedn
 
 [EXTRACT]
 
+---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780831/007/0005
+Isle of Wight Observer
+Saturday 31 August 1878
+p5
+
+The Eurydice.
+
+Mr. Jabiz Hughes has obtained some really remarkable views of the wrecked Eurydice as she lies of St. Helen's. The great defect in all the photos hitherto obtained is that they are taken from so great a distance that the wrecked ship bears but an insignificant part in the general view. Mr. Hughes appears to have taken his picture instantaneously from some boat close to the wreck, the position of the ship being accurately shown, as well as the men on her deck searching for the bodies, &c. The photographs are printed by the permanent process.

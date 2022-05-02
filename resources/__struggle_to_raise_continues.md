@@ -117,6 +117,17 @@ We are inclined to the opinion of many who ought to know something of the matter
 
 
 
+```{admonition} THE CHIEF CONSTRUCTOR ON THE EURYDICE, &c.— - Thursday, May 30th, 1878
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780530/078/0005), 1878-05-30, p. 5
+
+The chief constructor of the Dockyard (Mr. W. B. Robinson), addressing the members of the Literary and Scientific Society, lat week, said that non-attention to science was sure to lead to failure, and sometimes to catastrophe. The capsising of H.M.S. Captain would have been prevented had the officer in command read an article previously written by the present member for Pembroke. That article would have taught him the folly of carrying sail on the ship under the circumstances it was carried when she went down. There was a more recent catastrophe which he would not discuss, but he very much regretted— and it was common enough to regret— that science had not been called in for more than four weeks to devise the best means of raising the Eurydice. It was essential that a man should know enough of ordinary things in a scientific manner, in order to foresee what was likely to happen. The President (Mr. J. Douglas) remarked that it was a disgrace to engineering men that that vessel should remain unraised, and the scandal was the greater that Captain Coppin, of the Steam Salvage Company, offered to raise the Eurydice immediately afer the disaster, but received no reply for nearly a fortnight, when his offer was declined with thanks. As he understood, Captain Coppin had afterwards offered to bring up the bodies from the ship, but this offer was also declined.
+
+```
+
+
+
 ```{admonition} THE ROYAL NAVY - Friday, May 31st, 1878
 :class: note dropdown
 
@@ -142,7 +153,18 @@ The gale on Monday night and Tuesday has led to a suspension of the operations a
 ```
 
 
-With the weather improving, Eurydice's masts had started being removed. Meanwhile, at least one correspondent felt confident enough to recommend how the vessel might be lifted based on another example he could describe.
+With the weather improving, Eurydice's masts had started being removed. Meanwhile, a satirical take in Punch, and at least one correspondent felt confident enough to recommend how the vessel might be lifted based on another example he could describe.
+
+
+```{admonition} WIT AND HUMOUR (from Punch.) - Thursday, June 20th, 1878
+:class: note dropdown
+
+[Isle of Wight Times](https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780620/125/0008), 1878-06-20, p. 8
+
+BY THE ADMIRALTY. – WANTED, an Orpheus to go down and try to raise the Eurydice.
+
+```
+
 
 
 ```{admonition} THE EURYDICE. - Thursday, June 20th, 1878
