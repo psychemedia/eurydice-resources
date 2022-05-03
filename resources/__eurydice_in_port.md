@@ -276,7 +276,7 @@ Relics of the ill feted Eurydice have been forwarded from Portsmouth to the Prin
 ```
 
 
-The story ends with the re-rating of the two survivors, Cuddeford and Fletcher's, and the Lord of the Admiralty taking the unusal step of making good their losses from the ship.
+The story ends with the re-rating of the two survivors, Cuddeford and Fletcher's, and the Lord of the Admiralty taking the unusual step of making good their losses from the ship.
 
 
 ```{admonition} NAVAL INTELLIGENCE - Sunday, December 22nd, 1878

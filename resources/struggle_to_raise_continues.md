@@ -145,7 +145,7 @@ p5
 
 THE CHIEF CONSTRUCTOR ON THE EURYDICE, &c.—
 
-The chief constructor of the Dockyard (Mr. W. B. Robinson), addressing the members of the Literary and Scientific Society, lat week, said that non-attention to science was sure to lead to failure, and sometimes to catastrophe. The capsising of H.M.S. Captain would have been prevented had the officer in command read an article previously written by the present member for Pembroke. That article would have taught him the folly of carrying sail on the ship under the circumstances it was carried when she went down. There was a more recent catastrophe which he would not discuss, but he very much regretted— and it was common enough to regret— that science had not been called in for more than four weeks to devise the best means of raising the Eurydice. It was essential that a man should know enough of ordinary things in a scientific manner, in order to foresee what was likely to happen. The President (Mr. J. Douglas) remarked that it was a disgrace to engineering men that that vessel should remain unraised, and the scandal was the greater that Captain Coppin, of the Steam Salvage Company, offered to raise the Eurydice immediately afer the disaster, but received no reply for nearly a fortnight, when his offer was declined with thanks. As he understood, Captain Coppin had afterwards offered to bring up the bodies from the ship, but this offer was also declined.
+The chief constructor of the Dockyard (Mr. W. B. Robinson), addressing the members of the Literary and Scientific Society, lat week, said that non-attention to science was sure to lead to failure, and sometimes to catastrophe. The capsising of H.M.S. Captain would have been prevented had the officer in command read an article previously written by the present member for Pembroke. That article would have taught him the folly of carrying sail on the ship under the circumstances it was carried when she went down. There was a more recent catastrophe which he would not discuss, but he very much regretted— and it was common enough to regret— that science had not been called in for more than four weeks to devise the best means of raising the Eurydice. It was essential that a man should know enough of ordinary things in a scientific manner, in order to foresee what was likely to happen. The President (Mr. J. Douglas) remarked that it was a disgrace to engineering men that that vessel should remain unraised, and the scandal was the greater that Captain Coppin, of the Steam Salvage Company, offered to raise the Eurydice immediately after the disaster, but received no reply for nearly a fortnight, when his offer was declined with thanks. As he understood, Captain Coppin had afterwards offered to bring up the bodies from the ship, but this offer was also declined.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780531/103/0006
@@ -163,7 +163,7 @@ The steamers went to the wreck of the Eurydice this morning, taking out an eight
 
 TEXT
 
-Yet more bad weather a fortnight later required the divers' boats to be taken back into harbour, but even that operation failed to go smoothly, with the boats suffering damge that would require repair and two men sustaining injuries.
+Yet more bad weather a fortnight later required the divers' boats to be taken back into harbour, but even that operation failed to go smoothly, with the boats suffering damage that would require repair and two men sustaining injuries.
 
 ---
 

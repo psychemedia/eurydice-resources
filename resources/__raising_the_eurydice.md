@@ -2,7 +2,7 @@
 
 By the end June, three months after the sinking of the Eurydice, a run of good weather had meant that things were now looking promising for a lift of the vessel.
 
-In the House of Commons, the Island's M.P., Mr. Baillie Gifford, wondered whether it might just be better to place a buoy over the wreck as a permament memorial. Another M.P. asked whether tenders would be put out to private recovery specialists if the Admiralty failed, again, to raise the Eurydice.
+In the House of Commons, the Island's M.P., Mr. Baillie Gifford, wondered whether it might just be better to place a buoy over the wreck as a permanent memorial. Another M.P. asked whether tenders would be put out to private recovery specialists if the Admiralty failed, again, to raise the Eurydice.
 
 
 ```{admonition} THE EURYDICE. - Saturday, June 29th, 1878
@@ -132,7 +132,7 @@ But then, finally, with the weather again favourable, the Eurydice was raised an
 
 [Portsmouth Evening News](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18780716/002/0002), 1878-07-16, p. 2
 
-The weather to-day was everything that could be wished and, as we anticipated would be the case, the authorities have, in consequence, achieved a great success. The Eurydice has not only been lifted out of her bed but she has been towed a distance of fifty yards. The work of pinning down was commenced at five o'clock this morning, and everything was readiness for the rising tide. As may be anticipated, there was much suppressed excitement on board the lifting vessels as the chains were seen to tighten and the vessels themselves began slightly to heel over. The water ballast which had beeu pumped into them in order to sink them three feet before pinning down, was now pumped out, and the other ballast having been arranged with the view of counteracting the strain, all proceeded well. As the tide flowed, the strain gradually increased, and it w»s soon apparent to the intense satisfaction of all, that this final attempt would prove to be a brilliant success. Shortly before the tide was at its height, the steamers which had been provided for towing purposes made fast to the lighters, and a comparatively short time the whole responded to their influence by moving slowly away from the spot where the wreck of the Eurydice has lain so long. After being towed about fifty yards, the bottom of the vessel seemed again to come in contact with the sand, and the effort was then discontinued. The party are now pinning down for the second time, and another lift will take place to-night. This process wiil be continued until she is high enough to pumped out. It is eminently satisfactory to knew that the department have at length surmounted the many and great difficulties of this most arduous undertaking, and for the public to ascertain that but for the weather the previous efforts would not have been fruitless.
+The weather to-day was everything that could be wished and, as we anticipated would be the case, the authorities have, in consequence, achieved a great success. The Eurydice has not only been lifted out of her bed but she has been towed a distance of fifty yards. The work of pinning down was commenced at five o'clock this morning, and everything was readiness for the rising tide. As may be anticipated, there was much suppressed excitement on board the lifting vessels as the chains were seen to tighten and the vessels themselves began slightly to heel over. The water ballast which had beeu pumped into them in order to sink them three feet before pinning down, was now pumped out, and the other ballast having been arranged with the view of counteracting the strain, all proceeded well. As the tide flowed, the strain gradually increased, and it w»s soon apparent to the intense satisfaction of all, that this final attempt would prove to be a brilliant success. Shortly before the tide was at its height, the steamers which had been provided for towing purposes made fast to the lighters, and a comparatively short time the whole responded to their influence by moving slowly away from the spot where the wreck of the Eurydice has lain so long. After being towed about fifty yards, the bottom of the vessel seemed again to come in contact with the sand, and the effort was then discontinued. The party are now pinning down for the second time, and another lift will take place to-night. This process will be continued until she is high enough to pumped out. It is eminently satisfactory to knew that the department have at length surmounted the many and great difficulties of this most arduous undertaking, and for the public to ascertain that but for the weather the previous efforts would not have been fruitless.
 
 ```
 
@@ -221,7 +221,7 @@ Attempts to raise her Majesty's ship Eurydice, lying in the English Channel, off
 ```
 
 
-With the wreck now in shallower water, further clearing of the wreck could be acheived, and a start made on removing he main mast. Attention was also paid to security concerns regarding entering and inspecting the cabins and retrieving valuable effects. Was there treasure on board?!
+With the wreck now in shallower water, further clearing of the wreck could be achieved, and a start made on removing he main mast. Attention was also paid to security concerns regarding entering and inspecting the cabins and retrieving valuable effects. Was there treasure on board?!
 
 
 ```{admonition} THE EURYDICE. - Thursday, July 25th, 1878
@@ -545,7 +545,7 @@ The wreck of the ill-fated Eurydice, which lies within a cable's length of the f
 ```
 
 
-A report a couple of days later reviews the royal visit in even more detail, revealing the vistors were also treated to a round-the-island trip.
+A report a couple of days later reviews the royal visit in even more detail, revealing the visitors were also treated to a round-the-island trip.
 
 
 ```{admonition} THE LOSS OF THE EURYDICE. - Wednesday, August 28th, 1878
@@ -633,7 +633,7 @@ The operations for heeling the wreck were resumed on Tuesday, and attended with 
 
 [Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780831/032/0008), 1878-08-31, p. 8
 
-The pumping operations were begun on board the Eurydice at seven o'clock on Wednesday night, but mainly for the purpose of testing the pumps, the actual attempt to pump her out having been fixed for Thursday morning. She soon became buoyant and lively, and as the great weight of thick mud on the port side still retained its positon when the ship was canted over to starboard and thus more than counterbalanced the weight of the guns, she would have toppled over again on her port bilge had measures not been taken to prevent it. For some time the pumps gained upon the water, but soon they pumped out nothing but clean water, from which it appeared that there were still extensive leakages. The operations were then stopped. The holes extend over 30 feet in length on the port bilge, and one fracture covers a space of 8ft. by 6ft. The dash and rush of the be water inside had bulged the stoppings outward, which now require to be straightened and strengthened, besides forcing out the oakum caulking. On Thursday morning there was half-a-gale blowing out beside the ship, which strained her very much, and so darkened the water that the divers could not see below. Eight more bodies have been recovered since the ship was turned over. Caulking operations were continued yesterday.
+The pumping operations were begun on board the Eurydice at seven o'clock on Wednesday night, but mainly for the purpose of testing the pumps, the actual attempt to pump her out having been fixed for Thursday morning. She soon became buoyant and lively, and as the great weight of thick mud on the port side still retained its position when the ship was canted over to starboard and thus more than counterbalanced the weight of the guns, she would have toppled over again on her port bilge had measures not been taken to prevent it. For some time the pumps gained upon the water, but soon they pumped out nothing but clean water, from which it appeared that there were still extensive leakages. The operations were then stopped. The holes extend over 30 feet in length on the port bilge, and one fracture covers a space of 8ft. by 6ft. The dash and rush of the be water inside had bulged the stoppings outward, which now require to be straightened and strengthened, besides forcing out the oakum caulking. On Thursday morning there was half-a-gale blowing out beside the ship, which strained her very much, and so darkened the water that the divers could not see below. Eight more bodies have been recovered since the ship was turned over. Caulking operations were continued yesterday.
 
 [EXTRACT]
 

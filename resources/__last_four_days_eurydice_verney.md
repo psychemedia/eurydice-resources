@@ -373,7 +373,7 @@ The tide must ebb, and the title must flow,
 Whilst the changing seasons come and go.  
 Still from the depths of that hidden store  
 There are treasures tossed up along the shore ;  
-Tossed by the billows— then siezed again —  
+Tossed by the billows— then seized again —  
 Carried away by the rushing main.  
 Oh, strangely glorious and beautiful sea !  
 Sounding for ever mysteriously,  

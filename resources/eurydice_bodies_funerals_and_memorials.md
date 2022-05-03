@@ -239,7 +239,7 @@ In connection with the Eurydice disaster, three other bodies have been recovered
 ---
 TEXT
 
-As befitted his rank as an officer, Lieutenant Burney's funeral, and a brief bioography of him, were reported, along with a futher favourable testimonial regarding Captain Ferrier.
+As befitted his rank as an officer, Lieutenant Burney's funeral, and a brief bioography of him, were reported, along with a further favourable testimonial regarding Captain Ferrier.
 
 Noting how grim the task of identifying the bodies must be, one of the juror's hoped that those to whom the task fell would be paid appropriately, a sentiment the Coroner was happy to pass on, if so instructed.
 
@@ -506,7 +506,7 @@ On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near
 
 TEXT
 
-As ever more bodies started to be retrieved fro the wreck, it seems that the names of the name recovered no londer tended to be recovered, even if they could be identified.
+As ever more bodies started to be retrieved from the wreck, it seems that the names of the name recovered no londer tended to be recovered, even if they could be identified.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18780815/078/0004

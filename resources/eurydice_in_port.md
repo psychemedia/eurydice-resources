@@ -289,7 +289,7 @@ Relics of the ill feted Eurydice have been forwarded from Portsmouth to the Prin
 ---
 TEXT
 
-The story ends with the re-rating of the two survivors, Cuddeford and Fletcher's, and the Lord of the Admiralty taking the unusal step of making good their losses from the ship.
+The story ends with the re-rating of the two survivors, Cuddeford and Fletcher's, and the Lord of the Admiralty taking the unusual step of making good their losses from the ship.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000101/18781222/013/0002

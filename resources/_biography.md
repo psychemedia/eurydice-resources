@@ -15,6 +15,6 @@ Previous and upcoming performances:
 
 - [*On the Trail of the Sin Eater*](https://psychemedia.github.io/sin-eater-resources/): pursuing a 19th century correspodence debate regarding the Welsh tradition — or not! — of the sin-eater;
 - [*On the Loss of the Eurydice*](https://psychemedia.github.io/eurydice-resources/): tracking down the story of the loss of HMS Eurydice, along with other local tales current at the time on the Isle Wight;
-- [*Story Notes — Technical Recipes*](https://psychemedia.github.io/storynotes/preface.html): developing a range of search tools over tradtional stories and story types.
+- [*Story Notes — Technical Recipes*](https://psychemedia.github.io/storynotes/preface.html): developing a range of search tools over traditional stories and story types.
 
 [__Please support this and other related *Storynotes* initiatives via `Patreon`.__](https://www.patreon.com/bePatron?u=3266916)
