@@ -293,12 +293,6 @@ TEXT
 
 A guide to the Isle of Wight, published in 1895, describes the scene of the reclamation just a few years on.
 
-A map produced around the same time also goves an indication of the extent of the land that had been reclaimed.
-
-![](../images/004956958-SVC2.jpg)
-The Isle of Wight, AW Fowles, 1897
-http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
-
 ---
 
 https://archive.org/details/isleofwight00cornrich/page/12/mode/2up?q=reclamation+
@@ -335,6 +329,12 @@ ALSO: map p76
 
 ---
 TEXT
+
+A map produced around the same time also goves an indication of the extent of the land that had been reclaimed.
+
+![](../images/004956958-SVC2.jpg)
+The Isle of Wight, AW Fowles, 1897
+http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
 
 ## Sale of Land
 

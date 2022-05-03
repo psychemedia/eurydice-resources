@@ -308,19 +308,6 @@ Notably, only men were allowed to play on the course. In the years to come, a sh
 
 A guide to the Isle of Wight, published in 1895, describes the scene of the reclamation just a few years on.
 
-A map produced around the same time also goves an indication of the extent of the land that had been reclaimed.
-
-
-```{figure} ../images/004956958-SVC2.jpg
----
----
-
-The Isle of Wight, AW Fowles, 1897
-http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
-```
-
-
-
 
 ```{admonition} Reclamation of Brading Haven - Friday, May 3rd, 1895
 :class: note dropdown
@@ -350,6 +337,19 @@ ALSO: IMAGE
 ALSO: map p76
 
 ```
+
+
+A map produced around the same time also goves an indication of the extent of the land that had been reclaimed.
+
+
+```{figure} ../images/004956958-SVC2.jpg
+---
+---
+
+The Isle of Wight, AW Fowles, 1897
+http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html
+```
+
 
 
 ## Sale of Land
