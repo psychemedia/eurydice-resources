@@ -18,10 +18,10 @@ Before the mast - life aboard
 ```
 
 
-```{admonition} THE LAST FOUR DAYS OF THE " EURYDICE." - Thursday, May 2nd, 1878
+```{admonition} THE LAST FOUR DAYS OF THE " EURYDICE." - Friday, May 3rd, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-02, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-03, p. ?
 
 By CAPTAIN E. H. VERNEY, R.N.
 
@@ -90,10 +90,10 @@ In November she was sent on a cruise all round the West Indies, and on March 6th
 
 
 
-```{admonition} __THURSDAY.__ - Thursday, May 2nd, 1878
+```{admonition} __THURSDAY.__ - Friday, May 3rd, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-02, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-03, p. ?
 
 "Oh ! what can sanitify the joys of home  
 Like Hope's gay glance from ocean's troubled form?"—  
@@ -131,10 +131,10 @@ Thursday is the guest-night in a ward room mess ; one or two of the junior oftic
 
 
 
-```{admonition} __FRIDAY.__ - Thursday, May 2nd, 1878
+```{admonition} __FRIDAY.__ - Friday, May 3rd, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-02, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-03, p. ?
 
 "Reef topsails, reef ! the master calls again,  
 The halyards and top-bow-lines soon are gone,  
@@ -167,10 +167,10 @@ If the Eurydice had one strong point, it there was one respect in which she was 
 
 
 
-```{admonition} __SATURDAY.__ - Thursday, May 2nd, 1878
+```{admonition} __SATURDAY.__ - Friday, May 3rd, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-02, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-03, p. ?
 
 Three wives sat up in the Lighthouse Tower,  
 They trimmed the lamps as the sun went down,  
@@ -216,10 +216,10 @@ Perhaps the deep-sea lead-line was got ready, the sail reduced, and a cast taken
 
 
 
-```{admonition} __SUNDAY.__ - Thursday, May 2nd, 1878
+```{admonition} __SUNDAY.__ - Friday, May 3rd, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-02, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-03, p. ?
 
 "The powerful sails, with steady breezes swelled,  
 Swift and more swift the yielding bark impelled ;  
@@ -263,10 +263,10 @@ To the danger of such squalls the Captain was alive, for both he and his First L
 The book then describes what happened on the afternoon of Sunday, March 24th, 1878. If you would like to read the tale as it unfurled in the press, hold off reading this until you have read the next couple of chapters.
 
 
-```{admonition} THE SQUALL. - Thursday, May 2nd, 1878
+```{admonition} THE SQUALL. - Friday, May 3rd, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-02, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-03, p. ?
 
 The wind blew fresh again : as it grew late  
 A squall came on. anil while some guns broke loose,  
@@ -314,10 +314,10 @@ Benjamin Cuddiford was saved by a life-buoy which he found floating in the water
 The work also includes a list of the crew, and republishes a poem that was ascribed in certain places to the captain of the Eurydice, Captain M. Hare, but which appears *not* to have been written by him at all.
 
 
-```{admonition} Appendix - THE CREW. - Thursday, May 2nd, 1878
+```{admonition} Appendix - THE CREW. - Friday, May 3rd, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-02, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-03, p. ?
 
 OFFICERS AND CREW OF H.M.S. "EURYDICE."
 
@@ -341,10 +341,10 @@ Peter Mason, ordinary, 1st class ; John Scanlan, ordinary, 1st class; M. Varcoe,
 
 
 
-```{admonition} Appendix - "SORROW ON THE SEA." - Thursday, May 2nd, 1878
+```{admonition} Appendix - "SORROW ON THE SEA." - Friday, May 3rd, 1878
 :class: note dropdown
 
-[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-02, p. ?
+[THE LAST FOUR DAYS OF THE " EURYDICE."](https://archive.org/details/lastfourdaysofeu00vern/page/n5/mode/2up), 1878-05-03, p. ?
 
 "There is sorrow on the sea — it cannot be quiet." — Jer. xlix. 23.
 

@@ -2,10 +2,12 @@
 
 In compiling the various resources included in this collection, I began by creating simple text copies of the original news articles based on scanned copies and automated text scans discovered via the online (subscription based) [British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/). But when it came to presenting the materials, a simple chronological ordering, without any interpretation or commentary, did not feel right.
 
-The tale itself is set on the Isle of Wight in the last quarter of the nineteenth century. The following map shows the key locations involved in the story.
+The tale of H.M.S. Eurydice is set on the Isle of Wight in the last quarter of the nineteenth century. The following map shows the key locations involved in this part of the story.
 
 ![](../images/004956958-SVC2_jpg_annotated.png)
 The Isle of Wight, AW Fowles, 1897 annotated
+
+But in tracking down reports of the Eurydice, I also started to come across various other stories that were in the air around the same period of time, and the same part of the island. And so the later part of the book leaves the Eurydice behind, and instead starts to concentrate on the locale around Brading, Bemridge, and St. Helens around the time that the Eurydice could be seen from those shores.
 
 In my previous set of storynotes, [*On the Trail of the Sin-Eater*](https://psychemedia.github.io/sin-eater-resources/_second_controversy_pt_iii.html), I did largely follow a chronologocial route, with liberal amounts of commentary on each piece of correspondence included. But for this collection, I wanted to try a different approach, keeping the commentary to a minimum, or at least, not including an *inline* commentary.
 

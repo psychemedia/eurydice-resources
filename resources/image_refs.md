@@ -399,3 +399,12 @@ REF NR: 556
 The third attempt to build a Ventnor pier was proposed by the Ventnor Local Board and accepted in July 1884.  Although it had its local dissenters, the pier's build began in 1885 and was completed in July 1887 with a length of 650 feet, sporting a horseshoe pierhead shape.
 
 ![](../images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg)
+
+![](../images/1810-l-34ff7871d1.jpg)
+via https://www.islandeye.co.uk/history/historic-parks/royal-isle-of-wight-ladies-golf-course-and-pavillion.html
+
+![](../images/royal_spithead_hotel.jpg)
+https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html
+
+![](../images/st_helens_golf_links.jpg)
+https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html

@@ -30,19 +30,6 @@ On landing I found a piece of the wreck, which I have now as a relic. A gentlema
 
 
 
-```{admonition} HAVANT OF PAST DAYS - Friday, September 6th, 1935
-:class: note dropdown
-
-[Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19350906/526/0024), 1935-09-06, p. 24
-
-A Eurydice Memory
-
-A vivid picture arises in my mind of a Sunday in March. 1878. It was one of those brilliant cloudless days, reminding one that winter is over. and giving a foretaste of summer days ahead. I was chorister of 12 then and was attending afternoon service at St. Faith's. Suddenly it grew dark, clouds blotted out the sun, the wind howled in fury round the building, and snow, sleet and hailstones dashed against the windows. Almost as suddenly at is began, the wind dropped, the clouds disappeared, and the sun shone out again. Probably the storm would have been forgotten, but for the catastrophe caused the same blizzard off the Isle of Wight. The Eurydice, a training vessel for young, sailors was caught on its way home Portsmouth after a long voyage. and capsized, every soul on board, except two, being drowned.
-
-```
-
-
-
 ```{admonition} LOST IN SIGHT OF HOME - Friday, April 22nd, 1932
 :class: note dropdown
 
@@ -92,5 +79,18 @@ Ah! whisper it gently, you sister or daughter,
 In the rigging house at Portsmouth Dockyard the figure-head of the ship is still preserved, a woman whose features harrowing grief—for it represents the fallen Eurydice calling in vain for Orpheus. From the neck of the figure-head is a tarnished and battered telescope, which was found in that position when the divers first descended to the wreck.
 
 A relief fund of £23,000 was raised for the dependents of the men who were lost.
+
+```
+
+
+
+```{admonition} HAVANT OF PAST DAYS - Friday, September 6th, 1935
+:class: note dropdown
+
+[Hampshire Telegraph](https://www.britishnewspaperarchive.co.uk/viewer/bl/0001973/19350906/526/0024), 1935-09-06, p. 24
+
+A Eurydice Memory
+
+A vivid picture arises in my mind of a Sunday in March. 1878. It was one of those brilliant cloudless days, reminding one that winter is over. and giving a foretaste of summer days ahead. I was chorister of 12 then and was attending afternoon service at St. Faith's. Suddenly it grew dark, clouds blotted out the sun, the wind howled in fury round the building, and snow, sleet and hailstones dashed against the windows. Almost as suddenly at is began, the wind dropped, the clouds disappeared, and the sun shone out again. Probably the storm would have been forgotten, but for the catastrophe caused the same blizzard off the Isle of Wight. The Eurydice, a training vessel for young, sailors was caught on its way home Portsmouth after a long voyage. and capsized, every soul on board, except two, being drowned.
 
 ```
