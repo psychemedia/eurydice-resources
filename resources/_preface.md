@@ -4,7 +4,7 @@ Several months ago, one of my fellow Island Storytellers, Sue Bailey, introduced
 
 I've since co-opted the story, trying to weave a narrative that tells the stories as a pair, starting with the myth of Orpheus and Eurydice then echoing back with the loss of HMS Eurydice when the sailors thought they were surely in sight of home. If you aren't familiar with the mythological tale, here's a quick summary:
 
-*Orpheus, son of Apollo, married the nymph Eurydice, but shortly after her wedding Eurydice stepped on a scorpion, was stung, and died. Orpheus was persuaded to try and recscue her from the underworld, and with his lyre in hand, he set out. Charming Charon, and Cerberus, and then even Hades and Persephone with the beuuty of his playing, Orpheus was allowed to take Eurydice back to the land of the living, on one condition: that he did not look back until both he and Eurydice, who was to follow behind him, both made it out of the underworld.*
+*Orpheus, son of Apollo, married the nymph Eurydice, but shortly after her wedding Eurydice stepped on a scorpion, was stung, and died. Orpheus was persuaded to try and rescue her from the underworld, and with his lyre in hand, he set out. Charming Charon, the boatman, and Cerberus, the fearsome hell hound, and then even Hades and Persephone with the majesty of his playing, Orpheus was allowed to take Eurydice back to the land of the living, on one condition: that he did not look back until both he and Eurydice, who was to follow behind him, both made it out of the underworld.*
 
 *All went well until the last few steps, when hearing what he thought was a stumble — or had he been tricked and was Eurydice being dragged back? — he turned... and the bargain was broken: Eurydice was lost forever.*
 
