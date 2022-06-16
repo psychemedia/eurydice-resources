@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>The First Inquest &#8212; On the Loss of the Eurydice</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_preface.html">
-   Preface
-  </a>
- </li>
-</ul>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="_intro.html">
    Introduction
@@ -273,12 +288,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -286,61 +306,105 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-        </div>
-    </div>
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>The First Inquest</h1>
@@ -351,18 +415,21 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="the-first-inquest">
-<h1>The First Inquest<a class="headerlink" href="#the-first-inquest" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="the-first-inquest">
+<h1>The First Inquest<a class="headerlink" href="#the-first-inquest" title="Permalink to this headline">#</a></h1>
 <p>The first inquest surrounding the tragedy was held in Ventnor on Tuesday, March 26th, 1878, for the three deceased sailors returned by the Emma, Lieutenant Francis Hope Tabor and Captain Louis Ferrier, R.E., who both died on board the Emma, and David Bennett, ordinary seaman, who was already dead when his body was retrieved from the sea.</p>
 <p>Originally planned to be held in the Queen’s Hotel, the Coroner asked if a larger room was available. The Freemasons Tavern was suggested as an alternative but eventually a large room in the Royal Hotel was offered for use by the Coroner.</p>
 <p>The aim of the inquest was two-fold: to identify the bodies, and to ascertain how the deaths had occurred. The key witnesses were the two survivors, Benjamin Cuddeford and Sydney Fletcher, and W. L. Jenkin, master the schooner “Emma” of Padstow.</p>
-<div class="figure align-default" id="id1">
+<figure class="align-default" id="id1">
 <img alt="_images/eurydice-survivors.jpg" src="_images/eurydice-survivors.jpg" />
-<p class="caption"><span class="caption-number">Fig. 17 </span><span class="caption-text">The two survivors</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 17 </span><span class="caption-text">The two survivors</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <div class="dropdown admonition">
 <p class="admonition-title">Benjamin Cuddeford</p>
 <p>Able seaman, 21 years in the navy.</p>
@@ -377,10 +444,12 @@ First-class ordinary seaman.</p>
 <p>Once on board the Emma, coffee was provided to the two survivors, although no other stimulants (eg whisky or brandy) were available. Jenkin deposed that <em>“[t]hose who died were too far gone to take it if they could have had it”</em>.</p>
 <p>As and when other bodies were discovered and landed, additional coroners’ courts were held, as required, in the appropriate jurisdiction.</p>
 <p>To help understand the commentary provided by the two survivors, the following drawing shows how to identify the various parts of a similar vessel.</p>
-<div class="figure align-default" id="id2">
+<figure class="align-default" id="id2">
 <img alt="_images/sail_names.jpg" src="_images/sail_names.jpg" />
-<p class="caption"><span class="caption-number">Fig. 18 </span><span class="caption-text">Example of sail names for a three masted sailing ship</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 18 </span><span class="caption-text">Example of sail names for a three masted sailing ship</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>With the ship being a training ship, it was initially assumed that the majority of the men, officers aside, would be unmarried. Along with the crew and several men making passage back to England from service overseas, several prisoners had also been aboard, one of whom was believed to have been held in chains.</p>
 <p>This first report includes the statement Cuddeford made to the Admiralty authorities, as well as a direct report of the inquest.</p>
 <div class="note dropdown admonition">
@@ -420,10 +489,12 @@ First-class ordinary seaman.</p>
 <p>The Jury retired and were absent nearly an hour. On their return, the foreman announced that they unanimously found “that Louis J. C. Ferrier, Francis Hope Tabor, and – Bennett, were accidentally drowned, owing to the capsizing of H.M.S. Eurydice, by a sudden squall off Dunnose on Sunday the 24th inst., and the Jury consider from the evidence adduced, that no blame whatever can be attached to the captain, officers, or men of the ship.</p>
 <p>There is something of a personal sorrow which must affect every Englishman when he reads a narrative of this kind. We are all proud of the quality of our seamen, and of the courage with which they expose themselves to a life of constant peril. We cannot but mourn over the untimely loss of so many brave and promising fellows. The disaster is intensified in poignancy by the circumstances under which it happened. Death of one’s native land, after a long separation from near and dear friends, is a terrible thing. The joyous hope, the buoyant expectation, the thrill of delight with which the shores of Old England fill the home-coming sailors are changed into the wild cry of despair and wail of drowning men. On such a picture we have no morbid fancy for dwelling. It will haunt, during these coming weeks, many an English home. In scores of cottages hearts have beat high with hope, the simple preparations of affection have been made, and parents have counted the hours till they should clasp their stalwart sailor-lads in their arms once more. And now the desolation of death has turned their joy into a terrible sorrow. The cruel, merciless sea has robbed them of the bright boys of whom they were so proud. England shares their sorrow. If it be any consolation to the bereaved relatives of those who have gone down in the Eurydice, they may be sure that not an English heart beats but does not sympathise with them in their great sorrow, and deeply deplore the calamity which has robbed the country of more than 300 of her brave defenders.</p>
 </div>
-<div class="figure align-default" id="id3">
+<figure class="align-default" id="id3">
 <img alt="_images/ILN_1878_loss_of_euridyce_apr_06_010.jpg" src="_images/ILN_1878_loss_of_euridyce_apr_06_010.jpg" />
-<p class="caption"><span class="caption-number">Fig. 19 </span><span class="caption-text">Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 19 </span><span class="caption-text">Illustrated London News — H.M.S. Eurydice as last seen by Benjamin Cuddiford, one of the two survivors, April 6, 1878</span><a class="headerlink" href="#id3" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>The next report adds a little more colour regarding the setting of the inquest, describing how larger premises had to be found for the inquiry given the large number of people who were keen to attend it.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE INQUEST. - Saturday, March 30th, 1878</p>
@@ -431,42 +502,42 @@ First-class ordinary seaman.</p>
 <p>The inquest upon the bodies of Lieutenant Francis Hope Tabor, Captain Louis Ferrier, R E , and David Bennett, ordinary seaman, was held on Tuesday afternoon by F. Blake, Esq. coroner, who commenced the proceedings at the Queen’s Hotel, Esplanade, Ventnor. The bodies were in a little outhouse near the hotel, and had already been coffined. That of Captain Ferrier especially bore a calm and peaceful expression, betokening that death had been sudden and painless. The white cloths with which they had been covered were sprinkled with beautiful flowers. As soon as the Coroner, jury, and representatives of the Press had assembled at the Queen’s Hotel it was at once perceived that the room placed at their disposal was a great deal too small, and the Coroner asked if a larger room could not be procured. The Freemasons’ Tavern was at first suggested, but eventually the proprietor of the Royal Hotel offered the use of a larger room there, and after the jury, of whom Mr. W. M Judd was foreman, had been sworn and had viewed the body, they adjourned to the Royal Hotel. In opening the proceedings,</p>
 <p>The Coroner said he could not forbear expressing his deep concern, which he was sure everybody must share, at the cause which had called them together — an accident which had resulted in the loss of so many valuable lives when they had almost arrived at their destination. This was a most important enquiry, for, though the present inquest was nominally only as to the death of three persons, a hundred times that number had died from the same accident. He asked them to give this evidence their best attention.</p>
 <p>The first witness called was,</p>
-<p>Robert Montague Tabor, who deposed — I live at Carshorton, Surrey. I have ,seen the bodies which have been viewed by the jury, and identify one of them as that of my brother, Francis Hope Tabor, a lieutenant in the Navy. I last saw him alive about five or six months ago, in Kent. He had since been to the West Indies. He was first lieutenant on board the Eurydice, and was coming home in her. We were expecting him daily. I think he would have been 30 in July.</p>
-<p>Benjamin Cuddiford deposed - I am an able sea-man. I have seen the bodies which have been viewed by the coroner and jury, and identify them as those of Lieut. Tabor, a man named Bennett (I don’t know his Christian name), and the other is a captain in the Engineers, who took a passage in the ship. I knew him by sight, but did not know his name. Lieut. Tabor was first lieuteuant on board the Eurydice, and I was able seaman on board the same ship. Bennett was captain of the quarter deck. The captain in the Engineers had only taken a passage on board, and was not doing duty. The Eurydice was a wooden sailing ship, and had been employed as a training ship, and had been 13 months in commission. She had lately been over to the West India Islands. I had been on board her all the 13 months. She was cruising out the West India Islands all the winter. Lieut. Tabor was commanding officer. Capt. Hare was on board. We left Bermuda on the 6th of March, for Portsmouth. We had over 300 officers and men ou board. That included supernumaries. I cannot say for certain exactly how many there were. The crew were mostly ordinary seamen. The ship’s company was about 30 altogether. The others left at the end of the voyage. On Sunday, about 2 o’clock in the afternoon, the ship was off the Isle of Wight, we set the lower tunsail. We had all plain salts set betore that. We had all sails set except topgallant stunsail. The weather was then very fine, and there was a moderate wind just abaft the beam. Between half-past 3 and 4 o’clock they called the lower watch to take in the lower stunsail, the weather looking dirty to windward. It was just coming on to blow tnen. The sail was taken in, and tnen orders were given to take in the royals. The squall caught us before the royals were taken in, and ihe captain ordered the men down for their own safety. The royals were then lowered, but not furled. Then the captain gave orders to let go the maintopsail halyards and main sheet. That was done, and the next order the captain gave was, “If you cau’t let it go, cut it.” The ship was tnen on her beam ends, and the water up to the men’s waists, but I don’t know to what the order referred. I was on the quarter deck netting. I got there to get on the Weather side of the ship. I could then see her keel, and her sails were in the water. She righted again in a few feet, and I saw her mizentopsail come out of the wateer. I then saw the ship sinking from forwards, taking down with her a body of men which were on her bottom. The water began to increase aft, and just as the water got abreast of the mainmast the ship turned right over, and her keel was out of water. I stuck to the ship. The captain gave orders to get the cutter clear, and we had got one rope clear by cutting it with a knife, but the water encroached upon us. The captain was about six or seven feet from me. A man by the name of Richardson, who was assisting me, was swept away. The cutter was not got clear. I then jumped overboard and passed two doctors drowning, but couid render them no assistance. There were many others in the water. I swam to a round life-buoy, and then went to the assistance of others with pieces of wood and spars. The captain was on the vessel when I jumped overboard, and the vessel must have gone down immediately afterwards. I called one or two men I knew, and let them have spars, &amp;c. I saw six men clinging to a boat. They asked me if I thougnt there was any hope. I said, “the best thing they could do was keep tneir spirits up.” One of them let go with the cold. I knew some of their names. There was Mason, Martin, and a cook’s mate taking his passage home. The other three were ordinary seamen, and I do not know their names. I saw Mr Brewer, the boatswain, with a life-buoy. I believe the cook’s mate was from the Tamar I turned my back to the squall when it came on, and the other man (Fletcher) was near me. I tnink I swam about for an hour and 20 minutes before I was picked up by the schooner. Fletcher, an ordinary seaman, was also picked up. I did not see any others picked up. I was sensible when I was picked up, but felt giddy, and staggered when I got on the schooner’s deck. It came on a sudden gust, which caught the vessel.</p>
+<p>Robert Montague Tabor, who deposed — I live at Carshorton, Surrey. I have seen the bodies which have been viewed by the jury, and identify one of them as that of my brother, Francis Hope Tabor, a lieutenant in the Navy. I last saw him alive about five or six months ago, in Kent. He had since been to the West Indies. He was first lieutenant on board the Eurydice, and was coming home in her. We were expecting him daily. I think he would have been 30 in July.</p>
+<p>Benjamin Cuddiford deposed - I am an able sea-man. I have seen the bodies which have been viewed by the coroner and jury, and identify them as those of Lieut. Tabor, a man named Bennett (I don’t know his Christian name), and the other is a captain in the Engineers, who took a passage in the ship. I knew him by sight, but did not know his name. Lieut. Tabor was first lieuteuant on board the Eurydice, and I was able seaman on board the same ship. Bennett was captain of the quarter deck. The captain in the Engineers had only taken a passage on board, and was not doing duty. The Eurydice was a wooden sailing ship, and had been employed as a training ship, and had been 13 months in commission. She had lately been over to the West India Islands. I had been on board her all the 13 months. She was cruising out the West India Islands all the winter. Lieut. Tabor was commanding officer. Capt. Hare was on board. We left Bermuda on the 6th of March, for Portsmouth. We had over 300 officers and men ou board. That included supernumaries. I cannot say for certain exactly how many there were. The crew were mostly ordinary seamen. The ship’s company was about 30 altogether. The others left at the end of the voyage. On Sunday, about 2 o’clock in the afternoon, the ship was off the Isle of Wight, we set the lower tunsail. We had all plain salts set before that. We had all sails set except topgallant stunsail. The weather was then very fine, and there was a moderate wind just abaft the beam. Between half-past 3 and 4 o’clock they called the lower watch to take in the lower stunsail, the weather looking dirty to windward. It was just coming on to blow tnen. The sail was taken in, and tnen orders were given to take in the royals. The squall caught us before the royals were taken in, and ihe captain ordered the men down for their own safety. The royals were then lowered, but not furled. Then the captain gave orders to let go the maintopsail halyards and main sheet. That was done, and the next order the captain gave was, “If you can’t let it go, cut it.” The ship was tnen on her beam ends, and the water up to the men’s waists, but I don’t know to what the order referred. I was on the quarter deck netting. I got there to get on the Weather side of the ship. I could then see her keel, and her sails were in the water. She righted again in a few feet, and I saw her mizentopsail come out of the wateer. I then saw the ship sinking from forwards, taking down with her a body of men which were on her bottom. The water began to increase aft, and just as the water got abreast of the mainmast the ship turned right over, and her keel was out of water. I stuck to the ship. The captain gave orders to get the cutter clear, and we had got one rope clear by cutting it with a knife, but the water encroached upon us. The captain was about six or seven feet from me. A man by the name of Richardson, who was assisting me, was swept away. The cutter was not got clear. I then jumped overboard and passed two doctors drowning, but couid render them no assistance. There were many others in the water. I swam to a round life-buoy, and then went to the assistance of others with pieces of wood and spars. The captain was on the vessel when I jumped overboard, and the vessel must have gone down immediately afterwards. I called one or two men I knew, and let them have spars, &amp;c. I saw six men clinging to a boat. They asked me if I thought there was any hope. I said, “the best thing they could do was keep tneir spirits up.” One of them let go with the cold. I knew some of their names. There was Mason, Martin, and a cook’s mate taking his passage home. The other three were ordinary seamen, and I do not know their names. I saw Mr Brewer, the boatswain, with a life-buoy. I believe the cook’s mate was from the Tamar I turned my back to the squall when it came on, and the other man (Fletcher) was near me. I think I swam about for an hour and 20 minutes before I was picked up by the schooner. Fletcher, an ordinary seaman, was also picked up. I did not see any others picked up. I was sensible when I was picked up, but felt giddy, and staggered when I got on the schooner’s deck. It came on a sudden gust, which caught the vessel.</p>
 <p>By the Jury.— We were not tacking at the time the squall struck the ship. The squall came on between half-past 3 and 4 o clock. I was on deck but went down and had a basin of tea. We could not see that it was coming on. I did not see any land any time all the afternoon. I did not go above the netting to see it. My work kept me from seeing anything else. The ropes I had to attend to were close to the deck. The ports were open. The squall caught us from the same direction as we were going. They tried to put up the helm. There were five men at the helm. The Hon Gifford was there. I can’t say whether they did put it up. The ports, when the ship was on an even keel, were about 5ft, above the water. The guns were well secured. There might be one watch below when the order was first given to shorten sail. There were about 150 men and supernumeraies below. There was no order given for all hands to shorten sail. It is not usual to call all hands. The watch on deck were quite sufficient to shorten sail. The captain gave the order to shorten sail when he saw the squall coming. It was about 4 o’clock when I jumped overboard. Sub-Lieut Randolph was officer of the watch. I could not remember yesterday.</p>
 <p>By Mr. Tabor.— I don’t know whether the captain was on deck all the afternoon. He gave orders to heave the lead at 2 o’clock, and the reply was “eight knots and a half”</p>
 <p>By the Jury.— It is usual, under such circumstances as on Sunday afternoon, to have the ports open. I did not see any more of Capt Hare after I jumped. There was no time given to lower boats. She has four quarter boats. The galley was smashed and no good. I can’t say whether the captain was on deck when the weather began to look dirty. There were life-buoys on each side of the bridge, one on each side of the launch, and one astern— five altogether. There were 12 life-belts, which were on deck. The life-buoys floated when the ship went over.</p>
-<p>By Mr Harvey.- Directly the captain saw the squall coming he ordered the stansail to be taken in. This was the largest sail in the ship. The captain also gave orders to let go the maintopsail half yards and mainsheet, and the men were in the act of doing this when ordered down. That was done for fear the masts would give way and the men be sent into the sea. There were two cutters– port and starboard. It takes 13 men to man one, and 11 the other. There would have been a life-belt for each man on board each cutter That was the regulation ; but the cutters were bottom up ward, and I could not say whether the belts were there or not. I know three life-belts have been picked up. It was a sudden gust which sent the ship over. It came without giving any warning. As one of the ship’s company, I did not expect that any such thing would take place.</p>
-<p>Capt George Henry Ferrier, of the 105th Light Infantry, stationed at Colchester, identified one of the bodies seen by the Coroner and Jury as that of his late brother, Capt. Louis George Ferrier, of the Royal Engineers, stationed at Bermuda, who was taking passage home on leave in the Eurydice. he had no idea that his brother was coming home in the ship until the previous afternoon, when he received a telegram. The deceased was in the 38th year of age.</p>
+<p>By Mr Harvey.- Directly the captain saw the squall coming he ordered the stansail to be taken in. This was the largest sail in the ship. The captain also gave orders to let go the maintopsail half yards and mainsheet, and the men were in the act of doing this when ordered down. That was done for fear the masts would give way and the men be sent into the sea. There were two cutters– port and starboard. It takes 13 men to man one, and 11 the other. There would have been a life-belt for each man on board each cutter. That was the regulation ; but the cutters were bottom up ward, and I could not say whether the belts were there or not. I know three life-belts have been picked up. It was a sudden gust which sent the ship over. It came without giving any warning. As one of the ship’s company, I did not expect that any such thing would take place.</p>
+<p>Capt George Henry Ferrier, of the 105th Light Infantry, stationed at Colchester, identified one of the bodies seen by the Coroner and Jury as that of his late brother, Capt. Louis George Ferrier, of the Royal Engineers, stationed at Bermuda, who was taking passage home on leave in the Eurydice. He had no idea that his brother was coming home in the ship until the previous afternoon, when he received a telegram. The deceased was in the 38th year of age.</p>
 <p>Sydney Fletcher stated that he was just turned 19 years of age and was a first-class ordinary seaman on board the Eurydice. He came in the Eurydice from Bermuda. He had only been in her during the last trip. He had been on board during the past six months. On Sunday afternoon last he was below from 12 o’clock at noon till 4 o’clock. At the latter hour he was getting his tea, in order to be in readiness to go on watch at eight bells, when he heard a rush of water coming through the port. Just before he found the water come in, the ship had given a lurch. He lowered the half port, and then ran on deck and let go the topsail halyard. At that time the water was coming in over her lee nettings. He assisted another man in overhauling the fore top-sail halyards. He then got over the weather nettings and walked right aft on the side of the ship. She was right on her side at that time. He walked below her ports. When he got aft of the quarter he could see the keel of the ship out of water. It was blowing hard and snowing at the time. The sea was breaking over her and the main yard was touching the water. He saw the Captain standing on the quarter-deck giving orders to clear the cutter. The foremost gripe was cut, but the after one could not be cut, as it was too late, the ship at this time sinking fast. He picked up a life belt that had fallen out of one of the cutters, about 30 yards away from the ship. He could not see much of the ship at that time, as she was very nearly under water. Mr. Edmunds, a Sub-Lieutenant. took off his coat and jumped overboard, but witness could not tell what became of him afterwards. He saw Mr. Tabor standing with his coat off and no cap on. He afterwards saw him clinging to a wash deck locker. He did not see anything at all of Capt. Ferrier during the afternoon, but he understood that he was picked up from off the wash deck locker. He saw Bennett, the captain of the quarter-deck, and Mr. Brewer, the warrant officer, floating past him. He thought he must have been in the water an hour and twenty minutes when he was picked up by the schooner. He (witness) was sensible when he was picked up. Before he found the ship lurch he did not know that the wind was blowing any harder than before. He did not believe there were any more than two others beside himself wno succeeded in getting on the upper deck. They were all crying out and screaming. He was close to the hatchway when the lurch came, and that was how he came to get up on to the upper deck. After ihe ship went down, he saw Mr Brewer floating about, and asked him in what direction he thought the land was. He could not say how long the snow continued to fall but when it cleared away he saw the land, and thought he was about half-a-mile from it. He did not see any other men floating about. When the snow cleared away he saw the schooner standing towards him as he was making for the shore.</p>
 <p>By the Foreman : I did not see the ship go down.</p>
 <p>A Juror: Were there any men below in irons? — I believe there was one.</p>
-<p>By the Coroner : I cannot say whether the wind was bowing off the land or not. I had no reason for noticing.</p>
+<p>By the Coroner : I cannot say whether the wind was blowing off the land or not. I had no reason for noticing.</p>
 <p>A Juror: Had you a sufficient quantity of ballast on board?— A great portion of our ballast was water.</p>
 <p>The Coroner : Which was being consumed during the voyage ? — Yes</p>
-<p>Do you kuow whether there was a large quantity of water in her on Sunday afternoon before this happened ?— No, I cannot tell.</p>
+<p>Do you know whether there was a large quantity of water in her on Sunday afternoon before this happened ?— No, I cannot tell.</p>
 <p>The Foreman : You had not been put on shore allowance of water ?— No.</p>
-<p>The Coroner: Were the guns or stores displaced previously ? —No ; not that I kuow of.</p>
+<p>The Coroner: Were the guns or stores displaced previously ? —No ; not that I know of.</p>
 <p>Mr. R. R Tabor: Don’t you think you might have been mistaken in recognising my brother ? You say he was in his shirt sleeves when you saw him, and yet when he was picked up he had on his uniform coat. — I might have been mistaken.</p>
 <p>By Mr. Harvey : I had not much opportunity of seeing what was going on after I came up, but I heard the Captain giving his orders. Up to the very minute of the lurch and the rush of warer the weather had been fine.</p>
 <p>Mr. Harvey : Do you really know whether the water formed a part of the ballast ? — I know that we had water on board, and I always understood that it was partly carried as ballast. I have been told on board that her ballast was partly water. I do not know of my own knowledge that we had any concrete and iron on board as ballast.</p>
-<p>Do you really know anything of your own knowledge as to her ballast ? No, except that I have always heard chat her ballast was partl water.</p>
-<p>You were below at the time of ihe lurch ? — Yes.</p>
+<p>Do you really know anything of your own knowledge as to her ballast ? No, except that I have always heard chat her ballast was partly water.</p>
+<p>You were below at the time of the lurch ? — Yes.</p>
 <p>And you cannot say what orders were given on deck until you came up ?— No.</p>
-<p>The Coroner : I will re-call the witness Cuddiford and ask him a few questions as to the ballast. He will know more than ihis witness.</p>
+<p>The Coroner : I will re-call the witness Cuddiford and ask him a few questions as to the ballast. He will know more than this witness.</p>
 <p>The witness Cuddiford was re-called and questioned by one of the jurors, Mr. Henry Owen.</p>
-<p>What ballast had the Eurydice on board at the time of the accideut ? — She had her proper ballast for the tonnage of the vessel.</p>
-<p>What is this about the water being reckoned as ballast ? — She had two tier of tanks, and the lower tier were never touched or disturbed in any way.</p>
+<p>What ballast had the Eurydice on board at the time of the accident ? — She had her proper ballast for the tonnage of the vessel.</p>
+<p>What is this about the water being reckoned as ballast ? — She had two tiers of tanks, and the lower tier were never touched or disturbed in any way.</p>
 <p>Had she sufficient ballast without the water? — She had sufficient ballast in her without reckoning the water or her stores, but when the water or the stores became light, the vessel, of course, sailed lighter, and became more lively, and when she gave lurches, as she often used to do, she would knock us off our feet to leeward.</p>
 <p>She had the reputation of being a lively vessel, had she not ? —No ; I did not know that she had.</p>
-<p>the lower tier of tanks being full of water, and never touched, would add to her ballast as a matter of course? — Yes, of course it would.</p>
+<p>The lower tier of tanks being full of water, and never touched, would add to her ballast as a matter of course? — Yes, of course it would.</p>
 <p>At any time during the period you have been on board the Eurydice have you ever heard anything said about her ballast having been shifted or interfered with in any way ? — No.</p>
-<p>Has it been slutted ? -No. Had it been shifted I must have known it.</p>
+<p>Has it been shifted ? —No. Had it been shifted I must have known it.</p>
 <p>And had it shifted hands would you have been employed to put it right again ? — Yes.</p>
 <p>The Foreman. —You say she was on her side and then righted ? — Yes, but still she went down on her side.</p>
 <p>The Coroner.— So that the fact of her righting herself for a short time did not make any difference ? —No; her mizenmast stood out of water as she went down.</p>
 <p>Then it was only what may be termed a temporary righting ? - That was all.</p>
-<p>Do you kuow what the state of the barometer was just nefore the occurrence— I mean during the day or two before ? —I do not know. Dr. Murdoch used to take the readings of the barometer every morning at 8 o’clock. He took them every day since we have been in commission.</p>
+<p>Do you know what the state of the barometer was just nefore the occurrence— I mean during the day or two before ? —I do not know. Dr. Murdoch used to take the readings of the barometer every morning at 8 o’clock. He took them every day since we have been in commission.</p>
 <p>Did you hear of any sudden fall having takeii place in the baromoter ? -No. Had there been any fall when the barometer was read at 8 o’clock on Sunday morning I must have known of it, for I was working close by where Dr. Murdoch took the readings. Every day at 2 o’clock the Navigating Lieutenant used to put up a card on the main deck showing the distance we had run, and the latitude and longitude.</p>
 <p>William Langworth Jenkin was called and examined. He said he was master of the schooner, Emma, of Padstow. On Sunday afternoon last he was proceeding from Newcastle to Poole. At about ten minutes past 4 o’clock, according to his watch, he encountered a sudden squall when off Dunnose.</p>
 <p>The Coroner : Had you any warning of the squall’s approach? -It looked rather bad to windward before it came on.</p>
@@ -476,10 +547,10 @@ First-class ordinary seaman.</p>
 <p>How long did the squall last ? I suppose half-an-hour. We were from four to five miles from land when the squall struck us.</p>
 <p>A Juror : There was no high land to prevent your seeing the approach of a storm ? – Well, sir, we saw it rising up very black to windward when we looked out.</p>
 <p>Another Juror: Did you see anything of the Eurydice before she went down ?  – No.</p>
-<p>The Coroner : Tell us what happened subsequently to the squall. — There was a lot of snow. and when it cleared away I saw something floating up in the water, and I sent a man up into the rigging to see if he could make out what it was. Another reported that he saw a man in the water. We set a reef mainsail, a fore staysail, and a topsail an went towards what we saw floating to windward off us. As we got nearer we heard cries from the water for help, and when we got up to the spot we found five men floating in the water.</p>
+<p>The Coroner : Tell us what happened subsequently to the squall. — There was a lot of snow. and when it cleared away I saw something floating up in the water, and I sent a man up into the rigging to see if he could make out what it was. Another reported that he saw a man in the water. We set a reef mainsail, a fore staysail, and a topsail and went towards what we saw floating to windward off us. As we got nearer we heard cries from the water for help, and when we got up to the spot we found five men floating in the water.</p>
 <p>Were they together ? — No. They were about a quarter of a mile apart I should say. We picked them all up. They were very much exhausted and I believe they were all insensible after we got them on deck. Those we picked up were the witnesses Cuddiford and Fletcher and the bodies of Lieut. Tabor, Capt. Ferrier, and Bennett. We took them into the cabin, stripped them, rubbed them, and then proceeded on for Ventnor. I think it should have been from three or four miles from the land. I picked them up, but I cannot tell you the exact distance. Cuddiford and Fletcher took a little water, but the others could not take any. A boat came off, and I sent on shore for a doctor. Two doctors came. I do not think all three of the deceased, whose bodies the Coroner and jury have viewed, were quite dead when they were received on board my vessel, but I think Bennett was dead when we picked him up. One of my men said he thought he heard one of them speak after he was got into the boat. Lieut. Tabor was wearing his uniform at the time.</p>
 <p>Do you consider that the squall was sufficiently violent to capsize the Eurydice, she being under full sail? No; I should think not. I was surprised when I found the Eurydice had gone down. I thought it was a boat’s crew I was picking up.</p>
-<p>A Juror : What sort of a vessel is yours ? She is a schooner of 137 tons register. We have six hands all told. We were laden with coals and were short of about 10 tons of our full cargo. When the squall struck us the wind was about W.N W. We did not have time to take in our sail before we were struck. We had more time to prepare for the squall than the Eurydice had, seeing that we were furiher out to sea, and consequently had more opportunities noticing the approach of a storm. In answer to further questions, the witness said he had no stimulants on board to administer to the persons he picked up, but supposing they had they had they would have been of no use, as the three deceased persons could not have partaken of them. After they had picked up the bodies they looked about, but could see no others. Three of the five were wearing swimmming belts; one was wearing a life-buoy, and another was clinging to a box. Witness had been 15 years at sea, and had known squalls stronger than this, but conld not say that he know them to come on more suddenly. He had never heard that the Dunnose had a reputation for sudden gusts of wind.</p>
+<p>A Juror : What sort of a vessel is yours ? She is a schooner of 137 tons register. We have six hands all told. We were laden with coals and were short of about 10 tons of our full cargo. When the squall struck us the wind was about W.N W. We did not have time to take in our sail before we were struck. We had more time to prepare for the squall than the Eurydice had, seeing that we were furiher out to sea, and consequently had more opportunities noticing the approach of a storm. In answer to further questions, the witness said he had no stimulants on board to administer to the persons he picked up, but supposing they had they had they would have been of no use, as the three deceased persons could not have partaken of them. After they had picked up the bodies they looked about, but could see no others. Three of the five were wearing swimmming belts; one was wearing a life-buoy, and another was clinging to a box. Witness had been 15 years at sea, and had known squalls stronger than this, but could not say that he had known them to come on more suddenly. He had never heard that the Dunnose had a reputation for sudden gusts of wind.</p>
 <p>Dr James Mann Williamson deposed to going on board the schooner on Sunday afternoon, and, in conjunction with Dr. Morton, using every possible means for restoring the deceased. He attributed the death of the deceased to drowning.</p>
 <p>George Parkinson, seaman on board the Emma, deposed to seeing the Eurydice going up Channel as they were going down. All sail was on the Eurydice as far as he could see, but he did think that she had too much on her when he saw her. He saw the squall coming, which was very sudden, however. There was only a moderate breeze when he saw her, and she was then about a mile from the shore, while they in the schooner were four or five miles away. They did not lower sails until the squall came. He had been in squalls far heavier than that, and was surprised when he heard that the Eurydice had not weathered it out.</p>
 <p>By Mr Harvey. — He had known cases in which a squall had seriously injured one vessel, and had not affected, in the slightest degree, another, although close to it.</p>
@@ -490,7 +561,7 @@ First-class ordinary seaman.</p>
 <p>“The jury unanimously find that the three deceased were accidentally drowned, owing to the capsizing of Her Majesty’s ship Eurydice by a sudden squall, at Dunnose, on Suuday, the 24th inst., and the jury consider that from the evidence adduced no blame whatever can attach to the captain, officers, and men of the ship.”</p>
 </div>
 <p><em><code class="docutils literal notranslate"><span class="pre">It</span> <span class="pre">might</span> <span class="pre">be</span> <span class="pre">useful</span> <span class="pre">to</span> <span class="pre">compare</span> <span class="pre">these</span> <span class="pre">reports,</span> <span class="pre">as</span> <span class="pre">well</span> <span class="pre">as</span> <span class="pre">other</span> <span class="pre">reports</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">inquest,</span> <span class="pre">to</span> <span class="pre">see</span> <span class="pre">if</span> <span class="pre">there</span> <span class="pre">are</span> <span class="pre">any</span> <span class="pre">major</span> <span class="pre">differences</span> <span class="pre">between</span> <span class="pre">them</span> <span class="pre">and</span> <span class="pre">try</span> <span class="pre">to</span> <span class="pre">generate</span> <span class="pre">a</span> <span class="pre">more</span> <span class="pre">complete</span> <span class="pre">and</span> <span class="pre">closer</span> <span class="pre">to</span> <span class="pre">verbatim</span> <span class="pre">report.</span></code></em></p>
-</div>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -514,9 +585,11 @@ First-class ordinary seaman.</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="__foundering_of_the_eurydice.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -532,24 +605,28 @@ First-class ordinary seaman.</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2022.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

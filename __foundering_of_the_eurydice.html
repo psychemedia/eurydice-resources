@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>The Foundering of the Eurydice &#8212; On the Loss of the Eurydice</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_preface.html">
-   Preface
-  </a>
- </li>
-</ul>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="_intro.html">
    Introduction
@@ -273,12 +288,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -286,61 +306,105 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-        </div>
-    </div>
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>The Foundering of the Eurydice</h1>
@@ -351,41 +415,50 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="the-foundering-of-the-eurydice">
-<h1>The Foundering of the Eurydice<a class="headerlink" href="#the-foundering-of-the-eurydice" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="the-foundering-of-the-eurydice">
+<h1>The Foundering of the Eurydice<a class="headerlink" href="#the-foundering-of-the-eurydice" title="Permalink to this headline">#</a></h1>
 <p>What then of the terrible calamity that was to strike the Eurydice that fateful afternon of Sunday, March 24th, 1878, having departed Bermuda just three weeks earlier, on March 6th, 1878?</p>
 <p>With Portsmouth almost in sight, the Eurydice rounded the southernmost point of the Isle of Wight, St. Catherine’s point, and made for Ventnor.</p>
-<div class="figure align-default" id="id1">
+<figure class="align-default" id="id1">
 <img alt="_images/004956958-SVC2.jpg" src="_images/004956958-SVC2.jpg" />
-<p class="caption"><span class="caption-number">Fig. 7 </span><span class="caption-text">The Isle of Wight, AW Fowles, 1897 <a class="reference external" href="http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html">via</a></span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 7 </span><span class="caption-text">The Isle of Wight, AW Fowles, 1897 <a class="reference external" href="http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html">via</a></span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>All that would then remain of her voyage would be to round Dunnose Point, cross Sandown Bay, pass by Yaverland and Culver Cliff, round the Eastern most point of the Island at Bembridge, pass by Brading Haven and St Helen’s, then into the Spithead and across the Solent, before reaching home and Portsmouth harbour.</p>
 <p>They had so nearly made it…</p>
-<div class="figure align-default" id="id2">
+<figure class="align-default" id="id2">
 <img alt="_images/003KTOP00000015U02700000_SVC2.jpg" src="_images/003KTOP00000015U02700000_SVC2.jpg" />
-<p class="caption"><span class="caption-number">Fig. 8 </span><span class="caption-text">View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight
+<figcaption>
+<p><span class="caption-number">Fig. 8 </span><span class="caption-text">View of Dunnose from the Cliff near Shanklin in Sandown Bay, Isle of Wight
 <a class="reference external" href="http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html">http://www.bl.uk/onlinegallery/onlineex/kinggeorge/v/003ktop00000015u02700000.html</a>
 View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is located in an area known as the Undercliff. This area is protected by the peaks of the Downs and has a notably milder climate than much of the rest of the island. Dunnose is one of the highest points on the island with some peaks reaching a height of 792 feet. The rocks around Dunnose Point are extremely dangerous and it was here that in 1878 the HMS Eurydice sank claiming over 350 lives.
 Medium: Aquatint, coloured
-Date: 1800</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
-</div>
+Date: 1800</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>As they passed Dunnose Point, the crew perhaps looked to each other as if they were already home…</p>
-<div class="figure align-default" id="id3">
+<figure class="align-default" id="id3">
 <img alt="_images/map-maps_nls_uk-view-101169209.png" src="_images/map-maps_nls_uk-view-101169209.png" />
-<p class="caption"><span class="caption-number">Fig. 9 </span><span class="caption-text"><a class="reference external" href="https://maps.nls.uk/view/101169209">https://maps.nls.uk/view/101169209</a>
+<figcaption>
+<p><span class="caption-number">Fig. 9 </span><span class="caption-text"><a class="reference external" href="https://maps.nls.uk/view/101169209">https://maps.nls.uk/view/101169209</a>
 OS<br />
-Sheet 345 - Ventnor (Hills), 1895; map 31 x 46 cm (ca. 12 x 18 inches) on sheet ca. 43 x 56 cm (ca. 17 x 22 inches)</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
-</div>
+Sheet 345 - Ventnor (Hills), 1895; map 31 x 46 cm (ca. 12 x 18 inches) on sheet ca. 43 x 56 cm (ca. 17 x 22 inches)</span><a class="headerlink" href="#id3" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>But then a sudden and mighty squall hit…</p>
-<div class="figure align-default" id="id4">
+<figure class="align-default" id="id4">
 <img alt="_images/NH_61069.jpg" src="_images/NH_61069.jpg" />
-<p class="caption"><span class="caption-number">Fig. 10 </span><span class="caption-text">Title: HMS EURYDICE British Frigate, 1843
+<figcaption>
+<p><span class="caption-number">Fig. 10 </span><span class="caption-text">Title: HMS EURYDICE British Frigate, 1843
 Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
-Copyright Owner: Naval History and Heritage Command, <a class="reference external" href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html">NH 61069</a></span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
-</div>
+Copyright Owner: Naval History and Heritage Command, <a class="reference external" href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61069.html">NH 61069</a></span><a class="headerlink" href="#id4" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>The initial reports described how, around 4 o’clock in the afternoon, a snowy squally  suddenly hit. The Eurydice was lost, and another ship, the Emma, assumed she had progressed on her way; but then the sight and sound of men in the sea corrected their misapprehension. Five men were saved but three of them were to die before the Emma reached the shore. The two who survived,  Benjamin Cuddeford and Sydney Fletcher were then taken to the Cottage Hospital at Bonchurch.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">FOUNDERING OF H.M.S. EURYDICE OFF THE ISLE OF WIGHT. - Monday, March 25th, 1878</p>
@@ -398,9 +471,9 @@ Copyright Owner: Naval History and Heritage Command, <a class="reference externa
 <p>“I was one of the last on board the ship. Captain Hare was near me when she went down after capsizing, and she carried with her a large number of men who were clinging to her, who were drawn down in the vortex.</p>
 <p>“A man near me said that a vessel was close by when the squall came on, and therefore we should be sure to be picked up. I was more than hour the water, being a first-rate swimmer, and very many of my comrades cried out for help. I tried to assist two or three, but at last there were four clinging me, and I was obliged to kick them off. We were well taken care of by the master the schooner and crew. Our ship left Bermuda three week’s ago passed the Lizard yesterday, and expected to anchor at about five o’clock.”</p>
 </div>
-<div class="figure align-default">
+<figure class="align-default">
 <img alt="_images/ILN_1878_loss_of_euridyce_mar_30_002.jpg" src="_images/ILN_1878_loss_of_euridyce_mar_30_002.jpg" />
-</div>
+</figure>
 <p>The Palace was quick to respond:</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">MESSAGE FROM HER MAJESTY TO ADMIRAL FANSHAWE. - Monday, March 25th, 1878</p>
@@ -454,10 +527,12 @@ Commissioned at Portsmouth, Feb. 7, 1877.</p>
 [Left sitting.]</p>
 <p>tag: Parliament</p>
 </div>
-<div class="figure align-default" id="id5">
+<figure class="align-default" id="id5">
 <img alt="_images/P.1986.44-Copy.jpg" src="_images/P.1986.44-Copy.jpg" />
-<p class="caption"><span class="caption-number">Fig. 11 </span><span class="caption-text"><a class="reference external" href="http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg">http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg</a></span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 11 </span><span class="caption-text"><a class="reference external" href="http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg">http://supercurioso.com/wp-content/uploads/2015/10/P.1986.44-Copy.jpg</a></span><a class="headerlink" href="#id5" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>Further communications from the Palace also followed:</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">THIRD EDITION. MESSAGES FROM THE QUEEN. - Monday, March 25th, 1878</p>
@@ -469,9 +544,10 @@ Commissioned at Portsmouth, Feb. 7, 1877.</p>
 <p>Windsor Castle, Monday.<br />
 “The Queen commands me to thank you for your telegrams, which have caused her the greatest grief.”</p>
 </div>
-<div class="figure align-default" id="id6">
+<figure class="align-default" id="id6">
 <img alt="_images/NH_61070.jpg" src="_images/NH_61070.jpg" />
-<p class="caption"><span class="caption-number">Fig. 12 </span><span class="caption-text">Title: HMS EURYDICE British Frigate, 1843
+<figcaption>
+<p><span class="caption-number">Fig. 12 </span><span class="caption-text">Title: HMS EURYDICE British Frigate, 1843
 Caption: Capsizing off the Isle of Wight, 27 March 1878, while on training duty. Only two of her crew were saved.
 Description:
 Catalog #: NH 61070
@@ -480,13 +556,14 @@ Original Creator:
 Original Date: Wed, Mar 27, 1878
 After this Year: 1870
 Before this Year: 1879
-Original Medium: BW Photo</span><a class="headerlink" href="#id6" title="Permalink to this image">¶</a></p>
+Original Medium: BW Photo</span><a class="headerlink" href="#id6" title="Permalink to this image">#</a></p>
 <div class="legend">
 <ul class="simple">
 <li><p><a class="reference external" href="https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html">https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nhhc-series/nh-series/NH-61000/NH-61070.html</a></p></li>
 </ul>
 </div>
-</div>
+</figcaption>
+</figure>
 <div class="note dropdown admonition">
 <p class="admonition-title">FOUNDERING OF H.M.S. EURYDICE. - Monday, March 25th, 1878</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780325/064/0006">Shipping and Mercantile Gazette</a>, 1878-03-25, p. 6</p>
@@ -505,14 +582,18 @@ WEST COWES, March 25, a.m.<br />
 Three bodies have come ashore; two identified as those of Colonel Ferrol, RE. (? Ferrier), and Lieutenant Tabor, RN.; the third is an A.B. The masts of the vessel show above water.</p>
 </div>
 <p>The sudden squall that hit the Eurydice was part of a weather front that had been making its way down the country that Sunday, starting in Scotland and hitting points to the West, in Wales, and the East, such as London, as well as the Isle of Wight.</p>
-<div class="figure align-default" id="id7">
+<figure class="align-default" id="id7">
 <img alt="_images/BL_0001702_18780323_078_0008_pdf__1_page_.png" src="_images/BL_0001702_18780323_078_0008_pdf__1_page_.png" />
-<p class="caption"><span class="caption-number">Fig. 13 </span><span class="caption-text"><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008">https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008</a> Shipping and Mercantile Gazette - Saturday 23 March 1878 - weather chart</span><a class="headerlink" href="#id7" title="Permalink to this image">¶</a></p>
-</div>
-<div class="figure align-default" id="id8">
+<figcaption>
+<p><span class="caption-number">Fig. 13 </span><span class="caption-text"><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008">https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780323/078/0008</a> Shipping and Mercantile Gazette - Saturday 23 March 1878 - weather chart</span><a class="headerlink" href="#id7" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<figure class="align-default" id="id8">
 <img alt="_images/BL_0000057_18780330_027_0021_pdf__1_page_.png" src="_images/BL_0000057_18780330_027_0021_pdf__1_page_.png" />
-<p class="caption"><span class="caption-number">Fig. 14 </span><span class="caption-text"><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true">https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true</a> Weather chart for week March 21st - March 27th (inclusive) Graphic - Weather chart for the week- Saturday 30 March 1878</span><a class="headerlink" href="#id8" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 14 </span><span class="caption-text"><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true">https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true</a> Weather chart for week March 21st - March 27th (inclusive) Graphic - Weather chart for the week- Saturday 30 March 1878</span><a class="headerlink" href="#id8" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE GALE AND SNOW STORM - Tuesday, March 26th, 1878</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/BL/0000174/18780326/019/0006">Morning Post</a>, 1878-03-26, p. 6</p>
@@ -524,10 +605,12 @@ Three bodies have come ashore; two identified as those of Colonel Ferrol, RE. (?
 <p>On Sunday morning, during a strong wind from the north, a vessel ran ashore on the Goodwin Sands. The Broadstairs life-boat of the National Life-boat Institution and the Ramsgate Harbour steamer Vulcan and life-boat Bradford proceeded to her assistance, and after some hours’ exertion they were successful in getting the disabled vessel off the sands and into harbour. She was the brigantine Florida, of Christiania, bound from Frederikstadt to Granville, with a cargo of coal, and had on board a crew of seven men.</p>
 <p>On Sunday evening, during a heavy gale from the north, accompanied by snow showers, the schooner Velocity, of Nefyn, bound there from Silloth, exhibited signals of distress in Porthdinllaen Bay, North Wales, and in response thereto the National life-boat George Moore was launched, and succeeded in rescuing the crew, whom she landed in safety. This life-boat was placed there about six months since, its expense being defrayed from a fund raised amongst the <em>employés</em> of Messrs. Copt stake, Hughes, Crampton, and Co. (lat. Mtssrs. Copestake, Moore, and Co.), to provide a life-boat to be called the George Moore in memory of their late respected employer, the well-known philanthropist.</p>
 </div>
-<div class="figure align-default" id="id9">
+<figure class="align-default" id="id9">
 <img alt="_images/ILN_1878_loss_of_euridyce_apr_06_03x.png" src="_images/ILN_1878_loss_of_euridyce_apr_06_03x.png" />
-<p class="caption"><span class="caption-number">Fig. 15 </span><span class="caption-text">Illustrated London News — H.M.S. Eurydice as she lay at eight a.m. on March 25 off Dunnose Point, Isle of Wight, April 6, 1878</span><a class="headerlink" href="#id9" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 15 </span><span class="caption-text">Illustrated London News — H.M.S. Eurydice as she lay at eight a.m. on March 25 off Dunnose Point, Isle of Wight, April 6, 1878</span><a class="headerlink" href="#id9" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>By this point, further information was starting to trickle out about who was thought to have been on-board the Eurydice, along with biographies of the senior officers:</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE LOSS OF THE EURYDICE. - Tuesday, March 26th, 1878</p>
@@ -653,10 +736,12 @@ The Cranhams, Cirencester, March 25.</p>
 <p>“The Queen would ask Mr Smith to make kunwn her grief at the terrible calamity to the Eurydice and her heartfelt sympathy with the afflicted friends and relatives.”</p>
 <p>In another telegram to Mr Smith the Queen said the telegrams had caused us the greatest grief. These telegrams, having been forwarded to Admiral Fanshawe, were promptly posted at the dockyard gates, where they were eagerly read by sympathetic crowds.</p>
 </div>
-<div class="figure align-default" id="id10">
+<figure class="align-default" id="id10">
 <img alt="_images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg" src="_images/wreck-of-the-eurydice-off-the-isle-of-wight-1878-rmg-pu6185-8af3cb.jpg" />
-<p class="caption"><span class="caption-number">Fig. 16 </span><span class="caption-text">Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich</span><a class="headerlink" href="#id10" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 16 </span><span class="caption-text">Wreck of the Eurydice off the Isle of Wight 1878 RMG PU6185, drawing, Royal Museum Greenwich</span><a class="headerlink" href="#id10" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <div class="note dropdown admonition">
 <p class="admonition-title">Weather Chart for the week  MARCH 21ST TO MARCH 27TH (INCLUSIVE) - Saturday, March 30th, 1878</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/BL/0000057/18780330/027/0021?browse=true">Graphic</a>, 1878-03-30, p. 21</p>
@@ -743,7 +828,7 @@ With reference to the wreck the Eurydice, matters remain much about the same as 
 <p>A committee has been formed at Portsmouth, and another in London, to raise money for the benefit of the families of the seamen and marines who have lost their lives this disaster. Messrs. Glyn, Mills, and Co., of Lombard-street, and Messrs. Cocks and Biddulph, of Charing-cross, receive subscriptions for this purpose. The members of the House of Commons have made a special subscription amongst themselves.</p>
 <p>Our Illustration of the foundering of the Eurydice, which forms the large Engraving presented for the Extra Supplement this week, has been drawn by the aid of Sketches and verbal description supplied by the seaman Benjamin Cuddiford, one of the two survivors of the crew.</p>
 </div>
-</div>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -767,9 +852,11 @@ With reference to the wreck the Eurydice, matters remain much about the same as 
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="__last_four_days_eurydice_verney.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -785,24 +872,28 @@ With reference to the wreck the Eurydice, matters remain much about the same as 
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2022.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>The Raising of the Eurydice &#8212; On the Loss of the Eurydice</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_preface.html">
-   Preface
-  </a>
- </li>
-</ul>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="_intro.html">
    Introduction
@@ -273,12 +288,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -286,61 +306,105 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-        </div>
-    </div>
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>The Raising of the Eurydice</h1>
@@ -351,11 +415,12 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="the-raising-of-the-eurydice">
-<h1>The Raising of the Eurydice<a class="headerlink" href="#the-raising-of-the-eurydice" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="the-raising-of-the-eurydice">
+<h1>The Raising of the Eurydice<a class="headerlink" href="#the-raising-of-the-eurydice" title="Permalink to this headline">#</a></h1>
 <p>By the end June, three months after the sinking of the Eurydice, a run of good weather had meant that things were now looking promising for a lift of the vessel.</p>
 <p>In the House of Commons, the Island’s M.P., Mr. Baillie Gifford, wondered whether it might just be better to place a buoy over the wreck as a permanent memorial. Another M.P. asked whether tenders would be put out to private recovery specialists if the Admiralty failed, again, to raise the Eurydice.</p>
 <div class="note dropdown admonition">
@@ -408,11 +473,13 @@ const thebe_selector_output = ".output, .cell_output"
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780713/053/0008">Hampshire Advertiser</a>, 1878-07-13, p. 8</p>
 <p>On Monday a rigger, named Charles Lawrence, who has been employed at the operations to raise the Eurydice, had his thigh broken by the swerving of a hawser. Should the weather be favourable, it is expected that the third attempt to lift the ship will be made at the end of the present week. Recent observations have shown that the wreck is now embedded about 12ft. in the ground and that every delay increases the difficulty of raising her.</p>
 </div>
-<div class="figure align-default" id="id1">
+<figure class="align-default" id="id1">
 <img alt="_images/The-Raising-of-HMS-Eurydice-Richard-Henry-Nibbs-oil-painting.jpg" src="_images/The-Raising-of-HMS-Eurydice-Richard-Henry-Nibbs-oil-painting.jpg" />
-<p class="caption"><span class="caption-number">Fig. 27 </span><span class="caption-text">The Raising of HMS Eurydice
-Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 27 </span><span class="caption-text">The Raising of HMS Eurydice
+Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>But then, finally, with the weather again favourable, the Eurydice was raised and moved to slightly shallower water.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE RAISING OF THE EURYDICE. - Tuesday, July 16th, 1878</p>
@@ -448,10 +515,12 @@ Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy</s
 <p>The practical operations commenced on Thursday at 8 o clock, and the lifting and forward movement went on most successfully up to 2 o’clock. The actual results accomplished are as follows: The Eurydice has been moved forward in an easterly direction one mile and four-tenths of a mile She lies with a ” list ” between the Swan and the Wave, with the Rinaldo and the Pearl outside, all closely lashed together by strong hawsers. Her maintops are out of water, and show unmistakeable signs of her long detention in the ” vasty deep,” from which we trust she has now finally parted company. The expectancies as regards further progress are that the next forward movement by to-day’s (Friday) tide will be made broadside on to the tide. If to-day’s work is as successfully favoured as Thursday’s they expect to beach her, and the hope is that, no untoward accident occurring, she will be pumped out by Sunday, and ready to start for her original destination— Portsmouth -on Monday next.</p>
 <p>The present position of the wreck is in a direct line from the Culvers, leaning slightly in shoreward, about one mile and a quarter from the Culvers, so that she must have been moved from the original scene of the disaster at least a mile and a half.</p>
 </div>
-<div class="figure align-default" id="id2">
+<figure class="align-default" id="id2">
 <img alt="_images/ILN_1878_loss_of_euridyce_jul_27_005.jpg" src="_images/ILN_1878_loss_of_euridyce_jul_27_005.jpg" />
-<p class="caption"><span class="caption-number">Fig. 28 </span><span class="caption-text">Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle of Wight, July 27, 1878</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 28 </span><span class="caption-text">Illustrated London News — Raising H.M.S. Eurydice in the channel, off the Isle of Wight, July 27, 1878</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>A very similar report elsewhere hints at some additional complexities that had arisen a week of two before that had resulted in a tangle of ropes on cables on the deck of the Eurydice.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE RAISING OF THE EURYDICE. - Saturday, July 20th, 1878</p>
@@ -471,13 +540,15 @@ Painted originally by: Richard Henry Nibbs, National Museum of the Royal Navy</s
 <p>Mr. C. Knight. Union-street, has just published an excellent photograph of the Eurydice.</p>
 </div>
 <p>With the Eurydice now closer to shore, the wreck provided a spectacle from across the Island, and even further afar.</p>
-<div class="figure align-default" id="id3">
+<figure class="align-default" id="id3">
 <img alt="_images/UK_CCM_1_P.1986.1470X.png" src="_images/UK_CCM_1_P.1986.1470X.png" />
-<p class="caption"><span class="caption-number">Fig. 29 </span><span class="caption-text">Wreck of HMS Eurydice
+<figcaption>
+<p><span class="caption-number">Fig. 29 </span><span class="caption-text">Wreck of HMS Eurydice
 1878
 R. Cadogan-Rothery
-Carisbrooke Castle Museum</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
-</div>
+Carisbrooke Castle Museum</span><a class="headerlink" href="#id3" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>Meanwhile, preparations started to be made for the recovery of the bodies, as well as inspect the ship to get a better idea of what had happened when she originally went down. The stench must have been considerable.</p>
 <p>Also on-board, a puzzle regarding a certain lost codicil to a will of one of the officers lost on the Eurydice, Mr. Charles V. Strange, was also solved…</p>
 <div class="note dropdown admonition">
@@ -500,14 +571,17 @@ Carisbrooke Castle Museum</span><a class="headerlink" href="#id3" title="Permali
 <p>PHOTOGRAPH of the scene in Sandown Bey may be had of the Booksellers; also of the Photographer. F. N. Broderick, Jun., (by post or otherwise.) Top of West-street, Ryde. Price 6d. and 1s. each.</p>
 </div>
 <p>If we look towards Yaverland from the the sea wall just opposite Browns’ pitch’n’putt golf course today, we can see the red cliff and white cliff sweep up to Culver Down.</p>
-<div class="figure align-default" id="id4">
+<figure class="align-default" id="id4">
 <img alt="_images/52015295425_b61281d18e_o.jpg" src="_images/52015295425_b61281d18e_o.jpg" />
-<p class="caption"><span class="caption-number">Fig. 30 </span><span class="caption-text">Sandown, looking towards the red cliff and white cliff, Yaverland</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 30 </span><span class="caption-text">Sandown, looking towards the red cliff and white cliff, Yaverland</span><a class="headerlink" href="#id4" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>Back in 1878, the cliffs were the same, but you would have also seen the wreck of the Eurydice.</p>
-<div class="figure align-default" id="id5">
+<figure class="align-default" id="id5">
 <img alt="_images/808750-1534236882.jpg" src="_images/808750-1534236882.jpg" />
-<p class="caption"><span class="caption-number">Fig. 31 </span><span class="caption-text">HENRY ROBINS (1820-92)
+<figcaption>
+<p><span class="caption-number">Fig. 31 </span><span class="caption-text">HENRY ROBINS (1820-92)
 The Wreck of the “Eurydice” Signed and dated 1878
 Oil on canvas | 60.2 x 123.1 cm (support, canvas/panel/str external) | RCIN 406265
 HMS Eurydice was a training ship for ordinary seamen which had sunk in a sudden squall on 24 March 1878. There were more than 300 men on board but only two survivors. She was brought into Sandown bay on the Isle of Wight, but an easterly gale caused her further damage and by 9 August, when this picture was painted, she was being pumped out in preparation for being moved to Portsmouth Harbour.
@@ -515,8 +589,9 @@ In the painting the vessel is in Sandown Bay under Culver Cliff, with spectators
 Signed and dated: H. Robins / Augt 9th 1878.
 Provenance
 Painted for Queen Victoria (See also QV Journal, 22 August 1878)
-<a class="reference external" href="https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice">https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice</a></span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
-</div>
+<a class="reference external" href="https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice">https://www.rct.uk/collection/406265/the-wreck-of-the-eurydice</a></span><a class="headerlink" href="#id5" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>Although by now midsummer, the stormy weather was to return again and threaten the integrity of the hull, whilst at the same time releasing several bodies into the sea.</p>
 <p>All the while, visitors continued to flock to see the wreck, and bodies continued to be recovered.</p>
 <div class="note dropdown admonition">
@@ -537,10 +612,12 @@ THREATENED BREAK UP.</p>
 <p>After the departure of the Rinaldo on Friday afternoon, the wind increased in violence, and it was found expedient to bring the Pearl and the tugs into the harbour. With the exception of the Grinder, which had on board Lieut. Wonham, who was left in charge of the wreck, the Eurydice was wholly deserted. Happily the wind went round slightly to the north, or the wreck must have gone to pieces. Ou Sunday, though the wind continued to blow freshly from the southward— and thus the least favourable for the resumption of operations— the Pearl was again taken out to Sandown Bay and the tugs were once more on the spot. Admiral Sir Houston Stewart, the Controller of the Navy, and Rear-Admiral Foley, the Superintendent of the of the Dockyard, paid a visit to the scene of the wreck in the morning. Operations were continued on Monday. The six steel hawsers were passed across and under the ship’s keel in readiness, divers having been down and inserted toggles in three of the starboard ports. The steel pendants attached were not only useful to assist in lifting the wreck, but were of service in righting the ship to some extent from tho angle at which she heeled over to starboard. On Monday evening the Royal yacht Osborne steamed into Sandown Bay and brought up near the Eurydice. On board were the Prince and Princess of Wales, Prince Albert Victor and Prince George, in the uniforms of naval cadets, and the three little Princesses, with ladies and gentlemen in attendance. One of the Osborne’s boats was lowered, and the Prince of Wales in naval uniform, with the captain commanding the Osborne, and other officers and gentlemen, were rowed to the Eurydice. The officers who were in charge of her at the time were Staff-Captain Dathan, Staff-Captain Batt, Commander Moss, and Lieut. Wohnam. His Royal Highness clambered up the side of the wreck, and remained some time in conversation with these officers, taking much interest in their description of what had been accomplished and of their plan for future operations. The captain of H.M.S. Valorious, which has been attending on the other ships in Sandown Bay, was also on the wreck during the Prince’s visit. The Osborne steamed out of the bay about 6 o clock on her return to Osborne.</p>
 <p>On Wednesday, operations were continued at the wreck of the Eurydice, and the results winch attended than augurs well for the ultimate success of the endeavours to raise the vessel. The wind, which, during the last few days, had persistently blown from a quarter which was least desirable, fell off considerably during Tuesday night, and on Wednesday morning the working party were enabled to proceed with the task which had recently been so frequently delayed by the boisterous weather. The authorities, seeing the exposed position in which the Eurydice was placed in Sandown Bay, had for some time contemplated removing the wreck round the corner of the Isle of Wight, as a temporary measure, so as to be out of the way of the heavy sea which sets in at this point whenever there is stiff breeze blowing, and accordingly on Wednesday operations were resumed with this intent. It was low water about 11 in the morning, and the arrangements for slinging the vessel, the insertion of toggles, and the passing round of hawsers having been accomplished by that time, the lift was commenced as arranged. Previously the Pearl and Rinaldo was secured to tie the Eurydice on either side, and to counterbalance the strain which would be brought to bear upon them when the lift was begun the gunboats Wave and Swan were lashed on the outside of the two ships. As the tide rose the lift was satisfactorily effected, and the two Government tugs Camel and Grinder, which were in readiness, took the wreck and lifting craft in tow. The flotilla was slowly but satisfactorily brought round the corner of the Isle of Wight, and during the afternoon the Eurydice was grounded in St. Helen’s Roads, where it was thought to leave her for the present. The vessel is now in 24ft. of water, and when the tide is full low the depth will be reduced about 8ft. more. On Thursday efforts were made to get the wreck sweetened somewhat, as the putrefaction of the bodies on board would render it highly undesirable for the ship to he brought into a place crowded with craft in her present unsanitary condition. After this has been done the wreck will be agaim lifted and towed into Portsmouth Harbour, the idea of pumping her out being now abandoned, in consequence of the ship having been so knocked about during the recent gales.</p>
 </div>
-<div class="figure align-default" id="id6">
+<figure class="align-default" id="id6">
 <img alt="_images/ILN_1878_loss_of_euridyce_aug_17_004.jpg" src="_images/ILN_1878_loss_of_euridyce_aug_17_004.jpg" />
-<p class="caption"><span class="caption-number">Fig. 32 </span><span class="caption-text">Illustrated London News — Visit of the Prince of Wales to the wreck of H.M.S. Eurydice in Sandown Bay, August 17, 1878</span><a class="headerlink" href="#id6" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 32 </span><span class="caption-text">Illustrated London News — Visit of the Prince of Wales to the wreck of H.M.S. Eurydice in Sandown Bay, August 17, 1878</span><a class="headerlink" href="#id6" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>A further description of the move to St Helens suggests that the move occasioned further entertainment, not least to the excursion steamer, the Heather Bell, of Portsmouth.</p>
 <p>Discussion as to whether to take the Eurydice back to Portsmouth may also have occurred, but the width of the flotilla moving her was deemed to wide to afford safe passage through Portsmouth Harbour. Eventually, the Eurydice was grounded near Bembridge Fort, just off St. Helen’s.</p>
 <div class="note dropdown admonition">
@@ -665,7 +742,7 @@ E. L.</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780831/007/0005">Isle of Wight Observer</a>, 1878-08-31, p. 5</p>
 <p>Mr. Jabiz Hughes has obtained some really remarkable views of the wrecked Eurydice as she lies of St. Helen’s. The great defect in all the photos hitherto obtained is that they are taken from so great a distance that the wrecked ship bears but an insignificant part in the general view. Mr. Hughes appears to have taken his picture instantaneously from some boat close to the wreck, the position of the ship being accurately shown, as well as the men on her deck searching for the bodies, &amp;c. The photographs are printed by the permanent process.</p>
 </div>
-</div>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -689,9 +766,11 @@ E. L.</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="__life_aside.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -707,24 +786,28 @@ E. L.</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2022.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

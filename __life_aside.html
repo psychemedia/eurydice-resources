@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Life Goes On &#8212; On the Loss of the Eurydice</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_preface.html">
-   Preface
-  </a>
- </li>
-</ul>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="_intro.html">
    Introduction
@@ -273,12 +288,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -286,61 +306,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#sandown-up-and-coming-holiday-town">
    Sandown, Up and Coming Holiday Town
@@ -363,12 +439,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Life Goes On</h1>
@@ -407,14 +482,15 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="life-goes-on">
-<h1>Life Goes On<a class="headerlink" href="#life-goes-on" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="life-goes-on">
+<h1>Life Goes On<a class="headerlink" href="#life-goes-on" title="Permalink to this headline">#</a></h1>
 <p>Aside from the Eurydice disaster, what would life have been like on the Isle of Wight at the time, particularly around Ventnor and Sandown, and what were the major issues of the day that the Islanders might have had on their minds?</p>
-<div class="section" id="sandown-up-and-coming-holiday-town">
-<h2>Sandown, Up and Coming Holiday Town<a class="headerlink" href="#sandown-up-and-coming-holiday-town" title="Permalink to this headline">¶</a></h2>
+<section id="sandown-up-and-coming-holiday-town">
+<h2>Sandown, Up and Coming Holiday Town<a class="headerlink" href="#sandown-up-and-coming-holiday-town" title="Permalink to this headline">#</a></h2>
 <p>Whilst Ventor was the original fashionable holiday destination on the island, with its favourable microcolimate, Sandown was also developing as a holiday destination. Its notable visitors included a certain Rev. C. L. Dodgson, better known as Lewis Carroll, author of <em>Alice in Wonderland</em>.</p>
 <p>From announcements in the Hampshire Advertiser, it seems that Dodgson visited Sandown over many years. For example, in the issue dated <a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18731004/051/0008">Saturday 04 October 1873</a>, p8:</p>
 <blockquote>
@@ -448,28 +524,34 @@ Which it constantly carries about,<br />
 And believes that they add to the beauty of scenes—<br />
 A sentiment open to doubt.</p>
 <p>Such things were a common sight in Sandown at the time.</p>
-<div class="figure align-default" id="id1">
+<figure class="align-default" id="id1">
 <img alt="_images/uo_1532958638-16959-69.jpg" src="_images/uo_1532958638-16959-69.jpg" />
-<p class="caption"><span class="caption-number">Fig. 22 </span><span class="caption-text">Bathing machines, Sandown</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
-</div>
-</div>
-<div class="section" id="the-opening-of-sandown-pier">
-<h2>The Opening of Sandown Pier<a class="headerlink" href="#the-opening-of-sandown-pier" title="Permalink to this headline">¶</a></h2>
+<figcaption>
+<p><span class="caption-number">Fig. 22 </span><span class="caption-text">Bathing machines, Sandown</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<section id="the-opening-of-sandown-pier">
+<h2>The Opening of Sandown Pier<a class="headerlink" href="#the-opening-of-sandown-pier" title="Permalink to this headline">#</a></h2>
 <p>Whilst attempts were being made to raise the Eurydice, other activity had been going on in Sandown Bay, in particular the construction of a pleasure pier. The first part of the pier was opened by a local dignitary of a noble family line, Lady Oglander.</p>
-<div class="figure align-default" id="id2">
+<figure class="align-default" id="id2">
 <img alt="_images/sandown-pier.jpg" src="_images/sandown-pier.jpg" />
-<p class="caption"><span class="caption-number">Fig. 23 </span><span class="caption-text">Sandown Pier</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 23 </span><span class="caption-text">Sandown Pier</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">SANDOWN, May 22. The Pier.— - Wednesday, May 22nd, 1878</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780522/025/0004">Hampshire Advertiser</a>, 1878-05-22, p. 4</p>
 <p>The new pier is almost completed, and, although in appearance it is slight, the testing which has taken place this week has been satisfactory Thirty-five tons of sand were placed on the second bay (from one column to another), and there was no deflection of the iron work.</p>
 </div>
-<div class="figure align-default" id="id3">
+<figure class="align-default" id="id3">
 <img alt="_images/sandown_pier.jpeg" src="_images/sandown_pier.jpeg" />
-<p class="caption"><span class="caption-number">Fig. 24 </span><span class="caption-text">Sandown Pier</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 24 </span><span class="caption-text">Sandown Pier</span><a class="headerlink" href="#id3" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <div class="note dropdown admonition">
 <p class="admonition-title">OPENING OF THE NEW PIER. - Saturday, June 1st, 1878</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005">Isle of Wight Observer</a>, 1878-06-01, p. 5</p>
@@ -493,12 +575,14 @@ James Kennington.</p>
 <p>The seal of the Sandown Pier Company (Limited) was affixed this 28th day of May, 1878, in pursuance of a resolution duly passed at a meeting of the directors im the presence of W. H. Wooldridge, secretary.</p>
 <p>This portion of the ceremony concluded, Miss Brandt stepped forward, and, on behalf of the directors presented her ladyship with a very handsome bouquet. Her ladyship briefly replied as follows; “Mr , Chairman and gentleman of the Sandown Local Board and gentlemen of the Sandown Pier Company -I thank you very much for the kind and gratifying reception you have given me. It affords me at all times siccere pleasure to assist im any way in promoting the prosperity of Sandown, and I trust the undertakimg you have so successfully curried out and inaugurated this day may prove one of the many means of adding to the attractions of the place, and an additional source of health and enjoyment to visitors and inhabitants alike. ” Hearty cheers were then given for hey ladyship, and a number of the gemtlement present having been introduced to her, the procession again went up the pier; her ladyship and Major Leeds re-entered their carringe, and drove off amidst the loud cheers of the assembled spectators. This concluded the ceremony, which was followed by</p>
 </div>
-<div class="figure align-default" id="id4">
+<figure class="align-default" id="id4">
 <img alt="_images/service-pnp-ppmsc-08900-08995r.jpg" src="_images/service-pnp-ppmsc-08900-08995r.jpg" />
-<p class="caption"><span class="caption-number">Fig. 25 </span><span class="caption-text">Library of Congress
+<figcaption>
+<p><span class="caption-number">Fig. 25 </span><span class="caption-text">Library of Congress
 Title: [Sandown Bay, Isle of Wight, England]
-Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
-</div>
+Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerlink" href="#id4" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>As well as reporting on the opening ceremony, an account of banquet to honour the opening also appeared:</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">A BANQUET, - Saturday, June 1st, 1878</p>
@@ -526,15 +610,17 @@ Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerl
 <p>Mr. Wooldridge, in acknowledging the warm manner in which the toast had been received, very grotesquely described the difficulties of the day, and trusted he had been successful in surmounting those and other general difficulties connected with his office as well as it could reasonably be expected a man could do.</p>
 <p>The toasts of “The Ladies” and “The Press” brought the proceedings to a close.</p>
 </div>
-<div class="figure align-default" id="id5">
+<figure class="align-default" id="id5">
 <img alt="_images/service-pnp-ppmsc-08900-08996r.jpg" src="_images/service-pnp-ppmsc-08900-08996r.jpg" />
-<p class="caption"><span class="caption-number">Fig. 26 </span><span class="caption-text">Library of Congress
+<figcaption>
+<p><span class="caption-number">Fig. 26 </span><span class="caption-text">Library of Congress
 Title: [Sandown from pier, Isle of Wight, England]
-Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
-</div>
-</div>
-<div class="section" id="looming-war">
-<h2>Looming War<a class="headerlink" href="#looming-war" title="Permalink to this headline">¶</a></h2>
+Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerlink" href="#id5" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<section id="looming-war">
+<h2>Looming War<a class="headerlink" href="#looming-war" title="Permalink to this headline">#</a></h2>
 <p>The toasts at the opening of Sandown Pier at the end of May, 1878, hinted in passing that Britain was perhaps on the verge of war. So what was the cause of this sense of rising national tension?</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE EASTERN QUESTION. - Saturday, May 4th, 1878</p>
@@ -575,9 +661,9 @@ Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerl
 <p>The Greek insurrection in Crete has not yet been appeased, and intelligence was received at Athens on Saturday that hostilities had been renewed between the insurgents and the Turks in the neighbourhood of Canea. Over 30,000 refugees, from Thessaly and Macedonia, are stated to be now upon Greek territory, and a destitute condition. Many of them have enlisted in the Greek army.</p>
 <p>The transport of British Indian troops through the Suez Canal, on their way to Malta, has been going on briskly since the end of last week. The Goa and the Duke of Athol were the first vessels to pass. We leam that the Madura and Hospodar, with Indian troops on board, reached Suez on Saturday, and entered the canal. The same evening the steamer Suez, towing the Bramhletye, arrived at Suez, and left for Port Said next morning. noon on Sunday the Canara steamer arrived, and entered the canal in the afternoon The Steamer St. Osyth, with a regiment of Ghoorkas on board and the whole staff of the expedition, was detained three days at Adeu repairing her machinery. The Euesian papers have published the appeal put forward by a national committee, of which the Czarevitch is president, for raising subscription funds to purchase and equip a fleet of armed vessels to attack an enemy’s merchant-ships in case of war. His Imperial Highness remarks that Eussia has adversary whom it necessary to attack at sea. Russian sailors will soon he able to find out that adversary’s weak point if they have abundance of good and rapid ships. Dozens of vessels,” he adds, under the command of competent captains, may be scattered all over the commercial routes of the enemy, and put stop to his universal trade.” But he also points out that the ships will he available in time of peace as Eussiau merchant navy.</p>
 </div>
-</div>
-<div class="section" id="temperance-movement">
-<h2>Temperance Movement<a class="headerlink" href="#temperance-movement" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="temperance-movement">
+<h2>Temperance Movement<a class="headerlink" href="#temperance-movement" title="Permalink to this headline">#</a></h2>
 <p>From evidence we have already seen, the temperance movement appears to have formed part of the background of daily life in 1878. The Emma, the ship that rescued Cuddiford and Fletcher, was a “temperance craft”, and a lodge of the Good Templars, a fraternal temperance society, had been lost on the Eurydice.</p>
 <p>On the Island, Liberal Party campaigners supporting the Liberal M.P&gt; for Newport, Mr. Charles Clifford, were attempting to find a way to be supportive of the latest attempt by Sir Wilfrid Lawson, long time temperance campaigner, to pass a temperance related Bill whilst not antagonising folk with more permissive liberal views.</p>
 <div class="note dropdown admonition">
@@ -601,8 +687,8 @@ Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerl
 <p>The division list on Sir Wilfrid Lawson’s resolution shows that both Mr. C. C. Clifford, the Liberal member for Newport, who intends to offer himself for re-election here, and the Hon. Evelyn Ashley, M.P. for Poole, who is pledged in the Liberal interest to contest the seat for the county of the Isle of Wight, voted for the resolution, which was in favour of taking out of the hands of the magistrates the power of granting and renewing inn licenses. Mr. Evelyn Ashley’s leaning in favour of more restrictive class legislation as to inn businesses, subversive of the personal freedom of the artisans and labourers, and the class next above them, was well known. But who would have thought of Mr. Clifford truckling to the teetotallers at last ? Sir Wilfrid’s resolution, like his Permissive Bill, was based on the bare assumption to teetotal agitators, that the masses (and not merely the scum which has been so much reduced as to be scarcely perceptible to casual observers in large public holiday gatherings of artisans and labourers) are so besotted that every publichouse they come near proves an irresistible temptation to drink. And on this assumption, in the face of the clearest evidence to the contrary, we are asked to believe that “more restrictive legislation as to inns is needed to protect the masses against themselves .” There is growing a feeling of righteous indignation throughout the Island against the unseemly clamorous and mischievous teetotal agitation ; and, doubtless, a large majority of the electors of the Island at the hustings will bear in mind this truckling of the two Liberal candidates to the teetotallers. During the last six years the country has been flooded with temperance leaflets, setting forth this purely ideal want of self-restraint, and consequent deep degradation of the masses of artisans and labourers, and also the many other teetotal fallacies. And, for truth’s sake, it is much to be deplored that the two Defence Leagues of Licensed Victualler- (the only organisations for resisting infringement of the personal liberty of the subj ct. in the incessant teetotal attacks on the trade) have, through poverty, as we understand, entirely omitted from” their programme the issue of leaflets exposing these teetotal fallacies, and disabusing the minds of the public. We have it on good authority, that a “leading bishop,” untainted with the teetotal heresy, and honestly seeking the truth of the matter, having gone about amongst the masses, carefully noting everything at large gatherings of artisans and labourers on pleasure bent, with abundant means and facilities for indulgence in excessive drinking, fell in with a very intemperate temperance agitator, and ventured to ask him, ” Where is all this intemperance you are speaking about for I really do not see the drunken men about.” And the reply to the right, rev. prelate’s question of fact was, ” My lord, because you won’t see, and not because you can’t see. There are hundreds of people born blind to it!” Take the facts noted by this good bishop, together with statistics—see Mr. W. T. Wilson’s pamphlet, <em>Law and Liquor</em>, published by Weldon and Co., Fleet-street showing that in the eastern counties, where publichouses are most numerous ia proportion to population, drunkenness is less than in counties where the houses are much fewer in proportion to population. And take also the marked absence of anything like a ” run ” upon publichouses in towns, large or small, having, on occasion of late dinner parties, license to keep open to the public an hour or two after the usual time for closing; and we have clear, undisputablo evidence that the maligned masses of artisans and labourers of this country are sober and orderly men, possessing manly self-control in respect of strong drink ; and that they no more stand in need of restrictive legislation as to inns, for ” protection against themselves,” than the aristocracy. If the masses had not this self-control, their large gatherings would present the inevitable outcomes— disgraceful scenes of drunkenness and tumult ; and magistrates throughout the country would have long since ceased to grant licenses for extension of time for inn businesses, on account of the ” run ” upon inns having such licenses. Our Army is recruited by tin- labourers and artisans, and where are the evidences of their want of pluck and endurance ? It is noteworthy, as showing that very few of our senators have endeavoured to grasp the subject, that in the debates of the House of Commons on the numerous teetotal nostrums, which have troubled the House of late years, Sir Wilfrid Lawson and his followers have never been met with this argument, which, we submit, is most conclusive, and completely cuts the ground from under them. ” The teetotaller at large,” clamouring to fasten the legislative muzzle of restraint on his neighbours at every turn, rests his cane wholly on his bare assertion that the masses of our people have sunk so low as to be utterly incapable of self-control. And he insists that benefit society meetings, Army and Navy pensioners’ pay meetings, and coroners’ courts ought <em>not</em> to be held at publichouses, <em>because there is the temptation to drink</em>. Ihe long-experienced managers of benefit societies; the sober, steady pensioners; and men who have served as coroners’ jurors in town and country, in ” respectable” parts of the city, and in the slums, hundreds of times, and know more on this point than coroners, who are present <em>only</em> during the enquiry, in vain relate their experience, and show clearly that he is altogether wrong in his assumption that this attendance at a publichouse is unharmful. Good, easy, well-meaning folks take the teetotal statements for granted, and readily part with their money in aid of Bands of Hope and other teetotal societies, with their marked attendant worse evils than immoderate indulgence in strong drinks ; and thus they help to perpetuate those evils, some of which are pointed out in the saying of Dr. Wordsworth, Bishop of Lincoln : ” The pledge is unscriptural and heretical, and it is a deadly sin for Christians to sign it, inasmuch as it leads to lying and disregard of truth, and tends to raise a generation of hypocrites.” <em>—Communicated.</em></p>
 </div>
 </div>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -626,9 +712,11 @@ Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerl
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="__struggle_to_raise_continues.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -644,24 +732,28 @@ Date Created/Published: [between ca. 1890 and ca. 1900].</span><a class="headerl
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2022.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

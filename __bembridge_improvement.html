@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Bembridge in 1882 — A New Destination for Discerning Visitors &#8212; On the Loss of the Eurydice</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_preface.html">
-   Preface
-  </a>
- </li>
-</ul>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="_intro.html">
    Introduction
@@ -273,12 +288,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -286,61 +306,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#royal-spithead-hotel">
    Royal Spithead Hotel
@@ -363,12 +439,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Bembridge in 1882 — A New Destination for Discerning Visitors</h1>
@@ -407,18 +482,19 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="bembridge-in-1882-a-new-destination-for-discerning-visitors">
-<h1>Bembridge in 1882 — A New Destination for Discerning Visitors<a class="headerlink" href="#bembridge-in-1882-a-new-destination-for-discerning-visitors" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="bembridge-in-1882-a-new-destination-for-discerning-visitors">
+<h1>Bembridge in 1882 — A New Destination for Discerning Visitors<a class="headerlink" href="#bembridge-in-1882-a-new-destination-for-discerning-visitors" title="Permalink to this headline">#</a></h1>
 <p>By 1882, the reclaimed land was now well established and rather more commercial improvements to Bembrdge had formed part of the development including the opening of a new sea-front hotel, a pier, and a 9 hole golf course.</p>
-<div class="section" id="royal-spithead-hotel">
-<h2>Royal Spithead Hotel<a class="headerlink" href="#royal-spithead-hotel" title="Permalink to this headline">¶</a></h2>
+<section id="royal-spithead-hotel">
+<h2>Royal Spithead Hotel<a class="headerlink" href="#royal-spithead-hotel" title="Permalink to this headline">#</a></h2>
 <p>At the end of June, 1882, a new luxury hotel opened, the Royal Spithead Hotel, overlooking the sea and just the shortest of walks from Bembridge railway station, with its rail connections to the rest of the Island,  and a new pier, offering steam ship access to other Island piers, as well as the mainland.</p>
-<div class="figure align-default">
+<figure class="align-default">
 <img alt="_images/royal_spithead_hotel.jpg" src="_images/royal_spithead_hotel.jpg" />
-</div>
+</figure>
 <div class="note dropdown admonition">
 <p class="admonition-title">HOTELS. - Friday, June 30th, 1882</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001485/18820630/076/0014">St James’s Gazette</a>, 1882-06-30, p. 14</p>
@@ -440,24 +516,28 @@ His warmest welcome at an inn.”</p>
 <p>(Hear, hear.) He was sure they could not be more heartily welcomed than they were at that inn at the present moment. (Hear, hear.)—Mr. FREEMAN then proposed “The health of the Chairman,” who had not referred to the part he had taken in carrying out this work. They could have no idea how important was the help he had rendered, and how much he had done to encourage and carry forward the undertaking. (Applause.)—The toast was warmly received. and briefly responded to by theCHAIRMAN.—Mr. BAINES proposed “The Railway Companies,” specially mentioning the London, Brighton, and South Coast and the Isle of Wight Railways. He was sure they must all wish success to these railways, knowing what they received from them.—Mr. A. J. DE PASS responded, and pointed out that though it rained when they left London, the sun was now shining brightly. Might that be an omen; might prosperity attend them; and might they carry back pleasant reminiscences of the Isle of Wight.—The pleasant meeting then broke up, owing to the necessity of the majority of those present catching the steamer, which, it was feared, if there was any delay,— would not be able to cross the harbour bar.</p>
 </div>
 <p>Access was further improved by the announcement of a new steam ship service landing at Bembridge Pier, just the shortest of walks from the Royal Spithead Hotel.</p>
-<div class="figure align-default" id="id1">
+<figure class="align-default" id="id1">
 <img alt="_images/Paddle-steamer-Island-Queen-and-the-Spithead-hotel-before-the-addtion-of-the-upper-windows-c.1880-Copy-1024x762.jpg" src="_images/Paddle-steamer-Island-Queen-and-the-Spithead-hotel-before-the-addtion-of-the-upper-windows-c.1880-Copy-1024x762.jpg" />
-<p class="caption"><span class="caption-number">Fig. 53 </span><span class="caption-text">Island Queen at Bembridge Pier</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 53 </span><span class="caption-text">Island Queen at Bembridge Pier</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <div class="note dropdown admonition">
 <p class="admonition-title">New Local Steam Service.— - Thursday, September 14th, 1882</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000290/18820914/003/0002">Portsmouth Evening News</a>, 1882-09-14, p. 2</p>
 <p>Owing to the enterprise of some local gentlemen and others connected with the Bembridge Harbour Works Improvement Company, a new and most attractive steam service has just been successfully added to the attractions of the Solent, and one, moreover, which opens up some of the loveliest and least known bits of the scenery of the Isle of Wight. The service is at present worked by a new, comfortable, and rapid little vessel, built in Scotland, and appropriately named the Island Queen. She makes trips daily each way, leaving Bembridge Harbour at haif-past eight, half-past one, and a quarter-past four each day, and calling at the Chain Pier, Sea View, the South Parade Pier at East Southsea. the Clarence Esplanade Pier, and Portsmouth Harbour. The charges are exceedingly moderate, return tickets being issued at 9d. and 1s 6d. for respectively second and first-class passages; and as the trip is as novel as it is really enjoyable, the steamer will doubtless become very popular. Yesterday a party consisting of the journalists of Portsmouth, bank managers, and other gentlemen who are interested in the development of the trade and prosperity of Portsmouth and Southsea, went over by invitation of the company and were much struck with the evidence that met their eyes of the enormous sum of money that is now being spent in the improvement of the east end of the island. Leaving out of question the symmetrical pier and other works at and around that beautiful spot, Sea View, we will confine ourselves chiefly to the marvellous transformation which has been wrought at Bembridge the Harbour Works and Improvement Company, under the supervision of Mr. Spencer Balfour, M. P., Mr. Freeman (who, regret to say, breathed his last a few days ago), and Mr. Walker, the very clever resident engineer of the company. Here, where all few months ago was waste of mud and sand and water, are now 700 acres of land reclaimed to the plough, a railway along which runs a well-appointed train to meet the main liae traffic Brading, and which calls at St. Helens en route; an exceedingly commodious and well arranged quay, where most of the cargoes of coal, timber, ami general merchandise for Ryde, Shanklin, Ventnor, and Brading are landed. The works also include the deepening of Bembridge Harbour, and the construction through the reclaimed land of a channel for the river Yar, a stream that drains about a third of the Island. The whole of these great works have been constructed in the most solid and efficient manner and they do infinite credit the engineer, Mr Walter. Close to the pier where the Island Queen lands her passengers, and close also to the new railway station, a commodious and elegantly fitted hotel has been erected and opened under the management Mr. Scadden, whose name as a successful caterer and careful host is so well known in Portsmouth and its neighbouring towns. A golf club has also been formed here, which already numbers fifty members, and no effort will be spared to render Bembridge one of the favourite resorts of the Isle of Wight. An idea of the value of much of the land that has been reclaimed may be formed from the fact that au expert in the employ of the Messrs. Sutton, the well-known seedsmen, estimates that it will require no manure for twenty years. A first crop of oats has just been threshed out with a surprisingly satisfactory result. Some large and well-arranged oyster beds have been established and other portions of the newly-created estate are gigantic beds of such choice vegetables as asparagus and seakale. It will thus be gathered that an exceedingly valuable property is being rapidly created, and people are already beginning to ask themselves how so very promising a field has been permitted to lie fallow for so long, but it seems that an unsuccessful effort to do what has now been accomplished was made two hundred and fifty years ago by Sir Hugh Middleton, who made the New River Waterworks in London. Under his direction a number of Dutch labourers were brought oyer from Holland on the supposition that they would prove to be especially qualified for the work, but they failed, and the failure seems to have deterred others from the undertaking until the successful effort which we now announce. In addition to the railway from Brading to Bembridge a carriage drive 35ft. wide has been constructed between the same points. After viewing the works, which we have attempted thus hastily to describe, and also a pretty acacia avenue for which the place is celebrated, and other points of interest, the party were hospitably entertained by Scadden at the Royal Spithead Hotel, and returned to Portsmouth delighted and impressed by successful effort thus been made to add to theattractiveness of the locality. Full particulars as to the sailing of the Island Queen may be obtained on the Portsmouth side at either of the piers.</p>
 </div>
-</div>
-<div class="section" id="the-royal-isle-of-wight-golf-club">
-<h2>The (Royal) Isle of Wight Golf Club<a class="headerlink" href="#the-royal-isle-of-wight-golf-club" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="the-royal-isle-of-wight-golf-club">
+<h2>The (Royal) Isle of Wight Golf Club<a class="headerlink" href="#the-royal-isle-of-wight-golf-club" title="Permalink to this headline">#</a></h2>
 <p>Even as the Royal Spithead Hotel opened on the Bembridge side of what is now Brading Haven, over on the St. Helen’s side, work was afoot developing a 9 hle links golf course on the Duver.</p>
-<div class="figure align-default" id="id2">
+<figure class="align-default" id="id2">
 <img alt="_images/st_helens_duver_links_l.jpg" src="_images/st_helens_duver_links_l.jpg" />
-<p class="caption"><span class="caption-number">Fig. 54 </span><span class="caption-text">(Golf course opened 1882)
-St Helens Duver Golf Links</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 54 </span><span class="caption-text">(Golf course opened 1882)
+St Helens Duver Golf Links</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <div class="seealso dropdown admonition">
 <p class="admonition-title">The Royal Isle of Wight Golf Club</p>
 <p>The following extract of what looks to be an early official history of what was to become the <em>Royal</em> Isle of Wight Golg Glub is taken from <a class="reference external" href="https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html">https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html</a></p>
@@ -526,9 +606,9 @@ Naturally, the interest of the islanders was evoked in this new and wonderful ga
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18830825/013/0005">Isle of Wight Observer</a>, 1883-08-25, p. 5</p>
 <p>— H.R.H. the Prince of Wales has graciously consented to become the patron of this club, and H.S.H. Prince Edward of Saxe-Weimar has been pleased to accept the presidency. The distinguished honour thus conferred upon the club comes most opportunely when we are celebrating the anniversary of its creation. On July 31st of last year the club was formed, on September llth the club was opened for play, and up to the present time over 120 members have been elected. The ground steadily improves under the able direction of J. Beveridge, the custodian, and his brother Daniel, who are at the same time second to none in the art of club making. His Royal Highness’ s early departure from the Island has precluded the possibility of a visit to Bembridge, but it is hoped that at no distant date the club may be honourod by a visit, when Their Royal and Serene Highnesses will receive a true golfer’s welcome.</p>
 </div>
-<div class="figure align-default">
+<figure class="align-default">
 <img alt="_images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg" src="_images/wills-cigarette-card-golfing-1924_360_ed63274add981e46a256a1b0bffa5433.jpg" />
-</div>
+</figure>
 <div class="seealso dropdown admonition">
 <p class="admonition-title">The Royral Isle of Wight Golf Club, <em>continued (1)</em></p>
 <p>Retrieved from: <a class="reference external" href="https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html">https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html</a>, based on <em>A Short History of The Royal Isle of Wight Golf Club, published by the club, circa 1922</em>.</p>
@@ -544,13 +624,13 @@ Naturally, the interest of the islanders was evoked in this new and wonderful ga
 <p>12 MARCH 1886.
 RULES FOR THE GAME OF GOLF
 THE ROYAL ISLE OF WIGHT GOLF CLUB</p>
-<p>[Commentary: An early attempt at a universal rules code (“…shall suit all greens alike.”) from the now defunct Royal Isle of Wight Golf Club.
+<p>[Commentary: An early attempt at a universal rules code (”…shall suit all greens alike.”) from the now defunct Royal Isle of Wight Golf Club.
 A remarkable document; well laid out, well written and more comprehensive than any other code of the time.
 This code introduced definitions, out of bounds, hole size (albeit at 4 inches) and other concepts later incorporated in the R&amp;A codes.]</p>
 </div>
-<div class="figure align-default">
+<figure class="align-default">
 <img alt="_images/iw-golf-cigarette-card.jpg" src="_images/iw-golf-cigarette-card.jpg" />
-</div>
+</figure>
 <div class="seealso dropdown admonition">
 <p class="admonition-title">The Royral Isle of Wight Golf Club, <em>continued (2)</em></p>
 <p>Retrieved from: <a class="reference external" href="https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html">https://www.islandeye.co.uk/history/historic-parks/the-royal-isle-of-wight-golf-club.html</a>, based on <em>A Short History of The Royal Isle of Wight Golf Club, published by the club, circa 1922</em>.</p>
@@ -559,9 +639,9 @@ This code introduced definitions, out of bounds, hole size (albeit at 4 inches) 
 <p>The plan shows how well and naturally the holes are laid out, giving a good length (2891 yards) width, and variety of holes, on such a relatively small area of ground. In fact it is doubtful if there is to be found anywhere, nine more attractive and varied holes in such a small compass; and yet despite its size, it will be found in playing (with a bogey of 37) to be a most enjoyable and difficult test of golf.</p>
 <p>The natural hazards are sand dunes and hillocks, gorse, sea boundaries, and a public road, which round diagonally across the links, coming into prominence at 4 holes 1, 5, 6 and 9, and in a minor ways at the 8th, off a poorly played shot.</p>
 </div></blockquote>
-<div class="figure align-default">
+<figure class="align-default">
 <img alt="_images/st_helens_golf_links.jpg" src="_images/st_helens_golf_links.jpg" />
-</div>
+</figure>
 </div>
 <blockquote>
 <div><p>The three long holes, 1st, 8th and 9th are good three shot ones, in anything but calm, dry weather! The 3rd and 4th and 6th are superlative “fours” and would be hard to beat by comparison anywhere. The 2nd, 5th and 7th are very good and varied one shot holes, and of different length and difficulty and the 7th being a particularly clever punchbowl shot. Altogether the course is one of the most interesting nine hole in existence, and is full of character and individuality throughout, with the possible exception of the 5th, which is perhaps rather insipid and weak, but necessary, to keep up the proper sequence of play. This hole however together with the 6th are the only two remaining holes of the original course, as laid in 1892. That is to say they have been in constant play with little alterations for 47 years.</p>
@@ -580,9 +660,9 @@ Notably, only men were allowed to play on the course. In the years to come, a sh
 <blockquote>
 <div><p>The ladies course had 18 short holes with natural bunkers. The pavilion acted as the clubhouse as well. Gentlemen were allowed to play the course, so long as they were accompanied by a lady.</p>
 </div></blockquote>
-</div>
-<div class="section" id="a-guide-to-the-isle-of-wight-1895">
-<h2>A Guide to the Isle of Wight, 1895<a class="headerlink" href="#a-guide-to-the-isle-of-wight-1895" title="Permalink to this headline">¶</a></h2>
+</section>
+<section id="a-guide-to-the-isle-of-wight-1895">
+<h2>A Guide to the Isle of Wight, 1895<a class="headerlink" href="#a-guide-to-the-isle-of-wight-1895" title="Permalink to this headline">#</a></h2>
 <p>A guide to the Isle of Wight, published in 1895, describes the scene of the reclamation just a few years on.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">Reclamation of Brading Haven - Friday, May 3rd, 1895</p>
@@ -601,14 +681,16 @@ The first account of a British fleet lying for a long period off St. Helen’s i
 ALSO: map p76</p>
 </div>
 <p>A map produced around the same time also goves an indication of the extent of the land that had been reclaimed.</p>
-<div class="figure align-default" id="id3">
+<figure class="align-default" id="id3">
 <img alt="_images/004956958-SVC2.jpg" src="_images/004956958-SVC2.jpg" />
-<p class="caption"><span class="caption-number">Fig. 55 </span><span class="caption-text">The Isle of Wight, AW Fowles, 1897
-<a class="reference external" href="http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html">http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html</a></span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
-</div>
-</div>
-<div class="section" id="sale-of-land">
-<h2>Sale of Land<a class="headerlink" href="#sale-of-land" title="Permalink to this headline">¶</a></h2>
+<figcaption>
+<p><span class="caption-number">Fig. 55 </span><span class="caption-text">The Isle of Wight, AW Fowles, 1897
+<a class="reference external" href="http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html">http://www.bl.uk/onlinegallery/onlineex/maps/uk/004956958.html</a></span><a class="headerlink" href="#id3" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<section id="sale-of-land">
+<h2>Sale of Land<a class="headerlink" href="#sale-of-land" title="Permalink to this headline">#</a></h2>
 <p>Over the previous 10 years, the reclaimed land was brought under cultivation. In September, 1898, various lots were sold off, raising £13,890.</p>
 <p>With at least £80,000 of costs previously reported, had the project been something of a white elephant, in financial terms at least?</p>
 <div class="note dropdown admonition">
@@ -617,8 +699,8 @@ ALSO: map p76</p>
 <p>The reclamation of land from the sea has always been more or less an enterprise of a difficult character, though it has frequently proved successful. As far back as 1678 the expanse of Brading Harbour, Isle of Wight, was first reclaimed but the sea twice made inroads through the banks. Later an attempt was made by Sir Hugh Myddleton, but again the force of water proved too much for the barrier which was built to check it. About twenty years ago Jabez Balfour secured the estate and built a strong sea wall, formed a harbour constructed a railway, built gas and waterworks, and erected a fine hotel on the sea front. Since that time, about five hundred and twenty acres of land have been gradually brought under a state of cultivation, and this land, together with a building estate of some twenty-eight acres, was sold by auction by Messrs. Douglas Young and Co. yesterday. Over three hundred persons were conveyed by special train and steamer to Bembridge, and the whole of the lots offered were disposed of, the total sale amounting to £13,890, a result which was apparently considered highly satisfactory by the vendors.</p>
 </div>
 <p>Whilst only a bit part character in this telling of the “Bembridge Improvement plan”, the chairman of the Brading Harbour Company, Mr. Jabez Spencer Balfour, M.P., was soon to become a figure of national condemnation. But that, as they say, is a tale for another time and another place. If that sounds intriguing, the Spectator book review <a class="reference external" href="https://www.spectator.co.uk/article/a-very-different-sort-of-balfour"><em>A very different sort of Balfour</em></a> by Jonathan Keates should give you enough to get started on a search of your own…</p>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -642,9 +724,11 @@ ALSO: map p76</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="__brading_haven_reclamation.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -660,24 +744,28 @@ ALSO: map p76</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2022.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>The Court-Martial &#8212; On the Loss of the Eurydice</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_preface.html">
-   Preface
-  </a>
- </li>
-</ul>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="_intro.html">
    Introduction
@@ -273,12 +288,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -286,61 +306,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#terminology">
    Terminology
@@ -353,12 +429,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>The Court-Martial</h1>
@@ -387,14 +462,15 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="the-court-martial">
-<h1>The Court-Martial<a class="headerlink" href="#the-court-martial" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="the-court-martial">
+<h1>The Court-Martial<a class="headerlink" href="#the-court-martial" title="Permalink to this headline">#</a></h1>
 <p>With the Eurydice all but recovered, and there having been opportunity to inspect the inside of the wreck as she was beached initially in Sandown Bay and then off St Helen’s, the court-martial and the attendant investigation into the original disaster could now take place.</p>
-<div class="section" id="terminology">
-<h2>Terminology<a class="headerlink" href="#terminology" title="Permalink to this headline">¶</a></h2>
+<section id="terminology">
+<h2>Terminology<a class="headerlink" href="#terminology" title="Permalink to this headline">#</a></h2>
 <p>Some of the detail in the reports of the court-martial may well sound alien to anyone (such as myself!) not at all versed in in the language of sailing, so before we look to the reports, here’s an introduction to some of the terminology.</p>
 <p>TO DO - glossary  [sheet, clew, halyard, hawser, tack x 2, brails, halued up, line, abaft, before, port, port, starboard, bow, stern, hauled out, let go, spanker, fully set / set full,fearnoughted, leaded, buckler, hoked in, sashes, glass broken, scuttle, wheel, capstan, jigger, rudder, false keel, weather topsail lips, helm, muzzle-lashing, tonkin, tackle, jewels, coarses, fast, out haul, off the the “jack”, how far sheets from being home, motacentric height, freeboard]</p>
 <p><code class="docutils literal notranslate"><span class="pre">dwebp</span> <span class="pre">IMAGE.webp</span> <span class="pre">-o</span> <span class="pre">IMAGE.png</span></code></p>
@@ -407,13 +483,15 @@ const thebe_selector_output = ".output, .cell_output"
 </iframe></div><p>how to sail full rigged part 3</p>
 <div class="video_wrapper" style="">
 <iframe allowfullscreen="true" src="https://www.youtube.com/embed/B3jU9Xz_GHE" style="border: 0; height: 345px; width: 560px">
-</iframe></div><div class="figure align-default" id="id2">
+</iframe></div><figure class="align-default" id="id2">
 <img alt="_images/sail_names.jpg" src="_images/sail_names.jpg" />
-<p class="caption"><span class="caption-number">Fig. 36 </span><span class="caption-text">Example of sail names for a three masted sailing ship</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
-</div>
-</div>
-<div class="section" id="id1">
-<h2>The Court-Martial<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
+<figcaption>
+<p><span class="caption-number">Fig. 36 </span><span class="caption-text">Example of sail names for a three masted sailing ship</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<section id="id1">
+<h2>The Court-Martial<a class="headerlink" href="#id1" title="Permalink to this headline">#</a></h2>
 <p>The court martial was held on board the Duke of Wellington flagship, in Portsmouth.</p>
 <p>The charges were read and the terms of the inquiry desscribed.</p>
 <p>The court began with a statement from, and questioning of the survivor Benjamin Cuddeford, focussing on the state of the ship leading up to the storm, the availability of lifesaving equipment, and the ship’s general stability. He also observed how the crew wore blue, rather than white, working uniform, to reduce the amount of washing required.</p>
@@ -474,10 +552,12 @@ Admiral Fanshawe. Portsmouth.</p>
 <p>At this stage the Court adjourned until morning.</p>
 <p>[EXTRACT : RAISING]</p>
 </div>
-<div class="figure align-default" id="id3">
+<figure class="align-default" id="id3">
 <img alt="_images/HMS_Eurydice_tanks_plan_rmg-co-uk.png" src="_images/HMS_Eurydice_tanks_plan_rmg-co-uk.png" />
-<p class="caption"><span class="caption-number">Fig. 37 </span><span class="caption-text">HMS Eurydice, 1843, tanks</span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 37 </span><span class="caption-text">HMS Eurydice, 1843, tanks</span><a class="headerlink" href="#id3" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE EURYDICE COURT MARTIAL - Wednesday, August 28th, 1878</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0001702/18780828/082/0007">Shipping and Mercantile Gazette</a>, 1878-08-28, p. 7</p>
@@ -519,10 +599,12 @@ Admiral Fanshawe. Portsmouth.</p>
 <p>Admiral Robert Tryon deposed to seeing the Eurydice pass Ventnor on the afternoon of March 24 last. He noticed that her plain sail was set. There was a strong tide running against her, and though she might have been sailing at seven, yet she was not passing the land at more than four knots. The canvas the vessel was under was not more than she was justified in carrying, as there had been several snow squalls that morning off Ventnor unaccompanied by wind of any moment. When the Eurydice passed Ventnor there was a moderate breeze blowing off the land, the water was smooth, and the sun was shining brightly. Witness lost sight of the ship before the storm broke upon Ventnor, which it did shortly before 4 o’clock. A schooner passing Ventnor before the squall burst had hauled down her topsails.</p>
 <p>Mr. James Chappel, Master of the Lord Vivian; Mr. Louttit, Master of the steamship Badger; and Mr. W. L. Jenkins, Master of the schooner Emma, deposed to being at sea on March 24, and struck by the squall which capsized the Eurydice. They were of opinion that those on board the Eurydice could not see the storm approaching they were too does inshore. The inquiry was then adjourned until this day (Wednesday).</p>
 </div>
-<div class="figure align-default" id="id4">
+<figure class="align-default" id="id4">
 <img alt="_images/HMS_Eurydice_deck_plan_rmg-co-uk.png" src="_images/HMS_Eurydice_deck_plan_rmg-co-uk.png" />
-<p class="caption"><span class="caption-number">Fig. 38 </span><span class="caption-text">HMS Eurydice, 1843, deck</span><a class="headerlink" href="#id4" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 38 </span><span class="caption-text">HMS Eurydice, 1843, deck</span><a class="headerlink" href="#id4" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>In passing, we might note that the reporting of the court-martial extended across the Britain.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE EURYDICE COURT MARTIAL - Friday, August 30th, 1878</p>
@@ -558,10 +640,12 @@ Admiral Fanshawe. Portsmouth.</p>
 <p>Would you consider it proper in the case of any future sailing ship being fitted out to adopt the practice now adopted by the Admiralty in reference to all modern ships, or the practice of the merchant service ? —If the ship were new we should do it as a matter of course. If she were old and tried ship like the Eurydice, we should undoubtedly do it for the purpose of adding to our stock of knowledge, and curve of stability for the Eurydice was calculated in my office, but I am not sure of the date when was made. It is now before the court. Using the term curve of stability in its ordinary sense, the calculations for it are made on the assumption that no ports or other openings occur which will let in water throngh the ship’s sides.</p>
 <p>The court adjourned until this morning, when, after Robinson has been further examined on some points, the members will proceed to consider their judgment.</p>
 </div>
-<div class="figure align-default" id="id5">
+<figure class="align-default" id="id5">
 <img alt="_images/HMS_Eurydice_lines_plan_rmg-co-uk.png" src="_images/HMS_Eurydice_lines_plan_rmg-co-uk.png" />
-<p class="caption"><span class="caption-number">Fig. 39 </span><span class="caption-text">HMS Eurydice, 1843</span><a class="headerlink" href="#id5" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 39 </span><span class="caption-text">HMS Eurydice, 1843</span><a class="headerlink" href="#id5" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>What are perhaps the most comprehensive reports of the Court continued to be provided by the Hampshire Telegraph.</p>
 <p>More weather reports are desscribed, noting the freakish behaviour of the squall. Reports were also received fom the divers to the wreck describing the state of the ship, including the setting of the sails and the state of the  ports, as they had witnessed them.</p>
 <div class="note dropdown admonition">
@@ -733,8 +817,8 @@ The warrant addressed to Admiral Fanshawe was as follows:—</p>
 <p>The court do fully acquit the survivors, Benjamin Cuddiford, able seaman, and Sydney Fletcher, ordinary seaman, and the said Benjamin Cuddiford and Sydney Fletcher are hereby so fully acquitted accordingly. The court then dissolved.</p>
 <p>[EXTRACT : RETURN]</p>
 </div>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -758,9 +842,11 @@ The warrant addressed to Admiral Fanshawe was as follows:—</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="__life_aside_2.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -776,24 +862,28 @@ The warrant addressed to Admiral Fanshawe was as follows:—</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2022.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

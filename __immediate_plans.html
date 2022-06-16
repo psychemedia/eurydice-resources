@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>Plans to Refloat the Eurydice &#8212; On the Loss of the Eurydice</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_preface.html">
-   Preface
-  </a>
- </li>
-</ul>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="_intro.html">
    Introduction
@@ -273,12 +288,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -286,61 +306,105 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-        </div>
-    </div>
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>Plans to Refloat the Eurydice</h1>
@@ -351,11 +415,12 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="plans-to-refloat-the-eurydice">
-<h1>Plans to Refloat the Eurydice<a class="headerlink" href="#plans-to-refloat-the-eurydice" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="plans-to-refloat-the-eurydice">
+<h1>Plans to Refloat the Eurydice<a class="headerlink" href="#plans-to-refloat-the-eurydice" title="Permalink to this headline">#</a></h1>
 <p>The inclement weather of the week following the downing of the Eurydice hampered efforts to explore the wreck and proceed with operations that might lead to her recovery.</p>
 <p>Some of the smaller boats on the Eurydice were recovered and a start was made bringing up the sails and removing the masts, a necessary step to take before attempts could be made to raise the wreck.</p>
 <p>The action of the sea had also rolled the Eurydice from her side into an upright position, sitting on her keel.</p>
@@ -381,10 +446,12 @@ const thebe_selector_output = ".output, .cell_output"
 <p>[EXCERPT : RELIEF]</p>
 <p>The more the matter of the foundering of the training ship Eurydice is discussed, says the Times, the more necessary seems the holding of a naval inquiry, for the purpose of clearing up questions which were not submitted to the jury at Ventnor, and which only Court of professional and scientific experts will be able to fully appreciate. With reference, indeed, to one very important point, the Jury were clearly misinformed. The boy Fletcher, from what he had heard among his messmates, was under the impression that the ballast of the ship was principally composed of the water which was stored below for drinking and cooking purposes, and of the usual stores of the ship. At the end of the voyage, of course, the weight of the water and stores would be diminished, and hence, had they constituted the ballast of the Eurydice, her stability would have been greatly affected by their exhaustion. To rebut this evidence the able seaman, Cuddiford, was recalled by the Admiralty and he said that the ship had the proper amounto ballast for her tonnage, and that her lower tier of water-tanks was never disturbed. This was considered satisfactory by the jury, but it has been since discovered from drawings now in the possession of the Admiral-Superintendent that the ship was not fitted with a second tier of tanks. It is not, however, believed by professional persons at Portsmouth that the reduction in the weight of water and stores would seriously lessen the stability of the ship. The utmost difference which the loss during the voyaige would make in the draught of the Eurydice would be about eight or ten inches, the only practical result of which would be to make her a little more “lively.” In order to clear up the question of the amount of water in the ship at the time of foundering, Admiral Foley has instructed the divers to measure the contents of the tanks as soon as the are reached; but as they are not watertight, and will have been filled with sea water, it is not considered likely that their present condition will afford any guidance as to their state on Sunday, the 24th ult. The midship section of the ship also shows that the ports were just upon 6ft. above water-line and that the compaaratively small heel of 18deg. would bring the ports under water and prevent the vessel righting.</p>
 </div>
-<div class="figure align-default" id="id1">
+<figure class="align-default" id="id1">
 <img alt="_images/ILN_1878_loss_of_euridyce_apr_04_009.jpg" src="_images/ILN_1878_loss_of_euridyce_apr_04_009.jpg" />
-<p class="caption"><span class="caption-number">Fig. 20 </span><span class="caption-text">Illustrated London News — Divers at Work on H.M.S. Eurydice, April 4, 1878</span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 20 </span><span class="caption-text">Illustrated London News — Divers at Work on H.M.S. Eurydice, April 4, 1878</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>On Sunday, 31st March, a week on from the disaster, collections were made and sermons preached on behalf of the lost souls. Accounts of the severity of the storm that had downed the Eurydice but had been experienced elsewhere in the UK were also being reported in the Island news. A court martial to be held involving the two survivors was also announced.</p>
 <p>Noting the classical tragedy of Orpheus and Eurydice, it was also observed that Eurydice’s “consort ship”, H.M.S. Orpheus had also been downed in not dissimilar circumstances 15 years previously, albeit on the other side of the world, on April 7th, 1863.</p>
 <div class="note dropdown admonition">
@@ -550,10 +617,12 @@ Took the three hundred wanderers Home.</p>
 <p>The Portsmouth correspondent of the <em>Telegraph</em> writing on the 25th inst., says: At the wreck of the Eurydice to-day the divers were enabled to make a descent and even walk almost round the ship. The hawsers were got in position ready for slinging the vessel, and if circumstances continue as favourable as they are now, the attempt to raise her will be made to-morrow [this day, Friday].</p>
 <p>[EXCERPT : RELIEF]</p>
 </div>
-<div class="figure align-default" id="id2">
+<figure class="align-default" id="id2">
 <img alt="_images/ILN_1878_loss_of_euridyce_apr_27_007.jpg" src="_images/ILN_1878_loss_of_euridyce_apr_27_007.jpg" />
-<p class="caption"><span class="caption-number">Fig. 21 </span><span class="caption-text">Illustrated London News — The wreck of the Eurydice: Divers examining a wreck by the submarine light, April 27, 1878</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 21 </span><span class="caption-text">Illustrated London News — The wreck of the Eurydice: Divers examining a wreck by the submarine light, April 27, 1878</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>The company divers brought with them improved support for illuminating the wreck.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">THE WRECK OF RAISING THE EURYDICE. - Saturday, April 27th, 1878</p>
@@ -596,7 +665,7 @@ Took the three hundred wanderers Home.</p>
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780504/028/0008">Isle of Wight Observer</a>, 1878-05-04, p. 8</p>
 <p>Though the result of the operations around the Eurydice on Sunday has produced great disappointment at Portsmouth, now that the officers are in possession of the exact state of the case with which they have to deal, they are, if anything, even more hopeful than before of being able to raise the unfortunate ship. They are, however, fully cognizant of the increased difficulty of the task before them, and measures are being promptly taken to meet it, though, as the present tides will not serve, seeing that a rise of 13ft. will be required to pull the ship out of its bed, a fortnight will probably elapse before the operation of lifting can be renewed. In the meantime, it is necessary that an ample margin should be allowed for that at present unknown quantity, the dead weight of the ship <em>plus</em> the strain which will be needed to overcome the suction between the ship and the burrow which she has formed for herself in the sand. Preparations are being made to resist a strain of some 700 tons. This is more than double the estimated dead-weight of the ship in her normal state, before the saturation of her planks and timbers and the introduction of sand into her hold through the main deck lee ports, which, as already stated, are on a level with the ground. It will also be necessary to provide against unequal distribution of strains, for it is evident that where a heavy weight has to be grappled with from purchases suspended from a moving surface or platform, great care is required so to adjust them as to prevent one hawser feeling the pinch in advance of the rest, and thus being subjected to abnormal tension. After a consultation between the Portsmouth and Chatham dockyard officers, it has been decided to supplement the buoyant power of the Pearl and the Rinaldo by dropping “toggles” through the whole of the ports of the Eurydice and attaching them to lighters placed four on each side, whereby, it is thought, the ship will be lifted evenly and bodily out of her bed. It has also been deoraed expedient to put more ballast into the Pearl and the Rinaldo in order that they may be brought down nearer to their load line, and thus acquire a firmer grasp of the water. The Rinaldo has already been brought from the scene of the wreck into harbour to receive the additional ballast on board. Eight-inch jewel chains will also probably be used, as, while steel hawsers will resist enormous vertical or horizontal strains, the unfortunate experience of Sunday proved that they are exceedingly liable to part where a nip occurs. But the most important additional factor which will be imported into the operations is the famous Popoff air-bag, which was experimentally tested at Portsmouth in 1875 with reference to its applicability to raise the Vanguard, and which was subsequently put to practical use to assist in raising the Oberon, torpedo ship, from the shoal at the mouth of the harbour. The bag, which is a combination of cordage, canvas, and vulcanized rubber, measures 22ft. in length and 12ft. in breadth and when inflated to its full extent resembles a cylindrical boiler. The total displacement of the bag is about 60 tons, and when introduced through the hatches of the Eurydice, it will be able to lift to that amount minus its own weight of 47cwt. 2qrs 14lbs. Owing to the gale which prevailed, nothing was done on Monday at the wreck. Indeed, it was found necessary to bring the lighters in, one or two- of them running great risk of being lost. Two additional divers have been brought from Devonport to assist in the preliminary operations.</p>
 </div>
-</div>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -620,9 +689,11 @@ Took the three hundred wanderers Home.</p>
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="__inquest.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -638,24 +709,28 @@ Took the three hundred wanderers Home.</p>
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2022.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>

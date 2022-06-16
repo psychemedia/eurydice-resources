@@ -4,11 +4,13 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
     <title>More Life Aside &#8212; On the Loss of the Eurydice</title>
     
-  <link href="_static/css/theme.css" rel="stylesheet">
-  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
 
     
   <link rel="stylesheet"
@@ -18,20 +20,16 @@
   <link rel="preload" as="font" type="font/woff2" crossorigin
     href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
 
-    
-      
-
-    
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=62ba249389abaaa9ffc34bf36a076bdc1d65ee18" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
-    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
     
-  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
@@ -39,12 +37,13 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=f31d14ad54b65d19161ba51d4ffff3a77ae00456"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
 const thebe_selector_input = "pre"
@@ -62,7 +61,21 @@ const thebe_selector_output = ".output, .cell_output"
     <!-- Google Analytics -->
     
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
     
     <div class="container-fluid" id="banner"></div>
 
@@ -71,9 +84,10 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="container-xl">
       <div class="row">
           
-<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
-    
-        <div class="navbar-brand-box">
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
     <a class="navbar-brand text-wrap" href="index.html">
       
       
@@ -86,14 +100,15 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
 </form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="_preface.html">
+                    Preface
+                </a>
+            </li>
+        </ul>
         <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="_preface.html">
-   Preface
-  </a>
- </li>
-</ul>
-<ul class="nav bd-sidenav">
  <li class="toctree-l1">
   <a class="reference internal" href="_intro.html">
    Introduction
@@ -273,12 +288,17 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 
     </div>
-</nav> <!-- To handle the deprecated key -->
-
-<div class="navbar_extra_footer">
-  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-</div>
-
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
 </div>
 
 
@@ -286,61 +306,117 @@ const thebe_selector_output = ".output, .cell_output"
 
 
           
-<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
     
-    <div class="topbar container-xl fixed-top">
-    <div class="topbar-contents row">
-        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
-        <div class="col pl-md-4 topbar-main">
-            
-            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
-                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
-                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
-                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
-                <i class="fas fa-bars"></i>
-                <i class="fas fa-arrow-left"></i>
-                <i class="fas fa-arrow-up"></i>
-            </button>
-            
-            
-<div class="dropdown-buttons-trigger">
-    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
-            class="fas fa-download"></i></button>
-
-    <div class="dropdown-buttons">
-        <!-- ipynb file if we had a myst markdown file -->
+    <div class="header-article row sticky-top noprint">
         
-        <!-- Download raw file -->
-        <a class="dropdown-buttons" href="_sources/"><button type="button"
-                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
-                data-placement="left">.md</button></a>
-        <!-- Download PDF via print -->
-        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
     </div>
 </div>
 
-            <!-- Source interaction buttons -->
-
-            <!-- Full screen (wrap in <a> to have style consistency -->
-
-<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
-        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
-        title="Fullscreen mode"><i
-            class="fas fa-expand"></i></button></a>
-
-            <!-- Launch buttons -->
-
-        </div>
-
-        <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
-            
-            <div class="tocsection onthispage pt-5 pb-3">
-                <i class="fas fa-list"></i> Contents
-            </div>
-            <nav id="bd-toc-nav" aria-label="Page">
-                <ul class="visible nav section-nav flex-column">
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#land-reclamation-around-brading-haven">
    Land Reclamation Around Brading Haven
@@ -377,12 +453,11 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
 </ul>
 
-            </nav>
-        </div>
-    </div>
+    </nav>
 </div>
-    <div id="main-content" class="row">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
                 <h1>More Life Aside</h1>
@@ -435,27 +510,32 @@ const thebe_selector_output = ".output, .cell_output"
                     </div>
                 </div>
             </div>
-            
+            <main id="main-content" role="main">
+                
               <div>
                 
-  <div class="tex2jax_ignore mathjax_ignore section" id="more-life-aside">
-<h1>More Life Aside<a class="headerlink" href="#more-life-aside" title="Permalink to this headline">¶</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="more-life-aside">
+<h1>More Life Aside<a class="headerlink" href="#more-life-aside" title="Permalink to this headline">#</a></h1>
 <p>We have already seen how developments were taking place in Sandown in 1878, such as the opening of the pier, even as the Eurydice lay in Sandown Bay.</p>
 <p>As the hulk of the ship was moved into St. Helen’s Roads, we also find that the developments were happening there around the same time, works that would change the outline of the Island on a map in an even more significant way than the addition of a pier.</p>
 <p>Over the coming years, the area around Bembridge and St Helens would change signicantly, the result works that were in full swing in 1878.</p>
-<div class="section" id="land-reclamation-around-brading-haven">
-<h2>Land Reclamation Around Brading Haven<a class="headerlink" href="#land-reclamation-around-brading-haven" title="Permalink to this headline">¶</a></h2>
+<section id="land-reclamation-around-brading-haven">
+<h2>Land Reclamation Around Brading Haven<a class="headerlink" href="#land-reclamation-around-brading-haven" title="Permalink to this headline">#</a></h2>
 <p>An Ordnance Survey map of the Isle of Wight around 1853 shows the extent of Brading Harbour in the mid-nenteenth century.</p>
-<div class="figure align-default" id="id1">
+<figure class="align-default" id="id1">
 <img alt="_images/os-IW-1853-mudge-archive-org-6916014.jpg" src="_images/os-IW-1853-mudge-archive-org-6916014.jpg" />
-<p class="caption"><span class="caption-number">Fig. 33 </span><span class="caption-text">OS IW Mudge 1853
-<a class="reference external" href="https://archive.org/details/dr_10-isle-of-wight-6916014">https://archive.org/details/dr_10-isle-of-wight-6916014</a></span><a class="headerlink" href="#id1" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 33 </span><span class="caption-text">OS IW Mudge 1853
+<a class="reference external" href="https://archive.org/details/dr_10-isle-of-wight-6916014">https://archive.org/details/dr_10-isle-of-wight-6916014</a></span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>A close up from Hall’s map of c. 1850 shows how far inland the harbour extended, reaching up to what is then end Quay Lane in Brading today.</p>
-<div class="figure align-default" id="id2">
+<figure class="align-default" id="id2">
 <img alt="_images/Hall_map_Brading_harbour_c1850.png" src="_images/Hall_map_Brading_harbour_c1850.png" />
-<p class="caption"><span class="caption-number">Fig. 34 </span><span class="caption-text">Hall map IW ~1850? Brading Harbour</span><a class="headerlink" href="#id2" title="Permalink to this image">¶</a></p>
-</div>
+<figcaption>
+<p><span class="caption-number">Fig. 34 </span><span class="caption-text">Hall map IW ~1850? Brading Harbour</span><a class="headerlink" href="#id2" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <div class="seealso dropdown admonition">
 <p class="admonition-title">The Environs of Brading, 1066</p>
 <p>The view today is ofter referred to as Brading Marsh, a haven for wild birds. Almost a thousand years ago, in the summer and autumn of 1066, the land between St Helens and Brading, on what was the north side of Brading Harbour at the time, would have seen the encampment of King Harold, and before him, his estranged brother, Earl Tostig. The invasion of King William had been anticipated, but as yet, had still not arrived. With the autumn wearing on, and the weather likely to turn ever the worse, King Harold left the Island before the invasion that was to see the end of his reign had landed.</p>
@@ -470,12 +550,14 @@ const thebe_selector_output = ".output, .cell_output"
 </iframe></div></div>
 <p>To get to Bembridge from St. Helen’s meant either a long trip to Brading, across the bridge over Easter Yar at Brading, and then back round to Bemrbdige, or a ferry across.</p>
 <p>At the shore, a print from around the same time shows the view of Bembridge from St. Helens.</p>
-<div class="figure align-default" id="id3">
+<figure class="align-default" id="id3">
 <img alt="_images/3512272457_8784bc5a44_b.jpg" src="_images/3512272457_8784bc5a44_b.jpg" />
-<p class="caption"><span class="caption-number">Fig. 35 </span><span class="caption-text">Isle of Wight : Bembridge from St.Helens . Harbour section of Victorian Print c.1850s.
+<figcaption>
+<p><span class="caption-number">Fig. 35 </span><span class="caption-text">Isle of Wight : Bembridge from St.Helens . Harbour section of Victorian Print c.1850s.
 Isle of Wight : A finely detailed print view titled ” Bembridge from St.Helens ” : a Victorian Print c.1850s.
-<a class="reference external" href="https://www.flickr.com/photos/lenton_sands/3512272457/">https://www.flickr.com/photos/lenton_sands/3512272457/</a></span><a class="headerlink" href="#id3" title="Permalink to this image">¶</a></p>
-</div>
+<a class="reference external" href="https://www.flickr.com/photos/lenton_sands/3512272457/">https://www.flickr.com/photos/lenton_sands/3512272457/</a></span><a class="headerlink" href="#id3" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 <p>The first inklings of what were to come appeared in 1864 with the adoption of <em>The Bembridge Railway, Tramway, and Pier Act, 1864</em>, weer ranyone to be paying attention to the matter.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">Cap. cccxxviii. - Tuesday, May 3rd, 1864</p>
@@ -572,8 +654,8 @@ Isle of Wight : A finely detailed print view titled ” Bembridge from St.Helens
 <p>Captain J. W. D. McDonald, retired captain, R.N., has addressed the following letter to the Shipping and Mercantila Gazette :—” I forward herewith copies of letters, &amp;., referring to works now being carried out in Brading Harbour, and feel assured that, after a careful study of the metier, you will agree with me that it is quite time there should be some understanding as to what department has the power of controlling or preventing injury to the public rights, as involved in the conservancy of harbours, as well as the preservation of foreshores, &amp;c. At present the result of my experience in the matter leads me to believe that the authorities do not quite understand what power they have, or where it begins and ends. I may possibly be wrong in the conclusion arrived at, but, to my judgment of the case, it seems a matter of surprise that, although I have been (as you will see by the correspondence) in constant communication with the Lords Commissioners of the Admiralty, as well as the Board of Trade, yet the fact remains, that the Brading Harbour Company may do what they like, without any step being taken by the authorities to put a stop to their encroachments. Surely there should be some sort of supervision over works of this nature. There should be a public functionary to visit and report from time to time as to how the works are progressing, and that they do not exceed the powers granted by the original Act. It most at ought not to be left to a private individual to have to keep up a constant attack on the parties who are paid for and invested with the duties of this particular department. If a coastguardsman sees a fisherman or other person take up a piece of plank or spar washed up on the beach, and carry it away, the individual is informed that he has no right to it, but that it must be deposited in the keeping of the coastguard, and he will be eutitled to a certain amount for the salvage. If he objects to leave his piece of plank or spar, and takes it off, he is liable to a fine or term of imprisonment. If the Coastguiud are invested with this power as regard wreckage or drift wood, what is to prevent their having the power to stop any parties removing shingle or sand from the sea-shore? In one case a person can be stopped for taking away a piece of timber, perhaps worth only 5s., and the other may take away thousands of tons of shingle and sand, and there is no authority to stop him from doing so. It is surely time the public should know who are the real guardians of the public rights in navigable waters, as well as those of foreshores, &amp;c. With respect to the granting of powers to a company, as in the case of the Brading Harbour Act, I venture to submit that, in future, notice of any attempt to interfere with tidal waters and navigable channels should be posted up at the Custom-houses and Coastguard Stations within a radius of 30 or 40 miles of the proposed alterations, so that the coasting and seafaring population may know what is proposed; also that the Coastguard officers be instructed to make inquiries as to the feeling of the inhabitants of the district, as well as to receive any remonstrance from pilots or fishermen resident in the district, such reports to be forwarded to the authorities. It is also essential that an inquiry should be instituted by qualified officers into the bearing or effect the alterations would have on Government works and national requirements. These observatious are made with the view of obtaining some certain, sure, and definite means of redress, as well as the prevention of injustice in trampling under foot the public right as involved in the question of conservancy of harbours, free navigation, and foreshores. At present, any inquisitive traveller will find our Coastguard Stations decorated with public notices about the numbering of fishing boats, concealment of wreckage, inducements to enter the Royal Navy, a long list of penalties for the infringment of Board of Trade Regulations, protection of seagulls (with penalties), treatment of the apparently drowned, and others <em>ad infinitum</em>. I should much like to see notices in some protecting the rights of the coasting and seafaring as well as the fishing communities.” Our contemporary, in a leading article, says :”The ‘Piers and Harbours Act’ does not, it is generally admitted, confer sufficient power on the Board of Trade, in the public interest, for the prevention of local abuses. Rivers and harbours should be under the control of a Government Department responsible to Parliament. To a certain extent the Board of Trade stands in an intermediary position, but its officers are not armed with the requisite authority for the defence of national rights; for we take it that navigable channels should not be arbitrarily and independently assuaged by any self-imposed body of Commissioners, however honourable they may be.”</p>
 <p>[See also previous article on Bembridge.]</p>
 </div>
-<div class="section" id="the-brading-oyster-fishery">
-<h3>The Brading Oyster Fishery<a class="headerlink" href="#the-brading-oyster-fishery" title="Permalink to this headline">¶</a></h3>
+<section id="the-brading-oyster-fishery">
+<h3>The Brading Oyster Fishery<a class="headerlink" href="#the-brading-oyster-fishery" title="Permalink to this headline">#</a></h3>
 <p>To get a sense of the character of the Brading Harbour Improvement Company, let us now take a slight detour and consider the way they handled the compulsory purchase of the Brading oyster fishery right at the start of the development.</p>
 <p>The original oyster fishery was established in 1863:</p>
 <div class="note dropdown admonition">
@@ -639,9 +721,9 @@ OYSTER BREEDING.”</p>
 <p>Mr.Lee thanked Mr. Martin for his valuable paper, which contained so much uaeful matter, the result of thoughtful research, and suggested that the paper should be printed <em>in extenso</em>, as it would be exceedingly useful for future reference.</p>
 <p>A formal vote of thanks was accorded to Mr. Martin for hit excellent paper, and it was resolved that it should be printed <em>in extenso</em>. Mr. Martin exhibited a model of breeding ponds, and photographs of same: The President exhibited a large collection of fossil oysters, and other specimens; Mr. H. Lee specimens of oysters; and Mr. J. S. Johnson, Mr. F. Crowley, and Mr. H. Turner, placed their microscopes at Mr. Martin’s disposal.</p>
 </div>
-</div>
-<div class="section" id="industrial-accidents">
-<h3>Industrial Accidents<a class="headerlink" href="#industrial-accidents" title="Permalink to this headline">¶</a></h3>
+</section>
+<section id="industrial-accidents">
+<h3>Industrial Accidents<a class="headerlink" href="#industrial-accidents" title="Permalink to this headline">#</a></h3>
 <p>We also get a sense of the company from it’s response to industrial accidents, as in these reports from March 1879 and of a fatal accident in February 1880.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">RYDE COUNTY COURT. - Saturday, March 8th, 1879</p>
@@ -704,10 +786,10 @@ Collected by W. Mursell 7 7 6<br />
 ” T. Dallimore 9 17 0<br />
 £40 7 0</p>
 </div>
-</div>
-</div>
-<div class="section" id="the-state-of-the-reclamation-project-in-1878">
-<h2>The State of the Reclamation Project in 1878<a class="headerlink" href="#the-state-of-the-reclamation-project-in-1878" title="Permalink to this headline">¶</a></h2>
+</section>
+</section>
+<section id="the-state-of-the-reclamation-project-in-1878">
+<h2>The State of the Reclamation Project in 1878<a class="headerlink" href="#the-state-of-the-reclamation-project-in-1878" title="Permalink to this headline">#</a></h2>
 <p>At the start of 1878, with works ongoing, various consequences of the development were starting to become apparent, not least in the way the release of sewage from St. Helens was being affected.</p>
 <div class="note dropdown admonition">
 <p class="admonition-title">St. Helen’s, Local Board of Health - Saturday, February 23rd, 1878</p>
@@ -750,8 +832,8 @@ their works affected the Board.</p>
 <p>[Also appeared in  Isle of Wight Observer, Saturday 10 April, 1886, p6.]</p>
 </div>
 <p>As we shall learn later, the question of maintaining the sewerage network was to cause further conflict at the beginning 1881.</p>
-<div class="section" id="the-reclamation-work-progresses">
-<h3>The Reclamation Work Progresses<a class="headerlink" href="#the-reclamation-work-progresses" title="Permalink to this headline">¶</a></h3>
+<section id="the-reclamation-work-progresses">
+<h3>The Reclamation Work Progresses<a class="headerlink" href="#the-reclamation-work-progresses" title="Permalink to this headline">#</a></h3>
 <p>The following letter describes the state of the development, and its impact on the local scenery, as witnessed by a returning visitor to the island after several years away. <em>(Notably, no mention is made, in this letter at least, of any excursion to view the Eurydice in Sandown Bay.)</em></p>
 <div class="note dropdown admonition">
 <p class="admonition-title">A HOLIDAY RAMBLE. - Saturday, April 27th, 1878</p>
@@ -797,10 +879,10 @@ Stable URL: <a class="reference external" href="https://www.jstor.org/stable/183
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18780831/005/0002">Hampshire Telegraph</a>, 1878-08-31, p. 2</p>
 <p>CHARGE OF UTTERING A FORGED ORDER- Frederick Cooper, navvy, St. Helen’s, was charged with uttering a forged order.— Daniel Pyke said he was canteen-keeper at the Brading Harbour Improvement Works, at which the prisoner was employed. At the work they made use of order tickets, each ticket being for 2s. The men were paid by on Saturday, but during the week any workman by going to the timekeeper could get a ticket or tickets, which they brought to him at the canteen, and he gave them money for it. On Wednesday last the prisoner brought him the ticket produced, for which he gave him 2s., but after he left he noticed it was a forged ticket, which he gave over to the time-keeper. By the Chairman : What do you sell at the canteen, and do the workmen make purchaeas there when they receive their money ?- Witnesss: They sell groceries at the canteen, and the men do not make purchases at the time they are paid, but afterwards return and make purchases.— The Chairman : Has the contractor an interest in the profits of the canteen?-Witness; Yes; the contractor has an interest in what is sold at the canteen.—Cecil Reynolds Seymour said he had been timekeeper at the Brading Harbour Works for about a month, and on every Monday he received 35l. worth of order tickets, and sent the same amount in cash to the last witness at the canteen. Each ticker was for 2s. On Monday last the prisoner came to the office and received an order and another on Tuesday, but he did not give him the order on Wednesday. The ticket produced, which he received from the last witness, was a forged order. After giving the prisoner 4s., there was still 5s. due to him.— The Chairman put the same questions to this witness as he did to the last as to the canteen.— The Chairman, in discharging the prisoner, strongly condemned the way in which the men were paid.</p>
 </div>
-</div>
-</div>
-<div class="section" id="the-temperance-debate-continues">
-<h2>The Temperance Debate Continues<a class="headerlink" href="#the-temperance-debate-continues" title="Permalink to this headline">¶</a></h2>
+</section>
+</section>
+<section id="the-temperance-debate-continues">
+<h2>The Temperance Debate Continues<a class="headerlink" href="#the-temperance-debate-continues" title="Permalink to this headline">#</a></h2>
 <p>Nationally, the temperance movement’s activities rolled on. In Ryde, the Mayor tabled a petition calling for the closure of public houses on Sundays, which he was keen for the members of the council to put the town seal on.</p>
 <p>The ensuing debate, captured in two separate reports, could make for quite an amusing verbatim play!</p>
 <div class="note dropdown admonition">
@@ -873,8 +955,8 @@ Stable URL: <a class="reference external" href="https://www.jstor.org/stable/183
 <p><a class="reference external" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18790717/088/0004">Isle of Wight Times</a>, 1879-07-17, p. 4</p>
 <p>The course which the Ryde Town Council took last week, with regard to the petition in favour of closing publichouses on Sundays, must have met with the approbation of the majority of our fellow-townsmen, and of many of the publicans also. The general feeling of the meeting exhibited by those who dissented from the petition being sealed, was in favour of the movement, but their objection was on the ground that it was a matter of Imperial and not of local politics. This seemed a correct view to take, inasmuch, as the principle implied in the Premissive Bill has not yet been legislatively brought into the law of England, over the sale of intoxicating beverages. On the other hand it was urged, on quite as good a basis, that the matter was not yet a question of party polities, but one which seriously affected our social interest : that the question was not one of Imperial politics even, so much as essentially a social one, and that moreover, open public-houses on the Sunday very seriously deteriorated the value of property. Many of the argument. brought forward, although, everyway applicable to manufacturing towns, had locally but little weight. The population of Ryde and its neighbourhood being a highclass one and, therefore, not subjected to the too prevalent bad habits of workingmen. On reading the report, which we published last week, it is easy to see that the subject was one which affected individual and pocket interests, as well as the social well-being of our Borough, but the neutrality of Councillors. Ellery, Gunn, and Newbald, placed the majority of the votes on the side of law and order. We cannot help thinking that the most important speech, during the late discussion, was that of Alderman Harrington, which in our last report, unfortunately, by an accident, was attributed to Alderman Colenutt. He looked on intoxicating beverages as luxuries, and such undoubtedly they are, and the most expensive of the present age. He reviewed it from a social, personal, domestic, and religious, point of view, and put forward the important suggestion hat the Corporate bodies of the Kingdom should have full control over licensed houses, instead of the Magistrate. If, however, this course were pursued there would be the great danger that the publican interest would be more rampant than under the present system. In the majority of English towns it is the publican interest that secures the election of anti-teetotal candidates at municipal and general elections. The position the Mayor assumed was not that the control of the liquor traffic is not an Imperial question, for that is, at once, self-evident to anyone, but that in no sense did he look upon it locally as a question of Parliamentary, or of Party Politics, when the sanctity of the Sabbath is concerned. This seemed misunderstood by some of the members of the Council, for no good man would attempt to call into question the correctness of this view of the matter. When Alderman Harrington said that it was a subject to be dealt with by the ” religious influence” he took up a strong position, and if this course were but followed up by the clergy of all denominations, there would soon be no need for the interference of the Government, for Sunday custom would become speedily extinct and publicans would close their houses when there was no longer any demand. A most important part of the subject is the Sunday labour, which is entailed on so many thousands of bar-girls, by those unfortunate individuals, who think that they would die if they did not gratify their drinking propensities on the Sunday. Many of these young women have to work seven days in the week, and have virtually no Sabbath free from the helotry of the bar.</p>
 </div>
-</div>
-</div>
+</section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -898,9 +980,11 @@ Stable URL: <a class="reference external" href="https://www.jstor.org/stable/183
 
               </div>
               
-            
-                <!-- Previous / next buttons -->
-<div class='prev-next-area'> 
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
     <a class='left-prev' id="prev-link" href="__raising_the_eurydice.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
@@ -916,24 +1000,28 @@ Stable URL: <a class="reference external" href="https://www.jstor.org/stable/183
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-            
+            </footer>
         </div>
     </div>
-    <footer class="footer">
-  <p>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By Tony Hirst<br/>
+  
+      &copy; Copyright 2022.<br/>
+</p>
+        </footer>
+    </div>
     
-      By Tony Hirst<br/>
-    
-        &copy; Copyright 2022.<br/>
-  </p>
-</footer>
-</main>
+</div>
 
 
       </div>
     </div>
   
-  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
 
   </body>
 </html>
