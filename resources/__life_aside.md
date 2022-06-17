@@ -87,8 +87,6 @@ The new pier is almost completed, and, although in appearance it is slight, the 
 
 ```
 
-
-
 ```{figure} ../images/sandown_pier.jpeg
 ---
 ---
