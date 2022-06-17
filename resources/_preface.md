@@ -14,7 +14,7 @@ Along the way, I also discovered various other tales that, whilst not directly r
 
 This collection represents a gathering together of various elements of that first draft, pulled together from newspaper articles that reported the story as it was first told. The tale itself extends beyond the original loss of the Eurydice to include her recovery (and which also makes me wonder: what did Orpheus do a the point he lost his beloved Eurydice back to the underworld?).
 
-The found text for each of the articles included here was typically a machine generated OCR (optical character recognition) produced text, but the quality often left a lot to be desired. I have attempted to correct the texts by referencing original scanned newpaper images, but undoubtedly many errors remains. However, as an electronic text, this collection is easily updated; so as and when I find transctription errors, as I, or others, undoubtedly will, I will attempt to correct them.
+The found text for each of the articles included here was typically a machine generated OCR (optical character recognition) produced text, but the quality often left a lot to be desired. I have attempted to correct the texts by referencing original scanned newpaper images, but undoubtedly many errors remain. However, as an electronic text, this collection is easily updated; so as and when I come across transcription errors, as I, or others, undoubtedly will, I will attempt to correct them.
 
 --Tony Hirst, Isle of Wight, 2022
 
