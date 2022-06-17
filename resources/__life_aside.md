@@ -4,7 +4,7 @@ Aside from the Eurydice disaster, what would life have been like on the Isle of 
 
 ## Sandown, Up and Coming Holiday Town
 
-Whilst Ventor was the original fashionable holiday destination on the island, with its favourable microcolimate, Sandown was also developing as a holiday destination. Its notable visitors included a certain Rev. C. L. Dodgson, better known as Lewis Carroll, author of *Alice in Wonderland*.
+Whilst Ventnor was the original fashionable holiday destination on the island, with its favourable microcolimate, Sandown was also developing as a holiday destination. Its notable visitors included a certain Rev. C. L. Dodgson, better known as Lewis Carroll, author of *Alice in Wonderland*.
 
 From announcements in the Hampshire Advertiser, it seems that Dodgson visited Sandown over many years. For example, in the issue dated [Saturday 04 October 1873](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18731004/051/0008), p8:
 

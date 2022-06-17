@@ -114,7 +114,7 @@ The following extract of what looks to be an early official history of what was 
 
 ```
 
-As reported by the *Field*, the club was formed at a meeting held in Ventor on July 31, 1882, and the course opened on Monday, September 11th, 1882.
+As reported by the *Field*, the club was formed at a meeting held in Ventnor on July 31, 1882, and the course opened on Monday, September 11th, 1882.
 
 
 ```{admonition} ISLE WIGHT GOLF CLUB.— - Saturday, August 5th, 1882
