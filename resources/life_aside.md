@@ -138,7 +138,7 @@ Library of Congress
 Title: [Sandown Bay, Isle of Wight, England]
 Date Created/Published: [between ca. 1890 and ca. 1900].
 
-As well as reporting on the opening ceremony, an account of banquet to honour the opening also appeared:
+In the local newspaper, the report on the opening of the pier was followed by a more comprehensive account of banquet that celebrated the opening:
 
 ---
 
