@@ -82,7 +82,7 @@ Novel Cricket Match.— On Saturday last a cricket match was played between memb
 ```
 
 
-The Myddleton works, as described in the Oglander memoirs, were repeated in a letter by the Reverend E. Boucher James from 1885, collected by his widow, Rachel, in  *Letters, archaeological and historical relating to the Isle of Wight*, 1986. The letter also provides a brief summary of the New River project and describes another, later attempt, at works in Brading Haven, as well as an old legend...
+The Myddleton works, as described in the Oglander memoirs, were repeated in a letter by the Reverend E. Boucher James from 1885, collected by his widow, Rachel, in  *Letters, archaeological and historical relating to the Isle of Wight*, 1896. The letter also provides a brief summary of the New River project and describes another, later attempt, at works in Brading Haven, as well as an old legend...
 
 
 ```{admonition} SIR HUGH MIDDLETON'S ATTEMPT TO ENCLOSE BRADING HAVEN, AS TOLD IN THE OGLANDER MEMOIRS. - Saturday, May 9th, 1896
