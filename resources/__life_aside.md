@@ -76,7 +76,6 @@ Whilst attempts were being made to raise the Eurydice, other activity had been g
 Sandown Pier
 ```
 
-
 The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
 
 ```{admonition} SANDOWN, May 22. The Pier.— - Wednesday, May 22nd, 1878
