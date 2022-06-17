@@ -286,7 +286,7 @@ The annual dinner of the officials of the Isle of Wight Railway Company took pla
 TEXT
 
 ![](../images/52152690322_3e233a46e2_o.jpg)
-Brading Haven, 1880. In: Bembridge Past and Prsent
+Brading Haven, 1880. In: Bembridge Past and Present
 
 As work in the repairs presumably progressed, an intriguing report appeared in which Mr. Seymour, the contractor, denied having been responsible for inciting a disturbance the previous week. What that disturbance was, and why abd by whom Mr. Frederick Seymour was claimed to be responsible, will have to remain a story for another day...
 

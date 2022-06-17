@@ -253,7 +253,7 @@ The annual dinner of the officials of the Isle of Wight Railway Company took pla
 ---
 ---
 
-Brading Haven, 1880. In: Bembridge Past and Prsent
+Brading Haven, 1880. In: Bembridge Past and Present
 ```
 
 
