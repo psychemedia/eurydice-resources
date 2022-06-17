@@ -309,7 +309,7 @@ The transport of British Indian troops through the Suez Canal, on their way to M
 
 From evidence we have already seen, the temperance movement appears to have formed part of the background of daily life in 1878. The Emma, the ship that rescued Cuddiford and Fletcher, was a "temperance craft", and a lodge of the Good Templars, a fraternal temperance society, had been lost on the Eurydice.
 
-On the Island, Liberal Party campaigners supporting the Liberal M.P> for Newport, Mr. Charles Clifford, were attempting to find a way to be supportive of the latest attempt by Sir Wilfrid Lawson, long time temperance campaigner, to pass a temperance related Bill whilst not antagonising folk with more permissive liberal views.
+On the Island, Liberal Party campaigners supporting the Liberal M.P. for Newport, Mr. Charles Clifford, were attempting to find a way to be supportive of the latest attempt by Sir Wilfrid Lawson, long time temperance campaigner, to pass a temperance related Bill whilst not antagonising folk with more permissive liberal views.
 
 
 ```{admonition} Liberal Party Truckelling to Teetotallers. - Saturday, February 15th, 1879
