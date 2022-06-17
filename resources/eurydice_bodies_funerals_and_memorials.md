@@ -797,7 +797,7 @@ In the pretty cemetery of Shanklin, Isle of Wight, on Wednesday afternoon, Lady 
 TEXT
 
 ![](../images/52012947425_583b978292_o.jpg)
-Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isable Atherley, June 23rd 1880
+Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isabel Atherley, June 23rd 1880
 
 The following report is a comprehensive account of the unveiling ceremoy.
 

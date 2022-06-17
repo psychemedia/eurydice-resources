@@ -323,7 +323,7 @@ https://www.britishnewspaperarchive.co.uk/viewer/bl/9000057/18800710/046/0021
 
 
 ![](../images/52012947425_583b978292_o.jpg)
-Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isable Atherley, June 23rd 1880
+Shanklin memorial inscription - H.M.S Eurydice Erected by Public Subscriptions and unveiled by Lady Isabel Atherley, June 23rd 1880
 
 ![](../images/52012675554_6773617d89_o.jpg)
 Shanklin memorial
