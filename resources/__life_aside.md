@@ -46,7 +46,6 @@ I don't think that he ever really understood that we, whom he had known as child
 
 ```
 
-
 In *Fit the Second, The Bellman's Speech* of the *Hunting of the Snark*, Carroll describes the various marks by which a genuine Snark may be known:
 
 "The fourth is its fondness for bathing-machines,  
@@ -70,7 +69,6 @@ Bathing machines, Sandown
 
 Whilst attempts were being made to raise the Eurydice, other activity had been going on in Sandown Bay, in particular the construction of a pleasure pier. The first part of the pier was opened by a local dignitary of a noble family line, Lady Oglander.
 
-
 ```{figure} ../images/sandown-pier.jpg
 ---
 ---
@@ -79,9 +77,7 @@ Sandown Pier
 ```
 
 
-
 The report is an odd one, and seems to hint at various slights and snipes that may be interesting to dig into further. However, it also reveals something of the national mood at the time, and in particular, the threat of looming war. But war with whom?
-
 
 ```{admonition} SANDOWN, May 22. The Pier.— - Wednesday, May 22nd, 1878
 :class: note dropdown
@@ -100,9 +96,6 @@ The new pier is almost completed, and, although in appearance it is slight, the 
 
 Sandown Pier
 ```
-
-
-
 
 ```{admonition} OPENING OF THE NEW PIER. - Saturday, June 1st, 1878
 :class: note dropdown
@@ -135,11 +128,9 @@ James Kennington.
 
 The seal of the Sandown Pier Company (Limited) was affixed this 28th day of May, 1878, in pursuance of a resolution duly passed at a meeting of the directors im the presence of W. H. Wooldridge, secretary.
 
-This portion of the ceremony concluded, Miss Brandt stepped forward, and, on behalf of the directors presented her ladyship with a very handsome bouquet. Her ladyship briefly replied as follows; "Mr , Chairman and gentleman of the Sandown Local Board and gentlemen of the Sandown Pier Company -I thank you very much for the kind and gratifying reception you have given me. It affords me at all times siccere pleasure to assist im any way in promoting the prosperity of Sandown, and I trust the undertakimg you have so successfully curried out and inaugurated this day may prove one of the many means of adding to the attractions of the place, and an additional source of health and enjoyment to visitors and inhabitants alike. " Hearty cheers were then given for hey ladyship, and a number of the gemtlement present having been introduced to her, the procession again went up the pier; her ladyship and Major Leeds re-entered their carringe, and drove off amidst the loud cheers of the assembled spectators. This concluded the ceremony, which was followed by
+This portion of the ceremony concluded, Miss Brandt stepped forward, and, on behalf of the directors presented her ladyship with a very handsome bouquet. Her ladyship briefly replied as follows; "Mr , Chairman and gentleman of the Sandown Local Board and gentlemen of the Sandown Pier Company -I thank you very much for the kind and gratifying reception you have given me. It affords me at all times siccere pleasure to assist im any way in promoting the prosperity of Sandown, and I trust the undertakimg you have so successfully curried out and inaugurated this day may prove one of the many means of adding to the attractions of the place, and an additional source of health and enjoyment to visitors and inhabitants alike. " Hearty cheers were then given for hey ladyship, and a number of the gemtlement present having been introduced to her, the procession again went up the pier; her ladyship and Major Leeds re-entered their carringe, and drove off amidst the loud cheers of the assembled spectators. This concluded the ceremony ...
 
 ```
-
-
 
 ```{figure} ../images/service-pnp-ppmsc-08900-08995r.jpg
 ---
@@ -150,17 +141,14 @@ Title: [Sandown Bay, Isle of Wight, England]
 Date Created/Published: [between ca. 1890 and ca. 1900].
 ```
 
-
-
 As well as reporting on the opening ceremony, an account of banquet to honour the opening also appeared:
-
 
 ```{admonition} A BANQUET, - Saturday, June 1st, 1878
 :class: note dropdown
 
 [Isle of Wight Observer](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/010/0005), 1878-06-01, p. 5
 
-which took place at half-past 5, in the Town Hall, where about 70 gnntlemen sat down to the excellent repast provided. The chair was taken by Mr. Jon. Jolliffe, and the vice-chair by Mr. Walter Mew; : there being also present Capt. Brook Leeds, Lieut. Pound, Col. Currie, Rev. W. M. Harrison, Mr. W. H. Wooldridge, Col. Brandt, Mr. F. Pittis, Mr. F. Pittis, jun., Mr. T. H. Urry, Mr. W. H. Barton, Mr. C. G. Vincent, Dr. Meeres, Mr. Binns (engineer), Mr. D. Mitchell, Mr. Linfield, Mr. J. K. Hollis, Mr. L. H. Saunders, Mr. Theodore Saunders, &c. After the removal of the cloth,
+[The opening ceremony concluded, it was followed by a] banquet, which took place at half-past 5, in the Town Hall, where about 70 gnntlemen sat down to the excellent repast provided. The chair was taken by Mr. Jon. Jolliffe, and the vice-chair by Mr. Walter Mew; : there being also present Capt. Brook Leeds, Lieut. Pound, Col. Currie, Rev. W. M. Harrison, Mr. W. H. Wooldridge, Col. Brandt, Mr. F. Pittis, Mr. F. Pittis, jun., Mr. T. H. Urry, Mr. W. H. Barton, Mr. C. G. Vincent, Dr. Meeres, Mr. Binns (engineer), Mr. D. Mitchell, Mr. Linfield, Mr. J. K. Hollis, Mr. L. H. Saunders, Mr. Theodore Saunders, &c. After the removal of the cloth,
 
 Mr. Wooldridge read letters of apology from Mr. Baillie Cochrane, M.P. (who was unable to attend owing to the state of his health), the Mayors of Ryde, Yarmouth (I.W.) and Andover, Mr. F. White Popham, Col. Calthorpe, and others.
 
@@ -310,7 +298,6 @@ The transport of British Indian troops through the Suez Canal, on their way to M
 From evidence we have already seen, the temperance movement appears to have formed part of the background of daily life in 1878. The Emma, the ship that rescued Cuddiford and Fletcher, was a "temperance craft", and a lodge of the Good Templars, a fraternal temperance society, had been lost on the Eurydice.
 
 On the Island, Liberal Party campaigners supporting the Liberal M.P. for Newport, Mr. Charles Clifford, were attempting to find a way to be supportive of the latest attempt by Sir Wilfrid Lawson, long time temperance campaigner, to pass a temperance related Bill whilst not antagonising folk with more permissive liberal views.
-
 
 ```{admonition} Liberal Party Truckelling to Teetotallers. - Saturday, February 15th, 1879
 :class: note dropdown
