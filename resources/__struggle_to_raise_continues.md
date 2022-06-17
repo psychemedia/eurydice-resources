@@ -196,7 +196,7 @@ The Grinder, tug, went into Portsmouth Harbour Thursday morning from the Eurydic
 ```
 
 
-With the good weather continuing, work progressed on clearing the ship of obstacles that would hamper her raising, as well as items of note, including the Captain's inkstand and several ensigns,
+With the good weather continuing, work progressed on clearing the ship of obstacles that would hamper her raising, as well as items of note, including the Captain's inkstand and several ensigns.
 
 It seemed as if things were now well in place for the Pearl and the Rinaldo to be able to raise the Eurydice when the tides were next most favourable.
 
