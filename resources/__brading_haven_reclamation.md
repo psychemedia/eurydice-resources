@@ -334,7 +334,7 @@ On Saturday afternoon a number of athletic sports were held on the newly reclaim
 ```
 
 
-Presumably to improve access from St. Helen's village to St. Helen;s railway statiom the Company seems to have put in a road that went at least in part alongside the green. But woe betide any company that intrudes on ancient manorial rights, particularly when traditional mediaeval courts still meet to protect them!
+Presumably to improve access from St. Helen's village to St. Helen's railway statiom the Company seems to have put in a road that went at least in part alongside the green. But woe betide any company that intrudes on ancient manorial rights, particularly when traditional mediaeval courts still meet to protect them!
 
 
 ```{admonition} ST. HELEN'S, Nov. 13. Court Baron. - Saturday, November 13th, 1880
