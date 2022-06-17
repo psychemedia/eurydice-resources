@@ -778,7 +778,8 @@ Revealing to the light of day, 'midst white sails spread around,
 Youth's gallant form and manhood strong, that now in death are found.  
 Dread cloud of woe which overcast their brightest hopes in night,  
 Immersing in engulfing death, the brave, the loved, the bright.  
-Come England, spread thy gen'rous hand in pity o'er their grave, Endeavouring thus to honour those entombed beneath the wave.
+Come England, spread thy gen'rous hand in pity o'er their grave,  
+Endeavouring thus to honour those entombed beneath the wave.
 
 tag: poem
 

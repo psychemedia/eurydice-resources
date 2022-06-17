@@ -119,6 +119,14 @@ View of Dunnose on the south eastern coast of the Isle of Wight. Dunnose is loca
 Medium: Aquatint, coloured
 Date: 1800
 
+![](../images/52152690322_3e233a46e2_o.jpg)
+Brading Haven, 1880. In: Bembridge Past and Present
+
+![](../images/52152688597_402253328b_o.jpg)
+Brading Haven, old French map. In: Bembridge Past and Present
+
+![](../images/52153722463_9bae5ea94a_o.jpg)
+The wreck of the Eurydice off Bembridge. In: Bembridge Past and Present
 
 ![](../images/NH_61069.jpg)
 Title: HMS EURYDICE British Frigate, 1843

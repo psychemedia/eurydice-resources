@@ -285,7 +285,10 @@ The annual dinner of the officials of the Isle of Wight Railway Company took pla
 
 TEXT
 
-As work in the repairs presumably progressed, an intriguing report appeared in which Mr. Seymour, the contractor, denied having been responsible for inciting a distrubance the previous week. What that disturbance was, and why abd by whom Mr. Frederick Seymour was claimed to be responsible, will have to remain a story for another day...
+![](../images/52152690322_3e233a46e2_o.jpg)
+Brading Haven, 1880. In: Bembridge Past and Prsent
+
+As work in the repairs presumably progressed, an intriguing report appeared in which Mr. Seymour, the contractor, denied having been responsible for inciting a disturbance the previous week. What that disturbance was, and why abd by whom Mr. Frederick Seymour was claimed to be responsible, will have to remain a story for another day...
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000069/18800410/027/0007
@@ -338,7 +341,7 @@ p5
 
 Testimonial.
 
-Dear Sirs, — I herewith hand you cheque for account, for which your receipt wiU oblige. I am very pleased to take this opportunity to state that I was very much pleased with the personal attention you gave to the removal of my furniture, pictures and wine, and with the very admirable manner in which the removal was effected. —Yours faithfully, H. S. Freeman. St. Helen's House, St. Helen's, I.W., Aug. 21, 1880.— Messrs. Gawn and Riddick, Ryde.
+Dear Sirs, — I herewith hand you cheque for account, for which your receipt will oblige. I am very pleased to take this opportunity to state that I was very much pleased with the personal attention you gave to the removal of my furniture, pictures and wine, and with the very admirable manner in which the removal was effected. —Yours faithfully, H. S. Freeman. St. Helen's House, St. Helen's, I.W., Aug. 21, 1880.— Messrs. Gawn and Riddick, Ryde.
 
 ---
 
