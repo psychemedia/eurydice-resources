@@ -18,7 +18,7 @@ And on [Saturday 02 July 1881](https://www.britishnewspaperarchive.co.uk/viewer/
 
 > SANDOWN, July 2. Arrivals at the Sandown Hotel.— The fashionable arrivals here include the following visitors : — Mr. and Mrs. Grevais, Mrs. Bennett and Miss Bennett, Rev. C. L. Dodgson, Rev. E. P. Sampson, Mr. and Mrs. T. W. Marchant, Mr. and Mrs. H. Burroughs and family, Mr. and Mrs. J. Sutton and family, Mr. and Mrs. A. Crabbe, Mr. and Mrs. Kronim, &c.
 
-It was whilst staying in Sandown in 1875 that he worked to finish his nonesense poem *The Hunting of the Snark*, first published on March 29th, 1876, that he had started in 1874. During that visit, he met the young  Gertrude Chataway, to who the *Snark* was dedicated in the form of an acrostic.
+It was whilst staying in Sandown in 1875 that he worked to finish his nonsense poem *The Hunting of the Snark*, first published on March 29th, 1876, that he had started in 1874. During that visit, he met the young  Gertrude Chataway, to who the *Snark* was dedicated in the form of an acrostic.
 
 ---
 https://www.gutenberg.org/files/11483/11483-h/11483-h.htm
