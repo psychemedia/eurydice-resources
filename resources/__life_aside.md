@@ -321,8 +321,7 @@ On the Island, Liberal Party campaigners supporting the Liberal M.P. for Newport
 
 ```
 
-
-For a more detailed, if partisan, view on the bill, and the ratinal for it, see for example Ishmael's [*The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878](https://archive.org/details/cihm_04713)
+For a more detailed, if partisan, view on the bill, and the rationale for it, see for example Ishmael's [*The temperance question discussed pro and con from a rational standpoint in connection with the "Permissive bill", of 1878*](https://archive.org/details/cihm_04713)
 
 ```{admonition} Sir Wilfrid Lawson, 2nd Baronet, of Brayton — Temperance [Wikipedia]
 :class: seealso dropdown
