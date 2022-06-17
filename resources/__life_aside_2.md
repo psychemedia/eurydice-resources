@@ -8,7 +8,7 @@ Over the coming years, the area around Bembridge and St Helens would change sign
 
 ## Land Reclamation Around Brading Haven
 
-An Ordnance Survey map of the Isle of Wight around 1853 shows the extent of Brading Harbour in the mid-nenteenth century.
+An Ordnance Survey map of the Isle of Wight around 1853 shows the extent of Brading Harbour in the mid-nineteenth century.
 
 
 ```{figure} ../images/os-IW-1853-mudge-archive-org-6916014.jpg
@@ -18,6 +18,19 @@ An Ordnance Survey map of the Isle of Wight around 1853 shows the extent of Brad
 OS IW Mudge 1853
 https://archive.org/details/dr_10-isle-of-wight-6916014
 ```
+
+
+
+An older French map also shows how the opening to the harbour was much closer to the St Helen's side, reaching as far as the old Church.
+
+
+```{figure} ../images/52152688597_402253328b_o.jpg
+---
+---
+
+Brading Haven, old French map. In: Bembridge Past and Present
+```
+
 
 
 
