@@ -193,7 +193,7 @@ The toasts of "The Ladies" and "The Press" brought the proceedings to a close.
 
 
 
-```{admonition} SANDOWN, June 1. OPENING OP THE PIER. - Saturday, June 1st, 1878
+```{admonition} SANDOWN, June 1. OPENING OF THE PIER. - Saturday, June 1st, 1878
 :class: note dropdown
 
 [Hampshire Advertiser](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000495/18780601/066/0008), 1878-06-01, p. 8

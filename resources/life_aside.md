@@ -199,7 +199,7 @@ Hampshire Advertiser
 Saturday 01 June 1878
 p8
 
-SANDOWN, June 1. OPENING OP THE PIER.
+SANDOWN, June 1. OPENING OF THE PIER.
 
 On Wednesday afternoon a ceremony of no small importance took place at Sandown— the opening of the new pier— which has been constructed by a company of local gentlemen. Lady Oglander kindly consented to perform the opening ceremony, but so unpropitionu was the weather during the early part of Wednesday, that it was doubtful at first whether a postponement would not be necessary. As the hour fixed for the ceremony, however, began to approach, the sky cleared, and the rest of the day was tolerably fine. There was plenty of bunting flying about the little town, and several scrolls across the streets bade visitors welcome, and wished success to the new undertaking. The Pier itself was gaily decorated with fligs. It is a very light structure, almost fragile in fact, as far as appearance goes. Only one half of the total length contemplated has been completed, but what there is makes a nice promenade, and an unusual number of seats are provided. Doubtless, as the structure is carried into deep water the iron piles used will be stouter aud placed closer together. Very near the Pier is a wreck, that of the John Douse, and almost in a straight line with the head of the Pier is the wreck of the Eurydice, tha masts of which are still plainly to be seen. Both these melancholy sights seemed to give a warning of the force of the winds and tides in this locality, and to point to the necessity of strength and stability in the Pier.
 
