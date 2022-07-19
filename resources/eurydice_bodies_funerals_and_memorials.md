@@ -124,7 +124,7 @@ Daily News (London)
 Thursday 16 May 1878
 p6
 
-THE WRECK OF THE EUIRYDICE.
+THE WRECK OF THE EURYDICE.
 
 PORTSMOUTH, May 15. The third body picked up yesterday was identified at the coroner's inquest at Haslar this morning as that of a third-class domestic on board the Eurydice, named John Hayes, the name appearing on the deceased's shirt. The screw collier Agnes Louise, Captain Hodgman, bound to Shields, left Portsmouth Harbour about eleven this morning, when, as she was in the neighbourhood of the Spithead forts, her crew observed five more bodies in the water. It was blowing hard at the time, but the captain lowered one of his boats with two men, and one of the bodies, that of a marine, was picked up. The linen the body is marked  "William Hull." It is expected that the other bodies, one of which is believed to be that of an officer, will be found near Langstone or Chichester.
 
@@ -506,7 +506,7 @@ On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near
 
 TEXT
 
-As ever more bodies started to be retrieved from the wreck, it seems that the names of the name recovered no londer tended to be recovered, even if they could be identified.
+As ever more bodies started to be retrieved from the wreck, it seems that the names of the name recovered no longer tended to be recovered, even if they could be identified.
 
 ---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000452/18780815/078/0004

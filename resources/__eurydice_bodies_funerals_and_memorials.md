@@ -108,7 +108,7 @@ Yesterday three more bodies belonging to the Eurydice were picked up off the Isl
 As the third body retrieved the previous day was identified as John Hayes, another was retrieved and identified as William Hull, even as four other bodies were spotted but then lost again.
 
 
-```{admonition} THE WRECK OF THE EUIRYDICE. - Thursday, May 16th, 1878
+```{admonition} THE WRECK OF THE EURYDICE. - Thursday, May 16th, 1878
 :class: note dropdown
 
 [Daily News (London)](https://www.britishnewspaperarchive.co.uk/viewer/bl/0000051/18780516/025/0006), 1878-05-16, p. 6
@@ -442,7 +442,7 @@ On Saturday morning, between 5 and 6 o'clock, two bodies were washed ashore near
 ```
 
 
-As ever more bodies started to be retrieved from the wreck, it seems that the names of the name recovered no londer tended to be recovered, even if they could be identified.
+As ever more bodies started to be retrieved from the wreck, it seems that the names of the name recovered no longer tended to be recovered, even if they could be identified.
 
 
 ```{admonition} RECOVERY OF BODIES FROM THE EURYDICE. - Thursday, August 15th, 1878
