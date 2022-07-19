@@ -115,13 +115,13 @@ O'er the calm bosom of the treacherous sea,
 The bright sun-shining on each snowy sail,  
 Onward she speeds, though shortly doomed to be  
 A victim to the fury of the gale.  
-Oae gust of wind, one blinding cloud of snow  
+One gust of wind, one blinding cloud of snow  
 That cast a gloom around her like the night,  
 One bitter cry of agony and woe,  
 And she had sunk for ever from our sight.  
 
 Fond hearts were waiting for her quiok return,  
-Fond eyea were gazing far across the main ;  
+Fond eyes were gazing far across the main ;  
 Long may they watch, and long those hearts may yearn,  
 For those on earth they ne'er will see again !  
 Hearths will be desolate which were not so ;  
@@ -131,14 +131,14 @@ For those who in their country's service died.
 
 All England feels for those who now are left,  
 Widowed and fatherless, their loss to mourn ;  
-Of all their lived unes suddenly bereft  
+Of all their loved ones suddenly bereft  
 By fearful violence of the passing storm !  
 Shine down, O sun, with thy bright cheering face,  
-The world roils on as it has done before ;  
-Grant those who died have found iheir resting place  
-Above, where troubles shall be known no mure.  
+The world rolls on as it has done before ;  
+Grant those who died have found their resting place  
+Above, where troubles shall be known no more.  
 
-W. Stanley Smiih.
+W. Stanley Smith.
 
 Ryde, March 25th, 1878.
 
@@ -827,10 +827,10 @@ tag: poem
 
 
 
-```{admonition} title=The_Home-Coming_of_the_Eurydice - Thursday, May 3rd, 1894
+```{admonition} title=The_Home-Coming_of_the_Eurydice - Sunday, June 17th, 1894
 :class: note dropdown
 
-[The Home-Coming of the Eurydice, Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-05-03, p. ?
+[The Home-Coming of the Eurydice, Arthur Conan Doyle](https://www.arthur-conan-doyle.com/index.php?title=The_Home-Coming_of_the_Eurydice), 1894-06-17, p. ?
 
 The Home-Coming of the Eurydice, Arthur Conan Doyle
 
@@ -900,10 +900,10 @@ Ah! whisper it gently, you sister or daughter,
 
 
 
-```{admonition} The Loss of the Eurydice   - Friday, May 3rd, 1918
+```{admonition} The Loss of the Eurydice   - Monday, June 17th, 1918
 :class: note dropdown
 
-[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-05-03, p. ?
+[Gerard Manley Hopkins](https://hopkinspoetry.com/poem/the-loss-of-the-eurydice/), 1918-06-17, p. ?
 
 Foundered March 1878.
 
