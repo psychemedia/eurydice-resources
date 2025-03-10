@@ -388,6 +388,16 @@ Two more bodies, both it seems, men who had relatives at least in Ryde, were ide
 Another body, that of C. Wilkins, was also recovered and identified from his clothing.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780601/020/0006
+
+Isle of Wight Observer
+
+Saturday 01 June 1878
+p6
+
+The Admiralty, in addition to the thanks which they have teud-red to Dr. Williamson, of Ventnor, for his care of the Eurydice survivors, have offered a donation to the funds of the Cottage Hospital, were *(sic)* the men were so well treated. Twenty pounds has also been paid to the owner of the cargo of the Emma to compensate him for any loss or delay.
+
+---
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/010/0005
 
 Isle of Wight Observer
