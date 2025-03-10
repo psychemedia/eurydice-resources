@@ -402,6 +402,16 @@ The body of Lieu. Randolph, who has relatives living in this town, has been reco
 Recovery of the Body of Mr. Frank Pittman. — About 3 o'clock on Friday afternoon the divers at the Eurydice discovered the body of an officer in full uniform, which was afterwards identified as that of Mr. Frank Pittman, paymaster, and brother of Mr. Pittman, of Union-street. The corpse, which was identified by its clothing only, was interred in the hospital cemetery, on Saturday, with full Naval honours. Mr. Pittman leaves a wife and two children.
 
 ---
+https://www.britishnewspaperarchive.co.uk/viewer/bl/0000170/18780608/017/0006
+
+Isle of Wight Observer
+
+Saturday 08 June 1878
+p6
+
+The remains of a seaman, whose name is unknown, were washed ashore at Sandown this week from the wreck of the Eurydice, and interred on Wednesday in the graveyard of Christ Church. The coffin of the poor fellow was followed to its last resting place by a number of the Coastguards and also a number of soldiers belonging to the 9th Brigade.
+
+---
 
 https://www.britishnewspaperarchive.co.uk/viewer/bl/0002100/18780620/076/0005
 
